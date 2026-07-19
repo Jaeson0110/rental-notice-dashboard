@@ -18,22 +18,31 @@ from collector.sources import gh, lh, sh  # noqa: E402
 Collector = Callable[[], list[Notice]]
 SOURCES: dict[str, Collector] = {"LH": lh.collect, "SH": sh.collect, "GH": gh.collect}
 
-# 사이트에는 수도권 공고만 노출합니다.
-CAPITAL_REGION_LABELS = ("서울특별시", "경기도", "인천광역시")
-
+# 기관별 기본 지역과 제목/지역 데이터에서 판별할 수도권 별칭입니다.
 SEOUL_HINTS = (
-    "서울특별시", "서울시", "서울",
+    "서울특별시", "서울시", "서울", "서울지역본부",
+    "종로구", "용산구", "성동구", "광진구", "동대문구", "중랑구",
+    "성북구", "강북구", "도봉구", "노원구", "은평구", "서대문구",
+    "마포구", "양천구", "강서구", "구로구", "금천구", "영등포구",
+    "동작구", "관악구", "서초구", "강남구", "송파구", "강동구",
 )
+
+# '화성시'뿐 아니라 LH 제목에 자주 쓰이는 '화성', '화성서부' 같은 표기도 잡습니다.
 GYEONGGI_HINTS = (
-    "경기도", "경기",
-    "수원시", "용인시", "고양시", "화성시", "성남시", "부천시", "남양주시",
-    "안산시", "평택시", "안양시", "시흥시", "파주시", "김포시", "의정부시",
-    "광주시", "하남시", "광명시", "군포시", "양주시", "오산시", "이천시",
-    "안성시", "구리시", "의왕시", "포천시", "여주시", "동두천시", "과천시",
-    "양평군", "가평군", "연천군",
+    "경기도", "경기지역본부", "경기북부지역본부", "경기남부지역본부", "경기",
+    "수원시", "수원", "용인시", "용인", "고양시", "고양", "화성시", "화성",
+    "성남시", "성남", "부천시", "부천", "남양주시", "남양주", "안산시", "안산",
+    "평택시", "평택", "안양시", "안양", "시흥시", "시흥", "파주시", "파주",
+    "김포시", "김포", "의정부시", "의정부", "양주시", "양주", "광주시", "경기광주",
+    "하남시", "하남", "광명시", "광명", "군포시", "군포", "오산시", "오산",
+    "이천시", "이천", "안성시", "안성", "구리시", "구리", "의왕시", "의왕",
+    "포천시", "포천", "여주시", "여주", "동두천시", "동두천", "과천시", "과천",
+    "양평군", "양평", "가평군", "가평", "연천군", "연천",
 )
+
 INCHEON_HINTS = (
-    "인천광역시", "인천시", "인천",
+    "인천광역시", "인천시", "인천", "인천지역본부",
+    "미추홀구", "연수구", "남동구", "부평구", "계양구", "강화군", "옹진군",
 )
 
 
@@ -73,30 +82,32 @@ def _dedupe(values: list[str]) -> list[str]:
     return output
 
 
-def classify_capital_region(item: dict) -> dict | None:
-    """수도권 공고만 남기고 상위 지역명을 표준화합니다.
+def _contains_any(text: str, hints: tuple[str, ...]) -> bool:
+    return any(hint in text for hint in hints)
 
-    SH는 서울, GH는 경기 기관이므로 기관 자체를 지역 근거로 사용합니다.
-    LH는 API/공고 제목에 서울·경기·인천 또는 경기도 시군명이 확인될 때만 남깁니다.
-    전국/지역 미분류 공고는 엄격 모드에서 제외됩니다.
+
+def classify_capital_region(item: dict) -> dict | None:
+    """수도권 공고만 남기고 서울/경기/인천 상위 지역을 보정합니다.
+
+    LH 공고는 제목에 '화성서부', '고양', '평택'처럼 '시'가 빠진 경우가 많아
+    시·군의 짧은 별칭까지 판별합니다. SH와 GH는 기관 자체를 지역 근거로 씁니다.
     """
     agency = str(item.get("agency") or "").upper()
     original_regions = [str(value) for value in (item.get("regions") or []) if value]
     text = " ".join([str(item.get("title") or ""), *original_regions])
 
     parents: list[str] = []
-    if agency == "SH" or any(hint in text for hint in SEOUL_HINTS):
+    if agency == "SH" or _contains_any(text, SEOUL_HINTS):
         parents.append("서울특별시")
-    if agency == "GH" or any(hint in text for hint in GYEONGGI_HINTS):
+    if agency == "GH" or _contains_any(text, GYEONGGI_HINTS):
         parents.append("경기도")
-    if any(hint in text for hint in INCHEON_HINTS):
+    if _contains_any(text, INCHEON_HINTS):
         parents.append("인천광역시")
 
     parents = _dedupe(parents)
     if not parents:
         return None
 
-    # 상위 지역을 맨 앞에 넣어 '서울/경기/인천' 필터가 항상 작동하게 합니다.
     item["regions"] = _dedupe([*parents, *original_regions])
     return item
 
