@@ -17,12 +17,16 @@
       <div class="brand-mark">집</div>
       <p class="eyebrow">PRIVATE DASHBOARD</p>
       <h1>우리 둘만 보는<br />임대공고 보드</h1>
-      <p class="muted">등록된 이메일로 로그인 링크를 받아 접속합니다.</p>
-      <form id="loginForm" class="login-form">
-        <label for="loginEmail">이메일</label>
-        <input id="loginEmail" type="email" autocomplete="email" placeholder="name@example.com" required />
-        <button class="primary-button" type="submit">로그인 링크 받기</button>
-      </form>
+      <p class="muted">등록한 이메일과 비밀번호로 접속합니다.</p>
+<form id="loginForm" class="login-form">
+  <label for="loginEmail">이메일</label>
+  <input id="loginEmail" type="email" autocomplete="email" placeholder="name@example.com" required />
+
+  <label for="loginPassword">비밀번호</label>
+  <input id="loginPassword" type="password" autocomplete="current-password" placeholder="비밀번호" required minlength="6" />
+
+  <button class="primary-button" type="submit">로그인</button>
+</form>
       <p id="loginMessage" class="form-message" role="status"></p>
     </section>
   </div>
