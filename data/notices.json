@@ -1,22 +1,22 @@
 {
-  "updatedAt": "2026-07-19T04:07:52+00:00",
+  "updatedAt": "2026-07-19T04:34:38+00:00",
   "sourceStatus": {
     "LH": {
       "ok": true,
       "count": 50,
-      "checkedAt": "2026-07-19T04:07:52+00:00",
+      "checkedAt": "2026-07-19T04:34:38+00:00",
       "error": null
     },
     "SH": {
-      "ok": false,
-      "count": 2,
-      "checkedAt": "2026-07-19T04:07:52+00:00",
-      "error": "https://housing.seoul.go.kr/site/main/sh/publicLease/list: HTTPSConnectionPool(host='housing.seoul.go.kr', port=443): Max retries exceeded with url: /site/main/sh/publicLease/list (Caused by ConnectTimeoutError(<HTTPSConnection(host='housing.seoul.go.kr', port=443) at 0x7f2426d63590>, 'Connection to housing.seoul.go.kr timed out. (connect timeout=25)')) / https://housing.seoul.go.kr/site/main/sh/publicLease/01/list: HTTPSConnectionPool(host='housing.seoul.go.kr', port=443): Max retries exceeded "
+      "ok": true,
+      "count": 47,
+      "checkedAt": "2026-07-19T04:34:38+00:00",
+      "error": null
     },
     "GH": {
       "ok": true,
       "count": 25,
-      "checkedAt": "2026-07-19T04:07:52+00:00",
+      "checkedAt": "2026-07-19T04:34:38+00:00",
       "error": null
     }
   },
@@ -35,7 +35,7 @@
       "officialUrl": "https://apply.lh.or.kr/lhapply/apply/wt/wrtanc/selectWrtancList.do?mi=1026",
       "attachments": [],
       "firstCollectedAt": "2026-07-19T04:07:52+00:00",
-      "lastCheckedAt": "2026-07-19T04:07:52+00:00",
+      "lastCheckedAt": "2026-07-19T04:34:38+00:00",
       "isNew": true
     },
     {
@@ -52,7 +52,7 @@
       "officialUrl": "https://apply.lh.or.kr/lhapply/apply/wt/wrtanc/selectWrtancList.do?mi=1026",
       "attachments": [],
       "firstCollectedAt": "2026-07-19T04:07:52+00:00",
-      "lastCheckedAt": "2026-07-19T04:07:52+00:00",
+      "lastCheckedAt": "2026-07-19T04:34:38+00:00",
       "isNew": true
     },
     {
@@ -69,7 +69,7 @@
       "officialUrl": "https://apply.lh.or.kr/lhapply/apply/wt/wrtanc/selectWrtancList.do?mi=1026",
       "attachments": [],
       "firstCollectedAt": "2026-07-19T04:07:52+00:00",
-      "lastCheckedAt": "2026-07-19T04:07:52+00:00",
+      "lastCheckedAt": "2026-07-19T04:34:38+00:00",
       "isNew": true
     },
     {
@@ -88,7 +88,7 @@
       "officialUrl": "https://apply.lh.or.kr/lhapply/apply/wt/wrtanc/selectWrtancList.do?mi=1026",
       "attachments": [],
       "firstCollectedAt": "2026-07-19T04:07:52+00:00",
-      "lastCheckedAt": "2026-07-19T04:07:52+00:00",
+      "lastCheckedAt": "2026-07-19T04:34:38+00:00",
       "isNew": true
     },
     {
@@ -108,7 +108,7 @@
       "officialUrl": "https://apply.lh.or.kr/lhapply/apply/wt/wrtanc/selectWrtancList.do?mi=1026",
       "attachments": [],
       "firstCollectedAt": "2026-07-19T04:07:52+00:00",
-      "lastCheckedAt": "2026-07-19T04:07:52+00:00",
+      "lastCheckedAt": "2026-07-19T04:34:38+00:00",
       "isNew": true
     },
     {
@@ -128,7 +128,7 @@
       "officialUrl": "https://apply.lh.or.kr/lhapply/apply/wt/wrtanc/selectWrtancList.do?mi=1026",
       "attachments": [],
       "firstCollectedAt": "2026-07-19T04:07:52+00:00",
-      "lastCheckedAt": "2026-07-19T04:07:52+00:00",
+      "lastCheckedAt": "2026-07-19T04:34:38+00:00",
       "isNew": true
     },
     {
@@ -147,7 +147,7 @@
       "officialUrl": "https://apply.lh.or.kr/lhapply/apply/wt/wrtanc/selectWrtancList.do?mi=1026",
       "attachments": [],
       "firstCollectedAt": "2026-07-19T04:07:52+00:00",
-      "lastCheckedAt": "2026-07-19T04:07:52+00:00",
+      "lastCheckedAt": "2026-07-19T04:34:38+00:00",
       "isNew": true
     },
     {
@@ -166,7 +166,7 @@
       "officialUrl": "https://apply.lh.or.kr/lhapply/apply/wt/wrtanc/selectWrtancList.do?mi=1026",
       "attachments": [],
       "firstCollectedAt": "2026-07-19T04:07:52+00:00",
-      "lastCheckedAt": "2026-07-19T04:07:52+00:00",
+      "lastCheckedAt": "2026-07-19T04:34:38+00:00",
       "isNew": true
     },
     {
@@ -183,7 +183,7 @@
       "officialUrl": "https://apply.lh.or.kr/lhapply/apply/wt/wrtanc/selectWrtancList.do?mi=1026",
       "attachments": [],
       "firstCollectedAt": "2026-07-19T04:07:52+00:00",
-      "lastCheckedAt": "2026-07-19T04:07:52+00:00",
+      "lastCheckedAt": "2026-07-19T04:34:38+00:00",
       "isNew": true
     },
     {
@@ -200,7 +200,7 @@
       "officialUrl": "https://apply.lh.or.kr/lhapply/apply/wt/wrtanc/selectWrtancList.do?mi=1026",
       "attachments": [],
       "firstCollectedAt": "2026-07-19T04:07:52+00:00",
-      "lastCheckedAt": "2026-07-19T04:07:52+00:00",
+      "lastCheckedAt": "2026-07-19T04:34:38+00:00",
       "isNew": true
     },
     {
@@ -217,7 +217,7 @@
       "officialUrl": "https://apply.lh.or.kr/lhapply/apply/wt/wrtanc/selectWrtancList.do?mi=1026",
       "attachments": [],
       "firstCollectedAt": "2026-07-19T04:07:52+00:00",
-      "lastCheckedAt": "2026-07-19T04:07:52+00:00",
+      "lastCheckedAt": "2026-07-19T04:34:38+00:00",
       "isNew": true
     },
     {
@@ -234,7 +234,7 @@
       "officialUrl": "https://apply.lh.or.kr/lhapply/apply/wt/wrtanc/selectWrtancList.do?mi=1026",
       "attachments": [],
       "firstCollectedAt": "2026-07-19T04:07:52+00:00",
-      "lastCheckedAt": "2026-07-19T04:07:52+00:00",
+      "lastCheckedAt": "2026-07-19T04:34:38+00:00",
       "isNew": true
     },
     {
@@ -251,7 +251,7 @@
       "officialUrl": "https://apply.lh.or.kr/lhapply/apply/wt/wrtanc/selectWrtancList.do?mi=1026",
       "attachments": [],
       "firstCollectedAt": "2026-07-19T04:07:52+00:00",
-      "lastCheckedAt": "2026-07-19T04:07:52+00:00",
+      "lastCheckedAt": "2026-07-19T04:34:38+00:00",
       "isNew": true
     },
     {
@@ -268,7 +268,7 @@
       "officialUrl": "https://apply.lh.or.kr/lhapply/apply/wt/wrtanc/selectWrtancList.do?mi=1026",
       "attachments": [],
       "firstCollectedAt": "2026-07-19T04:07:52+00:00",
-      "lastCheckedAt": "2026-07-19T04:07:52+00:00",
+      "lastCheckedAt": "2026-07-19T04:34:38+00:00",
       "isNew": true
     },
     {
@@ -285,7 +285,7 @@
       "officialUrl": "https://apply.lh.or.kr/lhapply/apply/wt/wrtanc/selectWrtancList.do?mi=1026",
       "attachments": [],
       "firstCollectedAt": "2026-07-19T04:07:52+00:00",
-      "lastCheckedAt": "2026-07-19T04:07:52+00:00",
+      "lastCheckedAt": "2026-07-19T04:34:38+00:00",
       "isNew": true
     },
     {
@@ -302,7 +302,7 @@
       "officialUrl": "https://apply.lh.or.kr/lhapply/apply/wt/wrtanc/selectWrtancList.do?mi=1026",
       "attachments": [],
       "firstCollectedAt": "2026-07-19T04:07:52+00:00",
-      "lastCheckedAt": "2026-07-19T04:07:52+00:00",
+      "lastCheckedAt": "2026-07-19T04:34:38+00:00",
       "isNew": true
     },
     {
@@ -319,7 +319,7 @@
       "officialUrl": "https://apply.lh.or.kr/lhapply/apply/wt/wrtanc/selectWrtancList.do?mi=1026",
       "attachments": [],
       "firstCollectedAt": "2026-07-19T04:07:52+00:00",
-      "lastCheckedAt": "2026-07-19T04:07:52+00:00",
+      "lastCheckedAt": "2026-07-19T04:34:38+00:00",
       "isNew": true
     },
     {
@@ -336,7 +336,7 @@
       "officialUrl": "https://apply.lh.or.kr/lhapply/apply/wt/wrtanc/selectWrtancList.do?mi=1026",
       "attachments": [],
       "firstCollectedAt": "2026-07-19T04:07:52+00:00",
-      "lastCheckedAt": "2026-07-19T04:07:52+00:00",
+      "lastCheckedAt": "2026-07-19T04:34:38+00:00",
       "isNew": true
     },
     {
@@ -353,7 +353,7 @@
       "officialUrl": "https://apply.lh.or.kr/lhapply/apply/wt/wrtanc/selectWrtancList.do?mi=1026",
       "attachments": [],
       "firstCollectedAt": "2026-07-19T04:07:52+00:00",
-      "lastCheckedAt": "2026-07-19T04:07:52+00:00",
+      "lastCheckedAt": "2026-07-19T04:34:38+00:00",
       "isNew": true
     },
     {
@@ -372,7 +372,7 @@
       "officialUrl": "https://apply.lh.or.kr/lhapply/apply/wt/wrtanc/selectWrtancList.do?mi=1026",
       "attachments": [],
       "firstCollectedAt": "2026-07-19T04:07:52+00:00",
-      "lastCheckedAt": "2026-07-19T04:07:52+00:00",
+      "lastCheckedAt": "2026-07-19T04:34:38+00:00",
       "isNew": true
     },
     {
@@ -391,7 +391,7 @@
       "officialUrl": "https://apply.lh.or.kr/lhapply/apply/wt/wrtanc/selectWrtancList.do?mi=1026",
       "attachments": [],
       "firstCollectedAt": "2026-07-19T04:07:52+00:00",
-      "lastCheckedAt": "2026-07-19T04:07:52+00:00",
+      "lastCheckedAt": "2026-07-19T04:34:38+00:00",
       "isNew": true
     },
     {
@@ -408,7 +408,7 @@
       "officialUrl": "https://apply.lh.or.kr/lhapply/apply/wt/wrtanc/selectWrtancList.do?mi=1026",
       "attachments": [],
       "firstCollectedAt": "2026-07-19T04:07:52+00:00",
-      "lastCheckedAt": "2026-07-19T04:07:52+00:00",
+      "lastCheckedAt": "2026-07-19T04:34:38+00:00",
       "isNew": true
     },
     {
@@ -425,7 +425,7 @@
       "officialUrl": "https://apply.lh.or.kr/lhapply/apply/wt/wrtanc/selectWrtancList.do?mi=1026",
       "attachments": [],
       "firstCollectedAt": "2026-07-19T04:07:52+00:00",
-      "lastCheckedAt": "2026-07-19T04:07:52+00:00",
+      "lastCheckedAt": "2026-07-19T04:34:38+00:00",
       "isNew": true
     },
     {
@@ -442,7 +442,7 @@
       "officialUrl": "https://apply.lh.or.kr/lhapply/apply/wt/wrtanc/selectWrtancList.do?mi=1026",
       "attachments": [],
       "firstCollectedAt": "2026-07-19T04:07:52+00:00",
-      "lastCheckedAt": "2026-07-19T04:07:52+00:00",
+      "lastCheckedAt": "2026-07-19T04:34:38+00:00",
       "isNew": true
     },
     {
@@ -461,7 +461,7 @@
       "officialUrl": "https://apply.lh.or.kr/lhapply/apply/wt/wrtanc/selectWrtancList.do?mi=1026",
       "attachments": [],
       "firstCollectedAt": "2026-07-19T04:07:52+00:00",
-      "lastCheckedAt": "2026-07-19T04:07:52+00:00",
+      "lastCheckedAt": "2026-07-19T04:34:38+00:00",
       "isNew": true
     },
     {
@@ -478,7 +478,7 @@
       "officialUrl": "https://apply.lh.or.kr/lhapply/apply/wt/wrtanc/selectWrtancList.do?mi=1026",
       "attachments": [],
       "firstCollectedAt": "2026-07-19T04:07:52+00:00",
-      "lastCheckedAt": "2026-07-19T04:07:52+00:00",
+      "lastCheckedAt": "2026-07-19T04:34:38+00:00",
       "isNew": true
     },
     {
@@ -495,7 +495,7 @@
       "officialUrl": "https://apply.lh.or.kr/lhapply/apply/wt/wrtanc/selectWrtancList.do?mi=1026",
       "attachments": [],
       "firstCollectedAt": "2026-07-19T04:07:52+00:00",
-      "lastCheckedAt": "2026-07-19T04:07:52+00:00",
+      "lastCheckedAt": "2026-07-19T04:34:38+00:00",
       "isNew": true
     },
     {
@@ -512,7 +512,7 @@
       "officialUrl": "https://apply.lh.or.kr/lhapply/apply/wt/wrtanc/selectWrtancList.do?mi=1026",
       "attachments": [],
       "firstCollectedAt": "2026-07-19T04:07:52+00:00",
-      "lastCheckedAt": "2026-07-19T04:07:52+00:00",
+      "lastCheckedAt": "2026-07-19T04:34:38+00:00",
       "isNew": true
     },
     {
@@ -531,7 +531,7 @@
       "officialUrl": "https://apply.lh.or.kr/lhapply/apply/wt/wrtanc/selectWrtancList.do?mi=1026",
       "attachments": [],
       "firstCollectedAt": "2026-07-19T04:07:52+00:00",
-      "lastCheckedAt": "2026-07-19T04:07:52+00:00",
+      "lastCheckedAt": "2026-07-19T04:34:38+00:00",
       "isNew": true
     },
     {
@@ -548,7 +548,7 @@
       "officialUrl": "https://apply.lh.or.kr/lhapply/apply/wt/wrtanc/selectWrtancList.do?mi=1026",
       "attachments": [],
       "firstCollectedAt": "2026-07-19T04:07:52+00:00",
-      "lastCheckedAt": "2026-07-19T04:07:52+00:00",
+      "lastCheckedAt": "2026-07-19T04:34:38+00:00",
       "isNew": true
     },
     {
@@ -565,7 +565,7 @@
       "officialUrl": "https://apply.lh.or.kr/lhapply/apply/wt/wrtanc/selectWrtancList.do?mi=1026",
       "attachments": [],
       "firstCollectedAt": "2026-07-19T04:07:52+00:00",
-      "lastCheckedAt": "2026-07-19T04:07:52+00:00",
+      "lastCheckedAt": "2026-07-19T04:34:38+00:00",
       "isNew": true
     },
     {
@@ -582,7 +582,7 @@
       "officialUrl": "https://apply.lh.or.kr/lhapply/apply/wt/wrtanc/selectWrtancList.do?mi=1026",
       "attachments": [],
       "firstCollectedAt": "2026-07-19T04:07:52+00:00",
-      "lastCheckedAt": "2026-07-19T04:07:52+00:00",
+      "lastCheckedAt": "2026-07-19T04:34:38+00:00",
       "isNew": true
     },
     {
@@ -599,7 +599,7 @@
       "officialUrl": "https://apply.lh.or.kr/lhapply/apply/wt/wrtanc/selectWrtancList.do?mi=1026",
       "attachments": [],
       "firstCollectedAt": "2026-07-19T04:07:52+00:00",
-      "lastCheckedAt": "2026-07-19T04:07:52+00:00",
+      "lastCheckedAt": "2026-07-19T04:34:38+00:00",
       "isNew": true
     },
     {
@@ -616,7 +616,24 @@
       "officialUrl": "https://apply.lh.or.kr/lhapply/apply/wt/wrtanc/selectWrtancList.do?mi=1026",
       "attachments": [],
       "firstCollectedAt": "2026-07-19T04:07:52+00:00",
-      "lastCheckedAt": "2026-07-19T04:07:52+00:00",
+      "lastCheckedAt": "2026-07-19T04:34:38+00:00",
+      "isNew": true
+    },
+    {
+      "id": "SH-e15070179afc8d",
+      "agency": "SH",
+      "title": "두레주택 -2차 충신동 두레주택 잔여세대 입주자모집공고( . . .) 모집중 맞춤주택공급부 바로가기",
+      "noticeType": "임대주택",
+      "targetGroups": [],
+      "regions": [],
+      "publishedAt": "2026-07-15",
+      "applyStart": null,
+      "applyEnd": "2026-09-16",
+      "status": "접수중",
+      "officialUrl": "https://www.i-sh.co.kr/main/lay2/program/S1T294C295/www/brd/m_241/view.do?seq=306986",
+      "attachments": [],
+      "firstCollectedAt": "2026-07-19T04:34:38+00:00",
+      "lastCheckedAt": "2026-07-19T04:34:38+00:00",
       "isNew": true
     },
     {
@@ -633,7 +650,7 @@
       "officialUrl": "https://apply.lh.or.kr/lhapply/apply/wt/wrtanc/selectWrtancList.do?mi=1026",
       "attachments": [],
       "firstCollectedAt": "2026-07-19T04:07:52+00:00",
-      "lastCheckedAt": "2026-07-19T04:07:52+00:00",
+      "lastCheckedAt": "2026-07-19T04:34:38+00:00",
       "isNew": true
     },
     {
@@ -650,7 +667,7 @@
       "officialUrl": "https://apply.lh.or.kr/lhapply/apply/wt/wrtanc/selectWrtancList.do?mi=1026",
       "attachments": [],
       "firstCollectedAt": "2026-07-19T04:07:52+00:00",
-      "lastCheckedAt": "2026-07-19T04:07:52+00:00",
+      "lastCheckedAt": "2026-07-19T04:34:38+00:00",
       "isNew": true
     },
     {
@@ -667,7 +684,7 @@
       "officialUrl": "https://apply.lh.or.kr/lhapply/apply/wt/wrtanc/selectWrtancList.do?mi=1026",
       "attachments": [],
       "firstCollectedAt": "2026-07-19T04:07:52+00:00",
-      "lastCheckedAt": "2026-07-19T04:07:52+00:00",
+      "lastCheckedAt": "2026-07-19T04:34:38+00:00",
       "isNew": true
     },
     {
@@ -684,7 +701,7 @@
       "officialUrl": "https://apply.lh.or.kr/lhapply/apply/wt/wrtanc/selectWrtancList.do?mi=1026",
       "attachments": [],
       "firstCollectedAt": "2026-07-19T04:07:52+00:00",
-      "lastCheckedAt": "2026-07-19T04:07:52+00:00",
+      "lastCheckedAt": "2026-07-19T04:34:38+00:00",
       "isNew": true
     },
     {
@@ -703,7 +720,7 @@
       "officialUrl": "https://apply.lh.or.kr/lhapply/apply/wt/wrtanc/selectWrtancList.do?mi=1026",
       "attachments": [],
       "firstCollectedAt": "2026-07-19T04:07:52+00:00",
-      "lastCheckedAt": "2026-07-19T04:07:52+00:00",
+      "lastCheckedAt": "2026-07-19T04:34:38+00:00",
       "isNew": true
     },
     {
@@ -720,7 +737,7 @@
       "officialUrl": "https://apply.lh.or.kr/lhapply/apply/wt/wrtanc/selectWrtancList.do?mi=1026",
       "attachments": [],
       "firstCollectedAt": "2026-07-19T04:07:52+00:00",
-      "lastCheckedAt": "2026-07-19T04:07:52+00:00",
+      "lastCheckedAt": "2026-07-19T04:34:38+00:00",
       "isNew": true
     },
     {
@@ -739,7 +756,7 @@
       "officialUrl": "https://apply.lh.or.kr/lhapply/apply/wt/wrtanc/selectWrtancList.do?mi=1026",
       "attachments": [],
       "firstCollectedAt": "2026-07-19T04:07:52+00:00",
-      "lastCheckedAt": "2026-07-19T04:07:52+00:00",
+      "lastCheckedAt": "2026-07-19T04:34:38+00:00",
       "isNew": true
     },
     {
@@ -756,7 +773,7 @@
       "officialUrl": "https://apply.lh.or.kr/lhapply/apply/wt/wrtanc/selectWrtancList.do?mi=1026",
       "attachments": [],
       "firstCollectedAt": "2026-07-19T04:07:52+00:00",
-      "lastCheckedAt": "2026-07-19T04:07:52+00:00",
+      "lastCheckedAt": "2026-07-19T04:34:38+00:00",
       "isNew": true
     },
     {
@@ -773,7 +790,7 @@
       "officialUrl": "https://apply.lh.or.kr/lhapply/apply/wt/wrtanc/selectWrtancList.do?mi=1026",
       "attachments": [],
       "firstCollectedAt": "2026-07-19T04:07:52+00:00",
-      "lastCheckedAt": "2026-07-19T04:07:52+00:00",
+      "lastCheckedAt": "2026-07-19T04:34:38+00:00",
       "isNew": true
     },
     {
@@ -790,7 +807,7 @@
       "officialUrl": "https://apply.lh.or.kr/lhapply/apply/wt/wrtanc/selectWrtancList.do?mi=1026",
       "attachments": [],
       "firstCollectedAt": "2026-07-19T04:07:52+00:00",
-      "lastCheckedAt": "2026-07-19T04:07:52+00:00",
+      "lastCheckedAt": "2026-07-19T04:34:38+00:00",
       "isNew": true
     },
     {
@@ -807,7 +824,7 @@
       "officialUrl": "https://apply.lh.or.kr/lhapply/apply/wt/wrtanc/selectWrtancList.do?mi=1026",
       "attachments": [],
       "firstCollectedAt": "2026-07-19T04:07:52+00:00",
-      "lastCheckedAt": "2026-07-19T04:07:52+00:00",
+      "lastCheckedAt": "2026-07-19T04:34:38+00:00",
       "isNew": true
     },
     {
@@ -824,30 +841,8 @@
       "officialUrl": "https://apply.lh.or.kr/lhapply/apply/wt/wrtanc/selectWrtancList.do?mi=1026",
       "attachments": [],
       "firstCollectedAt": "2026-07-19T04:07:52+00:00",
-      "lastCheckedAt": "2026-07-19T04:07:52+00:00",
+      "lastCheckedAt": "2026-07-19T04:34:38+00:00",
       "isNew": true
-    },
-    {
-      "id": "SAMPLE-SH-002",
-      "agency": "SH",
-      "title": "[화면 확인용 샘플] 은평구 청년 매입임대 입주자 모집",
-      "noticeType": "매입임대",
-      "targetGroups": [
-        "청년"
-      ],
-      "regions": [
-        "서울특별시",
-        "은평구"
-      ],
-      "publishedAt": "2026-07-15",
-      "applyStart": "2026-07-22",
-      "applyEnd": "2026-07-25",
-      "status": "접수예정",
-      "officialUrl": "https://housing.seoul.go.kr/site/main/sh/publicLease/list",
-      "attachments": [],
-      "firstCollectedAt": "2026-07-19T07:10:00+09:00",
-      "lastCheckedAt": "2026-07-19T07:10:00+09:00",
-      "isNew": false
     },
     {
       "id": "LH-887a02bdf559d9",
@@ -863,7 +858,7 @@
       "officialUrl": "https://apply.lh.or.kr/lhapply/apply/wt/wrtanc/selectWrtancList.do?mi=1026",
       "attachments": [],
       "firstCollectedAt": "2026-07-19T04:07:52+00:00",
-      "lastCheckedAt": "2026-07-19T04:07:52+00:00",
+      "lastCheckedAt": "2026-07-19T04:34:38+00:00",
       "isNew": true
     },
     {
@@ -880,7 +875,7 @@
       "officialUrl": "https://apply.lh.or.kr/lhapply/apply/wt/wrtanc/selectWrtancList.do?mi=1026",
       "attachments": [],
       "firstCollectedAt": "2026-07-19T04:07:52+00:00",
-      "lastCheckedAt": "2026-07-19T04:07:52+00:00",
+      "lastCheckedAt": "2026-07-19T04:34:38+00:00",
       "isNew": true
     },
     {
@@ -897,7 +892,7 @@
       "officialUrl": "https://apply.lh.or.kr/lhapply/apply/wt/wrtanc/selectWrtancList.do?mi=1026",
       "attachments": [],
       "firstCollectedAt": "2026-07-19T04:07:52+00:00",
-      "lastCheckedAt": "2026-07-19T04:07:52+00:00",
+      "lastCheckedAt": "2026-07-19T04:34:38+00:00",
       "isNew": true
     },
     {
@@ -914,28 +909,815 @@
       "officialUrl": "https://apply.lh.or.kr/lhapply/apply/wt/wrtanc/selectWrtancList.do?mi=1026",
       "attachments": [],
       "firstCollectedAt": "2026-07-19T04:07:52+00:00",
-      "lastCheckedAt": "2026-07-19T04:07:52+00:00",
+      "lastCheckedAt": "2026-07-19T04:34:38+00:00",
       "isNew": true
     },
     {
-      "id": "SAMPLE-SH-001",
+      "id": "SH-e3f6789d95443d",
       "agency": "SH",
-      "title": "2026년 가양동 육아 협동조합주택(이음채) 잔여세대 입주자 모집공고",
-      "noticeType": "협동조합주택",
+      "title": "수요자맞춤형 은평구 청년 창업인의 집(수요자맞춤형) 추가 입주자 모집 공고 - 모집중 매입주택공급부 바로가기",
+      "noticeType": "임대주택",
+      "targetGroups": [
+        "청년"
+      ],
+      "regions": [
+        "은평구"
+      ],
+      "publishedAt": "2026-07-13",
+      "applyStart": null,
+      "applyEnd": null,
+      "status": "접수중",
+      "officialUrl": "https://www.i-sh.co.kr/main/lay2/program/S1T294C295/www/brd/m_241/view.do?seq=306908",
+      "attachments": [],
+      "firstCollectedAt": "2026-07-19T04:34:38+00:00",
+      "lastCheckedAt": "2026-07-19T04:34:38+00:00",
+      "isNew": true
+    },
+    {
+      "id": "SH-ccc6cf6a702ee7",
+      "agency": "SH",
+      "title": "도시형생활주택 2026년 성북구 연극인주택 잔여세대 입주자 모집공고( . . .) 모집중 맞춤주택공급부 바로가기",
+      "noticeType": "도시형생활주택",
       "targetGroups": [],
       "regions": [
-        "서울특별시",
-        "강서구"
+        "성북구"
       ],
+      "publishedAt": "2026-07-08",
+      "applyStart": null,
+      "applyEnd": "2026-10-08",
+      "status": "접수중",
+      "officialUrl": "https://www.i-sh.co.kr/main/lay2/program/S1T294C295/www/brd/m_241/view.do?seq=306722",
+      "attachments": [],
+      "firstCollectedAt": "2026-07-19T04:34:38+00:00",
+      "lastCheckedAt": "2026-07-19T04:34:38+00:00",
+      "isNew": true
+    },
+    {
+      "id": "SH-45a83ffd8c903c",
+      "agency": "SH",
+      "title": "매입임대주택 2026년 1차 기숙사형 청년주택 입주자모집 공고( .) 모집중 매입주택공급부 바로가기",
+      "noticeType": "매입임대",
+      "targetGroups": [
+        "청년"
+      ],
+      "regions": [],
+      "publishedAt": "2026-06-26",
+      "applyStart": null,
+      "applyEnd": "2026-11-20",
+      "status": "접수중",
+      "officialUrl": "https://www.i-sh.co.kr/main/lay2/program/S1T294C295/www/brd/m_241/view.do?seq=306218",
+      "attachments": [],
+      "firstCollectedAt": "2026-07-19T04:34:38+00:00",
+      "lastCheckedAt": "2026-07-19T04:34:38+00:00",
+      "isNew": true
+    },
+    {
+      "id": "SH-ed853099ed60f0",
+      "agency": "SH",
+      "title": "도시형생활주택 2026년 1차 청년 매입임대주택 입주자 모집공고( .) 모집중 매입주택공급부 바로가기",
+      "noticeType": "매입임대",
+      "targetGroups": [
+        "청년"
+      ],
+      "regions": [],
+      "publishedAt": "2026-06-26",
+      "applyStart": null,
+      "applyEnd": "2026-11-20",
+      "status": "접수중",
+      "officialUrl": "https://www.i-sh.co.kr/main/lay2/program/S1T294C295/www/brd/m_241/view.do?seq=306214",
+      "attachments": [],
+      "firstCollectedAt": "2026-07-19T04:34:38+00:00",
+      "lastCheckedAt": "2026-07-19T04:34:38+00:00",
+      "isNew": true
+    },
+    {
+      "id": "SH-fc6b5bf077aaa2",
+      "agency": "SH",
+      "title": "도시형생활주택 -2차 사당동원룸 잔여세대 입주자모집공고( . . .) 모집중 맞춤주택공급부 바로가기",
+      "noticeType": "도시형생활주택",
+      "targetGroups": [],
+      "regions": [],
+      "publishedAt": "2026-06-26",
+      "applyStart": null,
+      "applyEnd": "2026-09-28",
+      "status": "접수중",
+      "officialUrl": "https://www.i-sh.co.kr/main/lay2/program/S1T294C295/www/brd/m_241/view.do?seq=306205",
+      "attachments": [],
+      "firstCollectedAt": "2026-07-19T04:34:38+00:00",
+      "lastCheckedAt": "2026-07-19T04:34:38+00:00",
+      "isNew": true
+    },
+    {
+      "id": "SH-665bf4a8496f33",
+      "agency": "SH",
+      "title": "도시형생활주택 2026년 만리동 예술인 협동조합주택(막쿱) 잔여세대 입주자 모집공고( .) 모집중 맞춤주택공급부 바로가기",
+      "noticeType": "협동조합주택",
+      "targetGroups": [],
+      "regions": [],
+      "publishedAt": "2026-06-25",
+      "applyStart": null,
+      "applyEnd": "2026-10-21",
+      "status": "접수중",
+      "officialUrl": "https://www.i-sh.co.kr/main/lay2/program/S1T294C295/www/brd/m_241/view.do?seq=306066",
+      "attachments": [],
+      "firstCollectedAt": "2026-07-19T04:34:38+00:00",
+      "lastCheckedAt": "2026-07-19T04:34:38+00:00",
+      "isNew": true
+    },
+    {
+      "id": "SH-afac36a7715dc9",
+      "agency": "SH",
+      "title": "도시형생활주택 2026년 화곡동 청년 협동조합주택(그랑) 잔여세대 입주자 모집공고( .) 모집중 맞춤주택공급부 바로가기",
+      "noticeType": "협동조합주택",
+      "targetGroups": [
+        "청년"
+      ],
+      "regions": [],
+      "publishedAt": "2026-06-24",
+      "applyStart": null,
+      "applyEnd": "2026-10-14",
+      "status": "접수중",
+      "officialUrl": "https://www.i-sh.co.kr/main/lay2/program/S1T294C295/www/brd/m_241/view.do?seq=306065",
+      "attachments": [],
+      "firstCollectedAt": "2026-07-19T04:34:38+00:00",
+      "lastCheckedAt": "2026-07-19T04:34:38+00:00",
+      "isNew": true
+    },
+    {
+      "id": "SH-9f0c4956a3f7e2",
+      "agency": "SH",
+      "title": "도시형생활주택 2026년 가양동 육아 협동조합주택(이음채) 잔여세대 입주자 모집공고( .) 모집중 맞춤주택공급부 바로가기",
+      "noticeType": "협동조합주택",
+      "targetGroups": [],
+      "regions": [],
       "publishedAt": "2026-06-23",
       "applyStart": null,
       "applyEnd": "2026-10-14",
       "status": "접수중",
-      "officialUrl": "https://housing.seoul.go.kr/site/main/sh/publicLease/list",
+      "officialUrl": "https://www.i-sh.co.kr/main/lay2/program/S1T294C295/www/brd/m_241/view.do?seq=306011",
       "attachments": [],
-      "firstCollectedAt": "2026-07-19T07:10:00+09:00",
-      "lastCheckedAt": "2026-07-19T07:10:00+09:00",
-      "isNew": false
+      "firstCollectedAt": "2026-07-19T04:34:38+00:00",
+      "lastCheckedAt": "2026-07-19T04:34:38+00:00",
+      "isNew": true
+    },
+    {
+      "id": "SH-84e37b19cee051",
+      "agency": "SH",
+      "title": "매입임대주택 홍은동 청년협동조합[이웃기웃] 잔여세대 입주자 모집공고( .) 모집마감 매입주택공급부 바로가기",
+      "noticeType": "매입임대",
+      "targetGroups": [
+        "청년"
+      ],
+      "regions": [],
+      "publishedAt": "2026-06-05",
+      "applyStart": null,
+      "applyEnd": "2026-09-30",
+      "status": "마감",
+      "officialUrl": "https://www.i-sh.co.kr/main/lay2/program/S1T294C295/www/brd/m_241/view.do?seq=305221",
+      "attachments": [],
+      "firstCollectedAt": "2026-07-19T04:34:38+00:00",
+      "lastCheckedAt": "2026-07-19T04:34:38+00:00",
+      "isNew": true
+    },
+    {
+      "id": "SH-95ee8d841ead57",
+      "agency": "SH",
+      "title": "매입임대주택 [수정] 자립준비청년 2026년 상반기 청년 매입임대주택 우선공급 입주자 모집공고( .) 모집마감 매입주택공급부 바로가기",
+      "noticeType": "매입임대",
+      "targetGroups": [
+        "청년"
+      ],
+      "regions": [],
+      "publishedAt": "2026-05-29",
+      "applyStart": null,
+      "applyEnd": "2026-08-07",
+      "status": "마감",
+      "officialUrl": "https://www.i-sh.co.kr/main/lay2/program/S1T294C295/www/brd/m_241/view.do?seq=305240",
+      "attachments": [],
+      "firstCollectedAt": "2026-07-19T04:34:38+00:00",
+      "lastCheckedAt": "2026-07-19T04:34:38+00:00",
+      "isNew": true
+    },
+    {
+      "id": "SH-331534a3a20d02",
+      "agency": "SH",
+      "title": "매입임대주택 2026년 다자녀 매입임대주택 입주자 모집공고( .) 모집마감 매입주택공급부 바로가기",
+      "noticeType": "매입임대",
+      "targetGroups": [
+        "다자녀"
+      ],
+      "regions": [],
+      "publishedAt": "2026-05-29",
+      "applyStart": null,
+      "applyEnd": "2026-09-02",
+      "status": "마감",
+      "officialUrl": "https://www.i-sh.co.kr/main/lay2/program/S1T294C295/www/brd/m_241/view.do?seq=304925",
+      "attachments": [],
+      "firstCollectedAt": "2026-07-19T04:34:38+00:00",
+      "lastCheckedAt": "2026-07-19T04:34:38+00:00",
+      "isNew": true
+    },
+    {
+      "id": "SH-ef6d3f3927e3bd",
+      "agency": "SH",
+      "title": "행복주택 2026년 1차 서울주택도시개발공사 행복주택 입주자 모집공고 ( . 공고) 모집마감 공공주택공급부 바로가기",
+      "noticeType": "행복주택",
+      "targetGroups": [],
+      "regions": [
+        "서울특별시"
+      ],
+      "publishedAt": "2026-05-28",
+      "applyStart": null,
+      "applyEnd": "2026-10-30",
+      "status": "마감",
+      "officialUrl": "https://www.i-sh.co.kr/main/lay2/program/S1T294C295/www/brd/m_241/view.do?seq=304864",
+      "attachments": [],
+      "firstCollectedAt": "2026-07-19T04:34:38+00:00",
+      "lastCheckedAt": "2026-07-19T04:34:38+00:00",
+      "isNew": true
+    },
+    {
+      "id": "SH-4bf23270857c94",
+      "agency": "SH",
+      "title": "매입임대주택 [수정] 2026년 위국헌신청년주택(부상제대군인 청년 매입임대주택) 입주자 모집공고( .) - 모집마감 매입주택공급부 바로가기",
+      "noticeType": "매입임대",
+      "targetGroups": [
+        "청년"
+      ],
+      "regions": [],
+      "publishedAt": "2026-05-15",
+      "applyStart": null,
+      "applyEnd": null,
+      "status": "마감",
+      "officialUrl": "https://www.i-sh.co.kr/main/lay2/program/S1T294C295/www/brd/m_241/view.do?seq=305517",
+      "attachments": [],
+      "firstCollectedAt": "2026-07-19T04:34:38+00:00",
+      "lastCheckedAt": "2026-07-19T04:34:38+00:00",
+      "isNew": true
+    },
+    {
+      "id": "SH-dc3f347cb66ebd",
+      "agency": "SH",
+      "title": "희망하우징 2026년 1차 희망하우징(공공기숙사) 잔여세대 입주자 모집공고( .) 모집마감 맞춤주택공급부 바로가기",
+      "noticeType": "임대주택",
+      "targetGroups": [],
+      "regions": [],
+      "publishedAt": "2026-05-11",
+      "applyStart": null,
+      "applyEnd": "2026-08-10",
+      "status": "마감",
+      "officialUrl": "https://www.i-sh.co.kr/main/lay2/program/S1T294C295/www/brd/m_241/view.do?seq=304106",
+      "attachments": [],
+      "firstCollectedAt": "2026-07-19T04:34:38+00:00",
+      "lastCheckedAt": "2026-07-19T04:34:38+00:00",
+      "isNew": true
+    },
+    {
+      "id": "SH-f5dae030df5e3e",
+      "agency": "SH",
+      "title": "장기안심주택 2026년 제1차 보증금지원형 장기안심주택 입주자 모집공고 모집마감 맞춤주택공급부 바로가기",
+      "noticeType": "임대주택",
+      "targetGroups": [],
+      "regions": [],
+      "publishedAt": "2026-04-30",
+      "applyStart": null,
+      "applyEnd": "2026-07-31",
+      "status": "마감",
+      "officialUrl": "https://www.i-sh.co.kr/main/lay2/program/S1T294C295/www/brd/m_241/view.do?seq=303656",
+      "attachments": [],
+      "firstCollectedAt": "2026-07-19T04:34:38+00:00",
+      "lastCheckedAt": "2026-07-19T04:34:38+00:00",
+      "isNew": true
+    },
+    {
+      "id": "SH-38a04a4b4d7f8d",
+      "agency": "SH",
+      "title": "장기전세주택 제50차 장기전세주택 입주자 모집공고( .공고) 모집마감 미리내집공급부 바로가기",
+      "noticeType": "장기전세",
+      "targetGroups": [],
+      "regions": [],
+      "publishedAt": "2026-04-27",
+      "applyStart": null,
+      "applyEnd": "2026-10-27",
+      "status": "마감",
+      "officialUrl": "https://www.i-sh.co.kr/main/lay2/program/S1T294C295/www/brd/m_241/view.do?seq=303557",
+      "attachments": [],
+      "firstCollectedAt": "2026-07-19T04:34:38+00:00",
+      "lastCheckedAt": "2026-07-19T04:34:38+00:00",
+      "isNew": true
+    },
+    {
+      "id": "SH-06f30c6b697c04",
+      "agency": "SH",
+      "title": "장기전세주택 제7차 장기전세주택2(미리내집) 입주자 모집 공고( ) 모집마감 미리내집공급부 바로가기",
+      "noticeType": "장기전세",
+      "targetGroups": [],
+      "regions": [],
+      "publishedAt": "2026-04-24",
+      "applyStart": null,
+      "applyEnd": "2026-09-18",
+      "status": "마감",
+      "officialUrl": "https://www.i-sh.co.kr/main/lay2/program/S1T294C295/www/brd/m_241/view.do?seq=303480",
+      "attachments": [],
+      "firstCollectedAt": "2026-07-19T04:34:38+00:00",
+      "lastCheckedAt": "2026-07-19T04:34:38+00:00",
+      "isNew": true
+    },
+    {
+      "id": "SH-a581a8b08c9ade",
+      "agency": "SH",
+      "title": "매입임대주택 2026년 상반기 신혼·신생아 매입임대주택Ⅰ 입주대기자 모집공고( .) 모집마감 매입주택공급부 바로가기",
+      "noticeType": "매입임대",
+      "targetGroups": [
+        "신혼부부",
+        "신생아가구"
+      ],
+      "regions": [],
+      "publishedAt": "2026-03-18",
+      "applyStart": null,
+      "applyEnd": "2026-07-15",
+      "status": "마감",
+      "officialUrl": "https://www.i-sh.co.kr/main/lay2/program/S1T294C295/www/brd/m_241/view.do?seq=301742",
+      "attachments": [],
+      "firstCollectedAt": "2026-07-19T04:34:38+00:00",
+      "lastCheckedAt": "2026-07-19T04:34:38+00:00",
+      "isNew": true
+    },
+    {
+      "id": "SH-a1f4b3a5c85aca",
+      "agency": "SH",
+      "title": "국민공공임대주택 [수정] 2026년 사당동 공공원룸 잔여세대 입주자모집공고( . . .) 모집마감 맞춤주택공급부 바로가기",
+      "noticeType": "공공임대",
+      "targetGroups": [],
+      "regions": [],
+      "publishedAt": "2026-01-30",
+      "applyStart": null,
+      "applyEnd": "2026-04-28",
+      "status": "마감",
+      "officialUrl": "https://www.i-sh.co.kr/main/lay2/program/S1T294C295/www/brd/m_241/view.do?seq=300255",
+      "attachments": [],
+      "firstCollectedAt": "2026-07-19T04:34:38+00:00",
+      "lastCheckedAt": "2026-07-19T04:34:38+00:00",
+      "isNew": true
+    },
+    {
+      "id": "SH-1a4681c907ac4a",
+      "agency": "SH",
+      "title": "국민공공임대주택 2026년 사당동 공공원룸 잔여세대 입주자모집공고( . . .) 모집마감 맞춤주택공급부 바로가기",
+      "noticeType": "공공임대",
+      "targetGroups": [],
+      "regions": [],
+      "publishedAt": "2026-01-30",
+      "applyStart": null,
+      "applyEnd": "2026-04-28",
+      "status": "마감",
+      "officialUrl": "https://www.i-sh.co.kr/main/lay2/program/S1T294C295/www/brd/m_241/view.do?seq=299904",
+      "attachments": [],
+      "firstCollectedAt": "2026-07-19T04:34:38+00:00",
+      "lastCheckedAt": "2026-07-19T04:34:38+00:00",
+      "isNew": true
+    },
+    {
+      "id": "SH-3f4887a3085677",
+      "agency": "SH",
+      "title": "행복주택 [정정]2025년 3차 행복주택 입주자 모집공고( .공고) 모집마감 공공주택공급부 바로가기",
+      "noticeType": "행복주택",
+      "targetGroups": [],
+      "regions": [],
+      "publishedAt": "2025-12-31",
+      "applyStart": null,
+      "applyEnd": "2026-05-29",
+      "status": "마감",
+      "officialUrl": "https://www.i-sh.co.kr/main/lay2/program/S1T294C295/www/brd/m_241/view.do?seq=298109",
+      "attachments": [],
+      "firstCollectedAt": "2026-07-19T04:34:38+00:00",
+      "lastCheckedAt": "2026-07-19T04:34:38+00:00",
+      "isNew": true
+    },
+    {
+      "id": "SH-4f275a432903e1",
+      "agency": "SH",
+      "title": "매입임대주택 2025년 미리내집 연계형 공공한옥 입주자 모집공고( .) 예비 3차 당첨자 발표 모집마감 맞춤주택공급부 바로가기",
+      "noticeType": "매입임대",
+      "targetGroups": [],
+      "regions": [],
+      "publishedAt": "2025-12-30",
+      "applyStart": null,
+      "applyEnd": "2026-04-02",
+      "status": "마감",
+      "officialUrl": "https://www.i-sh.co.kr/main/lay2/program/S1T294C295/www/brd/m_241/view.do?seq=304349",
+      "attachments": [],
+      "firstCollectedAt": "2026-07-19T04:34:38+00:00",
+      "lastCheckedAt": "2026-07-19T04:34:38+00:00",
+      "isNew": true
+    },
+    {
+      "id": "SH-7b6190043223b1",
+      "agency": "SH",
+      "title": "매입임대주택 2025년 미리내집 연계형 공공한옥 입주자 모집공고( .) 예비 2차 당첨자 발표 모집마감 맞춤주택공급부 바로가기",
+      "noticeType": "매입임대",
+      "targetGroups": [],
+      "regions": [],
+      "publishedAt": "2025-12-30",
+      "applyStart": null,
+      "applyEnd": "2026-04-02",
+      "status": "마감",
+      "officialUrl": "https://www.i-sh.co.kr/main/lay2/program/S1T294C295/www/brd/m_241/view.do?seq=303771",
+      "attachments": [],
+      "firstCollectedAt": "2026-07-19T04:34:38+00:00",
+      "lastCheckedAt": "2026-07-19T04:34:38+00:00",
+      "isNew": true
+    },
+    {
+      "id": "SH-4652471b0b785b",
+      "agency": "SH",
+      "title": "매입임대주택 2025년 미리내집 연계형 공공한옥 입주자 모집공고( .) 예비 1차 당첨자 발표 모집마감 맞춤주택공급부 바로가기",
+      "noticeType": "매입임대",
+      "targetGroups": [],
+      "regions": [],
+      "publishedAt": "2025-12-30",
+      "applyStart": null,
+      "applyEnd": "2026-04-02",
+      "status": "마감",
+      "officialUrl": "https://www.i-sh.co.kr/main/lay2/program/S1T294C295/www/brd/m_241/view.do?seq=303238",
+      "attachments": [],
+      "firstCollectedAt": "2026-07-19T04:34:38+00:00",
+      "lastCheckedAt": "2026-07-19T04:34:38+00:00",
+      "isNew": true
+    },
+    {
+      "id": "SH-9d844df2965ae0",
+      "agency": "SH",
+      "title": "매입임대주택 2025년 미리내집 연계형 공공한옥 입주자 모집공고( .) 당첨자 및 예비자 발표 모집마감 맞춤주택공급부 바로가기",
+      "noticeType": "매입임대",
+      "targetGroups": [],
+      "regions": [],
+      "publishedAt": "2025-12-30",
+      "applyStart": null,
+      "applyEnd": "2026-04-02",
+      "status": "마감",
+      "officialUrl": "https://www.i-sh.co.kr/main/lay2/program/S1T294C295/www/brd/m_241/view.do?seq=302479",
+      "attachments": [],
+      "firstCollectedAt": "2026-07-19T04:34:38+00:00",
+      "lastCheckedAt": "2026-07-19T04:34:38+00:00",
+      "isNew": true
+    },
+    {
+      "id": "SH-dcfabd4ccbaade",
+      "agency": "SH",
+      "title": "장기안심주택 2025년 제2차 보증금지원형 장기안심주택 입주자 모집공고 모집마감 맞춤주택공급부 바로가기",
+      "noticeType": "임대주택",
+      "targetGroups": [],
+      "regions": [],
+      "publishedAt": "2025-12-17",
+      "applyStart": null,
+      "applyEnd": "2026-03-18",
+      "status": "마감",
+      "officialUrl": "https://www.i-sh.co.kr/main/lay2/program/S1T294C295/www/brd/m_241/view.do?seq=296501",
+      "attachments": [],
+      "firstCollectedAt": "2026-07-19T04:34:38+00:00",
+      "lastCheckedAt": "2026-07-19T04:34:38+00:00",
+      "isNew": true
+    },
+    {
+      "id": "SH-8ae0451a062f66",
+      "agency": "SH",
+      "title": "장기전세주택 제49차 장기전세주택 입주자 모집공고( .공고) 모집마감 미리내집공급부 바로가기",
+      "noticeType": "장기전세",
+      "targetGroups": [],
+      "regions": [],
+      "publishedAt": "2025-12-15",
+      "applyStart": null,
+      "applyEnd": "2026-07-10",
+      "status": "마감",
+      "officialUrl": "https://www.i-sh.co.kr/main/lay2/program/S1T294C295/www/brd/m_241/view.do?seq=297335",
+      "attachments": [],
+      "firstCollectedAt": "2026-07-19T04:34:38+00:00",
+      "lastCheckedAt": "2026-07-19T04:34:38+00:00",
+      "isNew": true
+    },
+    {
+      "id": "SH-c36ecd41a80b64",
+      "agency": "SH",
+      "title": "희망하우징 -2차 희망하우징(공공기숙사) 잔여세대 입주자 모집공고( .) 모집마감 맞춤주택공급부 바로가기",
+      "noticeType": "임대주택",
+      "targetGroups": [],
+      "regions": [],
+      "publishedAt": "2025-11-27",
+      "applyStart": null,
+      "applyEnd": "2026-02-26",
+      "status": "마감",
+      "officialUrl": "https://www.i-sh.co.kr/main/lay2/program/S1T294C295/www/brd/m_241/view.do?seq=296645",
+      "attachments": [],
+      "firstCollectedAt": "2026-07-19T04:34:38+00:00",
+      "lastCheckedAt": "2026-07-19T04:34:38+00:00",
+      "isNew": true
+    },
+    {
+      "id": "SH-882a78c3225393",
+      "agency": "SH",
+      "title": "희망하우징 -2차 희망하우징(공공기숙사) 잔여세대 입주자 모집공고( .) 당첨자 및 예비자 발표 모집마감 맞춤주택공급부 바로가기",
+      "noticeType": "임대주택",
+      "targetGroups": [],
+      "regions": [],
+      "publishedAt": "2025-11-27",
+      "applyStart": null,
+      "applyEnd": "2026-02-26",
+      "status": "마감",
+      "officialUrl": "https://www.i-sh.co.kr/main/lay2/program/S1T294C295/www/brd/m_241/view.do?seq=301011",
+      "attachments": [],
+      "firstCollectedAt": "2026-07-19T04:34:38+00:00",
+      "lastCheckedAt": "2026-07-19T04:34:38+00:00",
+      "isNew": true
+    },
+    {
+      "id": "SH-7ca6af9dd2b74c",
+      "agency": "SH",
+      "title": "국민공공임대주택 2025년 재개발임대주택 입주자 모집공고( .공고) 모집마감 공공주택공급부 바로가기",
+      "noticeType": "공공임대",
+      "targetGroups": [],
+      "regions": [],
+      "publishedAt": "2025-10-24",
+      "applyStart": null,
+      "applyEnd": "2026-04-23",
+      "status": "마감",
+      "officialUrl": "https://www.i-sh.co.kr/main/lay2/program/S1T294C295/www/brd/m_241/view.do?seq=295159",
+      "attachments": [],
+      "firstCollectedAt": "2026-07-19T04:34:38+00:00",
+      "lastCheckedAt": "2026-07-19T04:34:38+00:00",
+      "isNew": true
+    },
+    {
+      "id": "SH-05047c6c4e5724",
+      "agency": "SH",
+      "title": "국민공공임대주택 2025년 공공·주거환경임대주택 입주자 및 예비입주자 모집공고( .공고) 모집마감 공공주택공급부 바로가기",
+      "noticeType": "공공임대",
+      "targetGroups": [],
+      "regions": [],
+      "publishedAt": "2025-09-26",
+      "applyStart": null,
+      "applyEnd": "2026-02-26",
+      "status": "마감",
+      "officialUrl": "https://www.i-sh.co.kr/main/lay2/program/S1T294C295/www/brd/m_241/view.do?seq=294206",
+      "attachments": [],
+      "firstCollectedAt": "2026-07-19T04:34:38+00:00",
+      "lastCheckedAt": "2026-07-19T04:34:38+00:00",
+      "isNew": true
+    },
+    {
+      "id": "SH-0c1519ff27bf9d",
+      "agency": "SH",
+      "title": "국민공공임대주택 2025년 제1차 국민임대주택 입주자 모집공고( .공고) 모집마감 공공주택공급부 바로가기",
+      "noticeType": "국민임대",
+      "targetGroups": [],
+      "regions": [],
+      "publishedAt": "2025-08-20",
+      "applyStart": null,
+      "applyEnd": "2026-02-19",
+      "status": "마감",
+      "officialUrl": "https://www.i-sh.co.kr/main/lay2/program/S1T294C295/www/brd/m_241/view.do?seq=292541",
+      "attachments": [],
+      "firstCollectedAt": "2026-07-19T04:34:38+00:00",
+      "lastCheckedAt": "2026-07-19T04:34:38+00:00",
+      "isNew": true
+    },
+    {
+      "id": "SH-6822ce98703e75",
+      "agency": "SH",
+      "title": "장기전세주택 제48차 장기전세주택 입주자 모집공고( .공고) 모집마감 미리내집공급부 바로가기",
+      "noticeType": "장기전세",
+      "targetGroups": [],
+      "regions": [],
+      "publishedAt": "2025-08-14",
+      "applyStart": null,
+      "applyEnd": "2026-02-06",
+      "status": "마감",
+      "officialUrl": "https://www.i-sh.co.kr/main/lay2/program/S1T294C295/www/brd/m_241/view.do?seq=292305",
+      "attachments": [],
+      "firstCollectedAt": "2026-07-19T04:34:38+00:00",
+      "lastCheckedAt": "2026-07-19T04:34:38+00:00",
+      "isNew": true
+    },
+    {
+      "id": "SH-8983058f6cec72",
+      "agency": "SH",
+      "title": "장기전세주택 제48차 장기전세주택 입주자 모집공고( .) 당첨자 및 예비입주자 발표 모집마감 미리내집공급부 바로가기",
+      "noticeType": "장기전세",
+      "targetGroups": [],
+      "regions": [],
+      "publishedAt": "2025-08-14",
+      "applyStart": null,
+      "applyEnd": "2026-02-06",
+      "status": "마감",
+      "officialUrl": "https://www.i-sh.co.kr/main/lay2/program/S1T294C295/www/brd/m_241/view.do?seq=299825",
+      "attachments": [],
+      "firstCollectedAt": "2026-07-19T04:34:38+00:00",
+      "lastCheckedAt": "2026-07-19T04:34:38+00:00",
+      "isNew": true
+    },
+    {
+      "id": "SH-6f312915384742",
+      "agency": "SH",
+      "title": "행복주택 2025년 2차 행복주택 입주자 모집공고( . 공고) 모집마감 공공주택공급부 바로가기",
+      "noticeType": "행복주택",
+      "targetGroups": [],
+      "regions": [],
+      "publishedAt": "2025-06-27",
+      "applyStart": null,
+      "applyEnd": "2025-11-21",
+      "status": "마감",
+      "officialUrl": "https://www.i-sh.co.kr/main/lay2/program/S1T294C295/www/brd/m_241/view.do?seq=290172",
+      "attachments": [],
+      "firstCollectedAt": "2026-07-19T04:34:38+00:00",
+      "lastCheckedAt": "2026-07-19T04:34:38+00:00",
+      "isNew": true
+    },
+    {
+      "id": "SH-4ff73b38bd04f8",
+      "agency": "SH",
+      "title": "장기전세주택 제47차 장기전세주택 입주자 모집공고 ( . 공고) 모집마감 미리내집공급부 바로가기",
+      "noticeType": "장기전세",
+      "targetGroups": [],
+      "regions": [],
+      "publishedAt": "2025-04-30",
+      "applyStart": null,
+      "applyEnd": "2025-11-14",
+      "status": "마감",
+      "officialUrl": "https://www.i-sh.co.kr/main/lay2/program/S1T294C295/www/brd/m_241/view.do?seq=287727",
+      "attachments": [],
+      "firstCollectedAt": "2026-07-19T04:34:38+00:00",
+      "lastCheckedAt": "2026-07-19T04:34:38+00:00",
+      "isNew": true
+    },
+    {
+      "id": "SH-65537a178bcd2f",
+      "agency": "SH",
+      "title": "장기안심주택 2025년 제1차 보증금지원형 장기안심주택 신규 입주자 모집공고 모집마감 맞춤주택공급부 바로가기",
+      "noticeType": "임대주택",
+      "targetGroups": [],
+      "regions": [],
+      "publishedAt": "2025-04-28",
+      "applyStart": null,
+      "applyEnd": "2025-07-31",
+      "status": "마감",
+      "officialUrl": "https://www.i-sh.co.kr/main/lay2/program/S1T294C295/www/brd/m_241/view.do?seq=287311",
+      "attachments": [],
+      "firstCollectedAt": "2026-07-19T04:34:38+00:00",
+      "lastCheckedAt": "2026-07-19T04:34:38+00:00",
+      "isNew": true
+    },
+    {
+      "id": "SH-0b6b07480e3137",
+      "agency": "SH",
+      "title": "행복주택 [정정] 2025년 1차 행복주택 입주자 모집공고 ( . 공고) 모집마감 공공주택공급부 바로가기",
+      "noticeType": "행복주택",
+      "targetGroups": [],
+      "regions": [],
+      "publishedAt": "2025-04-25",
+      "applyStart": null,
+      "applyEnd": "2025-08-29",
+      "status": "마감",
+      "officialUrl": "https://www.i-sh.co.kr/main/lay2/program/S1T294C295/www/brd/m_241/view.do?seq=287466",
+      "attachments": [],
+      "firstCollectedAt": "2026-07-19T04:34:38+00:00",
+      "lastCheckedAt": "2026-07-19T04:34:38+00:00",
+      "isNew": true
+    },
+    {
+      "id": "SH-6b222bbf24b8b9",
+      "agency": "SH",
+      "title": "행복주택 2025년 1차 행복주택 입주자 모집( .공고) 최종 청약 경쟁률 게시 모집마감 공공주택공급부 바로가기",
+      "noticeType": "행복주택",
+      "targetGroups": [],
+      "regions": [],
+      "publishedAt": "2025-04-25",
+      "applyStart": null,
+      "applyEnd": "2025-08-29",
+      "status": "마감",
+      "officialUrl": "https://www.i-sh.co.kr/main/lay2/program/S1T294C295/www/brd/m_241/view.do?seq=288199",
+      "attachments": [],
+      "firstCollectedAt": "2026-07-19T04:34:38+00:00",
+      "lastCheckedAt": "2026-07-19T04:34:38+00:00",
+      "isNew": true
+    },
+    {
+      "id": "SH-5753a1ff55f8ac",
+      "agency": "SH",
+      "title": "행복주택 2025년 창동 아우르네빌리지 입주자 모집공고(일자리연계형 지원주택, . 공고) : 신청기간 연장 - 모집마감 공공주택공급부 바로가기",
+      "noticeType": "행복주택",
+      "targetGroups": [],
+      "regions": [],
+      "publishedAt": "2025-02-21",
+      "applyStart": null,
+      "applyEnd": "2025-03-07",
+      "status": "마감",
+      "officialUrl": "https://www.i-sh.co.kr/main/lay2/program/S1T294C295/www/brd/m_241/view.do?seq=285742",
+      "attachments": [],
+      "firstCollectedAt": "2026-07-19T04:34:38+00:00",
+      "lastCheckedAt": "2026-07-19T04:34:38+00:00",
+      "isNew": true
+    },
+    {
+      "id": "SH-be5c50f1da0d43",
+      "agency": "SH",
+      "title": "행복주택 2024년 2차 행복주택 입주자 모집공고 ( . 공고) 모집마감 공공주택공급부 바로가기",
+      "noticeType": "행복주택",
+      "targetGroups": [],
+      "regions": [],
+      "publishedAt": "2024-12-27",
+      "applyStart": null,
+      "applyEnd": "2025-05-16",
+      "status": "마감",
+      "officialUrl": "https://www.i-sh.co.kr/main/lay2/program/S1T294C295/www/brd/m_241/view.do?seq=282652",
+      "attachments": [],
+      "firstCollectedAt": "2026-07-19T04:34:38+00:00",
+      "lastCheckedAt": "2026-07-19T04:34:38+00:00",
+      "isNew": true
+    },
+    {
+      "id": "SH-84af5c954dab95",
+      "agency": "SH",
+      "title": "장기전세주택 제46차 장기전세주택 입주자 모집공고 ( . 공고) 모집마감 공공주택공급부 바로가기",
+      "noticeType": "장기전세",
+      "targetGroups": [],
+      "regions": [],
+      "publishedAt": "2024-12-26",
+      "applyStart": null,
+      "applyEnd": "2025-06-12",
+      "status": "마감",
+      "officialUrl": "https://www.i-sh.co.kr/main/lay2/program/S1T294C295/www/brd/m_241/view.do?seq=282546",
+      "attachments": [],
+      "firstCollectedAt": "2026-07-19T04:34:38+00:00",
+      "lastCheckedAt": "2026-07-19T04:34:38+00:00",
+      "isNew": true
+    },
+    {
+      "id": "SH-115202b0fdd5ac",
+      "agency": "SH",
+      "title": "국민공공임대주택 2024년 재개발임대주택 입주자 모집공고( .공고) 모집마감 공공주택공급부 바로가기",
+      "noticeType": "공공임대",
+      "targetGroups": [],
+      "regions": [],
+      "publishedAt": "2024-10-11",
+      "applyStart": null,
+      "applyEnd": "2025-04-02",
+      "status": "마감",
+      "officialUrl": "https://www.i-sh.co.kr/main/lay2/program/S1T294C295/www/brd/m_241/view.do?seq=279905",
+      "attachments": [],
+      "firstCollectedAt": "2026-07-19T04:34:38+00:00",
+      "lastCheckedAt": "2026-07-19T04:34:38+00:00",
+      "isNew": true
+    },
+    {
+      "id": "SH-9b4d6920d0e045",
+      "agency": "SH",
+      "title": "국민공공임대주택 2024년 제1차 국민임대주택 입주자 모집공고( .공고) 모집마감 공공주택공급부 바로가기",
+      "noticeType": "국민임대",
+      "targetGroups": [],
+      "regions": [],
+      "publishedAt": "2024-09-26",
+      "applyStart": null,
+      "applyEnd": "2025-03-28",
+      "status": "마감",
+      "officialUrl": "https://www.i-sh.co.kr/main/lay2/program/S1T294C295/www/brd/m_241/view.do?seq=279305",
+      "attachments": [],
+      "firstCollectedAt": "2026-07-19T04:34:38+00:00",
+      "lastCheckedAt": "2026-07-19T04:34:38+00:00",
+      "isNew": true
+    },
+    {
+      "id": "SH-a74529ec273f5b",
+      "agency": "SH",
+      "title": "장기전세주택 제45차 장기전세주택 입주자 모집공고 ( . 공고) 모집마감 공공주택공급부 바로가기",
+      "noticeType": "장기전세",
+      "targetGroups": [],
+      "regions": [],
+      "publishedAt": "2024-08-29",
+      "applyStart": null,
+      "applyEnd": "2025-02-07",
+      "status": "마감",
+      "officialUrl": "https://www.i-sh.co.kr/main/lay2/program/S1T294C295/www/brd/m_241/view.do?seq=278265",
+      "attachments": [],
+      "firstCollectedAt": "2026-07-19T04:34:38+00:00",
+      "lastCheckedAt": "2026-07-19T04:34:38+00:00",
+      "isNew": true
+    },
+    {
+      "id": "SH-6588c76f882cfb",
+      "agency": "SH",
+      "title": "장기전세주택 제44차 장기전세주택 입주자 모집 공고( . 공고) 당첨자 및 예비입주자 발표 모집마감 공공주택공급부 바로가기",
+      "noticeType": "장기전세",
+      "targetGroups": [],
+      "regions": [],
+      "publishedAt": "2024-06-27",
+      "applyStart": null,
+      "applyEnd": "2024-11-15",
+      "status": "마감",
+      "officialUrl": "https://www.i-sh.co.kr/main/lay2/program/S1T294C295/www/brd/m_241/view.do?seq=281012",
+      "attachments": [],
+      "firstCollectedAt": "2026-07-19T04:34:38+00:00",
+      "lastCheckedAt": "2026-07-19T04:34:38+00:00",
+      "isNew": true
     },
     {
       "id": "GH-86e1e9c5c37998",
@@ -953,7 +1735,7 @@
       "officialUrl": "https://www.gh.or.kr/gh/announcement-of-salerental001.do?mode=view&articleNo=64776&article.offset=0&articleLimit=100",
       "attachments": [],
       "firstCollectedAt": "2026-07-19T04:07:52+00:00",
-      "lastCheckedAt": "2026-07-19T04:07:52+00:00",
+      "lastCheckedAt": "2026-07-19T04:34:38+00:00",
       "isNew": true
     },
     {
@@ -972,7 +1754,7 @@
       "officialUrl": "https://www.gh.or.kr/gh/announcement-of-salerental001.do?mode=view&articleNo=64766&article.offset=0&articleLimit=100",
       "attachments": [],
       "firstCollectedAt": "2026-07-19T04:07:52+00:00",
-      "lastCheckedAt": "2026-07-19T04:07:52+00:00",
+      "lastCheckedAt": "2026-07-19T04:34:38+00:00",
       "isNew": true
     },
     {
@@ -994,7 +1776,7 @@
       "officialUrl": "https://www.gh.or.kr/gh/announcement-of-salerental001.do?mode=view&articleNo=64831&article.offset=0&articleLimit=100",
       "attachments": [],
       "firstCollectedAt": "2026-07-19T04:07:52+00:00",
-      "lastCheckedAt": "2026-07-19T04:07:52+00:00",
+      "lastCheckedAt": "2026-07-19T04:34:38+00:00",
       "isNew": true
     },
     {
@@ -1014,7 +1796,7 @@
       "officialUrl": "https://www.gh.or.kr/gh/announcement-of-salerental001.do?mode=view&articleNo=64640&article.offset=0&articleLimit=100",
       "attachments": [],
       "firstCollectedAt": "2026-07-19T04:07:52+00:00",
-      "lastCheckedAt": "2026-07-19T04:07:52+00:00",
+      "lastCheckedAt": "2026-07-19T04:34:38+00:00",
       "isNew": true
     },
     {
@@ -1033,7 +1815,7 @@
       "officialUrl": "https://www.gh.or.kr/gh/announcement-of-salerental001.do?mode=view&articleNo=64817&article.offset=0&articleLimit=100",
       "attachments": [],
       "firstCollectedAt": "2026-07-19T04:07:52+00:00",
-      "lastCheckedAt": "2026-07-19T04:07:52+00:00",
+      "lastCheckedAt": "2026-07-19T04:34:38+00:00",
       "isNew": true
     },
     {
@@ -1052,7 +1834,7 @@
       "officialUrl": "https://www.gh.or.kr/gh/announcement-of-salerental001.do?mode=view&articleNo=64959&article.offset=0&articleLimit=100",
       "attachments": [],
       "firstCollectedAt": "2026-07-19T04:07:52+00:00",
-      "lastCheckedAt": "2026-07-19T04:07:52+00:00",
+      "lastCheckedAt": "2026-07-19T04:34:38+00:00",
       "isNew": true
     },
     {
@@ -1071,7 +1853,7 @@
       "officialUrl": "https://www.gh.or.kr/gh/announcement-of-salerental001.do?mode=view&articleNo=64966&article.offset=0&articleLimit=100",
       "attachments": [],
       "firstCollectedAt": "2026-07-19T04:07:52+00:00",
-      "lastCheckedAt": "2026-07-19T04:07:52+00:00",
+      "lastCheckedAt": "2026-07-19T04:34:38+00:00",
       "isNew": true
     },
     {
@@ -1090,7 +1872,7 @@
       "officialUrl": "https://www.gh.or.kr/gh/announcement-of-salerental001.do?mode=view&articleNo=64679&article.offset=0&articleLimit=100",
       "attachments": [],
       "firstCollectedAt": "2026-07-19T04:07:52+00:00",
-      "lastCheckedAt": "2026-07-19T04:07:52+00:00",
+      "lastCheckedAt": "2026-07-19T04:34:38+00:00",
       "isNew": true
     },
     {
@@ -1109,7 +1891,7 @@
       "officialUrl": "https://www.gh.or.kr/gh/announcement-of-salerental001.do?mode=view&articleNo=64782&article.offset=0&articleLimit=100",
       "attachments": [],
       "firstCollectedAt": "2026-07-19T04:07:52+00:00",
-      "lastCheckedAt": "2026-07-19T04:07:52+00:00",
+      "lastCheckedAt": "2026-07-19T04:34:38+00:00",
       "isNew": true
     },
     {
@@ -1126,7 +1908,7 @@
       "officialUrl": "https://www.gh.or.kr/gh/announcement-of-salerental001.do?mode=view&articleNo=64997&article.offset=0&articleLimit=100",
       "attachments": [],
       "firstCollectedAt": "2026-07-19T04:07:52+00:00",
-      "lastCheckedAt": "2026-07-19T04:07:52+00:00",
+      "lastCheckedAt": "2026-07-19T04:34:38+00:00",
       "isNew": true
     },
     {
@@ -1143,7 +1925,7 @@
       "officialUrl": "https://www.gh.or.kr/gh/announcement-of-salerental001.do?mode=view&articleNo=64888&article.offset=0&articleLimit=100",
       "attachments": [],
       "firstCollectedAt": "2026-07-19T04:07:52+00:00",
-      "lastCheckedAt": "2026-07-19T04:07:52+00:00",
+      "lastCheckedAt": "2026-07-19T04:34:38+00:00",
       "isNew": true
     },
     {
@@ -1160,7 +1942,7 @@
       "officialUrl": "https://www.gh.or.kr/gh/announcement-of-salerental001.do?mode=view&articleNo=64811&article.offset=0&articleLimit=100",
       "attachments": [],
       "firstCollectedAt": "2026-07-19T04:07:52+00:00",
-      "lastCheckedAt": "2026-07-19T04:07:52+00:00",
+      "lastCheckedAt": "2026-07-19T04:34:38+00:00",
       "isNew": true
     },
     {
@@ -1177,7 +1959,7 @@
       "officialUrl": "https://www.gh.or.kr/gh/announcement-of-salerental001.do?mode=view&articleNo=64847&article.offset=0&articleLimit=100",
       "attachments": [],
       "firstCollectedAt": "2026-07-19T04:07:52+00:00",
-      "lastCheckedAt": "2026-07-19T04:07:52+00:00",
+      "lastCheckedAt": "2026-07-19T04:34:38+00:00",
       "isNew": true
     },
     {
@@ -1198,7 +1980,7 @@
       "officialUrl": "https://www.gh.or.kr/gh/announcement-of-salerental001.do?mode=view&articleNo=64845&article.offset=0&articleLimit=100",
       "attachments": [],
       "firstCollectedAt": "2026-07-19T04:07:52+00:00",
-      "lastCheckedAt": "2026-07-19T04:07:52+00:00",
+      "lastCheckedAt": "2026-07-19T04:34:38+00:00",
       "isNew": true
     },
     {
@@ -1217,7 +1999,7 @@
       "officialUrl": "https://www.gh.or.kr/gh/announcement-of-salerental001.do?mode=view&articleNo=64594&article.offset=0&articleLimit=100",
       "attachments": [],
       "firstCollectedAt": "2026-07-19T04:07:52+00:00",
-      "lastCheckedAt": "2026-07-19T04:07:52+00:00",
+      "lastCheckedAt": "2026-07-19T04:34:38+00:00",
       "isNew": true
     },
     {
@@ -1239,7 +2021,7 @@
       "officialUrl": "https://www.gh.or.kr/gh/announcement-of-salerental001.do?mode=view&articleNo=64768&article.offset=0&articleLimit=100",
       "attachments": [],
       "firstCollectedAt": "2026-07-19T04:07:52+00:00",
-      "lastCheckedAt": "2026-07-19T04:07:52+00:00",
+      "lastCheckedAt": "2026-07-19T04:34:38+00:00",
       "isNew": true
     },
     {
@@ -1259,7 +2041,7 @@
       "officialUrl": "https://www.gh.or.kr/gh/announcement-of-salerental001.do?mode=view&articleNo=64995&article.offset=0&articleLimit=100",
       "attachments": [],
       "firstCollectedAt": "2026-07-19T04:07:52+00:00",
-      "lastCheckedAt": "2026-07-19T04:07:52+00:00",
+      "lastCheckedAt": "2026-07-19T04:34:38+00:00",
       "isNew": true
     },
     {
@@ -1279,7 +2061,7 @@
       "officialUrl": "https://www.gh.or.kr/gh/announcement-of-salerental001.do?mode=view&articleNo=64890&article.offset=0&articleLimit=100",
       "attachments": [],
       "firstCollectedAt": "2026-07-19T04:07:52+00:00",
-      "lastCheckedAt": "2026-07-19T04:07:52+00:00",
+      "lastCheckedAt": "2026-07-19T04:34:38+00:00",
       "isNew": true
     },
     {
@@ -1299,7 +2081,7 @@
       "officialUrl": "https://www.gh.or.kr/gh/announcement-of-salerental001.do?mode=view&articleNo=64992&article.offset=0&articleLimit=100",
       "attachments": [],
       "firstCollectedAt": "2026-07-19T04:07:52+00:00",
-      "lastCheckedAt": "2026-07-19T04:07:52+00:00",
+      "lastCheckedAt": "2026-07-19T04:34:38+00:00",
       "isNew": true
     },
     {
@@ -1316,7 +2098,7 @@
       "officialUrl": "https://www.gh.or.kr/gh/announcement-of-salerental001.do?mode=view&articleNo=64932&article.offset=0&articleLimit=100",
       "attachments": [],
       "firstCollectedAt": "2026-07-19T04:07:52+00:00",
-      "lastCheckedAt": "2026-07-19T04:07:52+00:00",
+      "lastCheckedAt": "2026-07-19T04:34:38+00:00",
       "isNew": true
     },
     {
@@ -1335,7 +2117,7 @@
       "officialUrl": "https://www.gh.or.kr/gh/announcement-of-salerental001.do?mode=view&articleNo=64770&article.offset=0&articleLimit=100",
       "attachments": [],
       "firstCollectedAt": "2026-07-19T04:07:52+00:00",
-      "lastCheckedAt": "2026-07-19T04:07:52+00:00",
+      "lastCheckedAt": "2026-07-19T04:34:38+00:00",
       "isNew": true
     },
     {
@@ -1354,7 +2136,7 @@
       "officialUrl": "https://www.gh.or.kr/gh/announcement-of-salerental001.do?mode=view&articleNo=64742&article.offset=0&articleLimit=100",
       "attachments": [],
       "firstCollectedAt": "2026-07-19T04:07:52+00:00",
-      "lastCheckedAt": "2026-07-19T04:07:52+00:00",
+      "lastCheckedAt": "2026-07-19T04:34:38+00:00",
       "isNew": true
     },
     {
@@ -1373,7 +2155,7 @@
       "officialUrl": "https://www.gh.or.kr/gh/announcement-of-salerental001.do?mode=view&articleNo=64795&article.offset=0&articleLimit=100",
       "attachments": [],
       "firstCollectedAt": "2026-07-19T04:07:52+00:00",
-      "lastCheckedAt": "2026-07-19T04:07:52+00:00",
+      "lastCheckedAt": "2026-07-19T04:34:38+00:00",
       "isNew": true
     },
     {
@@ -1390,7 +2172,7 @@
       "officialUrl": "https://www.gh.or.kr/gh/announcement-of-salerental001.do?mode=view&articleNo=64741&article.offset=0&articleLimit=100",
       "attachments": [],
       "firstCollectedAt": "2026-07-19T04:07:52+00:00",
-      "lastCheckedAt": "2026-07-19T04:07:52+00:00",
+      "lastCheckedAt": "2026-07-19T04:34:38+00:00",
       "isNew": true
     },
     {
@@ -1409,7 +2191,7 @@
       "officialUrl": "https://www.gh.or.kr/gh/announcement-of-salerental001.do?mode=view&articleNo=64798&article.offset=0&articleLimit=100",
       "attachments": [],
       "firstCollectedAt": "2026-07-19T04:07:52+00:00",
-      "lastCheckedAt": "2026-07-19T04:07:52+00:00",
+      "lastCheckedAt": "2026-07-19T04:34:38+00:00",
       "isNew": true
     }
   ]
