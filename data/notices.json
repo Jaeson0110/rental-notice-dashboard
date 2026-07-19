@@ -1,33 +1,33 @@
 {
-  "updatedAt": "2026-07-19T13:10:03+00:00",
+  "updatedAt": "2026-07-19T13:16:33+00:00",
   "sourceStatus": {
     "LH": {
       "ok": true,
-      "count": 1,
-      "rawCount": 50,
-      "checkedAt": "2026-07-19T13:10:03+00:00",
+      "count": 55,
+      "rawCount": 55,
+      "checkedAt": "2026-07-19T13:16:33+00:00",
       "error": null
     },
     "SH": {
       "ok": true,
       "count": 47,
       "rawCount": 47,
-      "checkedAt": "2026-07-19T13:10:03+00:00",
+      "checkedAt": "2026-07-19T13:16:33+00:00",
       "error": null
     },
     "GH": {
       "ok": true,
       "count": 25,
       "rawCount": 25,
-      "checkedAt": "2026-07-19T13:10:03+00:00",
+      "checkedAt": "2026-07-19T13:16:33+00:00",
       "error": null
     }
   },
   "notices": [
     {
-      "id": "LH-8fbf1dbb1ffeea",
+      "id": "LH-c90ca6616ca958",
       "agency": "LH",
-      "title": "서울관악봉천 H-1ㆍ2ㆍ3BL 행복주택 예비입주자 모집공고(2026.07.15) 1일전",
+      "title": "서울관악봉천 H-1ㆍ2ㆍ3BL 행복주택 예비입주자 모집공고(2026.07.15)",
       "noticeType": "행복주택",
       "targetGroups": [],
       "regions": [
@@ -37,10 +37,10 @@
       "applyStart": null,
       "applyEnd": "2026-07-28",
       "status": "공고중",
-      "officialUrl": "https://apply.lh.or.kr/lhapply/apply/wt/wrtanc/selectWrtancList.do?mi=1026",
+      "officialUrl": "https://apply.lh.or.kr/lhapply/apply/wt/wrtanc/selectWrtancInfo.do?panId=2015122300020326&ccrCnntSysDsCd=03&uppAisTpCd=06&aisTpCd=10&mi=1026",
       "attachments": [],
-      "firstCollectedAt": "2026-07-19T04:07:52+00:00",
-      "lastCheckedAt": "2026-07-19T13:10:03+00:00",
+      "firstCollectedAt": "2026-07-19T13:16:33+00:00",
+      "lastCheckedAt": "2026-07-19T13:16:33+00:00",
       "isNew": true
     },
     {
@@ -59,7 +59,26 @@
       "officialUrl": "https://www.i-sh.co.kr/main/lay2/program/S1T294C295/www/brd/m_241/view.do?seq=306986",
       "attachments": [],
       "firstCollectedAt": "2026-07-19T04:34:38+00:00",
-      "lastCheckedAt": "2026-07-19T13:10:03+00:00",
+      "lastCheckedAt": "2026-07-19T13:16:33+00:00",
+      "isNew": true
+    },
+    {
+      "id": "LH-a451583661489b",
+      "agency": "LH",
+      "title": "인천산곡 A1블록 행복주택 입주자 추가모집",
+      "noticeType": "행복주택",
+      "targetGroups": [],
+      "regions": [
+        "인천광역시"
+      ],
+      "publishedAt": "2026-07-14",
+      "applyStart": null,
+      "applyEnd": "2026-07-30",
+      "status": "공고중",
+      "officialUrl": "https://apply.lh.or.kr/lhapply/apply/wt/wrtanc/selectWrtancInfo.do?panId=2015122300020399&ccrCnntSysDsCd=03&uppAisTpCd=06&aisTpCd=10&mi=1026",
+      "attachments": [],
+      "firstCollectedAt": "2026-07-19T13:16:33+00:00",
+      "lastCheckedAt": "2026-07-19T13:16:33+00:00",
       "isNew": true
     },
     {
@@ -81,7 +100,108 @@
       "officialUrl": "https://www.i-sh.co.kr/main/lay2/program/S1T294C295/www/brd/m_241/view.do?seq=306908",
       "attachments": [],
       "firstCollectedAt": "2026-07-19T04:34:38+00:00",
-      "lastCheckedAt": "2026-07-19T13:10:03+00:00",
+      "lastCheckedAt": "2026-07-19T13:16:33+00:00",
+      "isNew": true
+    },
+    {
+      "id": "LH-c2235137403d6e",
+      "agency": "LH",
+      "title": "[정정공고]성남시 분당목련1 분당한솔7 고령자복지주택(영구임대) 예비입주자 모집공고(2026.07.06.)",
+      "noticeType": "영구임대",
+      "targetGroups": [
+        "고령자"
+      ],
+      "regions": [
+        "경기도",
+        "성남시",
+        "성남"
+      ],
+      "publishedAt": "2026-07-10",
+      "applyStart": null,
+      "applyEnd": "2026-07-24",
+      "status": "공고중",
+      "officialUrl": "https://apply.lh.or.kr/lhapply/apply/wt/wrtanc/selectWrtancInfo.do?panId=2015122300020365&ccrCnntSysDsCd=03&uppAisTpCd=06&aisTpCd=09&mi=1026",
+      "attachments": [],
+      "firstCollectedAt": "2026-07-19T13:16:33+00:00",
+      "lastCheckedAt": "2026-07-19T13:16:33+00:00",
+      "isNew": true
+    },
+    {
+      "id": "LH-79ec5e8461c30f",
+      "agency": "LH",
+      "title": "옹진백령 영구임대(마을정비형) 예비입주자 모집 공고",
+      "noticeType": "영구임대",
+      "targetGroups": [],
+      "regions": [
+        "인천광역시"
+      ],
+      "publishedAt": "2026-07-09",
+      "applyStart": null,
+      "applyEnd": "2026-07-22",
+      "status": "공고중",
+      "officialUrl": "https://apply.lh.or.kr/lhapply/apply/wt/wrtanc/selectWrtancInfo.do?panId=2015122300020246&ccrCnntSysDsCd=03&uppAisTpCd=06&aisTpCd=09&mi=1026",
+      "attachments": [],
+      "firstCollectedAt": "2026-07-19T13:16:33+00:00",
+      "lastCheckedAt": "2026-07-19T13:16:33+00:00",
+      "isNew": true
+    },
+    {
+      "id": "LH-790109e11eef3c",
+      "agency": "LH",
+      "title": "옹진백령 영구임대(공공실버) 예비입주자 모집 공고",
+      "noticeType": "영구임대",
+      "targetGroups": [],
+      "regions": [
+        "인천광역시"
+      ],
+      "publishedAt": "2026-07-09",
+      "applyStart": null,
+      "applyEnd": "2026-07-22",
+      "status": "공고중",
+      "officialUrl": "https://apply.lh.or.kr/lhapply/apply/wt/wrtanc/selectWrtancInfo.do?panId=2015122300020247&ccrCnntSysDsCd=03&uppAisTpCd=06&aisTpCd=09&mi=1026",
+      "attachments": [],
+      "firstCollectedAt": "2026-07-19T13:16:33+00:00",
+      "lastCheckedAt": "2026-07-19T13:16:33+00:00",
+      "isNew": true
+    },
+    {
+      "id": "LH-4ff96dec561a1c",
+      "agency": "LH",
+      "title": "[정정공고]성남금토 A-2블록 국민임대주택 입주자 모집공고",
+      "noticeType": "국민임대",
+      "targetGroups": [],
+      "regions": [
+        "경기도",
+        "성남"
+      ],
+      "publishedAt": "2026-07-09",
+      "applyStart": null,
+      "applyEnd": "2026-07-22",
+      "status": "공고중",
+      "officialUrl": "https://apply.lh.or.kr/lhapply/apply/wt/wrtanc/selectWrtancInfo.do?panId=2015122300020360&ccrCnntSysDsCd=03&uppAisTpCd=06&aisTpCd=07&mi=1026",
+      "attachments": [],
+      "firstCollectedAt": "2026-07-19T13:16:33+00:00",
+      "lastCheckedAt": "2026-07-19T13:16:33+00:00",
+      "isNew": true
+    },
+    {
+      "id": "LH-f9d3bfe928779f",
+      "agency": "LH",
+      "title": "성남금토 A-2블록 국민임대주택 입주자 모집공고",
+      "noticeType": "국민임대",
+      "targetGroups": [],
+      "regions": [
+        "경기도",
+        "성남"
+      ],
+      "publishedAt": "2026-07-08",
+      "applyStart": null,
+      "applyEnd": "2026-07-22",
+      "status": "정정공고중",
+      "officialUrl": "https://apply.lh.or.kr/lhapply/apply/wt/wrtanc/selectWrtancInfo.do?panId=2015122300020273&ccrCnntSysDsCd=03&uppAisTpCd=06&aisTpCd=07&mi=1026",
+      "attachments": [],
+      "firstCollectedAt": "2026-07-19T13:16:33+00:00",
+      "lastCheckedAt": "2026-07-19T13:16:33+00:00",
       "isNew": true
     },
     {
@@ -101,7 +221,582 @@
       "officialUrl": "https://www.i-sh.co.kr/main/lay2/program/S1T294C295/www/brd/m_241/view.do?seq=306722",
       "attachments": [],
       "firstCollectedAt": "2026-07-19T04:34:38+00:00",
-      "lastCheckedAt": "2026-07-19T13:10:03+00:00",
+      "lastCheckedAt": "2026-07-19T13:16:33+00:00",
+      "isNew": true
+    },
+    {
+      "id": "LH-38c7faad20deed",
+      "agency": "LH",
+      "title": "[정정공고]성남시 분당목련1 분당한솔7 고령자복지주택(영구임대) 예비입주자 모집공고(2026.07.06.)",
+      "noticeType": "영구임대",
+      "targetGroups": [
+        "고령자"
+      ],
+      "regions": [
+        "경기도",
+        "성남시",
+        "성남"
+      ],
+      "publishedAt": "2026-07-08",
+      "applyStart": null,
+      "applyEnd": "2026-07-24",
+      "status": "정정공고중",
+      "officialUrl": "https://apply.lh.or.kr/lhapply/apply/wt/wrtanc/selectWrtancInfo.do?panId=2015122300020348&ccrCnntSysDsCd=03&uppAisTpCd=06&aisTpCd=09&mi=1026",
+      "attachments": [],
+      "firstCollectedAt": "2026-07-19T13:16:33+00:00",
+      "lastCheckedAt": "2026-07-19T13:16:33+00:00",
+      "isNew": true
+    },
+    {
+      "id": "LH-068c74ee63db28",
+      "agency": "LH",
+      "title": "[정정공고][정정공고]군포대야미 A-1블록 6년 분양전환공공임대주택 입주자모집공고",
+      "noticeType": "6년 공공임대주택",
+      "targetGroups": [],
+      "regions": [
+        "경기도",
+        "군포"
+      ],
+      "publishedAt": "2026-07-08",
+      "applyStart": null,
+      "applyEnd": "2026-07-24",
+      "status": "접수중",
+      "officialUrl": "https://apply.lh.or.kr/lhapply/apply/wt/wrtanc/selectWrtancInfo.do?panId=0000061132&ccrCnntSysDsCd=02&uppAisTpCd=06&aisTpCd=52&mi=1026",
+      "attachments": [],
+      "firstCollectedAt": "2026-07-19T13:16:33+00:00",
+      "lastCheckedAt": "2026-07-19T13:16:33+00:00",
+      "isNew": true
+    },
+    {
+      "id": "LH-6095feee7f1307",
+      "agency": "LH",
+      "title": "화성서부권 국민임대주택 예비입주자 모집[입주자격완화, 선계약후검증]",
+      "noticeType": "국민임대",
+      "targetGroups": [],
+      "regions": [
+        "경기도",
+        "화성"
+      ],
+      "publishedAt": "2026-07-06",
+      "applyStart": null,
+      "applyEnd": "2026-07-22",
+      "status": "공고중",
+      "officialUrl": "https://apply.lh.or.kr/lhapply/apply/wt/wrtanc/selectWrtancInfo.do?panId=2015122300020243&ccrCnntSysDsCd=03&uppAisTpCd=06&aisTpCd=07&mi=1026",
+      "attachments": [],
+      "firstCollectedAt": "2026-07-19T13:16:33+00:00",
+      "lastCheckedAt": "2026-07-19T13:16:33+00:00",
+      "isNew": true
+    },
+    {
+      "id": "LH-c640cbda23c222",
+      "agency": "LH",
+      "title": "하남풍산1단지 국민임대주택 예비입주자 모집공고(2026. 7. 6.)",
+      "noticeType": "국민임대",
+      "targetGroups": [],
+      "regions": [
+        "경기도",
+        "하남"
+      ],
+      "publishedAt": "2026-07-06",
+      "applyStart": null,
+      "applyEnd": "2026-07-23",
+      "status": "공고중",
+      "officialUrl": "https://apply.lh.or.kr/lhapply/apply/wt/wrtanc/selectWrtancInfo.do?panId=2015122300020288&ccrCnntSysDsCd=03&uppAisTpCd=06&aisTpCd=07&mi=1026",
+      "attachments": [],
+      "firstCollectedAt": "2026-07-19T13:16:33+00:00",
+      "lastCheckedAt": "2026-07-19T13:16:33+00:00",
+      "isNew": true
+    },
+    {
+      "id": "LH-89fad2df806dfa",
+      "agency": "LH",
+      "title": "포천송우4단지 국민임대주택 예비입주자 모집공고(2026.7.6.)",
+      "noticeType": "국민임대",
+      "targetGroups": [],
+      "regions": [
+        "경기도",
+        "포천"
+      ],
+      "publishedAt": "2026-07-06",
+      "applyStart": null,
+      "applyEnd": "2026-07-22",
+      "status": "공고중",
+      "officialUrl": "https://apply.lh.or.kr/lhapply/apply/wt/wrtanc/selectWrtancInfo.do?panId=2015122300020280&ccrCnntSysDsCd=03&uppAisTpCd=06&aisTpCd=07&mi=1026",
+      "attachments": [],
+      "firstCollectedAt": "2026-07-19T13:16:33+00:00",
+      "lastCheckedAt": "2026-07-19T13:16:33+00:00",
+      "isNew": true
+    },
+    {
+      "id": "LH-c2ffbedee7ccdb",
+      "agency": "LH",
+      "title": "파주시 지역 국민임대주택 예비입주자 모집공고",
+      "noticeType": "국민임대",
+      "targetGroups": [],
+      "regions": [
+        "경기도",
+        "파주시",
+        "파주"
+      ],
+      "publishedAt": "2026-07-06",
+      "applyStart": null,
+      "applyEnd": "2026-07-24",
+      "status": "정정공고중",
+      "officialUrl": "https://apply.lh.or.kr/lhapply/apply/wt/wrtanc/selectWrtancInfo.do?panId=2015122300020277&ccrCnntSysDsCd=03&uppAisTpCd=06&aisTpCd=07&mi=1026",
+      "attachments": [],
+      "firstCollectedAt": "2026-07-19T13:16:33+00:00",
+      "lastCheckedAt": "2026-07-19T13:16:33+00:00",
+      "isNew": true
+    },
+    {
+      "id": "LH-492c48efe6bd50",
+      "agency": "LH",
+      "title": "파주시 국민임대 예비입주자 모집공고(26.07.06)",
+      "noticeType": "국민임대",
+      "targetGroups": [],
+      "regions": [
+        "경기도",
+        "파주시",
+        "파주"
+      ],
+      "publishedAt": "2026-07-06",
+      "applyStart": null,
+      "applyEnd": "2026-07-22",
+      "status": "공고중",
+      "officialUrl": "https://apply.lh.or.kr/lhapply/apply/wt/wrtanc/selectWrtancInfo.do?panId=2015122300020275&ccrCnntSysDsCd=03&uppAisTpCd=06&aisTpCd=07&mi=1026",
+      "attachments": [],
+      "firstCollectedAt": "2026-07-19T13:16:33+00:00",
+      "lastCheckedAt": "2026-07-19T13:16:33+00:00",
+      "isNew": true
+    },
+    {
+      "id": "LH-6ae101e285fed7",
+      "agency": "LH",
+      "title": "인천시 검단구 마전주공 국민임대주택 예비입주자 모집",
+      "noticeType": "국민임대",
+      "targetGroups": [],
+      "regions": [
+        "인천광역시"
+      ],
+      "publishedAt": "2026-07-06",
+      "applyStart": null,
+      "applyEnd": "2026-07-20",
+      "status": "접수마감",
+      "officialUrl": "https://apply.lh.or.kr/lhapply/apply/wt/wrtanc/selectWrtancInfo.do?panId=2015122300020292&ccrCnntSysDsCd=03&uppAisTpCd=06&aisTpCd=07&mi=1026",
+      "attachments": [],
+      "firstCollectedAt": "2026-07-19T13:16:33+00:00",
+      "lastCheckedAt": "2026-07-19T13:16:33+00:00",
+      "isNew": true
+    },
+    {
+      "id": "LH-a78e8f825819d4",
+      "agency": "LH",
+      "title": "의왕시 지역 의왕내손 국민임대 예비입주자 모집공고(2026.07.06.)",
+      "noticeType": "국민임대",
+      "targetGroups": [],
+      "regions": [
+        "경기도",
+        "의왕시",
+        "의왕"
+      ],
+      "publishedAt": "2026-07-06",
+      "applyStart": null,
+      "applyEnd": "2026-07-24",
+      "status": "공고중",
+      "officialUrl": "https://apply.lh.or.kr/lhapply/apply/wt/wrtanc/selectWrtancInfo.do?panId=2015122300020263&ccrCnntSysDsCd=03&uppAisTpCd=06&aisTpCd=07&mi=1026",
+      "attachments": [],
+      "firstCollectedAt": "2026-07-19T13:16:33+00:00",
+      "lastCheckedAt": "2026-07-19T13:16:33+00:00",
+      "isNew": true
+    },
+    {
+      "id": "LH-a27b506b61e632",
+      "agency": "LH",
+      "title": "용인시 용인구갈8 국민임대 예비입주자 모집공고(2026.07.06.)",
+      "noticeType": "국민임대",
+      "targetGroups": [],
+      "regions": [
+        "경기도",
+        "용인시",
+        "용인"
+      ],
+      "publishedAt": "2026-07-06",
+      "applyStart": null,
+      "applyEnd": "2026-07-23",
+      "status": "공고중",
+      "officialUrl": "https://apply.lh.or.kr/lhapply/apply/wt/wrtanc/selectWrtancInfo.do?panId=2015122300020265&ccrCnntSysDsCd=03&uppAisTpCd=06&aisTpCd=07&mi=1026",
+      "attachments": [],
+      "firstCollectedAt": "2026-07-19T13:16:33+00:00",
+      "lastCheckedAt": "2026-07-19T13:16:33+00:00",
+      "isNew": true
+    },
+    {
+      "id": "LH-5b1d08f054ebd4",
+      "agency": "LH",
+      "title": "연천전곡1단지 국민임대주택 예비입주자 모집공고(2026.7.6.)",
+      "noticeType": "국민임대",
+      "targetGroups": [],
+      "regions": [
+        "경기도",
+        "연천"
+      ],
+      "publishedAt": "2026-07-06",
+      "applyStart": null,
+      "applyEnd": "2026-07-23",
+      "status": "정정공고중",
+      "officialUrl": "https://apply.lh.or.kr/lhapply/apply/wt/wrtanc/selectWrtancInfo.do?panId=2015122300020295&ccrCnntSysDsCd=03&uppAisTpCd=06&aisTpCd=07&mi=1026",
+      "attachments": [],
+      "firstCollectedAt": "2026-07-19T13:16:33+00:00",
+      "lastCheckedAt": "2026-07-19T13:16:33+00:00",
+      "isNew": true
+    },
+    {
+      "id": "LH-5c37335de8d69c",
+      "agency": "LH",
+      "title": "안산시 안산 고잔16,17단지 국민임대주택 예비입주자 모집(2026.07.06)",
+      "noticeType": "국민임대",
+      "targetGroups": [],
+      "regions": [
+        "경기도"
+      ],
+      "publishedAt": "2026-07-06",
+      "applyStart": null,
+      "applyEnd": "2026-07-23",
+      "status": "공고중",
+      "officialUrl": "https://apply.lh.or.kr/lhapply/apply/wt/wrtanc/selectWrtancInfo.do?panId=2015122300020260&ccrCnntSysDsCd=03&uppAisTpCd=06&aisTpCd=07&mi=1026",
+      "attachments": [],
+      "firstCollectedAt": "2026-07-19T13:16:33+00:00",
+      "lastCheckedAt": "2026-07-19T13:16:33+00:00",
+      "isNew": true
+    },
+    {
+      "id": "LH-ff3eca42f332fc",
+      "agency": "LH",
+      "title": "수원시 수원매탄6 국민임대 예비입주자 모집공고(2026.07.06.)",
+      "noticeType": "국민임대",
+      "targetGroups": [],
+      "regions": [
+        "경기도",
+        "수원시",
+        "수원"
+      ],
+      "publishedAt": "2026-07-06",
+      "applyStart": null,
+      "applyEnd": "2026-07-24",
+      "status": "공고중",
+      "officialUrl": "https://apply.lh.or.kr/lhapply/apply/wt/wrtanc/selectWrtancInfo.do?panId=2015122300020296&ccrCnntSysDsCd=03&uppAisTpCd=06&aisTpCd=07&mi=1026",
+      "attachments": [],
+      "firstCollectedAt": "2026-07-19T13:16:33+00:00",
+      "lastCheckedAt": "2026-07-19T13:16:33+00:00",
+      "isNew": true
+    },
+    {
+      "id": "LH-34c9df07d6d09c",
+      "agency": "LH",
+      "title": "성남시 분당목련1 분당한솔7 분당청솔6 영구임대 예비입주자 모집공고(2026.07.06.)",
+      "noticeType": "영구임대",
+      "targetGroups": [],
+      "regions": [
+        "경기도",
+        "성남시",
+        "성남"
+      ],
+      "publishedAt": "2026-07-06",
+      "applyStart": null,
+      "applyEnd": "2026-07-24",
+      "status": "공고중",
+      "officialUrl": "https://apply.lh.or.kr/lhapply/apply/wt/wrtanc/selectWrtancInfo.do?panId=2015122300020331&ccrCnntSysDsCd=03&uppAisTpCd=06&aisTpCd=09&mi=1026",
+      "attachments": [],
+      "firstCollectedAt": "2026-07-19T13:16:33+00:00",
+      "lastCheckedAt": "2026-07-19T13:16:33+00:00",
+      "isNew": true
+    },
+    {
+      "id": "LH-288a298a914c47",
+      "agency": "LH",
+      "title": "성남시 분당목련1 분당한솔7 고령자복지주택(영구임대) 예비입주자 모집공고(2026.07.06.)",
+      "noticeType": "영구임대",
+      "targetGroups": [
+        "고령자"
+      ],
+      "regions": [
+        "경기도",
+        "성남시",
+        "성남"
+      ],
+      "publishedAt": "2026-07-06",
+      "applyStart": null,
+      "applyEnd": "2026-07-24",
+      "status": "정정공고중",
+      "officialUrl": "https://apply.lh.or.kr/lhapply/apply/wt/wrtanc/selectWrtancInfo.do?panId=2015122300020333&ccrCnntSysDsCd=03&uppAisTpCd=06&aisTpCd=09&mi=1026",
+      "attachments": [],
+      "firstCollectedAt": "2026-07-19T13:16:33+00:00",
+      "lastCheckedAt": "2026-07-19T13:16:33+00:00",
+      "isNew": true
+    },
+    {
+      "id": "LH-721bdc1ba7095f",
+      "agency": "LH",
+      "title": "남양주시지역 국민임대주택 예비입주자 모집(26.07.06공고)",
+      "noticeType": "국민임대",
+      "targetGroups": [],
+      "regions": [
+        "경기도",
+        "남양주시",
+        "남양주",
+        "양주시"
+      ],
+      "publishedAt": "2026-07-06",
+      "applyStart": null,
+      "applyEnd": "2026-07-23",
+      "status": "공고중",
+      "officialUrl": "https://apply.lh.or.kr/lhapply/apply/wt/wrtanc/selectWrtancInfo.do?panId=2015122300020311&ccrCnntSysDsCd=03&uppAisTpCd=06&aisTpCd=07&mi=1026",
+      "attachments": [],
+      "firstCollectedAt": "2026-07-19T13:16:33+00:00",
+      "lastCheckedAt": "2026-07-19T13:16:33+00:00",
+      "isNew": true
+    },
+    {
+      "id": "LH-9dc97b47762ff5",
+      "agency": "LH",
+      "title": "김포시 국민임대주택 입주자격완화 예비입주자 모집 공고",
+      "noticeType": "국민임대",
+      "targetGroups": [],
+      "regions": [
+        "경기도",
+        "김포시",
+        "김포"
+      ],
+      "publishedAt": "2026-07-06",
+      "applyStart": null,
+      "applyEnd": "2026-07-22",
+      "status": "정정공고중",
+      "officialUrl": "https://apply.lh.or.kr/lhapply/apply/wt/wrtanc/selectWrtancInfo.do?panId=2015122300020271&ccrCnntSysDsCd=03&uppAisTpCd=06&aisTpCd=07&mi=1026",
+      "attachments": [],
+      "firstCollectedAt": "2026-07-19T13:16:33+00:00",
+      "lastCheckedAt": "2026-07-19T13:16:33+00:00",
+      "isNew": true
+    },
+    {
+      "id": "LH-f4fae407e17203",
+      "agency": "LH",
+      "title": "[정정공고]파주시 지역 국민임대주택 예비입주자 모집공고",
+      "noticeType": "국민임대",
+      "targetGroups": [],
+      "regions": [
+        "경기도",
+        "파주시",
+        "파주"
+      ],
+      "publishedAt": "2026-07-06",
+      "applyStart": null,
+      "applyEnd": "2026-07-24",
+      "status": "공고중",
+      "officialUrl": "https://apply.lh.or.kr/lhapply/apply/wt/wrtanc/selectWrtancInfo.do?panId=2015122300020312&ccrCnntSysDsCd=03&uppAisTpCd=06&aisTpCd=07&mi=1026",
+      "attachments": [],
+      "firstCollectedAt": "2026-07-19T13:16:33+00:00",
+      "lastCheckedAt": "2026-07-19T13:16:33+00:00",
+      "isNew": true
+    },
+    {
+      "id": "LH-f5f6b079dd7d22",
+      "agency": "LH",
+      "title": "[정정공고]연천전곡1단지 국민임대주택 예비입주자 모집공고(2026.7.6.)",
+      "noticeType": "국민임대",
+      "targetGroups": [],
+      "regions": [
+        "경기도",
+        "연천"
+      ],
+      "publishedAt": "2026-07-06",
+      "applyStart": null,
+      "applyEnd": "2026-07-23",
+      "status": "공고중",
+      "officialUrl": "https://apply.lh.or.kr/lhapply/apply/wt/wrtanc/selectWrtancInfo.do?panId=2015122300020316&ccrCnntSysDsCd=03&uppAisTpCd=06&aisTpCd=07&mi=1026",
+      "attachments": [],
+      "firstCollectedAt": "2026-07-19T13:16:33+00:00",
+      "lastCheckedAt": "2026-07-19T13:16:33+00:00",
+      "isNew": true
+    },
+    {
+      "id": "LH-1b46cfd9ad42b2",
+      "agency": "LH",
+      "title": "[정정공고]김포시 국민임대주택 입주자격완화 예비입주자 모집 공고",
+      "noticeType": "국민임대",
+      "targetGroups": [],
+      "regions": [
+        "경기도",
+        "김포시",
+        "김포"
+      ],
+      "publishedAt": "2026-07-06",
+      "applyStart": null,
+      "applyEnd": "2026-07-22",
+      "status": "공고중",
+      "officialUrl": "https://apply.lh.or.kr/lhapply/apply/wt/wrtanc/selectWrtancInfo.do?panId=2015122300020328&ccrCnntSysDsCd=03&uppAisTpCd=06&aisTpCd=07&mi=1026",
+      "attachments": [],
+      "firstCollectedAt": "2026-07-19T13:16:33+00:00",
+      "lastCheckedAt": "2026-07-19T13:16:33+00:00",
+      "isNew": true
+    },
+    {
+      "id": "LH-d3204fa39e70a9",
+      "agency": "LH",
+      "title": "'26년 7월 인천시 남동구 국민임대주택 예비입주자 모집 공고(2026.07.06)",
+      "noticeType": "국민임대",
+      "targetGroups": [],
+      "regions": [
+        "인천광역시"
+      ],
+      "publishedAt": "2026-07-06",
+      "applyStart": null,
+      "applyEnd": "2026-07-21",
+      "status": "공고중",
+      "officialUrl": "https://apply.lh.or.kr/lhapply/apply/wt/wrtanc/selectWrtancInfo.do?panId=2015122300020224&ccrCnntSysDsCd=03&uppAisTpCd=06&aisTpCd=07&mi=1026",
+      "attachments": [],
+      "firstCollectedAt": "2026-07-19T13:16:33+00:00",
+      "lastCheckedAt": "2026-07-19T13:16:33+00:00",
+      "isNew": true
+    },
+    {
+      "id": "LH-26c9b0a280f3dd",
+      "agency": "LH",
+      "title": "부천원종 C1블록(원종휴튼3단지) 행복주택(일자리연계형 지원주택) 입주자 추가모집",
+      "noticeType": "행복주택",
+      "targetGroups": [],
+      "regions": [
+        "경기도",
+        "부천"
+      ],
+      "publishedAt": "2026-07-02",
+      "applyStart": null,
+      "applyEnd": "2026-07-16",
+      "status": "접수마감",
+      "officialUrl": "https://apply.lh.or.kr/lhapply/apply/wt/wrtanc/selectWrtancInfo.do?panId=2015122300020276&ccrCnntSysDsCd=03&uppAisTpCd=06&aisTpCd=10&mi=1026",
+      "attachments": [],
+      "firstCollectedAt": "2026-07-19T13:16:33+00:00",
+      "lastCheckedAt": "2026-07-19T13:16:33+00:00",
+      "isNew": true
+    },
+    {
+      "id": "LH-3c77ea3a03f873",
+      "agency": "LH",
+      "title": "김포시 행복주택 입주자격완화 예비입주자 모집[선계약후검증]('26.07.02.)",
+      "noticeType": "행복주택",
+      "targetGroups": [],
+      "regions": [
+        "경기도",
+        "김포시",
+        "김포"
+      ],
+      "publishedAt": "2026-07-02",
+      "applyStart": null,
+      "applyEnd": "2026-07-16",
+      "status": "접수마감",
+      "officialUrl": "https://apply.lh.or.kr/lhapply/apply/wt/wrtanc/selectWrtancInfo.do?panId=2015122300020259&ccrCnntSysDsCd=03&uppAisTpCd=06&aisTpCd=10&mi=1026",
+      "attachments": [],
+      "firstCollectedAt": "2026-07-19T13:16:33+00:00",
+      "lastCheckedAt": "2026-07-19T13:16:33+00:00",
+      "isNew": true
+    },
+    {
+      "id": "LH-9181f687c91471",
+      "agency": "LH",
+      "title": "[정정공고]김포시 행복주택 입주자격완화 예비입주자 모집[선계약후검증]('26.07.02.)",
+      "noticeType": "행복주택",
+      "targetGroups": [],
+      "regions": [
+        "경기도",
+        "김포시",
+        "김포"
+      ],
+      "publishedAt": "2026-07-02",
+      "applyStart": null,
+      "applyEnd": "2026-07-16",
+      "status": "접수마감",
+      "officialUrl": "https://apply.lh.or.kr/lhapply/apply/wt/wrtanc/selectWrtancInfo.do?panId=2015122300020294&ccrCnntSysDsCd=03&uppAisTpCd=06&aisTpCd=10&mi=1026",
+      "attachments": [],
+      "firstCollectedAt": "2026-07-19T13:16:33+00:00",
+      "lastCheckedAt": "2026-07-19T13:16:33+00:00",
+      "isNew": true
+    },
+    {
+      "id": "LH-2d7a421a70c7e5",
+      "agency": "LH",
+      "title": "여주역세권 행복주택 예비입주자 모집(26.07.01)",
+      "noticeType": "행복주택",
+      "targetGroups": [],
+      "regions": [
+        "경기도"
+      ],
+      "publishedAt": "2026-07-01",
+      "applyStart": null,
+      "applyEnd": "2026-07-16",
+      "status": "접수마감",
+      "officialUrl": "https://apply.lh.or.kr/lhapply/apply/wt/wrtanc/selectWrtancInfo.do?panId=2015122300020253&ccrCnntSysDsCd=03&uppAisTpCd=06&aisTpCd=10&mi=1026",
+      "attachments": [],
+      "firstCollectedAt": "2026-07-19T13:16:33+00:00",
+      "lastCheckedAt": "2026-07-19T13:16:33+00:00",
+      "isNew": true
+    },
+    {
+      "id": "LH-a67a2430a8be87",
+      "agency": "LH",
+      "title": "군포송정A-1BL 행복주택 입주자격완화 예비입주자 모집",
+      "noticeType": "행복주택",
+      "targetGroups": [],
+      "regions": [
+        "경기도",
+        "군포"
+      ],
+      "publishedAt": "2026-06-30",
+      "applyStart": null,
+      "applyEnd": "2026-07-08",
+      "status": "접수마감",
+      "officialUrl": "https://apply.lh.or.kr/lhapply/apply/wt/wrtanc/selectWrtancInfo.do?panId=2015122300020242&ccrCnntSysDsCd=03&uppAisTpCd=06&aisTpCd=10&mi=1026",
+      "attachments": [],
+      "firstCollectedAt": "2026-07-19T13:16:33+00:00",
+      "lastCheckedAt": "2026-07-19T13:16:33+00:00",
+      "isNew": true
+    },
+    {
+      "id": "LH-85284040945947",
+      "agency": "LH",
+      "title": "군포대야미 A-1블록 6년 분양전환공공임대주택 입주자모집공고",
+      "noticeType": "6년 공공임대주택",
+      "targetGroups": [],
+      "regions": [
+        "경기도",
+        "군포"
+      ],
+      "publishedAt": "2026-06-30",
+      "applyStart": null,
+      "applyEnd": "2026-07-24",
+      "status": "정정공고중",
+      "officialUrl": "https://apply.lh.or.kr/lhapply/apply/wt/wrtanc/selectWrtancInfo.do?panId=0000061115&ccrCnntSysDsCd=02&uppAisTpCd=06&aisTpCd=52&mi=1026",
+      "attachments": [],
+      "firstCollectedAt": "2026-07-19T13:16:33+00:00",
+      "lastCheckedAt": "2026-07-19T13:16:33+00:00",
+      "isNew": true
+    },
+    {
+      "id": "LH-aeea5b3bb5ef19",
+      "agency": "LH",
+      "title": "[정정공고]군포송정A-1BL 행복주택 입주자격완화 예비입주자 모집",
+      "noticeType": "행복주택",
+      "targetGroups": [],
+      "regions": [
+        "경기도",
+        "군포"
+      ],
+      "publishedAt": "2026-06-30",
+      "applyStart": null,
+      "applyEnd": "2026-07-08",
+      "status": "접수마감",
+      "officialUrl": "https://apply.lh.or.kr/lhapply/apply/wt/wrtanc/selectWrtancInfo.do?panId=2015122300020261&ccrCnntSysDsCd=03&uppAisTpCd=06&aisTpCd=10&mi=1026",
+      "attachments": [],
+      "firstCollectedAt": "2026-07-19T13:16:33+00:00",
+      "lastCheckedAt": "2026-07-19T13:16:33+00:00",
       "isNew": true
     },
     {
@@ -122,7 +817,7 @@
       "officialUrl": "https://www.i-sh.co.kr/main/lay2/program/S1T294C295/www/brd/m_241/view.do?seq=306218",
       "attachments": [],
       "firstCollectedAt": "2026-07-19T04:34:38+00:00",
-      "lastCheckedAt": "2026-07-19T13:10:03+00:00",
+      "lastCheckedAt": "2026-07-19T13:16:33+00:00",
       "isNew": true
     },
     {
@@ -143,7 +838,7 @@
       "officialUrl": "https://www.i-sh.co.kr/main/lay2/program/S1T294C295/www/brd/m_241/view.do?seq=306214",
       "attachments": [],
       "firstCollectedAt": "2026-07-19T04:34:38+00:00",
-      "lastCheckedAt": "2026-07-19T13:10:03+00:00",
+      "lastCheckedAt": "2026-07-19T13:16:33+00:00",
       "isNew": true
     },
     {
@@ -162,7 +857,7 @@
       "officialUrl": "https://www.i-sh.co.kr/main/lay2/program/S1T294C295/www/brd/m_241/view.do?seq=306205",
       "attachments": [],
       "firstCollectedAt": "2026-07-19T04:34:38+00:00",
-      "lastCheckedAt": "2026-07-19T13:10:03+00:00",
+      "lastCheckedAt": "2026-07-19T13:16:33+00:00",
       "isNew": true
     },
     {
@@ -181,7 +876,27 @@
       "officialUrl": "https://www.i-sh.co.kr/main/lay2/program/S1T294C295/www/brd/m_241/view.do?seq=306066",
       "attachments": [],
       "firstCollectedAt": "2026-07-19T04:34:38+00:00",
-      "lastCheckedAt": "2026-07-19T13:10:03+00:00",
+      "lastCheckedAt": "2026-07-19T13:16:33+00:00",
+      "isNew": true
+    },
+    {
+      "id": "LH-4533f8ea28e3a9",
+      "agency": "LH",
+      "title": "양주옥정 10년 공공임대주택리츠 예비입주자 모집(무순위)",
+      "noticeType": "공공임대",
+      "targetGroups": [],
+      "regions": [
+        "경기도",
+        "양주"
+      ],
+      "publishedAt": "2026-06-24",
+      "applyStart": null,
+      "applyEnd": "2026-07-09",
+      "status": "접수마감",
+      "officialUrl": "https://apply.lh.or.kr/lhapply/apply/wt/wrtanc/selectWrtancInfo.do?panId=0000061107&ccrCnntSysDsCd=02&uppAisTpCd=06&aisTpCd=08&mi=1026",
+      "attachments": [],
+      "firstCollectedAt": "2026-07-19T13:16:33+00:00",
+      "lastCheckedAt": "2026-07-19T13:16:33+00:00",
       "isNew": true
     },
     {
@@ -202,7 +917,7 @@
       "officialUrl": "https://www.i-sh.co.kr/main/lay2/program/S1T294C295/www/brd/m_241/view.do?seq=306065",
       "attachments": [],
       "firstCollectedAt": "2026-07-19T04:34:38+00:00",
-      "lastCheckedAt": "2026-07-19T13:10:03+00:00",
+      "lastCheckedAt": "2026-07-19T13:16:33+00:00",
       "isNew": true
     },
     {
@@ -221,7 +936,211 @@
       "officialUrl": "https://www.i-sh.co.kr/main/lay2/program/S1T294C295/www/brd/m_241/view.do?seq=306011",
       "attachments": [],
       "firstCollectedAt": "2026-07-19T04:34:38+00:00",
-      "lastCheckedAt": "2026-07-19T13:10:03+00:00",
+      "lastCheckedAt": "2026-07-19T13:16:33+00:00",
+      "isNew": true
+    },
+    {
+      "id": "LH-54c903d9719540",
+      "agency": "LH",
+      "title": "파주운정3 A34BL 영구임대주택 자격완화 예비자 모집",
+      "noticeType": "영구임대",
+      "targetGroups": [],
+      "regions": [
+        "경기도",
+        "파주"
+      ],
+      "publishedAt": "2026-06-22",
+      "applyStart": null,
+      "applyEnd": "2026-07-06",
+      "status": "접수마감",
+      "officialUrl": "https://apply.lh.or.kr/lhapply/apply/wt/wrtanc/selectWrtancInfo.do?panId=2015122300020173&ccrCnntSysDsCd=03&uppAisTpCd=06&aisTpCd=09&mi=1026",
+      "attachments": [],
+      "firstCollectedAt": "2026-07-19T13:16:33+00:00",
+      "lastCheckedAt": "2026-07-19T13:16:33+00:00",
+      "isNew": true
+    },
+    {
+      "id": "LH-58abd4ef62dc3e",
+      "agency": "LH",
+      "title": "김포한강 Ac-01a블록(데세리브) 10년 공공임대주택리츠 예비입주자 모집 공고",
+      "noticeType": "공공임대",
+      "targetGroups": [],
+      "regions": [
+        "경기도",
+        "김포"
+      ],
+      "publishedAt": "2026-06-19",
+      "applyStart": null,
+      "applyEnd": "2026-07-08",
+      "status": "접수마감",
+      "officialUrl": "https://apply.lh.or.kr/lhapply/apply/wt/wrtanc/selectWrtancInfo.do?panId=0000061106&ccrCnntSysDsCd=02&uppAisTpCd=06&aisTpCd=08&mi=1026",
+      "attachments": [],
+      "firstCollectedAt": "2026-07-19T13:16:33+00:00",
+      "lastCheckedAt": "2026-07-19T13:16:33+00:00",
+      "isNew": true
+    },
+    {
+      "id": "LH-e78e54bdf7980c",
+      "agency": "LH",
+      "title": "[정정공고]2026년 광명시 영구임대아파트 예비입주자 모집공고(2026.06.15) 정정공고",
+      "noticeType": "영구임대",
+      "targetGroups": [],
+      "regions": [
+        "경기도",
+        "광명시",
+        "광명"
+      ],
+      "publishedAt": "2026-06-19",
+      "applyStart": null,
+      "applyEnd": "2026-07-03",
+      "status": "접수마감",
+      "officialUrl": "https://apply.lh.or.kr/lhapply/apply/wt/wrtanc/selectWrtancInfo.do?panId=2015122300020175&ccrCnntSysDsCd=03&uppAisTpCd=06&aisTpCd=09&mi=1026",
+      "attachments": [],
+      "firstCollectedAt": "2026-07-19T13:16:33+00:00",
+      "lastCheckedAt": "2026-07-19T13:16:33+00:00",
+      "isNew": true
+    },
+    {
+      "id": "LH-8cff0578c40d8b",
+      "agency": "LH",
+      "title": "강화신문1 행복주택 예비입주자 모집공고(2026.06.18)",
+      "noticeType": "행복주택",
+      "targetGroups": [],
+      "regions": [
+        "인천광역시"
+      ],
+      "publishedAt": "2026-06-18",
+      "applyStart": null,
+      "applyEnd": "2026-06-29",
+      "status": "접수마감",
+      "officialUrl": "https://apply.lh.or.kr/lhapply/apply/wt/wrtanc/selectWrtancInfo.do?panId=2015122300020164&ccrCnntSysDsCd=03&uppAisTpCd=06&aisTpCd=10&mi=1026",
+      "attachments": [],
+      "firstCollectedAt": "2026-07-19T13:16:33+00:00",
+      "lastCheckedAt": "2026-07-19T13:16:33+00:00",
+      "isNew": true
+    },
+    {
+      "id": "LH-7bbbb2e9d01ddd",
+      "agency": "LH",
+      "title": "화성시 행복주택 입주자격완화 예비입주자 모집",
+      "noticeType": "행복주택",
+      "targetGroups": [],
+      "regions": [
+        "경기도",
+        "화성시",
+        "화성"
+      ],
+      "publishedAt": "2026-06-16",
+      "applyStart": null,
+      "applyEnd": "2026-07-02",
+      "status": "접수마감",
+      "officialUrl": "https://apply.lh.or.kr/lhapply/apply/wt/wrtanc/selectWrtancInfo.do?panId=2015122300020126&ccrCnntSysDsCd=03&uppAisTpCd=06&aisTpCd=10&mi=1026",
+      "attachments": [],
+      "firstCollectedAt": "2026-07-19T13:16:33+00:00",
+      "lastCheckedAt": "2026-07-19T13:16:33+00:00",
+      "isNew": true
+    },
+    {
+      "id": "LH-391772813f08c0",
+      "agency": "LH",
+      "title": "2026년 광명시 영구임대아파트 예비입주자 모집공고(2026.06.15)",
+      "noticeType": "영구임대",
+      "targetGroups": [],
+      "regions": [
+        "경기도",
+        "광명시",
+        "광명"
+      ],
+      "publishedAt": "2026-06-15",
+      "applyStart": null,
+      "applyEnd": "2026-07-03",
+      "status": "접수마감",
+      "officialUrl": "https://apply.lh.or.kr/lhapply/apply/wt/wrtanc/selectWrtancInfo.do?panId=2015122300020143&ccrCnntSysDsCd=03&uppAisTpCd=06&aisTpCd=09&mi=1026",
+      "attachments": [],
+      "firstCollectedAt": "2026-07-19T13:16:33+00:00",
+      "lastCheckedAt": "2026-07-19T13:16:33+00:00",
+      "isNew": true
+    },
+    {
+      "id": "LH-a2e42828e78993",
+      "agency": "LH",
+      "title": "평택시.안성시 지역 행복주택 입주자격완화 예비입주자 모집(2026.06.11)",
+      "noticeType": "행복주택",
+      "targetGroups": [],
+      "regions": [
+        "경기도",
+        "평택시",
+        "평택",
+        "안성시"
+      ],
+      "publishedAt": "2026-06-11",
+      "applyStart": null,
+      "applyEnd": "2026-06-23",
+      "status": "접수마감",
+      "officialUrl": "https://apply.lh.or.kr/lhapply/apply/wt/wrtanc/selectWrtancInfo.do?panId=2015122300020105&ccrCnntSysDsCd=03&uppAisTpCd=06&aisTpCd=10&mi=1026",
+      "attachments": [],
+      "firstCollectedAt": "2026-07-19T13:16:33+00:00",
+      "lastCheckedAt": "2026-07-19T13:16:33+00:00",
+      "isNew": true
+    },
+    {
+      "id": "LH-db73770c0bb834",
+      "agency": "LH",
+      "title": "오산운암6단지 50년 공공임대 예비입주자 모집",
+      "noticeType": "공공임대",
+      "targetGroups": [],
+      "regions": [
+        "경기도",
+        "오산"
+      ],
+      "publishedAt": "2026-06-10",
+      "applyStart": null,
+      "applyEnd": "2026-06-23",
+      "status": "접수마감",
+      "officialUrl": "https://apply.lh.or.kr/lhapply/apply/wt/wrtanc/selectWrtancInfo.do?panId=2015122300020062&ccrCnntSysDsCd=03&uppAisTpCd=06&aisTpCd=08&mi=1026",
+      "attachments": [],
+      "firstCollectedAt": "2026-07-19T13:16:33+00:00",
+      "lastCheckedAt": "2026-07-19T13:16:33+00:00",
+      "isNew": true
+    },
+    {
+      "id": "LH-5bfb29e10211c8",
+      "agency": "LH",
+      "title": "루원시티서한이다음(인천가정2 A-2블록) 가정어린이집 운영예정자 모집공고(1회차)",
+      "noticeType": "가정어린이집",
+      "targetGroups": [],
+      "regions": [
+        "인천광역시"
+      ],
+      "publishedAt": "2026-06-09",
+      "applyStart": null,
+      "applyEnd": "2026-06-29",
+      "status": "접수마감",
+      "officialUrl": "https://apply.lh.or.kr/lhapply/apply/wt/wrtanc/selectWrtancInfo.do?panId=2015122300020085&ccrCnntSysDsCd=03&uppAisTpCd=06&aisTpCd=40&mi=1026",
+      "attachments": [],
+      "firstCollectedAt": "2026-07-19T13:16:33+00:00",
+      "lastCheckedAt": "2026-07-19T13:16:33+00:00",
+      "isNew": true
+    },
+    {
+      "id": "LH-cf22599d89cd7c",
+      "agency": "LH",
+      "title": "파주시 행복주택 예비입주자 모집공고('26.06.05)",
+      "noticeType": "행복주택",
+      "targetGroups": [],
+      "regions": [
+        "경기도",
+        "파주시",
+        "파주"
+      ],
+      "publishedAt": "2026-06-05",
+      "applyStart": null,
+      "applyEnd": "2026-06-22",
+      "status": "접수마감",
+      "officialUrl": "https://apply.lh.or.kr/lhapply/apply/wt/wrtanc/selectWrtancInfo.do?panId=2015122300020057&ccrCnntSysDsCd=03&uppAisTpCd=06&aisTpCd=10&mi=1026",
+      "attachments": [],
+      "firstCollectedAt": "2026-07-19T13:16:33+00:00",
+      "lastCheckedAt": "2026-07-19T13:16:33+00:00",
       "isNew": true
     },
     {
@@ -242,7 +1161,27 @@
       "officialUrl": "https://www.i-sh.co.kr/main/lay2/program/S1T294C295/www/brd/m_241/view.do?seq=305221",
       "attachments": [],
       "firstCollectedAt": "2026-07-19T04:34:38+00:00",
-      "lastCheckedAt": "2026-07-19T13:10:03+00:00",
+      "lastCheckedAt": "2026-07-19T13:16:33+00:00",
+      "isNew": true
+    },
+    {
+      "id": "LH-66804ac8853868",
+      "agency": "LH",
+      "title": "[정정공고]평택합정3 영구임대주택 예비입주자 모집공고(2026.01.19)-발표일 수정공고",
+      "noticeType": "영구임대",
+      "targetGroups": [],
+      "regions": [
+        "경기도",
+        "평택"
+      ],
+      "publishedAt": "2026-06-02",
+      "applyStart": null,
+      "applyEnd": "2026-02-06",
+      "status": "접수마감",
+      "officialUrl": "https://apply.lh.or.kr/lhapply/apply/wt/wrtanc/selectWrtancInfo.do?panId=2015122300020055&ccrCnntSysDsCd=03&uppAisTpCd=06&aisTpCd=09&mi=1026",
+      "attachments": [],
+      "firstCollectedAt": "2026-07-19T13:16:33+00:00",
+      "lastCheckedAt": "2026-07-19T13:16:33+00:00",
       "isNew": true
     },
     {
@@ -263,7 +1202,7 @@
       "officialUrl": "https://www.i-sh.co.kr/main/lay2/program/S1T294C295/www/brd/m_241/view.do?seq=305240",
       "attachments": [],
       "firstCollectedAt": "2026-07-19T04:34:38+00:00",
-      "lastCheckedAt": "2026-07-19T13:10:03+00:00",
+      "lastCheckedAt": "2026-07-19T13:16:33+00:00",
       "isNew": true
     },
     {
@@ -284,7 +1223,27 @@
       "officialUrl": "https://www.i-sh.co.kr/main/lay2/program/S1T294C295/www/brd/m_241/view.do?seq=304925",
       "attachments": [],
       "firstCollectedAt": "2026-07-19T04:34:38+00:00",
-      "lastCheckedAt": "2026-07-19T13:10:03+00:00",
+      "lastCheckedAt": "2026-07-19T13:16:33+00:00",
+      "isNew": true
+    },
+    {
+      "id": "LH-c190604888e712",
+      "agency": "LH",
+      "title": "[경기남부권 이천부발 국민임대주택 예비입주자 모집(2026.05.29.)",
+      "noticeType": "국민임대",
+      "targetGroups": [],
+      "regions": [
+        "경기도",
+        "이천"
+      ],
+      "publishedAt": "2026-05-29",
+      "applyStart": null,
+      "applyEnd": "2026-06-11",
+      "status": "접수마감",
+      "officialUrl": "https://apply.lh.or.kr/lhapply/apply/wt/wrtanc/selectWrtancInfo.do?panId=2015122300020029&ccrCnntSysDsCd=03&uppAisTpCd=06&aisTpCd=07&mi=1026",
+      "attachments": [],
+      "firstCollectedAt": "2026-07-19T13:16:33+00:00",
+      "lastCheckedAt": "2026-07-19T13:16:33+00:00",
       "isNew": true
     },
     {
@@ -303,7 +1262,147 @@
       "officialUrl": "https://www.i-sh.co.kr/main/lay2/program/S1T294C295/www/brd/m_241/view.do?seq=304864",
       "attachments": [],
       "firstCollectedAt": "2026-07-19T04:34:38+00:00",
-      "lastCheckedAt": "2026-07-19T13:10:03+00:00",
+      "lastCheckedAt": "2026-07-19T13:16:33+00:00",
+      "isNew": true
+    },
+    {
+      "id": "LH-07066cbe4cad76",
+      "agency": "LH",
+      "title": "파주운정3 A12BL(해오름12) 10년 공공임대주택리츠 예비입주자모집(무순위)",
+      "noticeType": "공공임대",
+      "targetGroups": [],
+      "regions": [
+        "경기도",
+        "파주"
+      ],
+      "publishedAt": "2026-05-28",
+      "applyStart": null,
+      "applyEnd": "2026-06-09",
+      "status": "접수마감",
+      "officialUrl": "https://apply.lh.or.kr/lhapply/apply/wt/wrtanc/selectWrtancInfo.do?panId=0000061104&ccrCnntSysDsCd=02&uppAisTpCd=06&aisTpCd=08&mi=1026",
+      "attachments": [],
+      "firstCollectedAt": "2026-07-19T13:16:33+00:00",
+      "lastCheckedAt": "2026-07-19T13:16:33+00:00",
+      "isNew": true
+    },
+    {
+      "id": "LH-ed9d7a3fef577e",
+      "agency": "LH",
+      "title": "[신규모집] 부평캐슬앤더샵퍼스트(청천1구역 주택재개발정비사업) 행복주택 입주자 모집",
+      "noticeType": "행복주택",
+      "targetGroups": [],
+      "regions": [
+        "인천광역시"
+      ],
+      "publishedAt": "2026-05-28",
+      "applyStart": null,
+      "applyEnd": "2026-06-11",
+      "status": "접수마감",
+      "officialUrl": "https://apply.lh.or.kr/lhapply/apply/wt/wrtanc/selectWrtancInfo.do?panId=2015122300020033&ccrCnntSysDsCd=03&uppAisTpCd=06&aisTpCd=10&mi=1026",
+      "attachments": [],
+      "firstCollectedAt": "2026-07-19T13:16:33+00:00",
+      "lastCheckedAt": "2026-07-19T13:16:33+00:00",
+      "isNew": true
+    },
+    {
+      "id": "LH-083a63345943c3",
+      "agency": "LH",
+      "title": "[정정공고]시흥시 10년 공공임대주택 예비입주자 모집공고",
+      "noticeType": "공공임대",
+      "targetGroups": [],
+      "regions": [
+        "경기도",
+        "시흥시",
+        "시흥"
+      ],
+      "publishedAt": "2026-05-27",
+      "applyStart": null,
+      "applyEnd": "2026-05-29",
+      "status": "접수마감",
+      "officialUrl": "https://apply.lh.or.kr/lhapply/apply/wt/wrtanc/selectWrtancInfo.do?panId=0000061103&ccrCnntSysDsCd=02&uppAisTpCd=06&aisTpCd=08&mi=1026",
+      "attachments": [],
+      "firstCollectedAt": "2026-07-19T13:16:33+00:00",
+      "lastCheckedAt": "2026-07-19T13:16:33+00:00",
+      "isNew": true
+    },
+    {
+      "id": "LH-646631b9f02802",
+      "agency": "LH",
+      "title": "인천논현 LH16단지 (인천논현4 1블록) 창업지원주택 입주자 모집[인정업종 확대, 선착순동호지정, 선계약후검증](입주자모집공고일 : 2026.05.26.)",
+      "noticeType": "행복주택",
+      "targetGroups": [],
+      "regions": [
+        "인천광역시"
+      ],
+      "publishedAt": "2026-05-26",
+      "applyStart": null,
+      "applyEnd": "2026-06-09",
+      "status": "접수마감",
+      "officialUrl": "https://apply.lh.or.kr/lhapply/apply/wt/wrtanc/selectWrtancInfo.do?panId=2015122300020025&ccrCnntSysDsCd=03&uppAisTpCd=06&aisTpCd=10&mi=1026",
+      "attachments": [],
+      "firstCollectedAt": "2026-07-19T13:16:33+00:00",
+      "lastCheckedAt": "2026-07-19T13:16:33+00:00",
+      "isNew": true
+    },
+    {
+      "id": "LH-ed8deb54a5e810",
+      "agency": "LH",
+      "title": "안양시 영구임대주택 예비입주자 모집공고(2026.05.21.)",
+      "noticeType": "영구임대",
+      "targetGroups": [],
+      "regions": [
+        "경기도",
+        "안양시",
+        "안양"
+      ],
+      "publishedAt": "2026-05-21",
+      "applyStart": null,
+      "applyEnd": "2026-06-12",
+      "status": "접수마감",
+      "officialUrl": "https://apply.lh.or.kr/lhapply/apply/wt/wrtanc/selectWrtancInfo.do?panId=2015122300020019&ccrCnntSysDsCd=03&uppAisTpCd=06&aisTpCd=09&mi=1026",
+      "attachments": [],
+      "firstCollectedAt": "2026-07-19T13:16:33+00:00",
+      "lastCheckedAt": "2026-07-19T13:16:33+00:00",
+      "isNew": true
+    },
+    {
+      "id": "LH-06826892fbb163",
+      "agency": "LH",
+      "title": "[정정공고]시흥시 10년 공공임대주택 예비입주자 모집공고",
+      "noticeType": "공공임대",
+      "targetGroups": [],
+      "regions": [
+        "경기도",
+        "시흥시",
+        "시흥"
+      ],
+      "publishedAt": "2026-05-21",
+      "applyStart": null,
+      "applyEnd": "2026-05-29",
+      "status": "접수마감",
+      "officialUrl": "https://apply.lh.or.kr/lhapply/apply/wt/wrtanc/selectWrtancInfo.do?panId=0000061090&ccrCnntSysDsCd=02&uppAisTpCd=06&aisTpCd=08&mi=1026",
+      "attachments": [],
+      "firstCollectedAt": "2026-07-19T13:16:33+00:00",
+      "lastCheckedAt": "2026-07-19T13:16:33+00:00",
+      "isNew": true
+    },
+    {
+      "id": "LH-e6f280e69863b5",
+      "agency": "LH",
+      "title": "[정정공고]'26년 5월 인천시(남동구) 행복주택 입주자격완화 예비입주자 모집",
+      "noticeType": "행복주택",
+      "targetGroups": [],
+      "regions": [
+        "인천광역시"
+      ],
+      "publishedAt": "2026-05-19",
+      "applyStart": null,
+      "applyEnd": "2026-05-21",
+      "status": "접수마감",
+      "officialUrl": "https://apply.lh.or.kr/lhapply/apply/wt/wrtanc/selectWrtancInfo.do?panId=2015122300019996&ccrCnntSysDsCd=03&uppAisTpCd=06&aisTpCd=10&mi=1026",
+      "attachments": [],
+      "firstCollectedAt": "2026-07-19T13:16:33+00:00",
+      "lastCheckedAt": "2026-07-19T13:16:33+00:00",
       "isNew": true
     },
     {
@@ -324,7 +1423,7 @@
       "officialUrl": "https://www.i-sh.co.kr/main/lay2/program/S1T294C295/www/brd/m_241/view.do?seq=305517",
       "attachments": [],
       "firstCollectedAt": "2026-07-19T04:34:38+00:00",
-      "lastCheckedAt": "2026-07-19T13:10:03+00:00",
+      "lastCheckedAt": "2026-07-19T13:16:33+00:00",
       "isNew": true
     },
     {
@@ -343,7 +1442,7 @@
       "officialUrl": "https://www.i-sh.co.kr/main/lay2/program/S1T294C295/www/brd/m_241/view.do?seq=304106",
       "attachments": [],
       "firstCollectedAt": "2026-07-19T04:34:38+00:00",
-      "lastCheckedAt": "2026-07-19T13:10:03+00:00",
+      "lastCheckedAt": "2026-07-19T13:16:33+00:00",
       "isNew": true
     },
     {
@@ -362,7 +1461,7 @@
       "officialUrl": "https://www.i-sh.co.kr/main/lay2/program/S1T294C295/www/brd/m_241/view.do?seq=303656",
       "attachments": [],
       "firstCollectedAt": "2026-07-19T04:34:38+00:00",
-      "lastCheckedAt": "2026-07-19T13:10:03+00:00",
+      "lastCheckedAt": "2026-07-19T13:16:33+00:00",
       "isNew": true
     },
     {
@@ -381,7 +1480,7 @@
       "officialUrl": "https://www.i-sh.co.kr/main/lay2/program/S1T294C295/www/brd/m_241/view.do?seq=303557",
       "attachments": [],
       "firstCollectedAt": "2026-07-19T04:34:38+00:00",
-      "lastCheckedAt": "2026-07-19T13:10:03+00:00",
+      "lastCheckedAt": "2026-07-19T13:16:33+00:00",
       "isNew": true
     },
     {
@@ -400,7 +1499,7 @@
       "officialUrl": "https://www.i-sh.co.kr/main/lay2/program/S1T294C295/www/brd/m_241/view.do?seq=303480",
       "attachments": [],
       "firstCollectedAt": "2026-07-19T04:34:38+00:00",
-      "lastCheckedAt": "2026-07-19T13:10:03+00:00",
+      "lastCheckedAt": "2026-07-19T13:16:33+00:00",
       "isNew": true
     },
     {
@@ -422,7 +1521,7 @@
       "officialUrl": "https://www.i-sh.co.kr/main/lay2/program/S1T294C295/www/brd/m_241/view.do?seq=301742",
       "attachments": [],
       "firstCollectedAt": "2026-07-19T04:34:38+00:00",
-      "lastCheckedAt": "2026-07-19T13:10:03+00:00",
+      "lastCheckedAt": "2026-07-19T13:16:33+00:00",
       "isNew": true
     },
     {
@@ -441,7 +1540,7 @@
       "officialUrl": "https://www.i-sh.co.kr/main/lay2/program/S1T294C295/www/brd/m_241/view.do?seq=300255",
       "attachments": [],
       "firstCollectedAt": "2026-07-19T04:34:38+00:00",
-      "lastCheckedAt": "2026-07-19T13:10:03+00:00",
+      "lastCheckedAt": "2026-07-19T13:16:33+00:00",
       "isNew": true
     },
     {
@@ -460,7 +1559,7 @@
       "officialUrl": "https://www.i-sh.co.kr/main/lay2/program/S1T294C295/www/brd/m_241/view.do?seq=299904",
       "attachments": [],
       "firstCollectedAt": "2026-07-19T04:34:38+00:00",
-      "lastCheckedAt": "2026-07-19T13:10:03+00:00",
+      "lastCheckedAt": "2026-07-19T13:16:33+00:00",
       "isNew": true
     },
     {
@@ -479,7 +1578,7 @@
       "officialUrl": "https://www.i-sh.co.kr/main/lay2/program/S1T294C295/www/brd/m_241/view.do?seq=298109",
       "attachments": [],
       "firstCollectedAt": "2026-07-19T04:34:38+00:00",
-      "lastCheckedAt": "2026-07-19T13:10:03+00:00",
+      "lastCheckedAt": "2026-07-19T13:16:33+00:00",
       "isNew": true
     },
     {
@@ -498,7 +1597,7 @@
       "officialUrl": "https://www.i-sh.co.kr/main/lay2/program/S1T294C295/www/brd/m_241/view.do?seq=304349",
       "attachments": [],
       "firstCollectedAt": "2026-07-19T04:34:38+00:00",
-      "lastCheckedAt": "2026-07-19T13:10:03+00:00",
+      "lastCheckedAt": "2026-07-19T13:16:33+00:00",
       "isNew": true
     },
     {
@@ -517,7 +1616,7 @@
       "officialUrl": "https://www.i-sh.co.kr/main/lay2/program/S1T294C295/www/brd/m_241/view.do?seq=303771",
       "attachments": [],
       "firstCollectedAt": "2026-07-19T04:34:38+00:00",
-      "lastCheckedAt": "2026-07-19T13:10:03+00:00",
+      "lastCheckedAt": "2026-07-19T13:16:33+00:00",
       "isNew": true
     },
     {
@@ -536,7 +1635,7 @@
       "officialUrl": "https://www.i-sh.co.kr/main/lay2/program/S1T294C295/www/brd/m_241/view.do?seq=303238",
       "attachments": [],
       "firstCollectedAt": "2026-07-19T04:34:38+00:00",
-      "lastCheckedAt": "2026-07-19T13:10:03+00:00",
+      "lastCheckedAt": "2026-07-19T13:16:33+00:00",
       "isNew": true
     },
     {
@@ -555,7 +1654,7 @@
       "officialUrl": "https://www.i-sh.co.kr/main/lay2/program/S1T294C295/www/brd/m_241/view.do?seq=302479",
       "attachments": [],
       "firstCollectedAt": "2026-07-19T04:34:38+00:00",
-      "lastCheckedAt": "2026-07-19T13:10:03+00:00",
+      "lastCheckedAt": "2026-07-19T13:16:33+00:00",
       "isNew": true
     },
     {
@@ -574,7 +1673,7 @@
       "officialUrl": "https://www.i-sh.co.kr/main/lay2/program/S1T294C295/www/brd/m_241/view.do?seq=296501",
       "attachments": [],
       "firstCollectedAt": "2026-07-19T04:34:38+00:00",
-      "lastCheckedAt": "2026-07-19T13:10:03+00:00",
+      "lastCheckedAt": "2026-07-19T13:16:33+00:00",
       "isNew": true
     },
     {
@@ -593,7 +1692,7 @@
       "officialUrl": "https://www.i-sh.co.kr/main/lay2/program/S1T294C295/www/brd/m_241/view.do?seq=297335",
       "attachments": [],
       "firstCollectedAt": "2026-07-19T04:34:38+00:00",
-      "lastCheckedAt": "2026-07-19T13:10:03+00:00",
+      "lastCheckedAt": "2026-07-19T13:16:33+00:00",
       "isNew": true
     },
     {
@@ -612,7 +1711,7 @@
       "officialUrl": "https://www.i-sh.co.kr/main/lay2/program/S1T294C295/www/brd/m_241/view.do?seq=296645",
       "attachments": [],
       "firstCollectedAt": "2026-07-19T04:34:38+00:00",
-      "lastCheckedAt": "2026-07-19T13:10:03+00:00",
+      "lastCheckedAt": "2026-07-19T13:16:33+00:00",
       "isNew": true
     },
     {
@@ -631,7 +1730,7 @@
       "officialUrl": "https://www.i-sh.co.kr/main/lay2/program/S1T294C295/www/brd/m_241/view.do?seq=301011",
       "attachments": [],
       "firstCollectedAt": "2026-07-19T04:34:38+00:00",
-      "lastCheckedAt": "2026-07-19T13:10:03+00:00",
+      "lastCheckedAt": "2026-07-19T13:16:33+00:00",
       "isNew": true
     },
     {
@@ -650,7 +1749,7 @@
       "officialUrl": "https://www.i-sh.co.kr/main/lay2/program/S1T294C295/www/brd/m_241/view.do?seq=295159",
       "attachments": [],
       "firstCollectedAt": "2026-07-19T04:34:38+00:00",
-      "lastCheckedAt": "2026-07-19T13:10:03+00:00",
+      "lastCheckedAt": "2026-07-19T13:16:33+00:00",
       "isNew": true
     },
     {
@@ -669,7 +1768,7 @@
       "officialUrl": "https://www.i-sh.co.kr/main/lay2/program/S1T294C295/www/brd/m_241/view.do?seq=294206",
       "attachments": [],
       "firstCollectedAt": "2026-07-19T04:34:38+00:00",
-      "lastCheckedAt": "2026-07-19T13:10:03+00:00",
+      "lastCheckedAt": "2026-07-19T13:16:33+00:00",
       "isNew": true
     },
     {
@@ -688,7 +1787,7 @@
       "officialUrl": "https://www.i-sh.co.kr/main/lay2/program/S1T294C295/www/brd/m_241/view.do?seq=292541",
       "attachments": [],
       "firstCollectedAt": "2026-07-19T04:34:38+00:00",
-      "lastCheckedAt": "2026-07-19T13:10:03+00:00",
+      "lastCheckedAt": "2026-07-19T13:16:33+00:00",
       "isNew": true
     },
     {
@@ -707,7 +1806,7 @@
       "officialUrl": "https://www.i-sh.co.kr/main/lay2/program/S1T294C295/www/brd/m_241/view.do?seq=292305",
       "attachments": [],
       "firstCollectedAt": "2026-07-19T04:34:38+00:00",
-      "lastCheckedAt": "2026-07-19T13:10:03+00:00",
+      "lastCheckedAt": "2026-07-19T13:16:33+00:00",
       "isNew": true
     },
     {
@@ -726,7 +1825,7 @@
       "officialUrl": "https://www.i-sh.co.kr/main/lay2/program/S1T294C295/www/brd/m_241/view.do?seq=299825",
       "attachments": [],
       "firstCollectedAt": "2026-07-19T04:34:38+00:00",
-      "lastCheckedAt": "2026-07-19T13:10:03+00:00",
+      "lastCheckedAt": "2026-07-19T13:16:33+00:00",
       "isNew": true
     },
     {
@@ -745,7 +1844,7 @@
       "officialUrl": "https://www.i-sh.co.kr/main/lay2/program/S1T294C295/www/brd/m_241/view.do?seq=290172",
       "attachments": [],
       "firstCollectedAt": "2026-07-19T04:34:38+00:00",
-      "lastCheckedAt": "2026-07-19T13:10:03+00:00",
+      "lastCheckedAt": "2026-07-19T13:16:33+00:00",
       "isNew": true
     },
     {
@@ -764,7 +1863,7 @@
       "officialUrl": "https://www.i-sh.co.kr/main/lay2/program/S1T294C295/www/brd/m_241/view.do?seq=287727",
       "attachments": [],
       "firstCollectedAt": "2026-07-19T04:34:38+00:00",
-      "lastCheckedAt": "2026-07-19T13:10:03+00:00",
+      "lastCheckedAt": "2026-07-19T13:16:33+00:00",
       "isNew": true
     },
     {
@@ -783,7 +1882,7 @@
       "officialUrl": "https://www.i-sh.co.kr/main/lay2/program/S1T294C295/www/brd/m_241/view.do?seq=287311",
       "attachments": [],
       "firstCollectedAt": "2026-07-19T04:34:38+00:00",
-      "lastCheckedAt": "2026-07-19T13:10:03+00:00",
+      "lastCheckedAt": "2026-07-19T13:16:33+00:00",
       "isNew": true
     },
     {
@@ -802,7 +1901,7 @@
       "officialUrl": "https://www.i-sh.co.kr/main/lay2/program/S1T294C295/www/brd/m_241/view.do?seq=287466",
       "attachments": [],
       "firstCollectedAt": "2026-07-19T04:34:38+00:00",
-      "lastCheckedAt": "2026-07-19T13:10:03+00:00",
+      "lastCheckedAt": "2026-07-19T13:16:33+00:00",
       "isNew": true
     },
     {
@@ -821,7 +1920,7 @@
       "officialUrl": "https://www.i-sh.co.kr/main/lay2/program/S1T294C295/www/brd/m_241/view.do?seq=288199",
       "attachments": [],
       "firstCollectedAt": "2026-07-19T04:34:38+00:00",
-      "lastCheckedAt": "2026-07-19T13:10:03+00:00",
+      "lastCheckedAt": "2026-07-19T13:16:33+00:00",
       "isNew": true
     },
     {
@@ -840,7 +1939,7 @@
       "officialUrl": "https://www.i-sh.co.kr/main/lay2/program/S1T294C295/www/brd/m_241/view.do?seq=285742",
       "attachments": [],
       "firstCollectedAt": "2026-07-19T04:34:38+00:00",
-      "lastCheckedAt": "2026-07-19T13:10:03+00:00",
+      "lastCheckedAt": "2026-07-19T13:16:33+00:00",
       "isNew": true
     },
     {
@@ -859,7 +1958,7 @@
       "officialUrl": "https://www.i-sh.co.kr/main/lay2/program/S1T294C295/www/brd/m_241/view.do?seq=282652",
       "attachments": [],
       "firstCollectedAt": "2026-07-19T04:34:38+00:00",
-      "lastCheckedAt": "2026-07-19T13:10:03+00:00",
+      "lastCheckedAt": "2026-07-19T13:16:33+00:00",
       "isNew": true
     },
     {
@@ -878,7 +1977,7 @@
       "officialUrl": "https://www.i-sh.co.kr/main/lay2/program/S1T294C295/www/brd/m_241/view.do?seq=282546",
       "attachments": [],
       "firstCollectedAt": "2026-07-19T04:34:38+00:00",
-      "lastCheckedAt": "2026-07-19T13:10:03+00:00",
+      "lastCheckedAt": "2026-07-19T13:16:33+00:00",
       "isNew": true
     },
     {
@@ -897,7 +1996,7 @@
       "officialUrl": "https://www.i-sh.co.kr/main/lay2/program/S1T294C295/www/brd/m_241/view.do?seq=279905",
       "attachments": [],
       "firstCollectedAt": "2026-07-19T04:34:38+00:00",
-      "lastCheckedAt": "2026-07-19T13:10:03+00:00",
+      "lastCheckedAt": "2026-07-19T13:16:33+00:00",
       "isNew": true
     },
     {
@@ -916,7 +2015,7 @@
       "officialUrl": "https://www.i-sh.co.kr/main/lay2/program/S1T294C295/www/brd/m_241/view.do?seq=279305",
       "attachments": [],
       "firstCollectedAt": "2026-07-19T04:34:38+00:00",
-      "lastCheckedAt": "2026-07-19T13:10:03+00:00",
+      "lastCheckedAt": "2026-07-19T13:16:33+00:00",
       "isNew": true
     },
     {
@@ -935,7 +2034,7 @@
       "officialUrl": "https://www.i-sh.co.kr/main/lay2/program/S1T294C295/www/brd/m_241/view.do?seq=278265",
       "attachments": [],
       "firstCollectedAt": "2026-07-19T04:34:38+00:00",
-      "lastCheckedAt": "2026-07-19T13:10:03+00:00",
+      "lastCheckedAt": "2026-07-19T13:16:33+00:00",
       "isNew": true
     },
     {
@@ -954,7 +2053,7 @@
       "officialUrl": "https://www.i-sh.co.kr/main/lay2/program/S1T294C295/www/brd/m_241/view.do?seq=281012",
       "attachments": [],
       "firstCollectedAt": "2026-07-19T04:34:38+00:00",
-      "lastCheckedAt": "2026-07-19T13:10:03+00:00",
+      "lastCheckedAt": "2026-07-19T13:16:33+00:00",
       "isNew": true
     },
     {
@@ -973,7 +2072,7 @@
       "officialUrl": "https://www.gh.or.kr/gh/announcement-of-salerental001.do?mode=view&articleNo=64776&article.offset=0&articleLimit=100",
       "attachments": [],
       "firstCollectedAt": "2026-07-19T04:07:52+00:00",
-      "lastCheckedAt": "2026-07-19T13:10:03+00:00",
+      "lastCheckedAt": "2026-07-19T13:16:33+00:00",
       "isNew": true
     },
     {
@@ -992,7 +2091,7 @@
       "officialUrl": "https://www.gh.or.kr/gh/announcement-of-salerental001.do?mode=view&articleNo=64766&article.offset=0&articleLimit=100",
       "attachments": [],
       "firstCollectedAt": "2026-07-19T04:07:52+00:00",
-      "lastCheckedAt": "2026-07-19T13:10:03+00:00",
+      "lastCheckedAt": "2026-07-19T13:16:33+00:00",
       "isNew": true
     },
     {
@@ -1014,7 +2113,7 @@
       "officialUrl": "https://www.gh.or.kr/gh/announcement-of-salerental001.do?mode=view&articleNo=64831&article.offset=0&articleLimit=100",
       "attachments": [],
       "firstCollectedAt": "2026-07-19T04:07:52+00:00",
-      "lastCheckedAt": "2026-07-19T13:10:03+00:00",
+      "lastCheckedAt": "2026-07-19T13:16:33+00:00",
       "isNew": true
     },
     {
@@ -1034,7 +2133,7 @@
       "officialUrl": "https://www.gh.or.kr/gh/announcement-of-salerental001.do?mode=view&articleNo=64640&article.offset=0&articleLimit=100",
       "attachments": [],
       "firstCollectedAt": "2026-07-19T04:07:52+00:00",
-      "lastCheckedAt": "2026-07-19T13:10:03+00:00",
+      "lastCheckedAt": "2026-07-19T13:16:33+00:00",
       "isNew": true
     },
     {
@@ -1054,7 +2153,7 @@
       "officialUrl": "https://www.gh.or.kr/gh/announcement-of-salerental001.do?mode=view&articleNo=64817&article.offset=0&articleLimit=100",
       "attachments": [],
       "firstCollectedAt": "2026-07-19T04:07:52+00:00",
-      "lastCheckedAt": "2026-07-19T13:10:03+00:00",
+      "lastCheckedAt": "2026-07-19T13:16:33+00:00",
       "isNew": true
     },
     {
@@ -1074,7 +2173,7 @@
       "officialUrl": "https://www.gh.or.kr/gh/announcement-of-salerental001.do?mode=view&articleNo=64959&article.offset=0&articleLimit=100",
       "attachments": [],
       "firstCollectedAt": "2026-07-19T04:07:52+00:00",
-      "lastCheckedAt": "2026-07-19T13:10:03+00:00",
+      "lastCheckedAt": "2026-07-19T13:16:33+00:00",
       "isNew": true
     },
     {
@@ -1094,7 +2193,7 @@
       "officialUrl": "https://www.gh.or.kr/gh/announcement-of-salerental001.do?mode=view&articleNo=64966&article.offset=0&articleLimit=100",
       "attachments": [],
       "firstCollectedAt": "2026-07-19T04:07:52+00:00",
-      "lastCheckedAt": "2026-07-19T13:10:03+00:00",
+      "lastCheckedAt": "2026-07-19T13:16:33+00:00",
       "isNew": true
     },
     {
@@ -1114,7 +2213,7 @@
       "officialUrl": "https://www.gh.or.kr/gh/announcement-of-salerental001.do?mode=view&articleNo=64679&article.offset=0&articleLimit=100",
       "attachments": [],
       "firstCollectedAt": "2026-07-19T04:07:52+00:00",
-      "lastCheckedAt": "2026-07-19T13:10:03+00:00",
+      "lastCheckedAt": "2026-07-19T13:16:33+00:00",
       "isNew": true
     },
     {
@@ -1135,7 +2234,7 @@
       "officialUrl": "https://www.gh.or.kr/gh/announcement-of-salerental001.do?mode=view&articleNo=64782&article.offset=0&articleLimit=100",
       "attachments": [],
       "firstCollectedAt": "2026-07-19T04:07:52+00:00",
-      "lastCheckedAt": "2026-07-19T13:10:03+00:00",
+      "lastCheckedAt": "2026-07-19T13:16:33+00:00",
       "isNew": true
     },
     {
@@ -1154,7 +2253,7 @@
       "officialUrl": "https://www.gh.or.kr/gh/announcement-of-salerental001.do?mode=view&articleNo=64997&article.offset=0&articleLimit=100",
       "attachments": [],
       "firstCollectedAt": "2026-07-19T04:07:52+00:00",
-      "lastCheckedAt": "2026-07-19T13:10:03+00:00",
+      "lastCheckedAt": "2026-07-19T13:16:33+00:00",
       "isNew": true
     },
     {
@@ -1173,7 +2272,7 @@
       "officialUrl": "https://www.gh.or.kr/gh/announcement-of-salerental001.do?mode=view&articleNo=64888&article.offset=0&articleLimit=100",
       "attachments": [],
       "firstCollectedAt": "2026-07-19T04:07:52+00:00",
-      "lastCheckedAt": "2026-07-19T13:10:03+00:00",
+      "lastCheckedAt": "2026-07-19T13:16:33+00:00",
       "isNew": true
     },
     {
@@ -1192,7 +2291,7 @@
       "officialUrl": "https://www.gh.or.kr/gh/announcement-of-salerental001.do?mode=view&articleNo=64811&article.offset=0&articleLimit=100",
       "attachments": [],
       "firstCollectedAt": "2026-07-19T04:07:52+00:00",
-      "lastCheckedAt": "2026-07-19T13:10:03+00:00",
+      "lastCheckedAt": "2026-07-19T13:16:33+00:00",
       "isNew": true
     },
     {
@@ -1211,7 +2310,7 @@
       "officialUrl": "https://www.gh.or.kr/gh/announcement-of-salerental001.do?mode=view&articleNo=64847&article.offset=0&articleLimit=100",
       "attachments": [],
       "firstCollectedAt": "2026-07-19T04:07:52+00:00",
-      "lastCheckedAt": "2026-07-19T13:10:03+00:00",
+      "lastCheckedAt": "2026-07-19T13:16:33+00:00",
       "isNew": true
     },
     {
@@ -1233,7 +2332,7 @@
       "officialUrl": "https://www.gh.or.kr/gh/announcement-of-salerental001.do?mode=view&articleNo=64845&article.offset=0&articleLimit=100",
       "attachments": [],
       "firstCollectedAt": "2026-07-19T04:07:52+00:00",
-      "lastCheckedAt": "2026-07-19T13:10:03+00:00",
+      "lastCheckedAt": "2026-07-19T13:16:33+00:00",
       "isNew": true
     },
     {
@@ -1253,7 +2352,7 @@
       "officialUrl": "https://www.gh.or.kr/gh/announcement-of-salerental001.do?mode=view&articleNo=64594&article.offset=0&articleLimit=100",
       "attachments": [],
       "firstCollectedAt": "2026-07-19T04:07:52+00:00",
-      "lastCheckedAt": "2026-07-19T13:10:03+00:00",
+      "lastCheckedAt": "2026-07-19T13:16:33+00:00",
       "isNew": true
     },
     {
@@ -1276,7 +2375,7 @@
       "officialUrl": "https://www.gh.or.kr/gh/announcement-of-salerental001.do?mode=view&articleNo=64768&article.offset=0&articleLimit=100",
       "attachments": [],
       "firstCollectedAt": "2026-07-19T04:07:52+00:00",
-      "lastCheckedAt": "2026-07-19T13:10:03+00:00",
+      "lastCheckedAt": "2026-07-19T13:16:33+00:00",
       "isNew": true
     },
     {
@@ -1296,7 +2395,7 @@
       "officialUrl": "https://www.gh.or.kr/gh/announcement-of-salerental001.do?mode=view&articleNo=64995&article.offset=0&articleLimit=100",
       "attachments": [],
       "firstCollectedAt": "2026-07-19T04:07:52+00:00",
-      "lastCheckedAt": "2026-07-19T13:10:03+00:00",
+      "lastCheckedAt": "2026-07-19T13:16:33+00:00",
       "isNew": true
     },
     {
@@ -1316,7 +2415,7 @@
       "officialUrl": "https://www.gh.or.kr/gh/announcement-of-salerental001.do?mode=view&articleNo=64890&article.offset=0&articleLimit=100",
       "attachments": [],
       "firstCollectedAt": "2026-07-19T04:07:52+00:00",
-      "lastCheckedAt": "2026-07-19T13:10:03+00:00",
+      "lastCheckedAt": "2026-07-19T13:16:33+00:00",
       "isNew": true
     },
     {
@@ -1336,7 +2435,7 @@
       "officialUrl": "https://www.gh.or.kr/gh/announcement-of-salerental001.do?mode=view&articleNo=64992&article.offset=0&articleLimit=100",
       "attachments": [],
       "firstCollectedAt": "2026-07-19T04:07:52+00:00",
-      "lastCheckedAt": "2026-07-19T13:10:03+00:00",
+      "lastCheckedAt": "2026-07-19T13:16:33+00:00",
       "isNew": true
     },
     {
@@ -1355,7 +2454,7 @@
       "officialUrl": "https://www.gh.or.kr/gh/announcement-of-salerental001.do?mode=view&articleNo=64932&article.offset=0&articleLimit=100",
       "attachments": [],
       "firstCollectedAt": "2026-07-19T04:07:52+00:00",
-      "lastCheckedAt": "2026-07-19T13:10:03+00:00",
+      "lastCheckedAt": "2026-07-19T13:16:33+00:00",
       "isNew": true
     },
     {
@@ -1376,7 +2475,7 @@
       "officialUrl": "https://www.gh.or.kr/gh/announcement-of-salerental001.do?mode=view&articleNo=64770&article.offset=0&articleLimit=100",
       "attachments": [],
       "firstCollectedAt": "2026-07-19T04:07:52+00:00",
-      "lastCheckedAt": "2026-07-19T13:10:03+00:00",
+      "lastCheckedAt": "2026-07-19T13:16:33+00:00",
       "isNew": true
     },
     {
@@ -1397,7 +2496,7 @@
       "officialUrl": "https://www.gh.or.kr/gh/announcement-of-salerental001.do?mode=view&articleNo=64742&article.offset=0&articleLimit=100",
       "attachments": [],
       "firstCollectedAt": "2026-07-19T04:07:52+00:00",
-      "lastCheckedAt": "2026-07-19T13:10:03+00:00",
+      "lastCheckedAt": "2026-07-19T13:16:33+00:00",
       "isNew": true
     },
     {
@@ -1417,7 +2516,7 @@
       "officialUrl": "https://www.gh.or.kr/gh/announcement-of-salerental001.do?mode=view&articleNo=64795&article.offset=0&articleLimit=100",
       "attachments": [],
       "firstCollectedAt": "2026-07-19T04:07:52+00:00",
-      "lastCheckedAt": "2026-07-19T13:10:03+00:00",
+      "lastCheckedAt": "2026-07-19T13:16:33+00:00",
       "isNew": true
     },
     {
@@ -1436,7 +2535,7 @@
       "officialUrl": "https://www.gh.or.kr/gh/announcement-of-salerental001.do?mode=view&articleNo=64741&article.offset=0&articleLimit=100",
       "attachments": [],
       "firstCollectedAt": "2026-07-19T04:07:52+00:00",
-      "lastCheckedAt": "2026-07-19T13:10:03+00:00",
+      "lastCheckedAt": "2026-07-19T13:16:33+00:00",
       "isNew": true
     },
     {
@@ -1455,7 +2554,7 @@
       "officialUrl": "https://www.gh.or.kr/gh/announcement-of-salerental001.do?mode=view&articleNo=64798&article.offset=0&articleLimit=100",
       "attachments": [],
       "firstCollectedAt": "2026-07-19T04:07:52+00:00",
-      "lastCheckedAt": "2026-07-19T13:10:03+00:00",
+      "lastCheckedAt": "2026-07-19T13:16:33+00:00",
       "isNew": true
     }
   ]
