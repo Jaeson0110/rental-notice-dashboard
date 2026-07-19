@@ -13,7 +13,7 @@ let currentUser = null;
 let toastTimer = null;
 
 const els = {
-  loginGate: $("#loginGate"), loginForm: $("#loginForm"), loginEmail: $("#loginEmail"), loginMessage: $("#loginMessage"),
+  loginGate: $("#loginGate"), loginForm: $("#loginForm"), loginEmail: $("#loginEmail"), loginPassword: $("#loginPassword"), loginMessage: $("#loginMessage"),
   logoutButton: $("#logoutButton"), modeBadge: $("#modeBadge"), refreshButton: $("#refreshButton"),
   updatedAt: $("#updatedAt"), dataHealth: $("#dataHealth"), noticeList: $("#noticeList"), emptyState: $("#emptyState"),
   searchInput: $("#searchInput"), agencyFilter: $("#agencyFilter"), regionFilter: $("#regionFilter"), typeFilter: $("#typeFilter"),
@@ -228,17 +228,20 @@ function wireEvents() {
   });
 
   els.loginForm.addEventListener("submit", async event => {
-    event.preventDefault();
-    if (!supabase) return;
-    els.loginMessage.textContent = "로그인 링크를 보내는 중입니다.";
-    const { error } = await supabase.auth.signInWithOtp({
-  email: els.loginEmail.value.trim(),
-  options: {
-    emailRedirectTo: "https://jaeson0110.github.io/rental-notice-dashboard/"
-  }
-});
-    els.loginMessage.textContent = error ? `전송 실패: ${error.message}` : "메일함에서 로그인 링크를 눌러 주세요.";
+  event.preventDefault();
+  if (!supabase) return;
+
+  els.loginMessage.textContent = "로그인 중입니다.";
+
+  const { error } = await supabase.auth.signInWithPassword({
+    email: els.loginEmail.value.trim(),
+    password: els.loginPassword.value
   });
+
+  els.loginMessage.textContent = error
+    ? `로그인 실패: ${error.message}`
+    : "";
+});
 
   els.logoutButton.addEventListener("click", () => supabase?.auth.signOut());
 }
