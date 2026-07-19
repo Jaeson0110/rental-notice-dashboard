@@ -1,520 +1,29 @@
 {
-  "updatedAt": "2026-07-19T05:24:06+00:00",
+  "updatedAt": "2026-07-19T05:36:56+00:00",
   "sourceStatus": {
     "LH": {
       "ok": true,
-      "count": 50,
-      "checkedAt": "2026-07-19T05:24:06+00:00",
+      "count": 1,
+      "rawCount": 50,
+      "checkedAt": "2026-07-19T05:36:56+00:00",
       "error": null
     },
     "SH": {
       "ok": true,
       "count": 47,
-      "checkedAt": "2026-07-19T05:24:06+00:00",
+      "rawCount": 47,
+      "checkedAt": "2026-07-19T05:36:56+00:00",
       "error": null
     },
     "GH": {
       "ok": true,
       "count": 25,
-      "checkedAt": "2026-07-19T05:24:06+00:00",
+      "rawCount": 25,
+      "checkedAt": "2026-07-19T05:36:56+00:00",
       "error": null
     }
   },
   "notices": [
-    {
-      "id": "LH-c030e16c3b84bb",
-      "agency": "LH",
-      "title": "대구한실들1단지 50년 공공임대 예비입주자 모집 1일전",
-      "noticeType": "공공임대",
-      "targetGroups": [],
-      "regions": [],
-      "publishedAt": "2026-07-16",
-      "applyStart": null,
-      "applyEnd": "2026-07-31",
-      "status": "공고중",
-      "officialUrl": "https://apply.lh.or.kr/lhapply/apply/wt/wrtanc/selectWrtancList.do?mi=1026",
-      "attachments": [],
-      "firstCollectedAt": "2026-07-19T04:07:52+00:00",
-      "lastCheckedAt": "2026-07-19T05:24:06+00:00",
-      "isNew": true
-    },
-    {
-      "id": "LH-af0aa00b57075c",
-      "agency": "LH",
-      "title": "[정정공고]태백청솔 국민임대주택 예비입주자 모집 1일전",
-      "noticeType": "국민임대",
-      "targetGroups": [],
-      "regions": [],
-      "publishedAt": "2026-07-16",
-      "applyStart": null,
-      "applyEnd": "2026-07-30",
-      "status": "공고중",
-      "officialUrl": "https://apply.lh.or.kr/lhapply/apply/wt/wrtanc/selectWrtancList.do?mi=1026",
-      "attachments": [],
-      "firstCollectedAt": "2026-07-19T04:07:52+00:00",
-      "lastCheckedAt": "2026-07-19T05:24:06+00:00",
-      "isNew": true
-    },
-    {
-      "id": "LH-fc53fe911af5e1",
-      "agency": "LH",
-      "title": "[정정공고]군산시 국민임대주택 예비입주자 모집 공고('26.07.15) 1일전",
-      "noticeType": "국민임대",
-      "targetGroups": [],
-      "regions": [],
-      "publishedAt": "2026-07-16",
-      "applyStart": null,
-      "applyEnd": "2026-07-30",
-      "status": "공고중",
-      "officialUrl": "https://apply.lh.or.kr/lhapply/apply/wt/wrtanc/selectWrtancList.do?mi=1026",
-      "attachments": [],
-      "firstCollectedAt": "2026-07-19T04:07:52+00:00",
-      "lastCheckedAt": "2026-07-19T05:24:06+00:00",
-      "isNew": true
-    },
-    {
-      "id": "LH-688b3040a17ae8",
-      "agency": "LH",
-      "title": "[강원지역본부] 26년 2차 청년 매입임대주택 예비자 모집공고 1일전",
-      "noticeType": "매입임대",
-      "targetGroups": [
-        "청년"
-      ],
-      "regions": [],
-      "publishedAt": "2026-07-16",
-      "applyStart": null,
-      "applyEnd": "2026-07-24",
-      "status": "공고중",
-      "officialUrl": "https://apply.lh.or.kr/lhapply/apply/wt/wrtanc/selectWrtancList.do?mi=1026",
-      "attachments": [],
-      "firstCollectedAt": "2026-07-19T04:07:52+00:00",
-      "lastCheckedAt": "2026-07-19T05:24:06+00:00",
-      "isNew": true
-    },
-    {
-      "id": "LH-c2faf30bfa7c3a",
-      "agency": "LH",
-      "title": "[강원지역본부] 26년 2차 신혼신생아2(전세형) 매입임대주택 예비자 모집공고 1일전",
-      "noticeType": "매입임대",
-      "targetGroups": [
-        "신혼부부",
-        "신생아가구"
-      ],
-      "regions": [],
-      "publishedAt": "2026-07-16",
-      "applyStart": null,
-      "applyEnd": "2026-07-24",
-      "status": "공고중",
-      "officialUrl": "https://apply.lh.or.kr/lhapply/apply/wt/wrtanc/selectWrtancList.do?mi=1026",
-      "attachments": [],
-      "firstCollectedAt": "2026-07-19T04:07:52+00:00",
-      "lastCheckedAt": "2026-07-19T05:24:06+00:00",
-      "isNew": true
-    },
-    {
-      "id": "LH-68a7c79161a746",
-      "agency": "LH",
-      "title": "[강원지역본부] 26년 2차 신혼신생아1 매입임대주택 예비자 모집공고 1일전",
-      "noticeType": "매입임대",
-      "targetGroups": [
-        "신혼부부",
-        "신생아가구"
-      ],
-      "regions": [],
-      "publishedAt": "2026-07-16",
-      "applyStart": null,
-      "applyEnd": "2026-07-24",
-      "status": "공고중",
-      "officialUrl": "https://apply.lh.or.kr/lhapply/apply/wt/wrtanc/selectWrtancList.do?mi=1026",
-      "attachments": [],
-      "firstCollectedAt": "2026-07-19T04:07:52+00:00",
-      "lastCheckedAt": "2026-07-19T05:24:06+00:00",
-      "isNew": true
-    },
-    {
-      "id": "LH-cd6c11d66dc662",
-      "agency": "LH",
-      "title": "[강원지역본부] 26년 2차 기숙사형 청년주택 예비자 모집공고 1일전",
-      "noticeType": "매입임대",
-      "targetGroups": [
-        "청년"
-      ],
-      "regions": [],
-      "publishedAt": "2026-07-16",
-      "applyStart": null,
-      "applyEnd": "2026-07-24",
-      "status": "공고중",
-      "officialUrl": "https://apply.lh.or.kr/lhapply/apply/wt/wrtanc/selectWrtancList.do?mi=1026",
-      "attachments": [],
-      "firstCollectedAt": "2026-07-19T04:07:52+00:00",
-      "lastCheckedAt": "2026-07-19T05:24:06+00:00",
-      "isNew": true
-    },
-    {
-      "id": "LH-7d15b670c8e0e7",
-      "agency": "LH",
-      "title": "화순군 국민임대주택 예비입주자 모집(2026.07.15. 공고) 1일전",
-      "noticeType": "국민임대",
-      "targetGroups": [],
-      "regions": [
-        "광주"
-      ],
-      "publishedAt": "2026-07-15",
-      "applyStart": null,
-      "applyEnd": "2026-07-29",
-      "status": "공고중",
-      "officialUrl": "https://apply.lh.or.kr/lhapply/apply/wt/wrtanc/selectWrtancList.do?mi=1026",
-      "attachments": [],
-      "firstCollectedAt": "2026-07-19T04:07:52+00:00",
-      "lastCheckedAt": "2026-07-19T05:24:06+00:00",
-      "isNew": true
-    },
-    {
-      "id": "LH-05d762e9e553c7",
-      "agency": "LH",
-      "title": "함안군 함안칠원 국민임대 예비입주자 모집('26.07.15) 1일전",
-      "noticeType": "국민임대",
-      "targetGroups": [],
-      "regions": [],
-      "publishedAt": "2026-07-15",
-      "applyStart": null,
-      "applyEnd": "2026-07-29",
-      "status": "공고중",
-      "officialUrl": "https://apply.lh.or.kr/lhapply/apply/wt/wrtanc/selectWrtancList.do?mi=1026",
-      "attachments": [],
-      "firstCollectedAt": "2026-07-19T04:07:52+00:00",
-      "lastCheckedAt": "2026-07-19T05:24:06+00:00",
-      "isNew": true
-    },
-    {
-      "id": "LH-307e815abdbcb3",
-      "agency": "LH",
-      "title": "태백청솔 국민임대주택 예비입주자 모집 1일전",
-      "noticeType": "국민임대",
-      "targetGroups": [],
-      "regions": [],
-      "publishedAt": "2026-07-15",
-      "applyStart": null,
-      "applyEnd": "2026-07-30",
-      "status": "공고중",
-      "officialUrl": "https://apply.lh.or.kr/lhapply/apply/wt/wrtanc/selectWrtancList.do?mi=1026",
-      "attachments": [],
-      "firstCollectedAt": "2026-07-19T04:07:52+00:00",
-      "lastCheckedAt": "2026-07-19T05:24:06+00:00",
-      "isNew": true
-    },
-    {
-      "id": "LH-1133ee648c0de8",
-      "agency": "LH",
-      "title": "충주첨단 행복주택 자격완화 예비입주자 모집[2026.07.15] 1일전",
-      "noticeType": "행복주택",
-      "targetGroups": [],
-      "regions": [],
-      "publishedAt": "2026-07-15",
-      "applyStart": null,
-      "applyEnd": "2026-07-31",
-      "status": "공고중",
-      "officialUrl": "https://apply.lh.or.kr/lhapply/apply/wt/wrtanc/selectWrtancList.do?mi=1026",
-      "attachments": [],
-      "firstCollectedAt": "2026-07-19T04:07:52+00:00",
-      "lastCheckedAt": "2026-07-19T05:24:06+00:00",
-      "isNew": true
-    },
-    {
-      "id": "LH-ea1c49e7f1d4fc",
-      "agency": "LH",
-      "title": "충북남부권 영동군 국민임대(매입형)주택 예비입주자 모집(영동미드림) 1일전",
-      "noticeType": "국민임대",
-      "targetGroups": [],
-      "regions": [],
-      "publishedAt": "2026-07-15",
-      "applyStart": null,
-      "applyEnd": "2026-07-28",
-      "status": "공고중",
-      "officialUrl": "https://apply.lh.or.kr/lhapply/apply/wt/wrtanc/selectWrtancList.do?mi=1026",
-      "attachments": [],
-      "firstCollectedAt": "2026-07-19T04:07:52+00:00",
-      "lastCheckedAt": "2026-07-19T05:24:06+00:00",
-      "isNew": true
-    },
-    {
-      "id": "LH-103d051c5d1574",
-      "agency": "LH",
-      "title": "춘천시·인제군·화천군·양구군지역 국민임대주택 예비입주자모집(26.07.15.공고) 1일전",
-      "noticeType": "국민임대",
-      "targetGroups": [],
-      "regions": [],
-      "publishedAt": "2026-07-15",
-      "applyStart": null,
-      "applyEnd": "2026-07-30",
-      "status": "공고중",
-      "officialUrl": "https://apply.lh.or.kr/lhapply/apply/wt/wrtanc/selectWrtancList.do?mi=1026",
-      "attachments": [],
-      "firstCollectedAt": "2026-07-19T04:07:52+00:00",
-      "lastCheckedAt": "2026-07-19T05:24:06+00:00",
-      "isNew": true
-    },
-    {
-      "id": "LH-29c57c9feb03d8",
-      "agency": "LH",
-      "title": "청주시지역(청주율량2, 청주율량9, 청원내수, 청주가로수마을) 국민임대주택 예비입주자 모집공고[2026.07.15.] 1일전",
-      "noticeType": "국민임대",
-      "targetGroups": [],
-      "regions": [],
-      "publishedAt": "2026-07-15",
-      "applyStart": null,
-      "applyEnd": "2026-08-04",
-      "status": "공고중",
-      "officialUrl": "https://apply.lh.or.kr/lhapply/apply/wt/wrtanc/selectWrtancList.do?mi=1026",
-      "attachments": [],
-      "firstCollectedAt": "2026-07-19T04:07:52+00:00",
-      "lastCheckedAt": "2026-07-19T05:24:06+00:00",
-      "isNew": true
-    },
-    {
-      "id": "LH-c3210b5d345aac",
-      "agency": "LH",
-      "title": "청주성화1 국민임대주택 예비입주자 모집공고[2026.07.15] 1일전",
-      "noticeType": "국민임대",
-      "targetGroups": [],
-      "regions": [],
-      "publishedAt": "2026-07-15",
-      "applyStart": null,
-      "applyEnd": "2026-07-28",
-      "status": "공고중",
-      "officialUrl": "https://apply.lh.or.kr/lhapply/apply/wt/wrtanc/selectWrtancList.do?mi=1026",
-      "attachments": [],
-      "firstCollectedAt": "2026-07-19T04:07:52+00:00",
-      "lastCheckedAt": "2026-07-19T05:24:06+00:00",
-      "isNew": true
-    },
-    {
-      "id": "LH-f0baccc5a20959",
-      "agency": "LH",
-      "title": "청양군지역 국민임대주택 예비입주자 모집공고(20260715) 1일전",
-      "noticeType": "국민임대",
-      "targetGroups": [],
-      "regions": [],
-      "publishedAt": "2026-07-15",
-      "applyStart": null,
-      "applyEnd": "2026-07-30",
-      "status": "공고중",
-      "officialUrl": "https://apply.lh.or.kr/lhapply/apply/wt/wrtanc/selectWrtancList.do?mi=1026",
-      "attachments": [],
-      "firstCollectedAt": "2026-07-19T04:07:52+00:00",
-      "lastCheckedAt": "2026-07-19T05:24:06+00:00",
-      "isNew": true
-    },
-    {
-      "id": "LH-10feccedb9b8e6",
-      "agency": "LH",
-      "title": "천안아산지역 국민임대주택 소득기준 완화 예비입주자 모집 공고(2026.07.15) 1일전",
-      "noticeType": "국민임대",
-      "targetGroups": [],
-      "regions": [],
-      "publishedAt": "2026-07-15",
-      "applyStart": null,
-      "applyEnd": "2026-07-30",
-      "status": "공고중",
-      "officialUrl": "https://apply.lh.or.kr/lhapply/apply/wt/wrtanc/selectWrtancList.do?mi=1026",
-      "attachments": [],
-      "firstCollectedAt": "2026-07-19T04:07:52+00:00",
-      "lastCheckedAt": "2026-07-19T05:24:06+00:00",
-      "isNew": true
-    },
-    {
-      "id": "LH-ddb2cbf9fec3f3",
-      "agency": "LH",
-      "title": "제주특별자치도 국민임대 07월 통합정례 예비입주자 비수도권 모집 1일전",
-      "noticeType": "국민임대",
-      "targetGroups": [],
-      "regions": [],
-      "publishedAt": "2026-07-15",
-      "applyStart": null,
-      "applyEnd": "2026-07-29",
-      "status": "공고중",
-      "officialUrl": "https://apply.lh.or.kr/lhapply/apply/wt/wrtanc/selectWrtancList.do?mi=1026",
-      "attachments": [],
-      "firstCollectedAt": "2026-07-19T04:07:52+00:00",
-      "lastCheckedAt": "2026-07-19T05:24:06+00:00",
-      "isNew": true
-    },
-    {
-      "id": "LH-e4dc42b1776407",
-      "agency": "LH",
-      "title": "전주시, 완주군 국민임대주택 예비입주자 모집 공고('26.07.15.) 1일전",
-      "noticeType": "국민임대",
-      "targetGroups": [],
-      "regions": [],
-      "publishedAt": "2026-07-15",
-      "applyStart": null,
-      "applyEnd": "2026-08-07",
-      "status": "공고중",
-      "officialUrl": "https://apply.lh.or.kr/lhapply/apply/wt/wrtanc/selectWrtancList.do?mi=1026",
-      "attachments": [],
-      "firstCollectedAt": "2026-07-19T04:07:52+00:00",
-      "lastCheckedAt": "2026-07-19T05:24:06+00:00",
-      "isNew": true
-    },
-    {
-      "id": "LH-0a18a1df8a5ba1",
-      "agency": "LH",
-      "title": "전남광주통합특별시 남구 국민임대 예비입주자 모집(2026.07.15.공고) 1일전",
-      "noticeType": "국민임대",
-      "targetGroups": [],
-      "regions": [
-        "광주"
-      ],
-      "publishedAt": "2026-07-15",
-      "applyStart": null,
-      "applyEnd": "2026-07-29",
-      "status": "공고중",
-      "officialUrl": "https://apply.lh.or.kr/lhapply/apply/wt/wrtanc/selectWrtancList.do?mi=1026",
-      "attachments": [],
-      "firstCollectedAt": "2026-07-19T04:07:52+00:00",
-      "lastCheckedAt": "2026-07-19T05:24:06+00:00",
-      "isNew": true
-    },
-    {
-      "id": "LH-61b328401ce2e1",
-      "agency": "LH",
-      "title": "전남광주통합특별시 광산구 도산청암, 삼라미주 국민임대주택 입주자격완화 예비입주자 모집 1일전",
-      "noticeType": "국민임대",
-      "targetGroups": [],
-      "regions": [
-        "광주"
-      ],
-      "publishedAt": "2026-07-15",
-      "applyStart": null,
-      "applyEnd": "2026-07-30",
-      "status": "공고중",
-      "officialUrl": "https://apply.lh.or.kr/lhapply/apply/wt/wrtanc/selectWrtancList.do?mi=1026",
-      "attachments": [],
-      "firstCollectedAt": "2026-07-19T04:07:52+00:00",
-      "lastCheckedAt": "2026-07-19T05:24:06+00:00",
-      "isNew": true
-    },
-    {
-      "id": "LH-0e45e544eab412",
-      "agency": "LH",
-      "title": "익산시 국민임대주택 예비입주자 모집 공고('26.07.15) 1일전",
-      "noticeType": "국민임대",
-      "targetGroups": [],
-      "regions": [],
-      "publishedAt": "2026-07-15",
-      "applyStart": null,
-      "applyEnd": "2026-07-28",
-      "status": "공고중",
-      "officialUrl": "https://apply.lh.or.kr/lhapply/apply/wt/wrtanc/selectWrtancList.do?mi=1026",
-      "attachments": [],
-      "firstCollectedAt": "2026-07-19T04:07:52+00:00",
-      "lastCheckedAt": "2026-07-19T05:24:06+00:00",
-      "isNew": true
-    },
-    {
-      "id": "LH-14380407e72a64",
-      "agency": "LH",
-      "title": "원주시지역 국민임대주택 예비입주자 모집 1일전",
-      "noticeType": "국민임대",
-      "targetGroups": [],
-      "regions": [],
-      "publishedAt": "2026-07-15",
-      "applyStart": null,
-      "applyEnd": "2026-07-29",
-      "status": "공고중",
-      "officialUrl": "https://apply.lh.or.kr/lhapply/apply/wt/wrtanc/selectWrtancList.do?mi=1026",
-      "attachments": [],
-      "firstCollectedAt": "2026-07-19T04:07:52+00:00",
-      "lastCheckedAt": "2026-07-19T05:24:06+00:00",
-      "isNew": true
-    },
-    {
-      "id": "LH-378fb04bce2633",
-      "agency": "LH",
-      "title": "옥천장야2 국민임대주택 예비입주자 모집공고(2026.07.15) 1일전",
-      "noticeType": "국민임대",
-      "targetGroups": [],
-      "regions": [],
-      "publishedAt": "2026-07-15",
-      "applyStart": null,
-      "applyEnd": "2026-07-28",
-      "status": "공고중",
-      "officialUrl": "https://apply.lh.or.kr/lhapply/apply/wt/wrtanc/selectWrtancList.do?mi=1026",
-      "attachments": [],
-      "firstCollectedAt": "2026-07-19T04:07:52+00:00",
-      "lastCheckedAt": "2026-07-19T05:24:06+00:00",
-      "isNew": true
-    },
-    {
-      "id": "LH-e3b2d3989760de",
-      "agency": "LH",
-      "title": "영암,해남,장흥지역 국민임대주택 예비입주자 모집(2026.07.15.) 1일전",
-      "noticeType": "국민임대",
-      "targetGroups": [],
-      "regions": [
-        "광주"
-      ],
-      "publishedAt": "2026-07-15",
-      "applyStart": null,
-      "applyEnd": "2026-08-04",
-      "status": "공고중",
-      "officialUrl": "https://apply.lh.or.kr/lhapply/apply/wt/wrtanc/selectWrtancList.do?mi=1026",
-      "attachments": [],
-      "firstCollectedAt": "2026-07-19T04:07:52+00:00",
-      "lastCheckedAt": "2026-07-19T05:24:06+00:00",
-      "isNew": true
-    },
-    {
-      "id": "LH-9c4810aab8747b",
-      "agency": "LH",
-      "title": "양양군·태백시 국민임대주택 예비입주자 모집 1일전",
-      "noticeType": "국민임대",
-      "targetGroups": [],
-      "regions": [],
-      "publishedAt": "2026-07-15",
-      "applyStart": null,
-      "applyEnd": "2026-07-30",
-      "status": "공고중",
-      "officialUrl": "https://apply.lh.or.kr/lhapply/apply/wt/wrtanc/selectWrtancList.do?mi=1026",
-      "attachments": [],
-      "firstCollectedAt": "2026-07-19T04:07:52+00:00",
-      "lastCheckedAt": "2026-07-19T05:24:06+00:00",
-      "isNew": true
-    },
-    {
-      "id": "LH-d8a8c5ece319cb",
-      "agency": "LH",
-      "title": "양산시 국민임대주택 예비입주자 완화 모집('26.07.15)_소득, 자산, 무주택 요건 완화 / 계약금 인하 1일전",
-      "noticeType": "국민임대",
-      "targetGroups": [],
-      "regions": [],
-      "publishedAt": "2026-07-15",
-      "applyStart": null,
-      "applyEnd": "2026-07-30",
-      "status": "공고중",
-      "officialUrl": "https://apply.lh.or.kr/lhapply/apply/wt/wrtanc/selectWrtancList.do?mi=1026",
-      "attachments": [],
-      "firstCollectedAt": "2026-07-19T04:07:52+00:00",
-      "lastCheckedAt": "2026-07-19T05:24:06+00:00",
-      "isNew": true
-    },
-    {
-      "id": "LH-9ecf47d79d4e6e",
-      "agency": "LH",
-      "title": "서천군지역 국민임대주택 예비입주자 모집공고(20260715) 1일전",
-      "noticeType": "국민임대",
-      "targetGroups": [],
-      "regions": [],
-      "publishedAt": "2026-07-15",
-      "applyStart": null,
-      "applyEnd": "2026-08-03",
-      "status": "공고중",
-      "officialUrl": "https://apply.lh.or.kr/lhapply/apply/wt/wrtanc/selectWrtancList.do?mi=1026",
-      "attachments": [],
-      "firstCollectedAt": "2026-07-19T04:07:52+00:00",
-      "lastCheckedAt": "2026-07-19T05:24:06+00:00",
-      "isNew": true
-    },
     {
       "id": "LH-8fbf1dbb1ffeea",
       "agency": "LH",
@@ -531,92 +40,7 @@
       "officialUrl": "https://apply.lh.or.kr/lhapply/apply/wt/wrtanc/selectWrtancList.do?mi=1026",
       "attachments": [],
       "firstCollectedAt": "2026-07-19T04:07:52+00:00",
-      "lastCheckedAt": "2026-07-19T05:24:06+00:00",
-      "isNew": true
-    },
-    {
-      "id": "LH-9a675aa746a1d3",
-      "agency": "LH",
-      "title": "부여군지역 국민임대주택 예비입주자 모집공고(20260715) 1일전",
-      "noticeType": "국민임대",
-      "targetGroups": [],
-      "regions": [],
-      "publishedAt": "2026-07-15",
-      "applyStart": null,
-      "applyEnd": "2026-07-31",
-      "status": "공고중",
-      "officialUrl": "https://apply.lh.or.kr/lhapply/apply/wt/wrtanc/selectWrtancList.do?mi=1026",
-      "attachments": [],
-      "firstCollectedAt": "2026-07-19T04:07:52+00:00",
-      "lastCheckedAt": "2026-07-19T05:24:06+00:00",
-      "isNew": true
-    },
-    {
-      "id": "LH-142c1abaabb063",
-      "agency": "LH",
-      "title": "부산광역시 국민임대 예비입주자 모집(2026.07.15) 1일전",
-      "noticeType": "국민임대",
-      "targetGroups": [],
-      "regions": [],
-      "publishedAt": "2026-07-15",
-      "applyStart": null,
-      "applyEnd": "2026-07-28",
-      "status": "공고중",
-      "officialUrl": "https://apply.lh.or.kr/lhapply/apply/wt/wrtanc/selectWrtancList.do?mi=1026",
-      "attachments": [],
-      "firstCollectedAt": "2026-07-19T04:07:52+00:00",
-      "lastCheckedAt": "2026-07-19T05:24:06+00:00",
-      "isNew": true
-    },
-    {
-      "id": "LH-993d2a5194663a",
-      "agency": "LH",
-      "title": "보은이평 국민임대주택 예비입주자 모집공고[2026.07.15] 1일전",
-      "noticeType": "국민임대",
-      "targetGroups": [],
-      "regions": [],
-      "publishedAt": "2026-07-15",
-      "applyStart": null,
-      "applyEnd": "2026-07-28",
-      "status": "공고중",
-      "officialUrl": "https://apply.lh.or.kr/lhapply/apply/wt/wrtanc/selectWrtancList.do?mi=1026",
-      "attachments": [],
-      "firstCollectedAt": "2026-07-19T04:07:52+00:00",
-      "lastCheckedAt": "2026-07-19T05:24:06+00:00",
-      "isNew": true
-    },
-    {
-      "id": "LH-f3f30925c0e36d",
-      "agency": "LH",
-      "title": "보령시지역 국민임대주택 예비입주자 모집공고(20260715) 1일전",
-      "noticeType": "국민임대",
-      "targetGroups": [],
-      "regions": [],
-      "publishedAt": "2026-07-15",
-      "applyStart": null,
-      "applyEnd": "2026-08-04",
-      "status": "공고중",
-      "officialUrl": "https://apply.lh.or.kr/lhapply/apply/wt/wrtanc/selectWrtancList.do?mi=1026",
-      "attachments": [],
-      "firstCollectedAt": "2026-07-19T04:07:52+00:00",
-      "lastCheckedAt": "2026-07-19T05:24:06+00:00",
-      "isNew": true
-    },
-    {
-      "id": "LH-61c71c6f25235c",
-      "agency": "LH",
-      "title": "밀양시 지역 국민임대주택 예비입주자 모집 공고('26.07.15.공고) 1일전",
-      "noticeType": "국민임대",
-      "targetGroups": [],
-      "regions": [],
-      "publishedAt": "2026-07-15",
-      "applyStart": null,
-      "applyEnd": "2026-07-30",
-      "status": "공고중",
-      "officialUrl": "https://apply.lh.or.kr/lhapply/apply/wt/wrtanc/selectWrtancList.do?mi=1026",
-      "attachments": [],
-      "firstCollectedAt": "2026-07-19T04:07:52+00:00",
-      "lastCheckedAt": "2026-07-19T05:24:06+00:00",
+      "lastCheckedAt": "2026-07-19T05:36:56+00:00",
       "isNew": true
     },
     {
@@ -625,7 +49,9 @@
       "title": "두레주택 -2차 충신동 두레주택 잔여세대 입주자모집공고( . . .) 모집중 맞춤주택공급부 바로가기",
       "noticeType": "임대주택",
       "targetGroups": [],
-      "regions": [],
+      "regions": [
+        "서울특별시"
+      ],
       "publishedAt": "2026-07-15",
       "applyStart": null,
       "applyEnd": "2026-09-16",
@@ -633,283 +59,7 @@
       "officialUrl": "https://www.i-sh.co.kr/main/lay2/program/S1T294C295/www/brd/m_241/view.do?seq=306986",
       "attachments": [],
       "firstCollectedAt": "2026-07-19T04:34:38+00:00",
-      "lastCheckedAt": "2026-07-19T05:24:06+00:00",
-      "isNew": true
-    },
-    {
-      "id": "LH-6a482a1913b830",
-      "agency": "LH",
-      "title": "대전천동1 국민임대주택 예비입주자 모집공고(공고일 : 2026.07.15.) 1일전",
-      "noticeType": "국민임대",
-      "targetGroups": [],
-      "regions": [],
-      "publishedAt": "2026-07-15",
-      "applyStart": null,
-      "applyEnd": "2026-07-29",
-      "status": "공고중",
-      "officialUrl": "https://apply.lh.or.kr/lhapply/apply/wt/wrtanc/selectWrtancList.do?mi=1026",
-      "attachments": [],
-      "firstCollectedAt": "2026-07-19T04:07:52+00:00",
-      "lastCheckedAt": "2026-07-19T05:24:06+00:00",
-      "isNew": true
-    },
-    {
-      "id": "LH-29b8ddc94a8986",
-      "agency": "LH",
-      "title": "논산시지역 국민임대주택 예비입주자 모집공고(20260715) 1일전",
-      "noticeType": "국민임대",
-      "targetGroups": [],
-      "regions": [],
-      "publishedAt": "2026-07-15",
-      "applyStart": null,
-      "applyEnd": "2026-08-05",
-      "status": "공고중",
-      "officialUrl": "https://apply.lh.or.kr/lhapply/apply/wt/wrtanc/selectWrtancList.do?mi=1026",
-      "attachments": [],
-      "firstCollectedAt": "2026-07-19T04:07:52+00:00",
-      "lastCheckedAt": "2026-07-19T05:24:06+00:00",
-      "isNew": true
-    },
-    {
-      "id": "LH-407d16807df353",
-      "agency": "LH",
-      "title": "군산시 국민임대주택 예비입주자 모집 공고('26.07.15) 1일전",
-      "noticeType": "국민임대",
-      "targetGroups": [],
-      "regions": [],
-      "publishedAt": "2026-07-15",
-      "applyStart": null,
-      "applyEnd": "2026-07-30",
-      "status": "공고중",
-      "officialUrl": "https://apply.lh.or.kr/lhapply/apply/wt/wrtanc/selectWrtancList.do?mi=1026",
-      "attachments": [],
-      "firstCollectedAt": "2026-07-19T04:07:52+00:00",
-      "lastCheckedAt": "2026-07-19T05:24:06+00:00",
-      "isNew": true
-    },
-    {
-      "id": "LH-27eabbef2b9569",
-      "agency": "LH",
-      "title": "구미도산휴먼시아 국민임대주택 예비입주자 모집공고(39,46형) 1일전",
-      "noticeType": "국민임대",
-      "targetGroups": [],
-      "regions": [],
-      "publishedAt": "2026-07-15",
-      "applyStart": null,
-      "applyEnd": "2026-07-28",
-      "status": "공고중",
-      "officialUrl": "https://apply.lh.or.kr/lhapply/apply/wt/wrtanc/selectWrtancList.do?mi=1026",
-      "attachments": [],
-      "firstCollectedAt": "2026-07-19T04:07:52+00:00",
-      "lastCheckedAt": "2026-07-19T05:24:06+00:00",
-      "isNew": true
-    },
-    {
-      "id": "LH-d0eca0123d1e18",
-      "agency": "LH",
-      "title": "광주운남1단지 - 50년 공공임대주택 예비입주자 모집 1일전",
-      "noticeType": "공공임대",
-      "targetGroups": [],
-      "regions": [
-        "광주"
-      ],
-      "publishedAt": "2026-07-15",
-      "applyStart": null,
-      "applyEnd": "2026-07-29",
-      "status": "공고중",
-      "officialUrl": "https://apply.lh.or.kr/lhapply/apply/wt/wrtanc/selectWrtancList.do?mi=1026",
-      "attachments": [],
-      "firstCollectedAt": "2026-07-19T04:07:52+00:00",
-      "lastCheckedAt": "2026-07-19T05:24:06+00:00",
-      "isNew": true
-    },
-    {
-      "id": "LH-e30405a074b831",
-      "agency": "LH",
-      "title": "공주신관6단지 국민임대주택 예비입주자 모집(공고일 : 2026.07.15.) 1일전",
-      "noticeType": "국민임대",
-      "targetGroups": [],
-      "regions": [],
-      "publishedAt": "2026-07-15",
-      "applyStart": null,
-      "applyEnd": "2026-07-27",
-      "status": "공고중",
-      "officialUrl": "https://apply.lh.or.kr/lhapply/apply/wt/wrtanc/selectWrtancList.do?mi=1026",
-      "attachments": [],
-      "firstCollectedAt": "2026-07-19T04:07:52+00:00",
-      "lastCheckedAt": "2026-07-19T05:24:06+00:00",
-      "isNew": true
-    },
-    {
-      "id": "LH-111cd944894508",
-      "agency": "LH",
-      "title": "고흥군·여수시·광양시 국민임대주택 예비입주자 모집 1일전",
-      "noticeType": "국민임대",
-      "targetGroups": [],
-      "regions": [
-        "광주"
-      ],
-      "publishedAt": "2026-07-15",
-      "applyStart": null,
-      "applyEnd": "2026-07-31",
-      "status": "공고중",
-      "officialUrl": "https://apply.lh.or.kr/lhapply/apply/wt/wrtanc/selectWrtancList.do?mi=1026",
-      "attachments": [],
-      "firstCollectedAt": "2026-07-19T04:07:52+00:00",
-      "lastCheckedAt": "2026-07-19T05:24:06+00:00",
-      "isNew": true
-    },
-    {
-      "id": "LH-6256d0951b8433",
-      "agency": "LH",
-      "title": "경북서부지역(구미시, 김천시, 의성군) 국민임대 예비입주자 모집 1일전",
-      "noticeType": "국민임대",
-      "targetGroups": [],
-      "regions": [],
-      "publishedAt": "2026-07-15",
-      "applyStart": null,
-      "applyEnd": "2026-07-30",
-      "status": "공고중",
-      "officialUrl": "https://apply.lh.or.kr/lhapply/apply/wt/wrtanc/selectWrtancList.do?mi=1026",
-      "attachments": [],
-      "firstCollectedAt": "2026-07-19T04:07:52+00:00",
-      "lastCheckedAt": "2026-07-19T05:24:06+00:00",
-      "isNew": true
-    },
-    {
-      "id": "LH-a9c782a7197862",
-      "agency": "LH",
-      "title": "경북북부권(봉화,영양,영주,예천,울진,청송) 국민임대주택 예비입주자 모집(26.7.15) 1일전",
-      "noticeType": "국민임대",
-      "targetGroups": [],
-      "regions": [],
-      "publishedAt": "2026-07-15",
-      "applyStart": null,
-      "applyEnd": "2026-08-06",
-      "status": "공고중",
-      "officialUrl": "https://apply.lh.or.kr/lhapply/apply/wt/wrtanc/selectWrtancList.do?mi=1026",
-      "attachments": [],
-      "firstCollectedAt": "2026-07-19T04:07:52+00:00",
-      "lastCheckedAt": "2026-07-19T05:24:06+00:00",
-      "isNew": true
-    },
-    {
-      "id": "LH-f20cf1e5a4bb7f",
-      "agency": "LH",
-      "title": "경남 하동읍내 국민임대 예비입주자 모집(2026.07.15.) 1일전",
-      "noticeType": "국민임대",
-      "targetGroups": [],
-      "regions": [],
-      "publishedAt": "2026-07-15",
-      "applyStart": null,
-      "applyEnd": "2026-08-06",
-      "status": "공고중",
-      "officialUrl": "https://apply.lh.or.kr/lhapply/apply/wt/wrtanc/selectWrtancList.do?mi=1026",
-      "attachments": [],
-      "firstCollectedAt": "2026-07-19T04:07:52+00:00",
-      "lastCheckedAt": "2026-07-19T05:24:06+00:00",
-      "isNew": true
-    },
-    {
-      "id": "LH-370bf8ee779db4",
-      "agency": "LH",
-      "title": "경남 창원시지역(창원봉림1·2단지, 창원자은3천년나무) 예비입주자 모집('26.07.15) 1일전",
-      "noticeType": "국민임대",
-      "targetGroups": [],
-      "regions": [],
-      "publishedAt": "2026-07-15",
-      "applyStart": null,
-      "applyEnd": "2026-07-30",
-      "status": "공고중",
-      "officialUrl": "https://apply.lh.or.kr/lhapply/apply/wt/wrtanc/selectWrtancList.do?mi=1026",
-      "attachments": [],
-      "firstCollectedAt": "2026-07-19T04:07:52+00:00",
-      "lastCheckedAt": "2026-07-19T05:24:06+00:00",
-      "isNew": true
-    },
-    {
-      "id": "LH-87075248360c78",
-      "agency": "LH",
-      "title": "경남 진주혁신3 국민임대 예비입주자 모집(2026.07.15.) 1일전",
-      "noticeType": "국민임대",
-      "targetGroups": [],
-      "regions": [],
-      "publishedAt": "2026-07-15",
-      "applyStart": null,
-      "applyEnd": "2026-08-06",
-      "status": "공고중",
-      "officialUrl": "https://apply.lh.or.kr/lhapply/apply/wt/wrtanc/selectWrtancList.do?mi=1026",
-      "attachments": [],
-      "firstCollectedAt": "2026-07-19T04:07:52+00:00",
-      "lastCheckedAt": "2026-07-19T05:24:06+00:00",
-      "isNew": true
-    },
-    {
-      "id": "LH-887a02bdf559d9",
-      "agency": "LH",
-      "title": "[정정공고]춘천시·인제군·화천군·양구군지역 국민임대주택 예비입주자모집(26.07.15.공고) 1일전",
-      "noticeType": "국민임대",
-      "targetGroups": [],
-      "regions": [],
-      "publishedAt": "2026-07-15",
-      "applyStart": null,
-      "applyEnd": "2026-07-30",
-      "status": "공고중",
-      "officialUrl": "https://apply.lh.or.kr/lhapply/apply/wt/wrtanc/selectWrtancList.do?mi=1026",
-      "attachments": [],
-      "firstCollectedAt": "2026-07-19T04:07:52+00:00",
-      "lastCheckedAt": "2026-07-19T05:24:06+00:00",
-      "isNew": true
-    },
-    {
-      "id": "LH-56ff4c46376674",
-      "agency": "LH",
-      "title": "[정정공고]경남 하동읍내 국민임대 예비입주자 모집(2026.07.15.) 1일전",
-      "noticeType": "국민임대",
-      "targetGroups": [],
-      "regions": [],
-      "publishedAt": "2026-07-15",
-      "applyStart": null,
-      "applyEnd": "2026-08-06",
-      "status": "공고중",
-      "officialUrl": "https://apply.lh.or.kr/lhapply/apply/wt/wrtanc/selectWrtancList.do?mi=1026",
-      "attachments": [],
-      "firstCollectedAt": "2026-07-19T04:07:52+00:00",
-      "lastCheckedAt": "2026-07-19T05:24:06+00:00",
-      "isNew": true
-    },
-    {
-      "id": "LH-a187cb2d14b4d3",
-      "agency": "LH",
-      "title": "[양산시지역]양산대석휴먼시아 국민임대주택 예비입주자 모집 1일전",
-      "noticeType": "국민임대",
-      "targetGroups": [],
-      "regions": [],
-      "publishedAt": "2026-07-15",
-      "applyStart": null,
-      "applyEnd": "2026-07-28",
-      "status": "공고중",
-      "officialUrl": "https://apply.lh.or.kr/lhapply/apply/wt/wrtanc/selectWrtancList.do?mi=1026",
-      "attachments": [],
-      "firstCollectedAt": "2026-07-19T04:07:52+00:00",
-      "lastCheckedAt": "2026-07-19T05:24:06+00:00",
-      "isNew": true
-    },
-    {
-      "id": "LH-32e1c02ac677f0",
-      "agency": "LH",
-      "title": "('26.07.15) 김제대검산, 남원금동, 정읍신태인, 정읍첨단 국민임대 예비자 모집 공고 1일전",
-      "noticeType": "국민임대",
-      "targetGroups": [],
-      "regions": [],
-      "publishedAt": "2026-07-15",
-      "applyStart": null,
-      "applyEnd": "2026-08-05",
-      "status": "공고중",
-      "officialUrl": "https://apply.lh.or.kr/lhapply/apply/wt/wrtanc/selectWrtancList.do?mi=1026",
-      "attachments": [],
-      "firstCollectedAt": "2026-07-19T04:07:52+00:00",
-      "lastCheckedAt": "2026-07-19T05:24:06+00:00",
+      "lastCheckedAt": "2026-07-19T05:36:56+00:00",
       "isNew": true
     },
     {
@@ -921,6 +71,7 @@
         "청년"
       ],
       "regions": [
+        "서울특별시",
         "은평구"
       ],
       "publishedAt": "2026-07-13",
@@ -930,7 +81,7 @@
       "officialUrl": "https://www.i-sh.co.kr/main/lay2/program/S1T294C295/www/brd/m_241/view.do?seq=306908",
       "attachments": [],
       "firstCollectedAt": "2026-07-19T04:34:38+00:00",
-      "lastCheckedAt": "2026-07-19T05:24:06+00:00",
+      "lastCheckedAt": "2026-07-19T05:36:56+00:00",
       "isNew": true
     },
     {
@@ -940,6 +91,7 @@
       "noticeType": "도시형생활주택",
       "targetGroups": [],
       "regions": [
+        "서울특별시",
         "성북구"
       ],
       "publishedAt": "2026-07-08",
@@ -949,7 +101,7 @@
       "officialUrl": "https://www.i-sh.co.kr/main/lay2/program/S1T294C295/www/brd/m_241/view.do?seq=306722",
       "attachments": [],
       "firstCollectedAt": "2026-07-19T04:34:38+00:00",
-      "lastCheckedAt": "2026-07-19T05:24:06+00:00",
+      "lastCheckedAt": "2026-07-19T05:36:56+00:00",
       "isNew": true
     },
     {
@@ -960,7 +112,9 @@
       "targetGroups": [
         "청년"
       ],
-      "regions": [],
+      "regions": [
+        "서울특별시"
+      ],
       "publishedAt": "2026-06-26",
       "applyStart": null,
       "applyEnd": "2026-11-20",
@@ -968,7 +122,7 @@
       "officialUrl": "https://www.i-sh.co.kr/main/lay2/program/S1T294C295/www/brd/m_241/view.do?seq=306218",
       "attachments": [],
       "firstCollectedAt": "2026-07-19T04:34:38+00:00",
-      "lastCheckedAt": "2026-07-19T05:24:06+00:00",
+      "lastCheckedAt": "2026-07-19T05:36:56+00:00",
       "isNew": true
     },
     {
@@ -979,7 +133,9 @@
       "targetGroups": [
         "청년"
       ],
-      "regions": [],
+      "regions": [
+        "서울특별시"
+      ],
       "publishedAt": "2026-06-26",
       "applyStart": null,
       "applyEnd": "2026-11-20",
@@ -987,7 +143,7 @@
       "officialUrl": "https://www.i-sh.co.kr/main/lay2/program/S1T294C295/www/brd/m_241/view.do?seq=306214",
       "attachments": [],
       "firstCollectedAt": "2026-07-19T04:34:38+00:00",
-      "lastCheckedAt": "2026-07-19T05:24:06+00:00",
+      "lastCheckedAt": "2026-07-19T05:36:56+00:00",
       "isNew": true
     },
     {
@@ -996,7 +152,9 @@
       "title": "도시형생활주택 -2차 사당동원룸 잔여세대 입주자모집공고( . . .) 모집중 맞춤주택공급부 바로가기",
       "noticeType": "도시형생활주택",
       "targetGroups": [],
-      "regions": [],
+      "regions": [
+        "서울특별시"
+      ],
       "publishedAt": "2026-06-26",
       "applyStart": null,
       "applyEnd": "2026-09-28",
@@ -1004,7 +162,7 @@
       "officialUrl": "https://www.i-sh.co.kr/main/lay2/program/S1T294C295/www/brd/m_241/view.do?seq=306205",
       "attachments": [],
       "firstCollectedAt": "2026-07-19T04:34:38+00:00",
-      "lastCheckedAt": "2026-07-19T05:24:06+00:00",
+      "lastCheckedAt": "2026-07-19T05:36:56+00:00",
       "isNew": true
     },
     {
@@ -1013,7 +171,9 @@
       "title": "도시형생활주택 2026년 만리동 예술인 협동조합주택(막쿱) 잔여세대 입주자 모집공고( .) 모집중 맞춤주택공급부 바로가기",
       "noticeType": "협동조합주택",
       "targetGroups": [],
-      "regions": [],
+      "regions": [
+        "서울특별시"
+      ],
       "publishedAt": "2026-06-25",
       "applyStart": null,
       "applyEnd": "2026-10-21",
@@ -1021,7 +181,7 @@
       "officialUrl": "https://www.i-sh.co.kr/main/lay2/program/S1T294C295/www/brd/m_241/view.do?seq=306066",
       "attachments": [],
       "firstCollectedAt": "2026-07-19T04:34:38+00:00",
-      "lastCheckedAt": "2026-07-19T05:24:06+00:00",
+      "lastCheckedAt": "2026-07-19T05:36:56+00:00",
       "isNew": true
     },
     {
@@ -1032,7 +192,9 @@
       "targetGroups": [
         "청년"
       ],
-      "regions": [],
+      "regions": [
+        "서울특별시"
+      ],
       "publishedAt": "2026-06-24",
       "applyStart": null,
       "applyEnd": "2026-10-14",
@@ -1040,7 +202,7 @@
       "officialUrl": "https://www.i-sh.co.kr/main/lay2/program/S1T294C295/www/brd/m_241/view.do?seq=306065",
       "attachments": [],
       "firstCollectedAt": "2026-07-19T04:34:38+00:00",
-      "lastCheckedAt": "2026-07-19T05:24:06+00:00",
+      "lastCheckedAt": "2026-07-19T05:36:56+00:00",
       "isNew": true
     },
     {
@@ -1049,7 +211,9 @@
       "title": "도시형생활주택 2026년 가양동 육아 협동조합주택(이음채) 잔여세대 입주자 모집공고( .) 모집중 맞춤주택공급부 바로가기",
       "noticeType": "협동조합주택",
       "targetGroups": [],
-      "regions": [],
+      "regions": [
+        "서울특별시"
+      ],
       "publishedAt": "2026-06-23",
       "applyStart": null,
       "applyEnd": "2026-10-14",
@@ -1057,7 +221,7 @@
       "officialUrl": "https://www.i-sh.co.kr/main/lay2/program/S1T294C295/www/brd/m_241/view.do?seq=306011",
       "attachments": [],
       "firstCollectedAt": "2026-07-19T04:34:38+00:00",
-      "lastCheckedAt": "2026-07-19T05:24:06+00:00",
+      "lastCheckedAt": "2026-07-19T05:36:56+00:00",
       "isNew": true
     },
     {
@@ -1068,7 +232,9 @@
       "targetGroups": [
         "청년"
       ],
-      "regions": [],
+      "regions": [
+        "서울특별시"
+      ],
       "publishedAt": "2026-06-05",
       "applyStart": null,
       "applyEnd": "2026-09-30",
@@ -1076,7 +242,7 @@
       "officialUrl": "https://www.i-sh.co.kr/main/lay2/program/S1T294C295/www/brd/m_241/view.do?seq=305221",
       "attachments": [],
       "firstCollectedAt": "2026-07-19T04:34:38+00:00",
-      "lastCheckedAt": "2026-07-19T05:24:06+00:00",
+      "lastCheckedAt": "2026-07-19T05:36:56+00:00",
       "isNew": true
     },
     {
@@ -1087,7 +253,9 @@
       "targetGroups": [
         "청년"
       ],
-      "regions": [],
+      "regions": [
+        "서울특별시"
+      ],
       "publishedAt": "2026-05-29",
       "applyStart": null,
       "applyEnd": "2026-08-07",
@@ -1095,7 +263,7 @@
       "officialUrl": "https://www.i-sh.co.kr/main/lay2/program/S1T294C295/www/brd/m_241/view.do?seq=305240",
       "attachments": [],
       "firstCollectedAt": "2026-07-19T04:34:38+00:00",
-      "lastCheckedAt": "2026-07-19T05:24:06+00:00",
+      "lastCheckedAt": "2026-07-19T05:36:56+00:00",
       "isNew": true
     },
     {
@@ -1106,7 +274,9 @@
       "targetGroups": [
         "다자녀"
       ],
-      "regions": [],
+      "regions": [
+        "서울특별시"
+      ],
       "publishedAt": "2026-05-29",
       "applyStart": null,
       "applyEnd": "2026-09-02",
@@ -1114,7 +284,7 @@
       "officialUrl": "https://www.i-sh.co.kr/main/lay2/program/S1T294C295/www/brd/m_241/view.do?seq=304925",
       "attachments": [],
       "firstCollectedAt": "2026-07-19T04:34:38+00:00",
-      "lastCheckedAt": "2026-07-19T05:24:06+00:00",
+      "lastCheckedAt": "2026-07-19T05:36:56+00:00",
       "isNew": true
     },
     {
@@ -1133,7 +303,7 @@
       "officialUrl": "https://www.i-sh.co.kr/main/lay2/program/S1T294C295/www/brd/m_241/view.do?seq=304864",
       "attachments": [],
       "firstCollectedAt": "2026-07-19T04:34:38+00:00",
-      "lastCheckedAt": "2026-07-19T05:24:06+00:00",
+      "lastCheckedAt": "2026-07-19T05:36:56+00:00",
       "isNew": true
     },
     {
@@ -1144,7 +314,9 @@
       "targetGroups": [
         "청년"
       ],
-      "regions": [],
+      "regions": [
+        "서울특별시"
+      ],
       "publishedAt": "2026-05-15",
       "applyStart": null,
       "applyEnd": null,
@@ -1152,7 +324,7 @@
       "officialUrl": "https://www.i-sh.co.kr/main/lay2/program/S1T294C295/www/brd/m_241/view.do?seq=305517",
       "attachments": [],
       "firstCollectedAt": "2026-07-19T04:34:38+00:00",
-      "lastCheckedAt": "2026-07-19T05:24:06+00:00",
+      "lastCheckedAt": "2026-07-19T05:36:56+00:00",
       "isNew": true
     },
     {
@@ -1161,7 +333,9 @@
       "title": "희망하우징 2026년 1차 희망하우징(공공기숙사) 잔여세대 입주자 모집공고( .) 모집마감 맞춤주택공급부 바로가기",
       "noticeType": "임대주택",
       "targetGroups": [],
-      "regions": [],
+      "regions": [
+        "서울특별시"
+      ],
       "publishedAt": "2026-05-11",
       "applyStart": null,
       "applyEnd": "2026-08-10",
@@ -1169,7 +343,7 @@
       "officialUrl": "https://www.i-sh.co.kr/main/lay2/program/S1T294C295/www/brd/m_241/view.do?seq=304106",
       "attachments": [],
       "firstCollectedAt": "2026-07-19T04:34:38+00:00",
-      "lastCheckedAt": "2026-07-19T05:24:06+00:00",
+      "lastCheckedAt": "2026-07-19T05:36:56+00:00",
       "isNew": true
     },
     {
@@ -1178,7 +352,9 @@
       "title": "장기안심주택 2026년 제1차 보증금지원형 장기안심주택 입주자 모집공고 모집마감 맞춤주택공급부 바로가기",
       "noticeType": "임대주택",
       "targetGroups": [],
-      "regions": [],
+      "regions": [
+        "서울특별시"
+      ],
       "publishedAt": "2026-04-30",
       "applyStart": null,
       "applyEnd": "2026-07-31",
@@ -1186,7 +362,7 @@
       "officialUrl": "https://www.i-sh.co.kr/main/lay2/program/S1T294C295/www/brd/m_241/view.do?seq=303656",
       "attachments": [],
       "firstCollectedAt": "2026-07-19T04:34:38+00:00",
-      "lastCheckedAt": "2026-07-19T05:24:06+00:00",
+      "lastCheckedAt": "2026-07-19T05:36:56+00:00",
       "isNew": true
     },
     {
@@ -1195,7 +371,9 @@
       "title": "장기전세주택 제50차 장기전세주택 입주자 모집공고( .공고) 모집마감 미리내집공급부 바로가기",
       "noticeType": "장기전세",
       "targetGroups": [],
-      "regions": [],
+      "regions": [
+        "서울특별시"
+      ],
       "publishedAt": "2026-04-27",
       "applyStart": null,
       "applyEnd": "2026-10-27",
@@ -1203,7 +381,7 @@
       "officialUrl": "https://www.i-sh.co.kr/main/lay2/program/S1T294C295/www/brd/m_241/view.do?seq=303557",
       "attachments": [],
       "firstCollectedAt": "2026-07-19T04:34:38+00:00",
-      "lastCheckedAt": "2026-07-19T05:24:06+00:00",
+      "lastCheckedAt": "2026-07-19T05:36:56+00:00",
       "isNew": true
     },
     {
@@ -1212,7 +390,9 @@
       "title": "장기전세주택 제7차 장기전세주택2(미리내집) 입주자 모집 공고( ) 모집마감 미리내집공급부 바로가기",
       "noticeType": "장기전세",
       "targetGroups": [],
-      "regions": [],
+      "regions": [
+        "서울특별시"
+      ],
       "publishedAt": "2026-04-24",
       "applyStart": null,
       "applyEnd": "2026-09-18",
@@ -1220,7 +400,7 @@
       "officialUrl": "https://www.i-sh.co.kr/main/lay2/program/S1T294C295/www/brd/m_241/view.do?seq=303480",
       "attachments": [],
       "firstCollectedAt": "2026-07-19T04:34:38+00:00",
-      "lastCheckedAt": "2026-07-19T05:24:06+00:00",
+      "lastCheckedAt": "2026-07-19T05:36:56+00:00",
       "isNew": true
     },
     {
@@ -1232,7 +412,9 @@
         "신혼부부",
         "신생아가구"
       ],
-      "regions": [],
+      "regions": [
+        "서울특별시"
+      ],
       "publishedAt": "2026-03-18",
       "applyStart": null,
       "applyEnd": "2026-07-15",
@@ -1240,7 +422,7 @@
       "officialUrl": "https://www.i-sh.co.kr/main/lay2/program/S1T294C295/www/brd/m_241/view.do?seq=301742",
       "attachments": [],
       "firstCollectedAt": "2026-07-19T04:34:38+00:00",
-      "lastCheckedAt": "2026-07-19T05:24:06+00:00",
+      "lastCheckedAt": "2026-07-19T05:36:56+00:00",
       "isNew": true
     },
     {
@@ -1249,7 +431,9 @@
       "title": "국민공공임대주택 [수정] 2026년 사당동 공공원룸 잔여세대 입주자모집공고( . . .) 모집마감 맞춤주택공급부 바로가기",
       "noticeType": "공공임대",
       "targetGroups": [],
-      "regions": [],
+      "regions": [
+        "서울특별시"
+      ],
       "publishedAt": "2026-01-30",
       "applyStart": null,
       "applyEnd": "2026-04-28",
@@ -1257,7 +441,7 @@
       "officialUrl": "https://www.i-sh.co.kr/main/lay2/program/S1T294C295/www/brd/m_241/view.do?seq=300255",
       "attachments": [],
       "firstCollectedAt": "2026-07-19T04:34:38+00:00",
-      "lastCheckedAt": "2026-07-19T05:24:06+00:00",
+      "lastCheckedAt": "2026-07-19T05:36:56+00:00",
       "isNew": true
     },
     {
@@ -1266,7 +450,9 @@
       "title": "국민공공임대주택 2026년 사당동 공공원룸 잔여세대 입주자모집공고( . . .) 모집마감 맞춤주택공급부 바로가기",
       "noticeType": "공공임대",
       "targetGroups": [],
-      "regions": [],
+      "regions": [
+        "서울특별시"
+      ],
       "publishedAt": "2026-01-30",
       "applyStart": null,
       "applyEnd": "2026-04-28",
@@ -1274,7 +460,7 @@
       "officialUrl": "https://www.i-sh.co.kr/main/lay2/program/S1T294C295/www/brd/m_241/view.do?seq=299904",
       "attachments": [],
       "firstCollectedAt": "2026-07-19T04:34:38+00:00",
-      "lastCheckedAt": "2026-07-19T05:24:06+00:00",
+      "lastCheckedAt": "2026-07-19T05:36:56+00:00",
       "isNew": true
     },
     {
@@ -1283,7 +469,9 @@
       "title": "행복주택 [정정]2025년 3차 행복주택 입주자 모집공고( .공고) 모집마감 공공주택공급부 바로가기",
       "noticeType": "행복주택",
       "targetGroups": [],
-      "regions": [],
+      "regions": [
+        "서울특별시"
+      ],
       "publishedAt": "2025-12-31",
       "applyStart": null,
       "applyEnd": "2026-05-29",
@@ -1291,7 +479,7 @@
       "officialUrl": "https://www.i-sh.co.kr/main/lay2/program/S1T294C295/www/brd/m_241/view.do?seq=298109",
       "attachments": [],
       "firstCollectedAt": "2026-07-19T04:34:38+00:00",
-      "lastCheckedAt": "2026-07-19T05:24:06+00:00",
+      "lastCheckedAt": "2026-07-19T05:36:56+00:00",
       "isNew": true
     },
     {
@@ -1300,7 +488,9 @@
       "title": "매입임대주택 2025년 미리내집 연계형 공공한옥 입주자 모집공고( .) 예비 3차 당첨자 발표 모집마감 맞춤주택공급부 바로가기",
       "noticeType": "매입임대",
       "targetGroups": [],
-      "regions": [],
+      "regions": [
+        "서울특별시"
+      ],
       "publishedAt": "2025-12-30",
       "applyStart": null,
       "applyEnd": "2026-04-02",
@@ -1308,7 +498,7 @@
       "officialUrl": "https://www.i-sh.co.kr/main/lay2/program/S1T294C295/www/brd/m_241/view.do?seq=304349",
       "attachments": [],
       "firstCollectedAt": "2026-07-19T04:34:38+00:00",
-      "lastCheckedAt": "2026-07-19T05:24:06+00:00",
+      "lastCheckedAt": "2026-07-19T05:36:56+00:00",
       "isNew": true
     },
     {
@@ -1317,7 +507,9 @@
       "title": "매입임대주택 2025년 미리내집 연계형 공공한옥 입주자 모집공고( .) 예비 2차 당첨자 발표 모집마감 맞춤주택공급부 바로가기",
       "noticeType": "매입임대",
       "targetGroups": [],
-      "regions": [],
+      "regions": [
+        "서울특별시"
+      ],
       "publishedAt": "2025-12-30",
       "applyStart": null,
       "applyEnd": "2026-04-02",
@@ -1325,7 +517,7 @@
       "officialUrl": "https://www.i-sh.co.kr/main/lay2/program/S1T294C295/www/brd/m_241/view.do?seq=303771",
       "attachments": [],
       "firstCollectedAt": "2026-07-19T04:34:38+00:00",
-      "lastCheckedAt": "2026-07-19T05:24:06+00:00",
+      "lastCheckedAt": "2026-07-19T05:36:56+00:00",
       "isNew": true
     },
     {
@@ -1334,7 +526,9 @@
       "title": "매입임대주택 2025년 미리내집 연계형 공공한옥 입주자 모집공고( .) 예비 1차 당첨자 발표 모집마감 맞춤주택공급부 바로가기",
       "noticeType": "매입임대",
       "targetGroups": [],
-      "regions": [],
+      "regions": [
+        "서울특별시"
+      ],
       "publishedAt": "2025-12-30",
       "applyStart": null,
       "applyEnd": "2026-04-02",
@@ -1342,7 +536,7 @@
       "officialUrl": "https://www.i-sh.co.kr/main/lay2/program/S1T294C295/www/brd/m_241/view.do?seq=303238",
       "attachments": [],
       "firstCollectedAt": "2026-07-19T04:34:38+00:00",
-      "lastCheckedAt": "2026-07-19T05:24:06+00:00",
+      "lastCheckedAt": "2026-07-19T05:36:56+00:00",
       "isNew": true
     },
     {
@@ -1351,7 +545,9 @@
       "title": "매입임대주택 2025년 미리내집 연계형 공공한옥 입주자 모집공고( .) 당첨자 및 예비자 발표 모집마감 맞춤주택공급부 바로가기",
       "noticeType": "매입임대",
       "targetGroups": [],
-      "regions": [],
+      "regions": [
+        "서울특별시"
+      ],
       "publishedAt": "2025-12-30",
       "applyStart": null,
       "applyEnd": "2026-04-02",
@@ -1359,7 +555,7 @@
       "officialUrl": "https://www.i-sh.co.kr/main/lay2/program/S1T294C295/www/brd/m_241/view.do?seq=302479",
       "attachments": [],
       "firstCollectedAt": "2026-07-19T04:34:38+00:00",
-      "lastCheckedAt": "2026-07-19T05:24:06+00:00",
+      "lastCheckedAt": "2026-07-19T05:36:56+00:00",
       "isNew": true
     },
     {
@@ -1368,7 +564,9 @@
       "title": "장기안심주택 2025년 제2차 보증금지원형 장기안심주택 입주자 모집공고 모집마감 맞춤주택공급부 바로가기",
       "noticeType": "임대주택",
       "targetGroups": [],
-      "regions": [],
+      "regions": [
+        "서울특별시"
+      ],
       "publishedAt": "2025-12-17",
       "applyStart": null,
       "applyEnd": "2026-03-18",
@@ -1376,7 +574,7 @@
       "officialUrl": "https://www.i-sh.co.kr/main/lay2/program/S1T294C295/www/brd/m_241/view.do?seq=296501",
       "attachments": [],
       "firstCollectedAt": "2026-07-19T04:34:38+00:00",
-      "lastCheckedAt": "2026-07-19T05:24:06+00:00",
+      "lastCheckedAt": "2026-07-19T05:36:56+00:00",
       "isNew": true
     },
     {
@@ -1385,7 +583,9 @@
       "title": "장기전세주택 제49차 장기전세주택 입주자 모집공고( .공고) 모집마감 미리내집공급부 바로가기",
       "noticeType": "장기전세",
       "targetGroups": [],
-      "regions": [],
+      "regions": [
+        "서울특별시"
+      ],
       "publishedAt": "2025-12-15",
       "applyStart": null,
       "applyEnd": "2026-07-10",
@@ -1393,7 +593,7 @@
       "officialUrl": "https://www.i-sh.co.kr/main/lay2/program/S1T294C295/www/brd/m_241/view.do?seq=297335",
       "attachments": [],
       "firstCollectedAt": "2026-07-19T04:34:38+00:00",
-      "lastCheckedAt": "2026-07-19T05:24:06+00:00",
+      "lastCheckedAt": "2026-07-19T05:36:56+00:00",
       "isNew": true
     },
     {
@@ -1402,7 +602,9 @@
       "title": "희망하우징 -2차 희망하우징(공공기숙사) 잔여세대 입주자 모집공고( .) 모집마감 맞춤주택공급부 바로가기",
       "noticeType": "임대주택",
       "targetGroups": [],
-      "regions": [],
+      "regions": [
+        "서울특별시"
+      ],
       "publishedAt": "2025-11-27",
       "applyStart": null,
       "applyEnd": "2026-02-26",
@@ -1410,7 +612,7 @@
       "officialUrl": "https://www.i-sh.co.kr/main/lay2/program/S1T294C295/www/brd/m_241/view.do?seq=296645",
       "attachments": [],
       "firstCollectedAt": "2026-07-19T04:34:38+00:00",
-      "lastCheckedAt": "2026-07-19T05:24:06+00:00",
+      "lastCheckedAt": "2026-07-19T05:36:56+00:00",
       "isNew": true
     },
     {
@@ -1419,7 +621,9 @@
       "title": "희망하우징 -2차 희망하우징(공공기숙사) 잔여세대 입주자 모집공고( .) 당첨자 및 예비자 발표 모집마감 맞춤주택공급부 바로가기",
       "noticeType": "임대주택",
       "targetGroups": [],
-      "regions": [],
+      "regions": [
+        "서울특별시"
+      ],
       "publishedAt": "2025-11-27",
       "applyStart": null,
       "applyEnd": "2026-02-26",
@@ -1427,7 +631,7 @@
       "officialUrl": "https://www.i-sh.co.kr/main/lay2/program/S1T294C295/www/brd/m_241/view.do?seq=301011",
       "attachments": [],
       "firstCollectedAt": "2026-07-19T04:34:38+00:00",
-      "lastCheckedAt": "2026-07-19T05:24:06+00:00",
+      "lastCheckedAt": "2026-07-19T05:36:56+00:00",
       "isNew": true
     },
     {
@@ -1436,7 +640,9 @@
       "title": "국민공공임대주택 2025년 재개발임대주택 입주자 모집공고( .공고) 모집마감 공공주택공급부 바로가기",
       "noticeType": "공공임대",
       "targetGroups": [],
-      "regions": [],
+      "regions": [
+        "서울특별시"
+      ],
       "publishedAt": "2025-10-24",
       "applyStart": null,
       "applyEnd": "2026-04-23",
@@ -1444,7 +650,7 @@
       "officialUrl": "https://www.i-sh.co.kr/main/lay2/program/S1T294C295/www/brd/m_241/view.do?seq=295159",
       "attachments": [],
       "firstCollectedAt": "2026-07-19T04:34:38+00:00",
-      "lastCheckedAt": "2026-07-19T05:24:06+00:00",
+      "lastCheckedAt": "2026-07-19T05:36:56+00:00",
       "isNew": true
     },
     {
@@ -1453,7 +659,9 @@
       "title": "국민공공임대주택 2025년 공공·주거환경임대주택 입주자 및 예비입주자 모집공고( .공고) 모집마감 공공주택공급부 바로가기",
       "noticeType": "공공임대",
       "targetGroups": [],
-      "regions": [],
+      "regions": [
+        "서울특별시"
+      ],
       "publishedAt": "2025-09-26",
       "applyStart": null,
       "applyEnd": "2026-02-26",
@@ -1461,7 +669,7 @@
       "officialUrl": "https://www.i-sh.co.kr/main/lay2/program/S1T294C295/www/brd/m_241/view.do?seq=294206",
       "attachments": [],
       "firstCollectedAt": "2026-07-19T04:34:38+00:00",
-      "lastCheckedAt": "2026-07-19T05:24:06+00:00",
+      "lastCheckedAt": "2026-07-19T05:36:56+00:00",
       "isNew": true
     },
     {
@@ -1470,7 +678,9 @@
       "title": "국민공공임대주택 2025년 제1차 국민임대주택 입주자 모집공고( .공고) 모집마감 공공주택공급부 바로가기",
       "noticeType": "국민임대",
       "targetGroups": [],
-      "regions": [],
+      "regions": [
+        "서울특별시"
+      ],
       "publishedAt": "2025-08-20",
       "applyStart": null,
       "applyEnd": "2026-02-19",
@@ -1478,7 +688,7 @@
       "officialUrl": "https://www.i-sh.co.kr/main/lay2/program/S1T294C295/www/brd/m_241/view.do?seq=292541",
       "attachments": [],
       "firstCollectedAt": "2026-07-19T04:34:38+00:00",
-      "lastCheckedAt": "2026-07-19T05:24:06+00:00",
+      "lastCheckedAt": "2026-07-19T05:36:56+00:00",
       "isNew": true
     },
     {
@@ -1487,7 +697,9 @@
       "title": "장기전세주택 제48차 장기전세주택 입주자 모집공고( .공고) 모집마감 미리내집공급부 바로가기",
       "noticeType": "장기전세",
       "targetGroups": [],
-      "regions": [],
+      "regions": [
+        "서울특별시"
+      ],
       "publishedAt": "2025-08-14",
       "applyStart": null,
       "applyEnd": "2026-02-06",
@@ -1495,7 +707,7 @@
       "officialUrl": "https://www.i-sh.co.kr/main/lay2/program/S1T294C295/www/brd/m_241/view.do?seq=292305",
       "attachments": [],
       "firstCollectedAt": "2026-07-19T04:34:38+00:00",
-      "lastCheckedAt": "2026-07-19T05:24:06+00:00",
+      "lastCheckedAt": "2026-07-19T05:36:56+00:00",
       "isNew": true
     },
     {
@@ -1504,7 +716,9 @@
       "title": "장기전세주택 제48차 장기전세주택 입주자 모집공고( .) 당첨자 및 예비입주자 발표 모집마감 미리내집공급부 바로가기",
       "noticeType": "장기전세",
       "targetGroups": [],
-      "regions": [],
+      "regions": [
+        "서울특별시"
+      ],
       "publishedAt": "2025-08-14",
       "applyStart": null,
       "applyEnd": "2026-02-06",
@@ -1512,7 +726,7 @@
       "officialUrl": "https://www.i-sh.co.kr/main/lay2/program/S1T294C295/www/brd/m_241/view.do?seq=299825",
       "attachments": [],
       "firstCollectedAt": "2026-07-19T04:34:38+00:00",
-      "lastCheckedAt": "2026-07-19T05:24:06+00:00",
+      "lastCheckedAt": "2026-07-19T05:36:56+00:00",
       "isNew": true
     },
     {
@@ -1521,7 +735,9 @@
       "title": "행복주택 2025년 2차 행복주택 입주자 모집공고( . 공고) 모집마감 공공주택공급부 바로가기",
       "noticeType": "행복주택",
       "targetGroups": [],
-      "regions": [],
+      "regions": [
+        "서울특별시"
+      ],
       "publishedAt": "2025-06-27",
       "applyStart": null,
       "applyEnd": "2025-11-21",
@@ -1529,7 +745,7 @@
       "officialUrl": "https://www.i-sh.co.kr/main/lay2/program/S1T294C295/www/brd/m_241/view.do?seq=290172",
       "attachments": [],
       "firstCollectedAt": "2026-07-19T04:34:38+00:00",
-      "lastCheckedAt": "2026-07-19T05:24:06+00:00",
+      "lastCheckedAt": "2026-07-19T05:36:56+00:00",
       "isNew": true
     },
     {
@@ -1538,7 +754,9 @@
       "title": "장기전세주택 제47차 장기전세주택 입주자 모집공고 ( . 공고) 모집마감 미리내집공급부 바로가기",
       "noticeType": "장기전세",
       "targetGroups": [],
-      "regions": [],
+      "regions": [
+        "서울특별시"
+      ],
       "publishedAt": "2025-04-30",
       "applyStart": null,
       "applyEnd": "2025-11-14",
@@ -1546,7 +764,7 @@
       "officialUrl": "https://www.i-sh.co.kr/main/lay2/program/S1T294C295/www/brd/m_241/view.do?seq=287727",
       "attachments": [],
       "firstCollectedAt": "2026-07-19T04:34:38+00:00",
-      "lastCheckedAt": "2026-07-19T05:24:06+00:00",
+      "lastCheckedAt": "2026-07-19T05:36:56+00:00",
       "isNew": true
     },
     {
@@ -1555,7 +773,9 @@
       "title": "장기안심주택 2025년 제1차 보증금지원형 장기안심주택 신규 입주자 모집공고 모집마감 맞춤주택공급부 바로가기",
       "noticeType": "임대주택",
       "targetGroups": [],
-      "regions": [],
+      "regions": [
+        "서울특별시"
+      ],
       "publishedAt": "2025-04-28",
       "applyStart": null,
       "applyEnd": "2025-07-31",
@@ -1563,7 +783,7 @@
       "officialUrl": "https://www.i-sh.co.kr/main/lay2/program/S1T294C295/www/brd/m_241/view.do?seq=287311",
       "attachments": [],
       "firstCollectedAt": "2026-07-19T04:34:38+00:00",
-      "lastCheckedAt": "2026-07-19T05:24:06+00:00",
+      "lastCheckedAt": "2026-07-19T05:36:56+00:00",
       "isNew": true
     },
     {
@@ -1572,7 +792,9 @@
       "title": "행복주택 [정정] 2025년 1차 행복주택 입주자 모집공고 ( . 공고) 모집마감 공공주택공급부 바로가기",
       "noticeType": "행복주택",
       "targetGroups": [],
-      "regions": [],
+      "regions": [
+        "서울특별시"
+      ],
       "publishedAt": "2025-04-25",
       "applyStart": null,
       "applyEnd": "2025-08-29",
@@ -1580,7 +802,7 @@
       "officialUrl": "https://www.i-sh.co.kr/main/lay2/program/S1T294C295/www/brd/m_241/view.do?seq=287466",
       "attachments": [],
       "firstCollectedAt": "2026-07-19T04:34:38+00:00",
-      "lastCheckedAt": "2026-07-19T05:24:06+00:00",
+      "lastCheckedAt": "2026-07-19T05:36:56+00:00",
       "isNew": true
     },
     {
@@ -1589,7 +811,9 @@
       "title": "행복주택 2025년 1차 행복주택 입주자 모집( .공고) 최종 청약 경쟁률 게시 모집마감 공공주택공급부 바로가기",
       "noticeType": "행복주택",
       "targetGroups": [],
-      "regions": [],
+      "regions": [
+        "서울특별시"
+      ],
       "publishedAt": "2025-04-25",
       "applyStart": null,
       "applyEnd": "2025-08-29",
@@ -1597,7 +821,7 @@
       "officialUrl": "https://www.i-sh.co.kr/main/lay2/program/S1T294C295/www/brd/m_241/view.do?seq=288199",
       "attachments": [],
       "firstCollectedAt": "2026-07-19T04:34:38+00:00",
-      "lastCheckedAt": "2026-07-19T05:24:06+00:00",
+      "lastCheckedAt": "2026-07-19T05:36:56+00:00",
       "isNew": true
     },
     {
@@ -1606,7 +830,9 @@
       "title": "행복주택 2025년 창동 아우르네빌리지 입주자 모집공고(일자리연계형 지원주택, . 공고) : 신청기간 연장 - 모집마감 공공주택공급부 바로가기",
       "noticeType": "행복주택",
       "targetGroups": [],
-      "regions": [],
+      "regions": [
+        "서울특별시"
+      ],
       "publishedAt": "2025-02-21",
       "applyStart": null,
       "applyEnd": "2025-03-07",
@@ -1614,7 +840,7 @@
       "officialUrl": "https://www.i-sh.co.kr/main/lay2/program/S1T294C295/www/brd/m_241/view.do?seq=285742",
       "attachments": [],
       "firstCollectedAt": "2026-07-19T04:34:38+00:00",
-      "lastCheckedAt": "2026-07-19T05:24:06+00:00",
+      "lastCheckedAt": "2026-07-19T05:36:56+00:00",
       "isNew": true
     },
     {
@@ -1623,7 +849,9 @@
       "title": "행복주택 2024년 2차 행복주택 입주자 모집공고 ( . 공고) 모집마감 공공주택공급부 바로가기",
       "noticeType": "행복주택",
       "targetGroups": [],
-      "regions": [],
+      "regions": [
+        "서울특별시"
+      ],
       "publishedAt": "2024-12-27",
       "applyStart": null,
       "applyEnd": "2025-05-16",
@@ -1631,7 +859,7 @@
       "officialUrl": "https://www.i-sh.co.kr/main/lay2/program/S1T294C295/www/brd/m_241/view.do?seq=282652",
       "attachments": [],
       "firstCollectedAt": "2026-07-19T04:34:38+00:00",
-      "lastCheckedAt": "2026-07-19T05:24:06+00:00",
+      "lastCheckedAt": "2026-07-19T05:36:56+00:00",
       "isNew": true
     },
     {
@@ -1640,7 +868,9 @@
       "title": "장기전세주택 제46차 장기전세주택 입주자 모집공고 ( . 공고) 모집마감 공공주택공급부 바로가기",
       "noticeType": "장기전세",
       "targetGroups": [],
-      "regions": [],
+      "regions": [
+        "서울특별시"
+      ],
       "publishedAt": "2024-12-26",
       "applyStart": null,
       "applyEnd": "2025-06-12",
@@ -1648,7 +878,7 @@
       "officialUrl": "https://www.i-sh.co.kr/main/lay2/program/S1T294C295/www/brd/m_241/view.do?seq=282546",
       "attachments": [],
       "firstCollectedAt": "2026-07-19T04:34:38+00:00",
-      "lastCheckedAt": "2026-07-19T05:24:06+00:00",
+      "lastCheckedAt": "2026-07-19T05:36:56+00:00",
       "isNew": true
     },
     {
@@ -1657,7 +887,9 @@
       "title": "국민공공임대주택 2024년 재개발임대주택 입주자 모집공고( .공고) 모집마감 공공주택공급부 바로가기",
       "noticeType": "공공임대",
       "targetGroups": [],
-      "regions": [],
+      "regions": [
+        "서울특별시"
+      ],
       "publishedAt": "2024-10-11",
       "applyStart": null,
       "applyEnd": "2025-04-02",
@@ -1665,7 +897,7 @@
       "officialUrl": "https://www.i-sh.co.kr/main/lay2/program/S1T294C295/www/brd/m_241/view.do?seq=279905",
       "attachments": [],
       "firstCollectedAt": "2026-07-19T04:34:38+00:00",
-      "lastCheckedAt": "2026-07-19T05:24:06+00:00",
+      "lastCheckedAt": "2026-07-19T05:36:56+00:00",
       "isNew": true
     },
     {
@@ -1674,7 +906,9 @@
       "title": "국민공공임대주택 2024년 제1차 국민임대주택 입주자 모집공고( .공고) 모집마감 공공주택공급부 바로가기",
       "noticeType": "국민임대",
       "targetGroups": [],
-      "regions": [],
+      "regions": [
+        "서울특별시"
+      ],
       "publishedAt": "2024-09-26",
       "applyStart": null,
       "applyEnd": "2025-03-28",
@@ -1682,7 +916,7 @@
       "officialUrl": "https://www.i-sh.co.kr/main/lay2/program/S1T294C295/www/brd/m_241/view.do?seq=279305",
       "attachments": [],
       "firstCollectedAt": "2026-07-19T04:34:38+00:00",
-      "lastCheckedAt": "2026-07-19T05:24:06+00:00",
+      "lastCheckedAt": "2026-07-19T05:36:56+00:00",
       "isNew": true
     },
     {
@@ -1691,7 +925,9 @@
       "title": "장기전세주택 제45차 장기전세주택 입주자 모집공고 ( . 공고) 모집마감 공공주택공급부 바로가기",
       "noticeType": "장기전세",
       "targetGroups": [],
-      "regions": [],
+      "regions": [
+        "서울특별시"
+      ],
       "publishedAt": "2024-08-29",
       "applyStart": null,
       "applyEnd": "2025-02-07",
@@ -1699,7 +935,7 @@
       "officialUrl": "https://www.i-sh.co.kr/main/lay2/program/S1T294C295/www/brd/m_241/view.do?seq=278265",
       "attachments": [],
       "firstCollectedAt": "2026-07-19T04:34:38+00:00",
-      "lastCheckedAt": "2026-07-19T05:24:06+00:00",
+      "lastCheckedAt": "2026-07-19T05:36:56+00:00",
       "isNew": true
     },
     {
@@ -1708,7 +944,9 @@
       "title": "장기전세주택 제44차 장기전세주택 입주자 모집 공고( . 공고) 당첨자 및 예비입주자 발표 모집마감 공공주택공급부 바로가기",
       "noticeType": "장기전세",
       "targetGroups": [],
-      "regions": [],
+      "regions": [
+        "서울특별시"
+      ],
       "publishedAt": "2024-06-27",
       "applyStart": null,
       "applyEnd": "2024-11-15",
@@ -1716,7 +954,7 @@
       "officialUrl": "https://www.i-sh.co.kr/main/lay2/program/S1T294C295/www/brd/m_241/view.do?seq=281012",
       "attachments": [],
       "firstCollectedAt": "2026-07-19T04:34:38+00:00",
-      "lastCheckedAt": "2026-07-19T05:24:06+00:00",
+      "lastCheckedAt": "2026-07-19T05:36:56+00:00",
       "isNew": true
     },
     {
@@ -1735,7 +973,7 @@
       "officialUrl": "https://www.gh.or.kr/gh/announcement-of-salerental001.do?mode=view&articleNo=64776&article.offset=0&articleLimit=100",
       "attachments": [],
       "firstCollectedAt": "2026-07-19T04:07:52+00:00",
-      "lastCheckedAt": "2026-07-19T05:24:06+00:00",
+      "lastCheckedAt": "2026-07-19T05:36:56+00:00",
       "isNew": true
     },
     {
@@ -1754,7 +992,7 @@
       "officialUrl": "https://www.gh.or.kr/gh/announcement-of-salerental001.do?mode=view&articleNo=64766&article.offset=0&articleLimit=100",
       "attachments": [],
       "firstCollectedAt": "2026-07-19T04:07:52+00:00",
-      "lastCheckedAt": "2026-07-19T05:24:06+00:00",
+      "lastCheckedAt": "2026-07-19T05:36:56+00:00",
       "isNew": true
     },
     {
@@ -1776,7 +1014,7 @@
       "officialUrl": "https://www.gh.or.kr/gh/announcement-of-salerental001.do?mode=view&articleNo=64831&article.offset=0&articleLimit=100",
       "attachments": [],
       "firstCollectedAt": "2026-07-19T04:07:52+00:00",
-      "lastCheckedAt": "2026-07-19T05:24:06+00:00",
+      "lastCheckedAt": "2026-07-19T05:36:56+00:00",
       "isNew": true
     },
     {
@@ -1796,7 +1034,7 @@
       "officialUrl": "https://www.gh.or.kr/gh/announcement-of-salerental001.do?mode=view&articleNo=64640&article.offset=0&articleLimit=100",
       "attachments": [],
       "firstCollectedAt": "2026-07-19T04:07:52+00:00",
-      "lastCheckedAt": "2026-07-19T05:24:06+00:00",
+      "lastCheckedAt": "2026-07-19T05:36:56+00:00",
       "isNew": true
     },
     {
@@ -1806,6 +1044,7 @@
       "noticeType": "장기전세",
       "targetGroups": [],
       "regions": [
+        "경기도",
         "안양"
       ],
       "publishedAt": null,
@@ -1815,7 +1054,7 @@
       "officialUrl": "https://www.gh.or.kr/gh/announcement-of-salerental001.do?mode=view&articleNo=64817&article.offset=0&articleLimit=100",
       "attachments": [],
       "firstCollectedAt": "2026-07-19T04:07:52+00:00",
-      "lastCheckedAt": "2026-07-19T05:24:06+00:00",
+      "lastCheckedAt": "2026-07-19T05:36:56+00:00",
       "isNew": true
     },
     {
@@ -1825,6 +1064,7 @@
       "noticeType": "행복주택",
       "targetGroups": [],
       "regions": [
+        "경기도",
         "안양"
       ],
       "publishedAt": null,
@@ -1834,7 +1074,7 @@
       "officialUrl": "https://www.gh.or.kr/gh/announcement-of-salerental001.do?mode=view&articleNo=64959&article.offset=0&articleLimit=100",
       "attachments": [],
       "firstCollectedAt": "2026-07-19T04:07:52+00:00",
-      "lastCheckedAt": "2026-07-19T05:24:06+00:00",
+      "lastCheckedAt": "2026-07-19T05:36:56+00:00",
       "isNew": true
     },
     {
@@ -1844,6 +1084,7 @@
       "noticeType": "행복주택",
       "targetGroups": [],
       "regions": [
+        "경기도",
         "안양"
       ],
       "publishedAt": null,
@@ -1853,7 +1094,7 @@
       "officialUrl": "https://www.gh.or.kr/gh/announcement-of-salerental001.do?mode=view&articleNo=64966&article.offset=0&articleLimit=100",
       "attachments": [],
       "firstCollectedAt": "2026-07-19T04:07:52+00:00",
-      "lastCheckedAt": "2026-07-19T05:24:06+00:00",
+      "lastCheckedAt": "2026-07-19T05:36:56+00:00",
       "isNew": true
     },
     {
@@ -1863,6 +1104,7 @@
       "noticeType": "통합공공임대",
       "targetGroups": [],
       "regions": [
+        "경기도",
         "안성"
       ],
       "publishedAt": null,
@@ -1872,7 +1114,7 @@
       "officialUrl": "https://www.gh.or.kr/gh/announcement-of-salerental001.do?mode=view&articleNo=64679&article.offset=0&articleLimit=100",
       "attachments": [],
       "firstCollectedAt": "2026-07-19T04:07:52+00:00",
-      "lastCheckedAt": "2026-07-19T05:24:06+00:00",
+      "lastCheckedAt": "2026-07-19T05:36:56+00:00",
       "isNew": true
     },
     {
@@ -1883,7 +1125,9 @@
       "targetGroups": [
         "청년"
       ],
-      "regions": [],
+      "regions": [
+        "경기도"
+      ],
       "publishedAt": null,
       "applyStart": null,
       "applyEnd": null,
@@ -1891,7 +1135,7 @@
       "officialUrl": "https://www.gh.or.kr/gh/announcement-of-salerental001.do?mode=view&articleNo=64782&article.offset=0&articleLimit=100",
       "attachments": [],
       "firstCollectedAt": "2026-07-19T04:07:52+00:00",
-      "lastCheckedAt": "2026-07-19T05:24:06+00:00",
+      "lastCheckedAt": "2026-07-19T05:36:56+00:00",
       "isNew": true
     },
     {
@@ -1900,7 +1144,9 @@
       "title": "매입임대주택 '26년 자격완화(1차) 입주자 모집공고(공고일:'26.6.10.) 당첨자 발표",
       "noticeType": "매입임대",
       "targetGroups": [],
-      "regions": [],
+      "regions": [
+        "경기도"
+      ],
       "publishedAt": null,
       "applyStart": null,
       "applyEnd": null,
@@ -1908,7 +1154,7 @@
       "officialUrl": "https://www.gh.or.kr/gh/announcement-of-salerental001.do?mode=view&articleNo=64997&article.offset=0&articleLimit=100",
       "attachments": [],
       "firstCollectedAt": "2026-07-19T04:07:52+00:00",
-      "lastCheckedAt": "2026-07-19T05:24:06+00:00",
+      "lastCheckedAt": "2026-07-19T05:36:56+00:00",
       "isNew": true
     },
     {
@@ -1917,7 +1163,9 @@
       "title": "다산지금A3 통합공공임대주택 입주자 모집 공고",
       "noticeType": "통합공공임대",
       "targetGroups": [],
-      "regions": [],
+      "regions": [
+        "경기도"
+      ],
       "publishedAt": null,
       "applyStart": null,
       "applyEnd": null,
@@ -1925,7 +1173,7 @@
       "officialUrl": "https://www.gh.or.kr/gh/announcement-of-salerental001.do?mode=view&articleNo=64888&article.offset=0&articleLimit=100",
       "attachments": [],
       "firstCollectedAt": "2026-07-19T04:07:52+00:00",
-      "lastCheckedAt": "2026-07-19T05:24:06+00:00",
+      "lastCheckedAt": "2026-07-19T05:36:56+00:00",
       "isNew": true
     },
     {
@@ -1934,7 +1182,9 @@
       "title": "다산메트로 3단지 영구임대주택 입주자(예비입주자) 발표",
       "noticeType": "영구임대",
       "targetGroups": [],
-      "regions": [],
+      "regions": [
+        "경기도"
+      ],
       "publishedAt": null,
       "applyStart": null,
       "applyEnd": null,
@@ -1942,7 +1192,7 @@
       "officialUrl": "https://www.gh.or.kr/gh/announcement-of-salerental001.do?mode=view&articleNo=64811&article.offset=0&articleLimit=100",
       "attachments": [],
       "firstCollectedAt": "2026-07-19T04:07:52+00:00",
-      "lastCheckedAt": "2026-07-19T05:24:06+00:00",
+      "lastCheckedAt": "2026-07-19T05:36:56+00:00",
       "isNew": true
     },
     {
@@ -1951,7 +1201,9 @@
       "title": "다산 센트럴파크6단지 영구임대주택 예비입주자 모집 공고",
       "noticeType": "영구임대",
       "targetGroups": [],
-      "regions": [],
+      "regions": [
+        "경기도"
+      ],
       "publishedAt": null,
       "applyStart": null,
       "applyEnd": null,
@@ -1959,7 +1211,7 @@
       "officialUrl": "https://www.gh.or.kr/gh/announcement-of-salerental001.do?mode=view&articleNo=64847&article.offset=0&articleLimit=100",
       "attachments": [],
       "firstCollectedAt": "2026-07-19T04:07:52+00:00",
-      "lastCheckedAt": "2026-07-19T05:24:06+00:00",
+      "lastCheckedAt": "2026-07-19T05:36:56+00:00",
       "isNew": true
     },
     {
@@ -1971,6 +1223,7 @@
         "청년"
       ],
       "regions": [
+        "경기도",
         "광주"
       ],
       "publishedAt": null,
@@ -1980,7 +1233,7 @@
       "officialUrl": "https://www.gh.or.kr/gh/announcement-of-salerental001.do?mode=view&articleNo=64845&article.offset=0&articleLimit=100",
       "attachments": [],
       "firstCollectedAt": "2026-07-19T04:07:52+00:00",
-      "lastCheckedAt": "2026-07-19T05:24:06+00:00",
+      "lastCheckedAt": "2026-07-19T05:36:56+00:00",
       "isNew": true
     },
     {
@@ -1990,6 +1243,7 @@
       "noticeType": "통합공공임대",
       "targetGroups": [],
       "regions": [
+        "경기도",
         "광주"
       ],
       "publishedAt": null,
@@ -1999,7 +1253,7 @@
       "officialUrl": "https://www.gh.or.kr/gh/announcement-of-salerental001.do?mode=view&articleNo=64594&article.offset=0&articleLimit=100",
       "attachments": [],
       "firstCollectedAt": "2026-07-19T04:07:52+00:00",
-      "lastCheckedAt": "2026-07-19T05:24:06+00:00",
+      "lastCheckedAt": "2026-07-19T05:36:56+00:00",
       "isNew": true
     },
     {
@@ -2009,6 +1263,7 @@
       "noticeType": "매입임대",
       "targetGroups": [],
       "regions": [
+        "경기도",
         "수원시",
         "수원",
         "시흥시",
@@ -2021,7 +1276,7 @@
       "officialUrl": "https://www.gh.or.kr/gh/announcement-of-salerental001.do?mode=view&articleNo=64768&article.offset=0&articleLimit=100",
       "attachments": [],
       "firstCollectedAt": "2026-07-19T04:07:52+00:00",
-      "lastCheckedAt": "2026-07-19T05:24:06+00:00",
+      "lastCheckedAt": "2026-07-19T05:36:56+00:00",
       "isNew": true
     },
     {
@@ -2041,7 +1296,7 @@
       "officialUrl": "https://www.gh.or.kr/gh/announcement-of-salerental001.do?mode=view&articleNo=64995&article.offset=0&articleLimit=100",
       "attachments": [],
       "firstCollectedAt": "2026-07-19T04:07:52+00:00",
-      "lastCheckedAt": "2026-07-19T05:24:06+00:00",
+      "lastCheckedAt": "2026-07-19T05:36:56+00:00",
       "isNew": true
     },
     {
@@ -2061,7 +1316,7 @@
       "officialUrl": "https://www.gh.or.kr/gh/announcement-of-salerental001.do?mode=view&articleNo=64890&article.offset=0&articleLimit=100",
       "attachments": [],
       "firstCollectedAt": "2026-07-19T04:07:52+00:00",
-      "lastCheckedAt": "2026-07-19T05:24:06+00:00",
+      "lastCheckedAt": "2026-07-19T05:36:56+00:00",
       "isNew": true
     },
     {
@@ -2081,7 +1336,7 @@
       "officialUrl": "https://www.gh.or.kr/gh/announcement-of-salerental001.do?mode=view&articleNo=64992&article.offset=0&articleLimit=100",
       "attachments": [],
       "firstCollectedAt": "2026-07-19T04:07:52+00:00",
-      "lastCheckedAt": "2026-07-19T05:24:06+00:00",
+      "lastCheckedAt": "2026-07-19T05:36:56+00:00",
       "isNew": true
     },
     {
@@ -2090,7 +1345,9 @@
       "title": "3. 26년 매입임대주택 입주자 모집(자격완화) 주택내역(260615) PDF.pdf",
       "noticeType": "매입임대",
       "targetGroups": [],
-      "regions": [],
+      "regions": [
+        "경기도"
+      ],
       "publishedAt": null,
       "applyStart": null,
       "applyEnd": null,
@@ -2098,7 +1355,7 @@
       "officialUrl": "https://www.gh.or.kr/gh/announcement-of-salerental001.do?mode=view&articleNo=64932&article.offset=0&articleLimit=100",
       "attachments": [],
       "firstCollectedAt": "2026-07-19T04:07:52+00:00",
-      "lastCheckedAt": "2026-07-19T05:24:06+00:00",
+      "lastCheckedAt": "2026-07-19T05:36:56+00:00",
       "isNew": true
     },
     {
@@ -2109,7 +1366,9 @@
       "targetGroups": [
         "청년"
       ],
-      "regions": [],
+      "regions": [
+        "경기도"
+      ],
       "publishedAt": null,
       "applyStart": null,
       "applyEnd": null,
@@ -2117,7 +1376,7 @@
       "officialUrl": "https://www.gh.or.kr/gh/announcement-of-salerental001.do?mode=view&articleNo=64770&article.offset=0&articleLimit=100",
       "attachments": [],
       "firstCollectedAt": "2026-07-19T04:07:52+00:00",
-      "lastCheckedAt": "2026-07-19T05:24:06+00:00",
+      "lastCheckedAt": "2026-07-19T05:36:56+00:00",
       "isNew": true
     },
     {
@@ -2128,7 +1387,9 @@
       "targetGroups": [
         "청년"
       ],
-      "regions": [],
+      "regions": [
+        "경기도"
+      ],
       "publishedAt": null,
       "applyStart": null,
       "applyEnd": null,
@@ -2136,7 +1397,7 @@
       "officialUrl": "https://www.gh.or.kr/gh/announcement-of-salerental001.do?mode=view&articleNo=64742&article.offset=0&articleLimit=100",
       "attachments": [],
       "firstCollectedAt": "2026-07-19T04:07:52+00:00",
-      "lastCheckedAt": "2026-07-19T05:24:06+00:00",
+      "lastCheckedAt": "2026-07-19T05:36:56+00:00",
       "isNew": true
     },
     {
@@ -2146,6 +1407,7 @@
       "noticeType": "장기전세",
       "targetGroups": [],
       "regions": [
+        "경기도",
         "의정부"
       ],
       "publishedAt": null,
@@ -2155,7 +1417,7 @@
       "officialUrl": "https://www.gh.or.kr/gh/announcement-of-salerental001.do?mode=view&articleNo=64795&article.offset=0&articleLimit=100",
       "attachments": [],
       "firstCollectedAt": "2026-07-19T04:07:52+00:00",
-      "lastCheckedAt": "2026-07-19T05:24:06+00:00",
+      "lastCheckedAt": "2026-07-19T05:36:56+00:00",
       "isNew": true
     },
     {
@@ -2164,7 +1426,9 @@
       "title": "('26년 1차) 기존주택 등 매입임대주택 예비입주자 모집공고",
       "noticeType": "매입임대",
       "targetGroups": [],
-      "regions": [],
+      "regions": [
+        "경기도"
+      ],
       "publishedAt": null,
       "applyStart": null,
       "applyEnd": null,
@@ -2172,7 +1436,7 @@
       "officialUrl": "https://www.gh.or.kr/gh/announcement-of-salerental001.do?mode=view&articleNo=64741&article.offset=0&articleLimit=100",
       "attachments": [],
       "firstCollectedAt": "2026-07-19T04:07:52+00:00",
-      "lastCheckedAt": "2026-07-19T05:24:06+00:00",
+      "lastCheckedAt": "2026-07-19T05:36:56+00:00",
       "isNew": true
     },
     {
@@ -2191,7 +1455,7 @@
       "officialUrl": "https://www.gh.or.kr/gh/announcement-of-salerental001.do?mode=view&articleNo=64798&article.offset=0&articleLimit=100",
       "attachments": [],
       "firstCollectedAt": "2026-07-19T04:07:52+00:00",
-      "lastCheckedAt": "2026-07-19T05:24:06+00:00",
+      "lastCheckedAt": "2026-07-19T05:36:56+00:00",
       "isNew": true
     }
   ]
