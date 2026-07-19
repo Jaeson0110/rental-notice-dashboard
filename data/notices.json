@@ -1,25 +1,25 @@
 {
-  "updatedAt": "2026-07-19T05:36:56+00:00",
+  "updatedAt": "2026-07-19T05:47:50+00:00",
   "sourceStatus": {
     "LH": {
       "ok": true,
       "count": 1,
       "rawCount": 50,
-      "checkedAt": "2026-07-19T05:36:56+00:00",
+      "checkedAt": "2026-07-19T05:47:50+00:00",
       "error": null
     },
     "SH": {
       "ok": true,
       "count": 47,
       "rawCount": 47,
-      "checkedAt": "2026-07-19T05:36:56+00:00",
+      "checkedAt": "2026-07-19T05:47:50+00:00",
       "error": null
     },
     "GH": {
       "ok": true,
       "count": 25,
       "rawCount": 25,
-      "checkedAt": "2026-07-19T05:36:56+00:00",
+      "checkedAt": "2026-07-19T05:47:50+00:00",
       "error": null
     }
   },
@@ -40,7 +40,7 @@
       "officialUrl": "https://apply.lh.or.kr/lhapply/apply/wt/wrtanc/selectWrtancList.do?mi=1026",
       "attachments": [],
       "firstCollectedAt": "2026-07-19T04:07:52+00:00",
-      "lastCheckedAt": "2026-07-19T05:36:56+00:00",
+      "lastCheckedAt": "2026-07-19T05:47:50+00:00",
       "isNew": true
     },
     {
@@ -59,7 +59,7 @@
       "officialUrl": "https://www.i-sh.co.kr/main/lay2/program/S1T294C295/www/brd/m_241/view.do?seq=306986",
       "attachments": [],
       "firstCollectedAt": "2026-07-19T04:34:38+00:00",
-      "lastCheckedAt": "2026-07-19T05:36:56+00:00",
+      "lastCheckedAt": "2026-07-19T05:47:50+00:00",
       "isNew": true
     },
     {
@@ -81,7 +81,7 @@
       "officialUrl": "https://www.i-sh.co.kr/main/lay2/program/S1T294C295/www/brd/m_241/view.do?seq=306908",
       "attachments": [],
       "firstCollectedAt": "2026-07-19T04:34:38+00:00",
-      "lastCheckedAt": "2026-07-19T05:36:56+00:00",
+      "lastCheckedAt": "2026-07-19T05:47:50+00:00",
       "isNew": true
     },
     {
@@ -101,7 +101,7 @@
       "officialUrl": "https://www.i-sh.co.kr/main/lay2/program/S1T294C295/www/brd/m_241/view.do?seq=306722",
       "attachments": [],
       "firstCollectedAt": "2026-07-19T04:34:38+00:00",
-      "lastCheckedAt": "2026-07-19T05:36:56+00:00",
+      "lastCheckedAt": "2026-07-19T05:47:50+00:00",
       "isNew": true
     },
     {
@@ -122,7 +122,7 @@
       "officialUrl": "https://www.i-sh.co.kr/main/lay2/program/S1T294C295/www/brd/m_241/view.do?seq=306218",
       "attachments": [],
       "firstCollectedAt": "2026-07-19T04:34:38+00:00",
-      "lastCheckedAt": "2026-07-19T05:36:56+00:00",
+      "lastCheckedAt": "2026-07-19T05:47:50+00:00",
       "isNew": true
     },
     {
@@ -143,7 +143,7 @@
       "officialUrl": "https://www.i-sh.co.kr/main/lay2/program/S1T294C295/www/brd/m_241/view.do?seq=306214",
       "attachments": [],
       "firstCollectedAt": "2026-07-19T04:34:38+00:00",
-      "lastCheckedAt": "2026-07-19T05:36:56+00:00",
+      "lastCheckedAt": "2026-07-19T05:47:50+00:00",
       "isNew": true
     },
     {
@@ -162,7 +162,7 @@
       "officialUrl": "https://www.i-sh.co.kr/main/lay2/program/S1T294C295/www/brd/m_241/view.do?seq=306205",
       "attachments": [],
       "firstCollectedAt": "2026-07-19T04:34:38+00:00",
-      "lastCheckedAt": "2026-07-19T05:36:56+00:00",
+      "lastCheckedAt": "2026-07-19T05:47:50+00:00",
       "isNew": true
     },
     {
@@ -181,7 +181,7 @@
       "officialUrl": "https://www.i-sh.co.kr/main/lay2/program/S1T294C295/www/brd/m_241/view.do?seq=306066",
       "attachments": [],
       "firstCollectedAt": "2026-07-19T04:34:38+00:00",
-      "lastCheckedAt": "2026-07-19T05:36:56+00:00",
+      "lastCheckedAt": "2026-07-19T05:47:50+00:00",
       "isNew": true
     },
     {
@@ -202,7 +202,7 @@
       "officialUrl": "https://www.i-sh.co.kr/main/lay2/program/S1T294C295/www/brd/m_241/view.do?seq=306065",
       "attachments": [],
       "firstCollectedAt": "2026-07-19T04:34:38+00:00",
-      "lastCheckedAt": "2026-07-19T05:36:56+00:00",
+      "lastCheckedAt": "2026-07-19T05:47:50+00:00",
       "isNew": true
     },
     {
@@ -221,7 +221,7 @@
       "officialUrl": "https://www.i-sh.co.kr/main/lay2/program/S1T294C295/www/brd/m_241/view.do?seq=306011",
       "attachments": [],
       "firstCollectedAt": "2026-07-19T04:34:38+00:00",
-      "lastCheckedAt": "2026-07-19T05:36:56+00:00",
+      "lastCheckedAt": "2026-07-19T05:47:50+00:00",
       "isNew": true
     },
     {
@@ -242,7 +242,7 @@
       "officialUrl": "https://www.i-sh.co.kr/main/lay2/program/S1T294C295/www/brd/m_241/view.do?seq=305221",
       "attachments": [],
       "firstCollectedAt": "2026-07-19T04:34:38+00:00",
-      "lastCheckedAt": "2026-07-19T05:36:56+00:00",
+      "lastCheckedAt": "2026-07-19T05:47:50+00:00",
       "isNew": true
     },
     {
@@ -263,7 +263,7 @@
       "officialUrl": "https://www.i-sh.co.kr/main/lay2/program/S1T294C295/www/brd/m_241/view.do?seq=305240",
       "attachments": [],
       "firstCollectedAt": "2026-07-19T04:34:38+00:00",
-      "lastCheckedAt": "2026-07-19T05:36:56+00:00",
+      "lastCheckedAt": "2026-07-19T05:47:50+00:00",
       "isNew": true
     },
     {
@@ -284,7 +284,7 @@
       "officialUrl": "https://www.i-sh.co.kr/main/lay2/program/S1T294C295/www/brd/m_241/view.do?seq=304925",
       "attachments": [],
       "firstCollectedAt": "2026-07-19T04:34:38+00:00",
-      "lastCheckedAt": "2026-07-19T05:36:56+00:00",
+      "lastCheckedAt": "2026-07-19T05:47:50+00:00",
       "isNew": true
     },
     {
@@ -303,7 +303,7 @@
       "officialUrl": "https://www.i-sh.co.kr/main/lay2/program/S1T294C295/www/brd/m_241/view.do?seq=304864",
       "attachments": [],
       "firstCollectedAt": "2026-07-19T04:34:38+00:00",
-      "lastCheckedAt": "2026-07-19T05:36:56+00:00",
+      "lastCheckedAt": "2026-07-19T05:47:50+00:00",
       "isNew": true
     },
     {
@@ -324,7 +324,7 @@
       "officialUrl": "https://www.i-sh.co.kr/main/lay2/program/S1T294C295/www/brd/m_241/view.do?seq=305517",
       "attachments": [],
       "firstCollectedAt": "2026-07-19T04:34:38+00:00",
-      "lastCheckedAt": "2026-07-19T05:36:56+00:00",
+      "lastCheckedAt": "2026-07-19T05:47:50+00:00",
       "isNew": true
     },
     {
@@ -343,7 +343,7 @@
       "officialUrl": "https://www.i-sh.co.kr/main/lay2/program/S1T294C295/www/brd/m_241/view.do?seq=304106",
       "attachments": [],
       "firstCollectedAt": "2026-07-19T04:34:38+00:00",
-      "lastCheckedAt": "2026-07-19T05:36:56+00:00",
+      "lastCheckedAt": "2026-07-19T05:47:50+00:00",
       "isNew": true
     },
     {
@@ -362,7 +362,7 @@
       "officialUrl": "https://www.i-sh.co.kr/main/lay2/program/S1T294C295/www/brd/m_241/view.do?seq=303656",
       "attachments": [],
       "firstCollectedAt": "2026-07-19T04:34:38+00:00",
-      "lastCheckedAt": "2026-07-19T05:36:56+00:00",
+      "lastCheckedAt": "2026-07-19T05:47:50+00:00",
       "isNew": true
     },
     {
@@ -381,7 +381,7 @@
       "officialUrl": "https://www.i-sh.co.kr/main/lay2/program/S1T294C295/www/brd/m_241/view.do?seq=303557",
       "attachments": [],
       "firstCollectedAt": "2026-07-19T04:34:38+00:00",
-      "lastCheckedAt": "2026-07-19T05:36:56+00:00",
+      "lastCheckedAt": "2026-07-19T05:47:50+00:00",
       "isNew": true
     },
     {
@@ -400,7 +400,7 @@
       "officialUrl": "https://www.i-sh.co.kr/main/lay2/program/S1T294C295/www/brd/m_241/view.do?seq=303480",
       "attachments": [],
       "firstCollectedAt": "2026-07-19T04:34:38+00:00",
-      "lastCheckedAt": "2026-07-19T05:36:56+00:00",
+      "lastCheckedAt": "2026-07-19T05:47:50+00:00",
       "isNew": true
     },
     {
@@ -422,7 +422,7 @@
       "officialUrl": "https://www.i-sh.co.kr/main/lay2/program/S1T294C295/www/brd/m_241/view.do?seq=301742",
       "attachments": [],
       "firstCollectedAt": "2026-07-19T04:34:38+00:00",
-      "lastCheckedAt": "2026-07-19T05:36:56+00:00",
+      "lastCheckedAt": "2026-07-19T05:47:50+00:00",
       "isNew": true
     },
     {
@@ -441,7 +441,7 @@
       "officialUrl": "https://www.i-sh.co.kr/main/lay2/program/S1T294C295/www/brd/m_241/view.do?seq=300255",
       "attachments": [],
       "firstCollectedAt": "2026-07-19T04:34:38+00:00",
-      "lastCheckedAt": "2026-07-19T05:36:56+00:00",
+      "lastCheckedAt": "2026-07-19T05:47:50+00:00",
       "isNew": true
     },
     {
@@ -460,7 +460,7 @@
       "officialUrl": "https://www.i-sh.co.kr/main/lay2/program/S1T294C295/www/brd/m_241/view.do?seq=299904",
       "attachments": [],
       "firstCollectedAt": "2026-07-19T04:34:38+00:00",
-      "lastCheckedAt": "2026-07-19T05:36:56+00:00",
+      "lastCheckedAt": "2026-07-19T05:47:50+00:00",
       "isNew": true
     },
     {
@@ -479,7 +479,7 @@
       "officialUrl": "https://www.i-sh.co.kr/main/lay2/program/S1T294C295/www/brd/m_241/view.do?seq=298109",
       "attachments": [],
       "firstCollectedAt": "2026-07-19T04:34:38+00:00",
-      "lastCheckedAt": "2026-07-19T05:36:56+00:00",
+      "lastCheckedAt": "2026-07-19T05:47:50+00:00",
       "isNew": true
     },
     {
@@ -498,7 +498,7 @@
       "officialUrl": "https://www.i-sh.co.kr/main/lay2/program/S1T294C295/www/brd/m_241/view.do?seq=304349",
       "attachments": [],
       "firstCollectedAt": "2026-07-19T04:34:38+00:00",
-      "lastCheckedAt": "2026-07-19T05:36:56+00:00",
+      "lastCheckedAt": "2026-07-19T05:47:50+00:00",
       "isNew": true
     },
     {
@@ -517,7 +517,7 @@
       "officialUrl": "https://www.i-sh.co.kr/main/lay2/program/S1T294C295/www/brd/m_241/view.do?seq=303771",
       "attachments": [],
       "firstCollectedAt": "2026-07-19T04:34:38+00:00",
-      "lastCheckedAt": "2026-07-19T05:36:56+00:00",
+      "lastCheckedAt": "2026-07-19T05:47:50+00:00",
       "isNew": true
     },
     {
@@ -536,7 +536,7 @@
       "officialUrl": "https://www.i-sh.co.kr/main/lay2/program/S1T294C295/www/brd/m_241/view.do?seq=303238",
       "attachments": [],
       "firstCollectedAt": "2026-07-19T04:34:38+00:00",
-      "lastCheckedAt": "2026-07-19T05:36:56+00:00",
+      "lastCheckedAt": "2026-07-19T05:47:50+00:00",
       "isNew": true
     },
     {
@@ -555,7 +555,7 @@
       "officialUrl": "https://www.i-sh.co.kr/main/lay2/program/S1T294C295/www/brd/m_241/view.do?seq=302479",
       "attachments": [],
       "firstCollectedAt": "2026-07-19T04:34:38+00:00",
-      "lastCheckedAt": "2026-07-19T05:36:56+00:00",
+      "lastCheckedAt": "2026-07-19T05:47:50+00:00",
       "isNew": true
     },
     {
@@ -574,7 +574,7 @@
       "officialUrl": "https://www.i-sh.co.kr/main/lay2/program/S1T294C295/www/brd/m_241/view.do?seq=296501",
       "attachments": [],
       "firstCollectedAt": "2026-07-19T04:34:38+00:00",
-      "lastCheckedAt": "2026-07-19T05:36:56+00:00",
+      "lastCheckedAt": "2026-07-19T05:47:50+00:00",
       "isNew": true
     },
     {
@@ -593,7 +593,7 @@
       "officialUrl": "https://www.i-sh.co.kr/main/lay2/program/S1T294C295/www/brd/m_241/view.do?seq=297335",
       "attachments": [],
       "firstCollectedAt": "2026-07-19T04:34:38+00:00",
-      "lastCheckedAt": "2026-07-19T05:36:56+00:00",
+      "lastCheckedAt": "2026-07-19T05:47:50+00:00",
       "isNew": true
     },
     {
@@ -612,7 +612,7 @@
       "officialUrl": "https://www.i-sh.co.kr/main/lay2/program/S1T294C295/www/brd/m_241/view.do?seq=296645",
       "attachments": [],
       "firstCollectedAt": "2026-07-19T04:34:38+00:00",
-      "lastCheckedAt": "2026-07-19T05:36:56+00:00",
+      "lastCheckedAt": "2026-07-19T05:47:50+00:00",
       "isNew": true
     },
     {
@@ -631,7 +631,7 @@
       "officialUrl": "https://www.i-sh.co.kr/main/lay2/program/S1T294C295/www/brd/m_241/view.do?seq=301011",
       "attachments": [],
       "firstCollectedAt": "2026-07-19T04:34:38+00:00",
-      "lastCheckedAt": "2026-07-19T05:36:56+00:00",
+      "lastCheckedAt": "2026-07-19T05:47:50+00:00",
       "isNew": true
     },
     {
@@ -650,7 +650,7 @@
       "officialUrl": "https://www.i-sh.co.kr/main/lay2/program/S1T294C295/www/brd/m_241/view.do?seq=295159",
       "attachments": [],
       "firstCollectedAt": "2026-07-19T04:34:38+00:00",
-      "lastCheckedAt": "2026-07-19T05:36:56+00:00",
+      "lastCheckedAt": "2026-07-19T05:47:50+00:00",
       "isNew": true
     },
     {
@@ -669,7 +669,7 @@
       "officialUrl": "https://www.i-sh.co.kr/main/lay2/program/S1T294C295/www/brd/m_241/view.do?seq=294206",
       "attachments": [],
       "firstCollectedAt": "2026-07-19T04:34:38+00:00",
-      "lastCheckedAt": "2026-07-19T05:36:56+00:00",
+      "lastCheckedAt": "2026-07-19T05:47:50+00:00",
       "isNew": true
     },
     {
@@ -688,7 +688,7 @@
       "officialUrl": "https://www.i-sh.co.kr/main/lay2/program/S1T294C295/www/brd/m_241/view.do?seq=292541",
       "attachments": [],
       "firstCollectedAt": "2026-07-19T04:34:38+00:00",
-      "lastCheckedAt": "2026-07-19T05:36:56+00:00",
+      "lastCheckedAt": "2026-07-19T05:47:50+00:00",
       "isNew": true
     },
     {
@@ -707,7 +707,7 @@
       "officialUrl": "https://www.i-sh.co.kr/main/lay2/program/S1T294C295/www/brd/m_241/view.do?seq=292305",
       "attachments": [],
       "firstCollectedAt": "2026-07-19T04:34:38+00:00",
-      "lastCheckedAt": "2026-07-19T05:36:56+00:00",
+      "lastCheckedAt": "2026-07-19T05:47:50+00:00",
       "isNew": true
     },
     {
@@ -726,7 +726,7 @@
       "officialUrl": "https://www.i-sh.co.kr/main/lay2/program/S1T294C295/www/brd/m_241/view.do?seq=299825",
       "attachments": [],
       "firstCollectedAt": "2026-07-19T04:34:38+00:00",
-      "lastCheckedAt": "2026-07-19T05:36:56+00:00",
+      "lastCheckedAt": "2026-07-19T05:47:50+00:00",
       "isNew": true
     },
     {
@@ -745,7 +745,7 @@
       "officialUrl": "https://www.i-sh.co.kr/main/lay2/program/S1T294C295/www/brd/m_241/view.do?seq=290172",
       "attachments": [],
       "firstCollectedAt": "2026-07-19T04:34:38+00:00",
-      "lastCheckedAt": "2026-07-19T05:36:56+00:00",
+      "lastCheckedAt": "2026-07-19T05:47:50+00:00",
       "isNew": true
     },
     {
@@ -764,7 +764,7 @@
       "officialUrl": "https://www.i-sh.co.kr/main/lay2/program/S1T294C295/www/brd/m_241/view.do?seq=287727",
       "attachments": [],
       "firstCollectedAt": "2026-07-19T04:34:38+00:00",
-      "lastCheckedAt": "2026-07-19T05:36:56+00:00",
+      "lastCheckedAt": "2026-07-19T05:47:50+00:00",
       "isNew": true
     },
     {
@@ -783,7 +783,7 @@
       "officialUrl": "https://www.i-sh.co.kr/main/lay2/program/S1T294C295/www/brd/m_241/view.do?seq=287311",
       "attachments": [],
       "firstCollectedAt": "2026-07-19T04:34:38+00:00",
-      "lastCheckedAt": "2026-07-19T05:36:56+00:00",
+      "lastCheckedAt": "2026-07-19T05:47:50+00:00",
       "isNew": true
     },
     {
@@ -802,7 +802,7 @@
       "officialUrl": "https://www.i-sh.co.kr/main/lay2/program/S1T294C295/www/brd/m_241/view.do?seq=287466",
       "attachments": [],
       "firstCollectedAt": "2026-07-19T04:34:38+00:00",
-      "lastCheckedAt": "2026-07-19T05:36:56+00:00",
+      "lastCheckedAt": "2026-07-19T05:47:50+00:00",
       "isNew": true
     },
     {
@@ -821,7 +821,7 @@
       "officialUrl": "https://www.i-sh.co.kr/main/lay2/program/S1T294C295/www/brd/m_241/view.do?seq=288199",
       "attachments": [],
       "firstCollectedAt": "2026-07-19T04:34:38+00:00",
-      "lastCheckedAt": "2026-07-19T05:36:56+00:00",
+      "lastCheckedAt": "2026-07-19T05:47:50+00:00",
       "isNew": true
     },
     {
@@ -840,7 +840,7 @@
       "officialUrl": "https://www.i-sh.co.kr/main/lay2/program/S1T294C295/www/brd/m_241/view.do?seq=285742",
       "attachments": [],
       "firstCollectedAt": "2026-07-19T04:34:38+00:00",
-      "lastCheckedAt": "2026-07-19T05:36:56+00:00",
+      "lastCheckedAt": "2026-07-19T05:47:50+00:00",
       "isNew": true
     },
     {
@@ -859,7 +859,7 @@
       "officialUrl": "https://www.i-sh.co.kr/main/lay2/program/S1T294C295/www/brd/m_241/view.do?seq=282652",
       "attachments": [],
       "firstCollectedAt": "2026-07-19T04:34:38+00:00",
-      "lastCheckedAt": "2026-07-19T05:36:56+00:00",
+      "lastCheckedAt": "2026-07-19T05:47:50+00:00",
       "isNew": true
     },
     {
@@ -878,7 +878,7 @@
       "officialUrl": "https://www.i-sh.co.kr/main/lay2/program/S1T294C295/www/brd/m_241/view.do?seq=282546",
       "attachments": [],
       "firstCollectedAt": "2026-07-19T04:34:38+00:00",
-      "lastCheckedAt": "2026-07-19T05:36:56+00:00",
+      "lastCheckedAt": "2026-07-19T05:47:50+00:00",
       "isNew": true
     },
     {
@@ -897,7 +897,7 @@
       "officialUrl": "https://www.i-sh.co.kr/main/lay2/program/S1T294C295/www/brd/m_241/view.do?seq=279905",
       "attachments": [],
       "firstCollectedAt": "2026-07-19T04:34:38+00:00",
-      "lastCheckedAt": "2026-07-19T05:36:56+00:00",
+      "lastCheckedAt": "2026-07-19T05:47:50+00:00",
       "isNew": true
     },
     {
@@ -916,7 +916,7 @@
       "officialUrl": "https://www.i-sh.co.kr/main/lay2/program/S1T294C295/www/brd/m_241/view.do?seq=279305",
       "attachments": [],
       "firstCollectedAt": "2026-07-19T04:34:38+00:00",
-      "lastCheckedAt": "2026-07-19T05:36:56+00:00",
+      "lastCheckedAt": "2026-07-19T05:47:50+00:00",
       "isNew": true
     },
     {
@@ -935,7 +935,7 @@
       "officialUrl": "https://www.i-sh.co.kr/main/lay2/program/S1T294C295/www/brd/m_241/view.do?seq=278265",
       "attachments": [],
       "firstCollectedAt": "2026-07-19T04:34:38+00:00",
-      "lastCheckedAt": "2026-07-19T05:36:56+00:00",
+      "lastCheckedAt": "2026-07-19T05:47:50+00:00",
       "isNew": true
     },
     {
@@ -954,7 +954,7 @@
       "officialUrl": "https://www.i-sh.co.kr/main/lay2/program/S1T294C295/www/brd/m_241/view.do?seq=281012",
       "attachments": [],
       "firstCollectedAt": "2026-07-19T04:34:38+00:00",
-      "lastCheckedAt": "2026-07-19T05:36:56+00:00",
+      "lastCheckedAt": "2026-07-19T05:47:50+00:00",
       "isNew": true
     },
     {
@@ -973,7 +973,7 @@
       "officialUrl": "https://www.gh.or.kr/gh/announcement-of-salerental001.do?mode=view&articleNo=64776&article.offset=0&articleLimit=100",
       "attachments": [],
       "firstCollectedAt": "2026-07-19T04:07:52+00:00",
-      "lastCheckedAt": "2026-07-19T05:36:56+00:00",
+      "lastCheckedAt": "2026-07-19T05:47:50+00:00",
       "isNew": true
     },
     {
@@ -992,7 +992,7 @@
       "officialUrl": "https://www.gh.or.kr/gh/announcement-of-salerental001.do?mode=view&articleNo=64766&article.offset=0&articleLimit=100",
       "attachments": [],
       "firstCollectedAt": "2026-07-19T04:07:52+00:00",
-      "lastCheckedAt": "2026-07-19T05:36:56+00:00",
+      "lastCheckedAt": "2026-07-19T05:47:50+00:00",
       "isNew": true
     },
     {
@@ -1014,7 +1014,7 @@
       "officialUrl": "https://www.gh.or.kr/gh/announcement-of-salerental001.do?mode=view&articleNo=64831&article.offset=0&articleLimit=100",
       "attachments": [],
       "firstCollectedAt": "2026-07-19T04:07:52+00:00",
-      "lastCheckedAt": "2026-07-19T05:36:56+00:00",
+      "lastCheckedAt": "2026-07-19T05:47:50+00:00",
       "isNew": true
     },
     {
@@ -1034,7 +1034,7 @@
       "officialUrl": "https://www.gh.or.kr/gh/announcement-of-salerental001.do?mode=view&articleNo=64640&article.offset=0&articleLimit=100",
       "attachments": [],
       "firstCollectedAt": "2026-07-19T04:07:52+00:00",
-      "lastCheckedAt": "2026-07-19T05:36:56+00:00",
+      "lastCheckedAt": "2026-07-19T05:47:50+00:00",
       "isNew": true
     },
     {
@@ -1054,7 +1054,7 @@
       "officialUrl": "https://www.gh.or.kr/gh/announcement-of-salerental001.do?mode=view&articleNo=64817&article.offset=0&articleLimit=100",
       "attachments": [],
       "firstCollectedAt": "2026-07-19T04:07:52+00:00",
-      "lastCheckedAt": "2026-07-19T05:36:56+00:00",
+      "lastCheckedAt": "2026-07-19T05:47:50+00:00",
       "isNew": true
     },
     {
@@ -1074,7 +1074,7 @@
       "officialUrl": "https://www.gh.or.kr/gh/announcement-of-salerental001.do?mode=view&articleNo=64959&article.offset=0&articleLimit=100",
       "attachments": [],
       "firstCollectedAt": "2026-07-19T04:07:52+00:00",
-      "lastCheckedAt": "2026-07-19T05:36:56+00:00",
+      "lastCheckedAt": "2026-07-19T05:47:50+00:00",
       "isNew": true
     },
     {
@@ -1094,7 +1094,7 @@
       "officialUrl": "https://www.gh.or.kr/gh/announcement-of-salerental001.do?mode=view&articleNo=64966&article.offset=0&articleLimit=100",
       "attachments": [],
       "firstCollectedAt": "2026-07-19T04:07:52+00:00",
-      "lastCheckedAt": "2026-07-19T05:36:56+00:00",
+      "lastCheckedAt": "2026-07-19T05:47:50+00:00",
       "isNew": true
     },
     {
@@ -1114,7 +1114,7 @@
       "officialUrl": "https://www.gh.or.kr/gh/announcement-of-salerental001.do?mode=view&articleNo=64679&article.offset=0&articleLimit=100",
       "attachments": [],
       "firstCollectedAt": "2026-07-19T04:07:52+00:00",
-      "lastCheckedAt": "2026-07-19T05:36:56+00:00",
+      "lastCheckedAt": "2026-07-19T05:47:50+00:00",
       "isNew": true
     },
     {
@@ -1135,7 +1135,7 @@
       "officialUrl": "https://www.gh.or.kr/gh/announcement-of-salerental001.do?mode=view&articleNo=64782&article.offset=0&articleLimit=100",
       "attachments": [],
       "firstCollectedAt": "2026-07-19T04:07:52+00:00",
-      "lastCheckedAt": "2026-07-19T05:36:56+00:00",
+      "lastCheckedAt": "2026-07-19T05:47:50+00:00",
       "isNew": true
     },
     {
@@ -1154,7 +1154,7 @@
       "officialUrl": "https://www.gh.or.kr/gh/announcement-of-salerental001.do?mode=view&articleNo=64997&article.offset=0&articleLimit=100",
       "attachments": [],
       "firstCollectedAt": "2026-07-19T04:07:52+00:00",
-      "lastCheckedAt": "2026-07-19T05:36:56+00:00",
+      "lastCheckedAt": "2026-07-19T05:47:50+00:00",
       "isNew": true
     },
     {
@@ -1173,7 +1173,7 @@
       "officialUrl": "https://www.gh.or.kr/gh/announcement-of-salerental001.do?mode=view&articleNo=64888&article.offset=0&articleLimit=100",
       "attachments": [],
       "firstCollectedAt": "2026-07-19T04:07:52+00:00",
-      "lastCheckedAt": "2026-07-19T05:36:56+00:00",
+      "lastCheckedAt": "2026-07-19T05:47:50+00:00",
       "isNew": true
     },
     {
@@ -1192,7 +1192,7 @@
       "officialUrl": "https://www.gh.or.kr/gh/announcement-of-salerental001.do?mode=view&articleNo=64811&article.offset=0&articleLimit=100",
       "attachments": [],
       "firstCollectedAt": "2026-07-19T04:07:52+00:00",
-      "lastCheckedAt": "2026-07-19T05:36:56+00:00",
+      "lastCheckedAt": "2026-07-19T05:47:50+00:00",
       "isNew": true
     },
     {
@@ -1211,7 +1211,7 @@
       "officialUrl": "https://www.gh.or.kr/gh/announcement-of-salerental001.do?mode=view&articleNo=64847&article.offset=0&articleLimit=100",
       "attachments": [],
       "firstCollectedAt": "2026-07-19T04:07:52+00:00",
-      "lastCheckedAt": "2026-07-19T05:36:56+00:00",
+      "lastCheckedAt": "2026-07-19T05:47:50+00:00",
       "isNew": true
     },
     {
@@ -1233,7 +1233,7 @@
       "officialUrl": "https://www.gh.or.kr/gh/announcement-of-salerental001.do?mode=view&articleNo=64845&article.offset=0&articleLimit=100",
       "attachments": [],
       "firstCollectedAt": "2026-07-19T04:07:52+00:00",
-      "lastCheckedAt": "2026-07-19T05:36:56+00:00",
+      "lastCheckedAt": "2026-07-19T05:47:50+00:00",
       "isNew": true
     },
     {
@@ -1253,7 +1253,7 @@
       "officialUrl": "https://www.gh.or.kr/gh/announcement-of-salerental001.do?mode=view&articleNo=64594&article.offset=0&articleLimit=100",
       "attachments": [],
       "firstCollectedAt": "2026-07-19T04:07:52+00:00",
-      "lastCheckedAt": "2026-07-19T05:36:56+00:00",
+      "lastCheckedAt": "2026-07-19T05:47:50+00:00",
       "isNew": true
     },
     {
@@ -1276,7 +1276,7 @@
       "officialUrl": "https://www.gh.or.kr/gh/announcement-of-salerental001.do?mode=view&articleNo=64768&article.offset=0&articleLimit=100",
       "attachments": [],
       "firstCollectedAt": "2026-07-19T04:07:52+00:00",
-      "lastCheckedAt": "2026-07-19T05:36:56+00:00",
+      "lastCheckedAt": "2026-07-19T05:47:50+00:00",
       "isNew": true
     },
     {
@@ -1296,7 +1296,7 @@
       "officialUrl": "https://www.gh.or.kr/gh/announcement-of-salerental001.do?mode=view&articleNo=64995&article.offset=0&articleLimit=100",
       "attachments": [],
       "firstCollectedAt": "2026-07-19T04:07:52+00:00",
-      "lastCheckedAt": "2026-07-19T05:36:56+00:00",
+      "lastCheckedAt": "2026-07-19T05:47:50+00:00",
       "isNew": true
     },
     {
@@ -1316,7 +1316,7 @@
       "officialUrl": "https://www.gh.or.kr/gh/announcement-of-salerental001.do?mode=view&articleNo=64890&article.offset=0&articleLimit=100",
       "attachments": [],
       "firstCollectedAt": "2026-07-19T04:07:52+00:00",
-      "lastCheckedAt": "2026-07-19T05:36:56+00:00",
+      "lastCheckedAt": "2026-07-19T05:47:50+00:00",
       "isNew": true
     },
     {
@@ -1336,7 +1336,7 @@
       "officialUrl": "https://www.gh.or.kr/gh/announcement-of-salerental001.do?mode=view&articleNo=64992&article.offset=0&articleLimit=100",
       "attachments": [],
       "firstCollectedAt": "2026-07-19T04:07:52+00:00",
-      "lastCheckedAt": "2026-07-19T05:36:56+00:00",
+      "lastCheckedAt": "2026-07-19T05:47:50+00:00",
       "isNew": true
     },
     {
@@ -1355,7 +1355,7 @@
       "officialUrl": "https://www.gh.or.kr/gh/announcement-of-salerental001.do?mode=view&articleNo=64932&article.offset=0&articleLimit=100",
       "attachments": [],
       "firstCollectedAt": "2026-07-19T04:07:52+00:00",
-      "lastCheckedAt": "2026-07-19T05:36:56+00:00",
+      "lastCheckedAt": "2026-07-19T05:47:50+00:00",
       "isNew": true
     },
     {
@@ -1376,7 +1376,7 @@
       "officialUrl": "https://www.gh.or.kr/gh/announcement-of-salerental001.do?mode=view&articleNo=64770&article.offset=0&articleLimit=100",
       "attachments": [],
       "firstCollectedAt": "2026-07-19T04:07:52+00:00",
-      "lastCheckedAt": "2026-07-19T05:36:56+00:00",
+      "lastCheckedAt": "2026-07-19T05:47:50+00:00",
       "isNew": true
     },
     {
@@ -1397,7 +1397,7 @@
       "officialUrl": "https://www.gh.or.kr/gh/announcement-of-salerental001.do?mode=view&articleNo=64742&article.offset=0&articleLimit=100",
       "attachments": [],
       "firstCollectedAt": "2026-07-19T04:07:52+00:00",
-      "lastCheckedAt": "2026-07-19T05:36:56+00:00",
+      "lastCheckedAt": "2026-07-19T05:47:50+00:00",
       "isNew": true
     },
     {
@@ -1417,7 +1417,7 @@
       "officialUrl": "https://www.gh.or.kr/gh/announcement-of-salerental001.do?mode=view&articleNo=64795&article.offset=0&articleLimit=100",
       "attachments": [],
       "firstCollectedAt": "2026-07-19T04:07:52+00:00",
-      "lastCheckedAt": "2026-07-19T05:36:56+00:00",
+      "lastCheckedAt": "2026-07-19T05:47:50+00:00",
       "isNew": true
     },
     {
@@ -1436,7 +1436,7 @@
       "officialUrl": "https://www.gh.or.kr/gh/announcement-of-salerental001.do?mode=view&articleNo=64741&article.offset=0&articleLimit=100",
       "attachments": [],
       "firstCollectedAt": "2026-07-19T04:07:52+00:00",
-      "lastCheckedAt": "2026-07-19T05:36:56+00:00",
+      "lastCheckedAt": "2026-07-19T05:47:50+00:00",
       "isNew": true
     },
     {
@@ -1455,7 +1455,7 @@
       "officialUrl": "https://www.gh.or.kr/gh/announcement-of-salerental001.do?mode=view&articleNo=64798&article.offset=0&articleLimit=100",
       "attachments": [],
       "firstCollectedAt": "2026-07-19T04:07:52+00:00",
-      "lastCheckedAt": "2026-07-19T05:36:56+00:00",
+      "lastCheckedAt": "2026-07-19T05:47:50+00:00",
       "isNew": true
     }
   ]
