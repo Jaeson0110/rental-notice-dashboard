@@ -1,24 +1,25 @@
 {
-  "updatedAt": "2026-07-19T14:46:13+00:00",
+  "updatedAt": "2026-07-20T01:17:28+00:00",
   "sourceStatus": {
     "LH": {
       "ok": true,
-      "count": 55,
-      "rawCount": 55,
-      "checkedAt": "2026-07-19T14:46:13+00:00",
+      "count": 54,
+      "rawCount": 54,
+      "checkedAt": "2026-07-20T01:17:28+00:00",
       "error": null
     },
     "SH": {
-      "ok": false,
+      "ok": true,
       "count": 47,
-      "checkedAt": "2026-07-19T14:46:13+00:00",
-      "error": "https://housing.seoul.go.kr/site/main/sh/publicLease/list: HTTPSConnectionPool(host='housing.seoul.go.kr', port=443): Max retries exceeded with url: /site/main/sh/publicLease/list (Caused by ConnectTimeoutError(<HTTPSConnection(host='housing.seoul.go.kr', port=443) at 0x7f7ec4322db0>, 'Connection to housing.seoul.go.kr timed out. (connect timeout=25)')) / https://housing.seoul.go.kr/site/main/sh/publicLease/01/list: HTTPSConnectionPool(host='housing.seoul.go.kr', port=443): Max retries exceeded "
+      "rawCount": 47,
+      "checkedAt": "2026-07-20T01:17:28+00:00",
+      "error": null
     },
     "GH": {
       "ok": true,
       "count": 25,
       "rawCount": 25,
-      "checkedAt": "2026-07-19T14:46:13+00:00",
+      "checkedAt": "2026-07-20T01:17:28+00:00",
       "error": null
     }
   },
@@ -39,8 +40,8 @@
       "officialUrl": "https://apply.lh.or.kr/lhapply/apply/wt/wrtanc/selectWrtancInfo.do?panId=2015122300020326&ccrCnntSysDsCd=03&uppAisTpCd=06&aisTpCd=10&mi=1026",
       "attachments": [],
       "firstCollectedAt": "2026-07-19T13:16:33+00:00",
-      "lastCheckedAt": "2026-07-19T14:46:13+00:00",
-      "isNew": true
+      "lastCheckedAt": "2026-07-20T01:17:28+00:00",
+      "isNew": false
     },
     {
       "id": "SH-e15070179afc8d",
@@ -58,8 +59,8 @@
       "officialUrl": "https://www.i-sh.co.kr/main/lay2/program/S1T294C295/www/brd/m_241/view.do?seq=306986",
       "attachments": [],
       "firstCollectedAt": "2026-07-19T04:34:38+00:00",
-      "lastCheckedAt": "2026-07-19T14:39:57+00:00",
-      "isNew": true
+      "lastCheckedAt": "2026-07-20T01:17:28+00:00",
+      "isNew": false
     },
     {
       "id": "LH-a451583661489b",
@@ -77,8 +78,8 @@
       "officialUrl": "https://apply.lh.or.kr/lhapply/apply/wt/wrtanc/selectWrtancInfo.do?panId=2015122300020399&ccrCnntSysDsCd=03&uppAisTpCd=06&aisTpCd=10&mi=1026",
       "attachments": [],
       "firstCollectedAt": "2026-07-19T13:16:33+00:00",
-      "lastCheckedAt": "2026-07-19T14:46:13+00:00",
-      "isNew": true
+      "lastCheckedAt": "2026-07-20T01:17:28+00:00",
+      "isNew": false
     },
     {
       "id": "SH-e3f6789d95443d",
@@ -99,8 +100,8 @@
       "officialUrl": "https://www.i-sh.co.kr/main/lay2/program/S1T294C295/www/brd/m_241/view.do?seq=306908",
       "attachments": [],
       "firstCollectedAt": "2026-07-19T04:34:38+00:00",
-      "lastCheckedAt": "2026-07-19T14:39:57+00:00",
-      "isNew": true
+      "lastCheckedAt": "2026-07-20T01:17:28+00:00",
+      "isNew": false
     },
     {
       "id": "LH-c2235137403d6e",
@@ -122,8 +123,8 @@
       "officialUrl": "https://apply.lh.or.kr/lhapply/apply/wt/wrtanc/selectWrtancInfo.do?panId=2015122300020365&ccrCnntSysDsCd=03&uppAisTpCd=06&aisTpCd=09&mi=1026",
       "attachments": [],
       "firstCollectedAt": "2026-07-19T13:16:33+00:00",
-      "lastCheckedAt": "2026-07-19T14:46:13+00:00",
-      "isNew": true
+      "lastCheckedAt": "2026-07-20T01:17:28+00:00",
+      "isNew": false
     },
     {
       "id": "LH-79ec5e8461c30f",
@@ -141,8 +142,8 @@
       "officialUrl": "https://apply.lh.or.kr/lhapply/apply/wt/wrtanc/selectWrtancInfo.do?panId=2015122300020246&ccrCnntSysDsCd=03&uppAisTpCd=06&aisTpCd=09&mi=1026",
       "attachments": [],
       "firstCollectedAt": "2026-07-19T13:16:33+00:00",
-      "lastCheckedAt": "2026-07-19T14:46:13+00:00",
-      "isNew": true
+      "lastCheckedAt": "2026-07-20T01:17:28+00:00",
+      "isNew": false
     },
     {
       "id": "LH-790109e11eef3c",
@@ -160,8 +161,8 @@
       "officialUrl": "https://apply.lh.or.kr/lhapply/apply/wt/wrtanc/selectWrtancInfo.do?panId=2015122300020247&ccrCnntSysDsCd=03&uppAisTpCd=06&aisTpCd=09&mi=1026",
       "attachments": [],
       "firstCollectedAt": "2026-07-19T13:16:33+00:00",
-      "lastCheckedAt": "2026-07-19T14:46:13+00:00",
-      "isNew": true
+      "lastCheckedAt": "2026-07-20T01:17:28+00:00",
+      "isNew": false
     },
     {
       "id": "LH-4ff96dec561a1c",
@@ -176,12 +177,12 @@
       "publishedAt": "2026-07-09",
       "applyStart": null,
       "applyEnd": "2026-07-22",
-      "status": "공고중",
+      "status": "접수중",
       "officialUrl": "https://apply.lh.or.kr/lhapply/apply/wt/wrtanc/selectWrtancInfo.do?panId=2015122300020360&ccrCnntSysDsCd=03&uppAisTpCd=06&aisTpCd=07&mi=1026",
       "attachments": [],
       "firstCollectedAt": "2026-07-19T13:16:33+00:00",
-      "lastCheckedAt": "2026-07-19T14:46:13+00:00",
-      "isNew": true
+      "lastCheckedAt": "2026-07-20T01:17:28+00:00",
+      "isNew": false
     },
     {
       "id": "LH-f9d3bfe928779f",
@@ -200,8 +201,8 @@
       "officialUrl": "https://apply.lh.or.kr/lhapply/apply/wt/wrtanc/selectWrtancInfo.do?panId=2015122300020273&ccrCnntSysDsCd=03&uppAisTpCd=06&aisTpCd=07&mi=1026",
       "attachments": [],
       "firstCollectedAt": "2026-07-19T13:16:33+00:00",
-      "lastCheckedAt": "2026-07-19T14:46:13+00:00",
-      "isNew": true
+      "lastCheckedAt": "2026-07-20T01:17:28+00:00",
+      "isNew": false
     },
     {
       "id": "SH-ccc6cf6a702ee7",
@@ -220,8 +221,8 @@
       "officialUrl": "https://www.i-sh.co.kr/main/lay2/program/S1T294C295/www/brd/m_241/view.do?seq=306722",
       "attachments": [],
       "firstCollectedAt": "2026-07-19T04:34:38+00:00",
-      "lastCheckedAt": "2026-07-19T14:39:57+00:00",
-      "isNew": true
+      "lastCheckedAt": "2026-07-20T01:17:28+00:00",
+      "isNew": false
     },
     {
       "id": "LH-38c7faad20deed",
@@ -243,8 +244,8 @@
       "officialUrl": "https://apply.lh.or.kr/lhapply/apply/wt/wrtanc/selectWrtancInfo.do?panId=2015122300020348&ccrCnntSysDsCd=03&uppAisTpCd=06&aisTpCd=09&mi=1026",
       "attachments": [],
       "firstCollectedAt": "2026-07-19T13:16:33+00:00",
-      "lastCheckedAt": "2026-07-19T14:46:13+00:00",
-      "isNew": true
+      "lastCheckedAt": "2026-07-20T01:17:28+00:00",
+      "isNew": false
     },
     {
       "id": "LH-068c74ee63db28",
@@ -263,8 +264,8 @@
       "officialUrl": "https://apply.lh.or.kr/lhapply/apply/wt/wrtanc/selectWrtancInfo.do?panId=0000061132&ccrCnntSysDsCd=02&uppAisTpCd=06&aisTpCd=52&mi=1026",
       "attachments": [],
       "firstCollectedAt": "2026-07-19T13:16:33+00:00",
-      "lastCheckedAt": "2026-07-19T14:46:13+00:00",
-      "isNew": true
+      "lastCheckedAt": "2026-07-20T01:17:28+00:00",
+      "isNew": false
     },
     {
       "id": "LH-6095feee7f1307",
@@ -279,12 +280,12 @@
       "publishedAt": "2026-07-06",
       "applyStart": null,
       "applyEnd": "2026-07-22",
-      "status": "공고중",
+      "status": "접수중",
       "officialUrl": "https://apply.lh.or.kr/lhapply/apply/wt/wrtanc/selectWrtancInfo.do?panId=2015122300020243&ccrCnntSysDsCd=03&uppAisTpCd=06&aisTpCd=07&mi=1026",
       "attachments": [],
       "firstCollectedAt": "2026-07-19T13:16:33+00:00",
-      "lastCheckedAt": "2026-07-19T14:46:13+00:00",
-      "isNew": true
+      "lastCheckedAt": "2026-07-20T01:17:28+00:00",
+      "isNew": false
     },
     {
       "id": "LH-c640cbda23c222",
@@ -303,8 +304,8 @@
       "officialUrl": "https://apply.lh.or.kr/lhapply/apply/wt/wrtanc/selectWrtancInfo.do?panId=2015122300020288&ccrCnntSysDsCd=03&uppAisTpCd=06&aisTpCd=07&mi=1026",
       "attachments": [],
       "firstCollectedAt": "2026-07-19T13:16:33+00:00",
-      "lastCheckedAt": "2026-07-19T14:46:13+00:00",
-      "isNew": true
+      "lastCheckedAt": "2026-07-20T01:17:28+00:00",
+      "isNew": false
     },
     {
       "id": "LH-89fad2df806dfa",
@@ -323,8 +324,8 @@
       "officialUrl": "https://apply.lh.or.kr/lhapply/apply/wt/wrtanc/selectWrtancInfo.do?panId=2015122300020280&ccrCnntSysDsCd=03&uppAisTpCd=06&aisTpCd=07&mi=1026",
       "attachments": [],
       "firstCollectedAt": "2026-07-19T13:16:33+00:00",
-      "lastCheckedAt": "2026-07-19T14:46:13+00:00",
-      "isNew": true
+      "lastCheckedAt": "2026-07-20T01:17:28+00:00",
+      "isNew": false
     },
     {
       "id": "LH-c2ffbedee7ccdb",
@@ -344,8 +345,8 @@
       "officialUrl": "https://apply.lh.or.kr/lhapply/apply/wt/wrtanc/selectWrtancInfo.do?panId=2015122300020277&ccrCnntSysDsCd=03&uppAisTpCd=06&aisTpCd=07&mi=1026",
       "attachments": [],
       "firstCollectedAt": "2026-07-19T13:16:33+00:00",
-      "lastCheckedAt": "2026-07-19T14:46:13+00:00",
-      "isNew": true
+      "lastCheckedAt": "2026-07-20T01:17:28+00:00",
+      "isNew": false
     },
     {
       "id": "LH-492c48efe6bd50",
@@ -361,12 +362,12 @@
       "publishedAt": "2026-07-06",
       "applyStart": null,
       "applyEnd": "2026-07-22",
-      "status": "공고중",
+      "status": "접수중",
       "officialUrl": "https://apply.lh.or.kr/lhapply/apply/wt/wrtanc/selectWrtancInfo.do?panId=2015122300020275&ccrCnntSysDsCd=03&uppAisTpCd=06&aisTpCd=07&mi=1026",
       "attachments": [],
       "firstCollectedAt": "2026-07-19T13:16:33+00:00",
-      "lastCheckedAt": "2026-07-19T14:46:13+00:00",
-      "isNew": true
+      "lastCheckedAt": "2026-07-20T01:17:28+00:00",
+      "isNew": false
     },
     {
       "id": "LH-6ae101e285fed7",
@@ -384,8 +385,8 @@
       "officialUrl": "https://apply.lh.or.kr/lhapply/apply/wt/wrtanc/selectWrtancInfo.do?panId=2015122300020292&ccrCnntSysDsCd=03&uppAisTpCd=06&aisTpCd=07&mi=1026",
       "attachments": [],
       "firstCollectedAt": "2026-07-19T13:16:33+00:00",
-      "lastCheckedAt": "2026-07-19T14:46:13+00:00",
-      "isNew": true
+      "lastCheckedAt": "2026-07-20T01:17:28+00:00",
+      "isNew": false
     },
     {
       "id": "LH-a78e8f825819d4",
@@ -405,8 +406,8 @@
       "officialUrl": "https://apply.lh.or.kr/lhapply/apply/wt/wrtanc/selectWrtancInfo.do?panId=2015122300020263&ccrCnntSysDsCd=03&uppAisTpCd=06&aisTpCd=07&mi=1026",
       "attachments": [],
       "firstCollectedAt": "2026-07-19T13:16:33+00:00",
-      "lastCheckedAt": "2026-07-19T14:46:13+00:00",
-      "isNew": true
+      "lastCheckedAt": "2026-07-20T01:17:28+00:00",
+      "isNew": false
     },
     {
       "id": "LH-a27b506b61e632",
@@ -426,8 +427,8 @@
       "officialUrl": "https://apply.lh.or.kr/lhapply/apply/wt/wrtanc/selectWrtancInfo.do?panId=2015122300020265&ccrCnntSysDsCd=03&uppAisTpCd=06&aisTpCd=07&mi=1026",
       "attachments": [],
       "firstCollectedAt": "2026-07-19T13:16:33+00:00",
-      "lastCheckedAt": "2026-07-19T14:46:13+00:00",
-      "isNew": true
+      "lastCheckedAt": "2026-07-20T01:17:28+00:00",
+      "isNew": false
     },
     {
       "id": "LH-5b1d08f054ebd4",
@@ -446,8 +447,8 @@
       "officialUrl": "https://apply.lh.or.kr/lhapply/apply/wt/wrtanc/selectWrtancInfo.do?panId=2015122300020295&ccrCnntSysDsCd=03&uppAisTpCd=06&aisTpCd=07&mi=1026",
       "attachments": [],
       "firstCollectedAt": "2026-07-19T13:16:33+00:00",
-      "lastCheckedAt": "2026-07-19T14:46:13+00:00",
-      "isNew": true
+      "lastCheckedAt": "2026-07-20T01:17:28+00:00",
+      "isNew": false
     },
     {
       "id": "LH-5c37335de8d69c",
@@ -465,8 +466,8 @@
       "officialUrl": "https://apply.lh.or.kr/lhapply/apply/wt/wrtanc/selectWrtancInfo.do?panId=2015122300020260&ccrCnntSysDsCd=03&uppAisTpCd=06&aisTpCd=07&mi=1026",
       "attachments": [],
       "firstCollectedAt": "2026-07-19T13:16:33+00:00",
-      "lastCheckedAt": "2026-07-19T14:46:13+00:00",
-      "isNew": true
+      "lastCheckedAt": "2026-07-20T01:17:28+00:00",
+      "isNew": false
     },
     {
       "id": "LH-ff3eca42f332fc",
@@ -486,8 +487,8 @@
       "officialUrl": "https://apply.lh.or.kr/lhapply/apply/wt/wrtanc/selectWrtancInfo.do?panId=2015122300020296&ccrCnntSysDsCd=03&uppAisTpCd=06&aisTpCd=07&mi=1026",
       "attachments": [],
       "firstCollectedAt": "2026-07-19T13:16:33+00:00",
-      "lastCheckedAt": "2026-07-19T14:46:13+00:00",
-      "isNew": true
+      "lastCheckedAt": "2026-07-20T01:17:28+00:00",
+      "isNew": false
     },
     {
       "id": "LH-34c9df07d6d09c",
@@ -507,8 +508,8 @@
       "officialUrl": "https://apply.lh.or.kr/lhapply/apply/wt/wrtanc/selectWrtancInfo.do?panId=2015122300020331&ccrCnntSysDsCd=03&uppAisTpCd=06&aisTpCd=09&mi=1026",
       "attachments": [],
       "firstCollectedAt": "2026-07-19T13:16:33+00:00",
-      "lastCheckedAt": "2026-07-19T14:46:13+00:00",
-      "isNew": true
+      "lastCheckedAt": "2026-07-20T01:17:28+00:00",
+      "isNew": false
     },
     {
       "id": "LH-288a298a914c47",
@@ -530,8 +531,8 @@
       "officialUrl": "https://apply.lh.or.kr/lhapply/apply/wt/wrtanc/selectWrtancInfo.do?panId=2015122300020333&ccrCnntSysDsCd=03&uppAisTpCd=06&aisTpCd=09&mi=1026",
       "attachments": [],
       "firstCollectedAt": "2026-07-19T13:16:33+00:00",
-      "lastCheckedAt": "2026-07-19T14:46:13+00:00",
-      "isNew": true
+      "lastCheckedAt": "2026-07-20T01:17:28+00:00",
+      "isNew": false
     },
     {
       "id": "LH-721bdc1ba7095f",
@@ -552,8 +553,8 @@
       "officialUrl": "https://apply.lh.or.kr/lhapply/apply/wt/wrtanc/selectWrtancInfo.do?panId=2015122300020311&ccrCnntSysDsCd=03&uppAisTpCd=06&aisTpCd=07&mi=1026",
       "attachments": [],
       "firstCollectedAt": "2026-07-19T13:16:33+00:00",
-      "lastCheckedAt": "2026-07-19T14:46:13+00:00",
-      "isNew": true
+      "lastCheckedAt": "2026-07-20T01:17:28+00:00",
+      "isNew": false
     },
     {
       "id": "LH-9dc97b47762ff5",
@@ -573,8 +574,8 @@
       "officialUrl": "https://apply.lh.or.kr/lhapply/apply/wt/wrtanc/selectWrtancInfo.do?panId=2015122300020271&ccrCnntSysDsCd=03&uppAisTpCd=06&aisTpCd=07&mi=1026",
       "attachments": [],
       "firstCollectedAt": "2026-07-19T13:16:33+00:00",
-      "lastCheckedAt": "2026-07-19T14:46:13+00:00",
-      "isNew": true
+      "lastCheckedAt": "2026-07-20T01:17:28+00:00",
+      "isNew": false
     },
     {
       "id": "LH-f4fae407e17203",
@@ -594,8 +595,8 @@
       "officialUrl": "https://apply.lh.or.kr/lhapply/apply/wt/wrtanc/selectWrtancInfo.do?panId=2015122300020312&ccrCnntSysDsCd=03&uppAisTpCd=06&aisTpCd=07&mi=1026",
       "attachments": [],
       "firstCollectedAt": "2026-07-19T13:16:33+00:00",
-      "lastCheckedAt": "2026-07-19T14:46:13+00:00",
-      "isNew": true
+      "lastCheckedAt": "2026-07-20T01:17:28+00:00",
+      "isNew": false
     },
     {
       "id": "LH-f5f6b079dd7d22",
@@ -614,8 +615,8 @@
       "officialUrl": "https://apply.lh.or.kr/lhapply/apply/wt/wrtanc/selectWrtancInfo.do?panId=2015122300020316&ccrCnntSysDsCd=03&uppAisTpCd=06&aisTpCd=07&mi=1026",
       "attachments": [],
       "firstCollectedAt": "2026-07-19T13:16:33+00:00",
-      "lastCheckedAt": "2026-07-19T14:46:13+00:00",
-      "isNew": true
+      "lastCheckedAt": "2026-07-20T01:17:28+00:00",
+      "isNew": false
     },
     {
       "id": "LH-1b46cfd9ad42b2",
@@ -631,12 +632,12 @@
       "publishedAt": "2026-07-06",
       "applyStart": null,
       "applyEnd": "2026-07-22",
-      "status": "공고중",
+      "status": "접수중",
       "officialUrl": "https://apply.lh.or.kr/lhapply/apply/wt/wrtanc/selectWrtancInfo.do?panId=2015122300020328&ccrCnntSysDsCd=03&uppAisTpCd=06&aisTpCd=07&mi=1026",
       "attachments": [],
       "firstCollectedAt": "2026-07-19T13:16:33+00:00",
-      "lastCheckedAt": "2026-07-19T14:46:13+00:00",
-      "isNew": true
+      "lastCheckedAt": "2026-07-20T01:17:28+00:00",
+      "isNew": false
     },
     {
       "id": "LH-d3204fa39e70a9",
@@ -650,12 +651,12 @@
       "publishedAt": "2026-07-06",
       "applyStart": null,
       "applyEnd": "2026-07-21",
-      "status": "공고중",
+      "status": "접수중",
       "officialUrl": "https://apply.lh.or.kr/lhapply/apply/wt/wrtanc/selectWrtancInfo.do?panId=2015122300020224&ccrCnntSysDsCd=03&uppAisTpCd=06&aisTpCd=07&mi=1026",
       "attachments": [],
       "firstCollectedAt": "2026-07-19T13:16:33+00:00",
-      "lastCheckedAt": "2026-07-19T14:46:13+00:00",
-      "isNew": true
+      "lastCheckedAt": "2026-07-20T01:17:28+00:00",
+      "isNew": false
     },
     {
       "id": "LH-26c9b0a280f3dd",
@@ -674,8 +675,8 @@
       "officialUrl": "https://apply.lh.or.kr/lhapply/apply/wt/wrtanc/selectWrtancInfo.do?panId=2015122300020276&ccrCnntSysDsCd=03&uppAisTpCd=06&aisTpCd=10&mi=1026",
       "attachments": [],
       "firstCollectedAt": "2026-07-19T13:16:33+00:00",
-      "lastCheckedAt": "2026-07-19T14:46:13+00:00",
-      "isNew": true
+      "lastCheckedAt": "2026-07-20T01:17:28+00:00",
+      "isNew": false
     },
     {
       "id": "LH-3c77ea3a03f873",
@@ -695,8 +696,8 @@
       "officialUrl": "https://apply.lh.or.kr/lhapply/apply/wt/wrtanc/selectWrtancInfo.do?panId=2015122300020259&ccrCnntSysDsCd=03&uppAisTpCd=06&aisTpCd=10&mi=1026",
       "attachments": [],
       "firstCollectedAt": "2026-07-19T13:16:33+00:00",
-      "lastCheckedAt": "2026-07-19T14:46:13+00:00",
-      "isNew": true
+      "lastCheckedAt": "2026-07-20T01:17:28+00:00",
+      "isNew": false
     },
     {
       "id": "LH-9181f687c91471",
@@ -716,8 +717,8 @@
       "officialUrl": "https://apply.lh.or.kr/lhapply/apply/wt/wrtanc/selectWrtancInfo.do?panId=2015122300020294&ccrCnntSysDsCd=03&uppAisTpCd=06&aisTpCd=10&mi=1026",
       "attachments": [],
       "firstCollectedAt": "2026-07-19T13:16:33+00:00",
-      "lastCheckedAt": "2026-07-19T14:46:13+00:00",
-      "isNew": true
+      "lastCheckedAt": "2026-07-20T01:17:28+00:00",
+      "isNew": false
     },
     {
       "id": "LH-2d7a421a70c7e5",
@@ -735,8 +736,8 @@
       "officialUrl": "https://apply.lh.or.kr/lhapply/apply/wt/wrtanc/selectWrtancInfo.do?panId=2015122300020253&ccrCnntSysDsCd=03&uppAisTpCd=06&aisTpCd=10&mi=1026",
       "attachments": [],
       "firstCollectedAt": "2026-07-19T13:16:33+00:00",
-      "lastCheckedAt": "2026-07-19T14:46:13+00:00",
-      "isNew": true
+      "lastCheckedAt": "2026-07-20T01:17:28+00:00",
+      "isNew": false
     },
     {
       "id": "LH-a67a2430a8be87",
@@ -755,8 +756,8 @@
       "officialUrl": "https://apply.lh.or.kr/lhapply/apply/wt/wrtanc/selectWrtancInfo.do?panId=2015122300020242&ccrCnntSysDsCd=03&uppAisTpCd=06&aisTpCd=10&mi=1026",
       "attachments": [],
       "firstCollectedAt": "2026-07-19T13:16:33+00:00",
-      "lastCheckedAt": "2026-07-19T14:46:13+00:00",
-      "isNew": true
+      "lastCheckedAt": "2026-07-20T01:17:28+00:00",
+      "isNew": false
     },
     {
       "id": "LH-85284040945947",
@@ -775,8 +776,8 @@
       "officialUrl": "https://apply.lh.or.kr/lhapply/apply/wt/wrtanc/selectWrtancInfo.do?panId=0000061115&ccrCnntSysDsCd=02&uppAisTpCd=06&aisTpCd=52&mi=1026",
       "attachments": [],
       "firstCollectedAt": "2026-07-19T13:16:33+00:00",
-      "lastCheckedAt": "2026-07-19T14:46:13+00:00",
-      "isNew": true
+      "lastCheckedAt": "2026-07-20T01:17:28+00:00",
+      "isNew": false
     },
     {
       "id": "LH-aeea5b3bb5ef19",
@@ -795,8 +796,8 @@
       "officialUrl": "https://apply.lh.or.kr/lhapply/apply/wt/wrtanc/selectWrtancInfo.do?panId=2015122300020261&ccrCnntSysDsCd=03&uppAisTpCd=06&aisTpCd=10&mi=1026",
       "attachments": [],
       "firstCollectedAt": "2026-07-19T13:16:33+00:00",
-      "lastCheckedAt": "2026-07-19T14:46:13+00:00",
-      "isNew": true
+      "lastCheckedAt": "2026-07-20T01:17:28+00:00",
+      "isNew": false
     },
     {
       "id": "SH-45a83ffd8c903c",
@@ -816,8 +817,8 @@
       "officialUrl": "https://www.i-sh.co.kr/main/lay2/program/S1T294C295/www/brd/m_241/view.do?seq=306218",
       "attachments": [],
       "firstCollectedAt": "2026-07-19T04:34:38+00:00",
-      "lastCheckedAt": "2026-07-19T14:39:57+00:00",
-      "isNew": true
+      "lastCheckedAt": "2026-07-20T01:17:28+00:00",
+      "isNew": false
     },
     {
       "id": "SH-ed853099ed60f0",
@@ -837,8 +838,8 @@
       "officialUrl": "https://www.i-sh.co.kr/main/lay2/program/S1T294C295/www/brd/m_241/view.do?seq=306214",
       "attachments": [],
       "firstCollectedAt": "2026-07-19T04:34:38+00:00",
-      "lastCheckedAt": "2026-07-19T14:39:57+00:00",
-      "isNew": true
+      "lastCheckedAt": "2026-07-20T01:17:28+00:00",
+      "isNew": false
     },
     {
       "id": "SH-fc6b5bf077aaa2",
@@ -856,8 +857,8 @@
       "officialUrl": "https://www.i-sh.co.kr/main/lay2/program/S1T294C295/www/brd/m_241/view.do?seq=306205",
       "attachments": [],
       "firstCollectedAt": "2026-07-19T04:34:38+00:00",
-      "lastCheckedAt": "2026-07-19T14:39:57+00:00",
-      "isNew": true
+      "lastCheckedAt": "2026-07-20T01:17:28+00:00",
+      "isNew": false
     },
     {
       "id": "SH-665bf4a8496f33",
@@ -875,8 +876,8 @@
       "officialUrl": "https://www.i-sh.co.kr/main/lay2/program/S1T294C295/www/brd/m_241/view.do?seq=306066",
       "attachments": [],
       "firstCollectedAt": "2026-07-19T04:34:38+00:00",
-      "lastCheckedAt": "2026-07-19T14:39:57+00:00",
-      "isNew": true
+      "lastCheckedAt": "2026-07-20T01:17:28+00:00",
+      "isNew": false
     },
     {
       "id": "LH-4533f8ea28e3a9",
@@ -895,8 +896,8 @@
       "officialUrl": "https://apply.lh.or.kr/lhapply/apply/wt/wrtanc/selectWrtancInfo.do?panId=0000061107&ccrCnntSysDsCd=02&uppAisTpCd=06&aisTpCd=08&mi=1026",
       "attachments": [],
       "firstCollectedAt": "2026-07-19T13:16:33+00:00",
-      "lastCheckedAt": "2026-07-19T14:46:13+00:00",
-      "isNew": true
+      "lastCheckedAt": "2026-07-20T01:17:28+00:00",
+      "isNew": false
     },
     {
       "id": "SH-afac36a7715dc9",
@@ -916,8 +917,8 @@
       "officialUrl": "https://www.i-sh.co.kr/main/lay2/program/S1T294C295/www/brd/m_241/view.do?seq=306065",
       "attachments": [],
       "firstCollectedAt": "2026-07-19T04:34:38+00:00",
-      "lastCheckedAt": "2026-07-19T14:39:57+00:00",
-      "isNew": true
+      "lastCheckedAt": "2026-07-20T01:17:28+00:00",
+      "isNew": false
     },
     {
       "id": "SH-9f0c4956a3f7e2",
@@ -935,8 +936,8 @@
       "officialUrl": "https://www.i-sh.co.kr/main/lay2/program/S1T294C295/www/brd/m_241/view.do?seq=306011",
       "attachments": [],
       "firstCollectedAt": "2026-07-19T04:34:38+00:00",
-      "lastCheckedAt": "2026-07-19T14:39:57+00:00",
-      "isNew": true
+      "lastCheckedAt": "2026-07-20T01:17:28+00:00",
+      "isNew": false
     },
     {
       "id": "LH-54c903d9719540",
@@ -955,8 +956,8 @@
       "officialUrl": "https://apply.lh.or.kr/lhapply/apply/wt/wrtanc/selectWrtancInfo.do?panId=2015122300020173&ccrCnntSysDsCd=03&uppAisTpCd=06&aisTpCd=09&mi=1026",
       "attachments": [],
       "firstCollectedAt": "2026-07-19T13:16:33+00:00",
-      "lastCheckedAt": "2026-07-19T14:46:13+00:00",
-      "isNew": true
+      "lastCheckedAt": "2026-07-20T01:17:28+00:00",
+      "isNew": false
     },
     {
       "id": "LH-58abd4ef62dc3e",
@@ -975,8 +976,8 @@
       "officialUrl": "https://apply.lh.or.kr/lhapply/apply/wt/wrtanc/selectWrtancInfo.do?panId=0000061106&ccrCnntSysDsCd=02&uppAisTpCd=06&aisTpCd=08&mi=1026",
       "attachments": [],
       "firstCollectedAt": "2026-07-19T13:16:33+00:00",
-      "lastCheckedAt": "2026-07-19T14:46:13+00:00",
-      "isNew": true
+      "lastCheckedAt": "2026-07-20T01:17:28+00:00",
+      "isNew": false
     },
     {
       "id": "LH-e78e54bdf7980c",
@@ -996,8 +997,8 @@
       "officialUrl": "https://apply.lh.or.kr/lhapply/apply/wt/wrtanc/selectWrtancInfo.do?panId=2015122300020175&ccrCnntSysDsCd=03&uppAisTpCd=06&aisTpCd=09&mi=1026",
       "attachments": [],
       "firstCollectedAt": "2026-07-19T13:16:33+00:00",
-      "lastCheckedAt": "2026-07-19T14:46:13+00:00",
-      "isNew": true
+      "lastCheckedAt": "2026-07-20T01:17:28+00:00",
+      "isNew": false
     },
     {
       "id": "LH-8cff0578c40d8b",
@@ -1015,8 +1016,8 @@
       "officialUrl": "https://apply.lh.or.kr/lhapply/apply/wt/wrtanc/selectWrtancInfo.do?panId=2015122300020164&ccrCnntSysDsCd=03&uppAisTpCd=06&aisTpCd=10&mi=1026",
       "attachments": [],
       "firstCollectedAt": "2026-07-19T13:16:33+00:00",
-      "lastCheckedAt": "2026-07-19T14:46:13+00:00",
-      "isNew": true
+      "lastCheckedAt": "2026-07-20T01:17:28+00:00",
+      "isNew": false
     },
     {
       "id": "LH-7bbbb2e9d01ddd",
@@ -1036,8 +1037,8 @@
       "officialUrl": "https://apply.lh.or.kr/lhapply/apply/wt/wrtanc/selectWrtancInfo.do?panId=2015122300020126&ccrCnntSysDsCd=03&uppAisTpCd=06&aisTpCd=10&mi=1026",
       "attachments": [],
       "firstCollectedAt": "2026-07-19T13:16:33+00:00",
-      "lastCheckedAt": "2026-07-19T14:46:13+00:00",
-      "isNew": true
+      "lastCheckedAt": "2026-07-20T01:17:28+00:00",
+      "isNew": false
     },
     {
       "id": "LH-391772813f08c0",
@@ -1057,8 +1058,8 @@
       "officialUrl": "https://apply.lh.or.kr/lhapply/apply/wt/wrtanc/selectWrtancInfo.do?panId=2015122300020143&ccrCnntSysDsCd=03&uppAisTpCd=06&aisTpCd=09&mi=1026",
       "attachments": [],
       "firstCollectedAt": "2026-07-19T13:16:33+00:00",
-      "lastCheckedAt": "2026-07-19T14:46:13+00:00",
-      "isNew": true
+      "lastCheckedAt": "2026-07-20T01:17:28+00:00",
+      "isNew": false
     },
     {
       "id": "LH-a2e42828e78993",
@@ -1079,8 +1080,8 @@
       "officialUrl": "https://apply.lh.or.kr/lhapply/apply/wt/wrtanc/selectWrtancInfo.do?panId=2015122300020105&ccrCnntSysDsCd=03&uppAisTpCd=06&aisTpCd=10&mi=1026",
       "attachments": [],
       "firstCollectedAt": "2026-07-19T13:16:33+00:00",
-      "lastCheckedAt": "2026-07-19T14:46:13+00:00",
-      "isNew": true
+      "lastCheckedAt": "2026-07-20T01:17:28+00:00",
+      "isNew": false
     },
     {
       "id": "LH-db73770c0bb834",
@@ -1099,8 +1100,8 @@
       "officialUrl": "https://apply.lh.or.kr/lhapply/apply/wt/wrtanc/selectWrtancInfo.do?panId=2015122300020062&ccrCnntSysDsCd=03&uppAisTpCd=06&aisTpCd=08&mi=1026",
       "attachments": [],
       "firstCollectedAt": "2026-07-19T13:16:33+00:00",
-      "lastCheckedAt": "2026-07-19T14:46:13+00:00",
-      "isNew": true
+      "lastCheckedAt": "2026-07-20T01:17:28+00:00",
+      "isNew": false
     },
     {
       "id": "LH-5bfb29e10211c8",
@@ -1118,8 +1119,8 @@
       "officialUrl": "https://apply.lh.or.kr/lhapply/apply/wt/wrtanc/selectWrtancInfo.do?panId=2015122300020085&ccrCnntSysDsCd=03&uppAisTpCd=06&aisTpCd=40&mi=1026",
       "attachments": [],
       "firstCollectedAt": "2026-07-19T13:16:33+00:00",
-      "lastCheckedAt": "2026-07-19T14:46:13+00:00",
-      "isNew": true
+      "lastCheckedAt": "2026-07-20T01:17:28+00:00",
+      "isNew": false
     },
     {
       "id": "LH-cf22599d89cd7c",
@@ -1139,8 +1140,8 @@
       "officialUrl": "https://apply.lh.or.kr/lhapply/apply/wt/wrtanc/selectWrtancInfo.do?panId=2015122300020057&ccrCnntSysDsCd=03&uppAisTpCd=06&aisTpCd=10&mi=1026",
       "attachments": [],
       "firstCollectedAt": "2026-07-19T13:16:33+00:00",
-      "lastCheckedAt": "2026-07-19T14:46:13+00:00",
-      "isNew": true
+      "lastCheckedAt": "2026-07-20T01:17:28+00:00",
+      "isNew": false
     },
     {
       "id": "SH-84e37b19cee051",
@@ -1160,8 +1161,8 @@
       "officialUrl": "https://www.i-sh.co.kr/main/lay2/program/S1T294C295/www/brd/m_241/view.do?seq=305221",
       "attachments": [],
       "firstCollectedAt": "2026-07-19T04:34:38+00:00",
-      "lastCheckedAt": "2026-07-19T14:39:57+00:00",
-      "isNew": true
+      "lastCheckedAt": "2026-07-20T01:17:28+00:00",
+      "isNew": false
     },
     {
       "id": "LH-66804ac8853868",
@@ -1180,8 +1181,8 @@
       "officialUrl": "https://apply.lh.or.kr/lhapply/apply/wt/wrtanc/selectWrtancInfo.do?panId=2015122300020055&ccrCnntSysDsCd=03&uppAisTpCd=06&aisTpCd=09&mi=1026",
       "attachments": [],
       "firstCollectedAt": "2026-07-19T13:16:33+00:00",
-      "lastCheckedAt": "2026-07-19T14:46:13+00:00",
-      "isNew": true
+      "lastCheckedAt": "2026-07-20T01:17:28+00:00",
+      "isNew": false
     },
     {
       "id": "SH-95ee8d841ead57",
@@ -1201,8 +1202,8 @@
       "officialUrl": "https://www.i-sh.co.kr/main/lay2/program/S1T294C295/www/brd/m_241/view.do?seq=305240",
       "attachments": [],
       "firstCollectedAt": "2026-07-19T04:34:38+00:00",
-      "lastCheckedAt": "2026-07-19T14:39:57+00:00",
-      "isNew": true
+      "lastCheckedAt": "2026-07-20T01:17:28+00:00",
+      "isNew": false
     },
     {
       "id": "SH-331534a3a20d02",
@@ -1222,8 +1223,8 @@
       "officialUrl": "https://www.i-sh.co.kr/main/lay2/program/S1T294C295/www/brd/m_241/view.do?seq=304925",
       "attachments": [],
       "firstCollectedAt": "2026-07-19T04:34:38+00:00",
-      "lastCheckedAt": "2026-07-19T14:39:57+00:00",
-      "isNew": true
+      "lastCheckedAt": "2026-07-20T01:17:28+00:00",
+      "isNew": false
     },
     {
       "id": "LH-c190604888e712",
@@ -1242,8 +1243,8 @@
       "officialUrl": "https://apply.lh.or.kr/lhapply/apply/wt/wrtanc/selectWrtancInfo.do?panId=2015122300020029&ccrCnntSysDsCd=03&uppAisTpCd=06&aisTpCd=07&mi=1026",
       "attachments": [],
       "firstCollectedAt": "2026-07-19T13:16:33+00:00",
-      "lastCheckedAt": "2026-07-19T14:46:13+00:00",
-      "isNew": true
+      "lastCheckedAt": "2026-07-20T01:17:28+00:00",
+      "isNew": false
     },
     {
       "id": "SH-ef6d3f3927e3bd",
@@ -1261,8 +1262,8 @@
       "officialUrl": "https://www.i-sh.co.kr/main/lay2/program/S1T294C295/www/brd/m_241/view.do?seq=304864",
       "attachments": [],
       "firstCollectedAt": "2026-07-19T04:34:38+00:00",
-      "lastCheckedAt": "2026-07-19T14:39:57+00:00",
-      "isNew": true
+      "lastCheckedAt": "2026-07-20T01:17:28+00:00",
+      "isNew": false
     },
     {
       "id": "LH-07066cbe4cad76",
@@ -1281,8 +1282,8 @@
       "officialUrl": "https://apply.lh.or.kr/lhapply/apply/wt/wrtanc/selectWrtancInfo.do?panId=0000061104&ccrCnntSysDsCd=02&uppAisTpCd=06&aisTpCd=08&mi=1026",
       "attachments": [],
       "firstCollectedAt": "2026-07-19T13:16:33+00:00",
-      "lastCheckedAt": "2026-07-19T14:46:13+00:00",
-      "isNew": true
+      "lastCheckedAt": "2026-07-20T01:17:28+00:00",
+      "isNew": false
     },
     {
       "id": "LH-ed9d7a3fef577e",
@@ -1300,8 +1301,8 @@
       "officialUrl": "https://apply.lh.or.kr/lhapply/apply/wt/wrtanc/selectWrtancInfo.do?panId=2015122300020033&ccrCnntSysDsCd=03&uppAisTpCd=06&aisTpCd=10&mi=1026",
       "attachments": [],
       "firstCollectedAt": "2026-07-19T13:16:33+00:00",
-      "lastCheckedAt": "2026-07-19T14:46:13+00:00",
-      "isNew": true
+      "lastCheckedAt": "2026-07-20T01:17:28+00:00",
+      "isNew": false
     },
     {
       "id": "LH-083a63345943c3",
@@ -1321,8 +1322,8 @@
       "officialUrl": "https://apply.lh.or.kr/lhapply/apply/wt/wrtanc/selectWrtancInfo.do?panId=0000061103&ccrCnntSysDsCd=02&uppAisTpCd=06&aisTpCd=08&mi=1026",
       "attachments": [],
       "firstCollectedAt": "2026-07-19T13:16:33+00:00",
-      "lastCheckedAt": "2026-07-19T14:46:13+00:00",
-      "isNew": true
+      "lastCheckedAt": "2026-07-20T01:17:28+00:00",
+      "isNew": false
     },
     {
       "id": "LH-646631b9f02802",
@@ -1340,8 +1341,8 @@
       "officialUrl": "https://apply.lh.or.kr/lhapply/apply/wt/wrtanc/selectWrtancInfo.do?panId=2015122300020025&ccrCnntSysDsCd=03&uppAisTpCd=06&aisTpCd=10&mi=1026",
       "attachments": [],
       "firstCollectedAt": "2026-07-19T13:16:33+00:00",
-      "lastCheckedAt": "2026-07-19T14:46:13+00:00",
-      "isNew": true
+      "lastCheckedAt": "2026-07-20T01:17:28+00:00",
+      "isNew": false
     },
     {
       "id": "LH-ed8deb54a5e810",
@@ -1361,8 +1362,8 @@
       "officialUrl": "https://apply.lh.or.kr/lhapply/apply/wt/wrtanc/selectWrtancInfo.do?panId=2015122300020019&ccrCnntSysDsCd=03&uppAisTpCd=06&aisTpCd=09&mi=1026",
       "attachments": [],
       "firstCollectedAt": "2026-07-19T13:16:33+00:00",
-      "lastCheckedAt": "2026-07-19T14:46:13+00:00",
-      "isNew": true
+      "lastCheckedAt": "2026-07-20T01:17:28+00:00",
+      "isNew": false
     },
     {
       "id": "LH-06826892fbb163",
@@ -1382,27 +1383,8 @@
       "officialUrl": "https://apply.lh.or.kr/lhapply/apply/wt/wrtanc/selectWrtancInfo.do?panId=0000061090&ccrCnntSysDsCd=02&uppAisTpCd=06&aisTpCd=08&mi=1026",
       "attachments": [],
       "firstCollectedAt": "2026-07-19T13:16:33+00:00",
-      "lastCheckedAt": "2026-07-19T14:46:13+00:00",
-      "isNew": true
-    },
-    {
-      "id": "LH-e6f280e69863b5",
-      "agency": "LH",
-      "title": "[정정공고]'26년 5월 인천시(남동구) 행복주택 입주자격완화 예비입주자 모집",
-      "noticeType": "행복주택",
-      "targetGroups": [],
-      "regions": [
-        "인천광역시"
-      ],
-      "publishedAt": "2026-05-19",
-      "applyStart": null,
-      "applyEnd": "2026-05-21",
-      "status": "접수마감",
-      "officialUrl": "https://apply.lh.or.kr/lhapply/apply/wt/wrtanc/selectWrtancInfo.do?panId=2015122300019996&ccrCnntSysDsCd=03&uppAisTpCd=06&aisTpCd=10&mi=1026",
-      "attachments": [],
-      "firstCollectedAt": "2026-07-19T13:16:33+00:00",
-      "lastCheckedAt": "2026-07-19T14:46:13+00:00",
-      "isNew": true
+      "lastCheckedAt": "2026-07-20T01:17:28+00:00",
+      "isNew": false
     },
     {
       "id": "SH-4bf23270857c94",
@@ -1422,8 +1404,8 @@
       "officialUrl": "https://www.i-sh.co.kr/main/lay2/program/S1T294C295/www/brd/m_241/view.do?seq=305517",
       "attachments": [],
       "firstCollectedAt": "2026-07-19T04:34:38+00:00",
-      "lastCheckedAt": "2026-07-19T14:39:57+00:00",
-      "isNew": true
+      "lastCheckedAt": "2026-07-20T01:17:28+00:00",
+      "isNew": false
     },
     {
       "id": "SH-dc3f347cb66ebd",
@@ -1441,8 +1423,8 @@
       "officialUrl": "https://www.i-sh.co.kr/main/lay2/program/S1T294C295/www/brd/m_241/view.do?seq=304106",
       "attachments": [],
       "firstCollectedAt": "2026-07-19T04:34:38+00:00",
-      "lastCheckedAt": "2026-07-19T14:39:57+00:00",
-      "isNew": true
+      "lastCheckedAt": "2026-07-20T01:17:28+00:00",
+      "isNew": false
     },
     {
       "id": "SH-f5dae030df5e3e",
@@ -1460,8 +1442,8 @@
       "officialUrl": "https://www.i-sh.co.kr/main/lay2/program/S1T294C295/www/brd/m_241/view.do?seq=303656",
       "attachments": [],
       "firstCollectedAt": "2026-07-19T04:34:38+00:00",
-      "lastCheckedAt": "2026-07-19T14:39:57+00:00",
-      "isNew": true
+      "lastCheckedAt": "2026-07-20T01:17:28+00:00",
+      "isNew": false
     },
     {
       "id": "SH-38a04a4b4d7f8d",
@@ -1479,8 +1461,8 @@
       "officialUrl": "https://www.i-sh.co.kr/main/lay2/program/S1T294C295/www/brd/m_241/view.do?seq=303557",
       "attachments": [],
       "firstCollectedAt": "2026-07-19T04:34:38+00:00",
-      "lastCheckedAt": "2026-07-19T14:39:57+00:00",
-      "isNew": true
+      "lastCheckedAt": "2026-07-20T01:17:28+00:00",
+      "isNew": false
     },
     {
       "id": "SH-06f30c6b697c04",
@@ -1498,8 +1480,8 @@
       "officialUrl": "https://www.i-sh.co.kr/main/lay2/program/S1T294C295/www/brd/m_241/view.do?seq=303480",
       "attachments": [],
       "firstCollectedAt": "2026-07-19T04:34:38+00:00",
-      "lastCheckedAt": "2026-07-19T14:39:57+00:00",
-      "isNew": true
+      "lastCheckedAt": "2026-07-20T01:17:28+00:00",
+      "isNew": false
     },
     {
       "id": "SH-a581a8b08c9ade",
@@ -1520,8 +1502,8 @@
       "officialUrl": "https://www.i-sh.co.kr/main/lay2/program/S1T294C295/www/brd/m_241/view.do?seq=301742",
       "attachments": [],
       "firstCollectedAt": "2026-07-19T04:34:38+00:00",
-      "lastCheckedAt": "2026-07-19T14:39:57+00:00",
-      "isNew": true
+      "lastCheckedAt": "2026-07-20T01:17:28+00:00",
+      "isNew": false
     },
     {
       "id": "SH-a1f4b3a5c85aca",
@@ -1539,8 +1521,8 @@
       "officialUrl": "https://www.i-sh.co.kr/main/lay2/program/S1T294C295/www/brd/m_241/view.do?seq=300255",
       "attachments": [],
       "firstCollectedAt": "2026-07-19T04:34:38+00:00",
-      "lastCheckedAt": "2026-07-19T14:39:57+00:00",
-      "isNew": true
+      "lastCheckedAt": "2026-07-20T01:17:28+00:00",
+      "isNew": false
     },
     {
       "id": "SH-1a4681c907ac4a",
@@ -1558,8 +1540,8 @@
       "officialUrl": "https://www.i-sh.co.kr/main/lay2/program/S1T294C295/www/brd/m_241/view.do?seq=299904",
       "attachments": [],
       "firstCollectedAt": "2026-07-19T04:34:38+00:00",
-      "lastCheckedAt": "2026-07-19T14:39:57+00:00",
-      "isNew": true
+      "lastCheckedAt": "2026-07-20T01:17:28+00:00",
+      "isNew": false
     },
     {
       "id": "SH-3f4887a3085677",
@@ -1577,8 +1559,8 @@
       "officialUrl": "https://www.i-sh.co.kr/main/lay2/program/S1T294C295/www/brd/m_241/view.do?seq=298109",
       "attachments": [],
       "firstCollectedAt": "2026-07-19T04:34:38+00:00",
-      "lastCheckedAt": "2026-07-19T14:39:57+00:00",
-      "isNew": true
+      "lastCheckedAt": "2026-07-20T01:17:28+00:00",
+      "isNew": false
     },
     {
       "id": "SH-4f275a432903e1",
@@ -1596,8 +1578,8 @@
       "officialUrl": "https://www.i-sh.co.kr/main/lay2/program/S1T294C295/www/brd/m_241/view.do?seq=304349",
       "attachments": [],
       "firstCollectedAt": "2026-07-19T04:34:38+00:00",
-      "lastCheckedAt": "2026-07-19T14:39:57+00:00",
-      "isNew": true
+      "lastCheckedAt": "2026-07-20T01:17:28+00:00",
+      "isNew": false
     },
     {
       "id": "SH-7b6190043223b1",
@@ -1615,8 +1597,8 @@
       "officialUrl": "https://www.i-sh.co.kr/main/lay2/program/S1T294C295/www/brd/m_241/view.do?seq=303771",
       "attachments": [],
       "firstCollectedAt": "2026-07-19T04:34:38+00:00",
-      "lastCheckedAt": "2026-07-19T14:39:57+00:00",
-      "isNew": true
+      "lastCheckedAt": "2026-07-20T01:17:28+00:00",
+      "isNew": false
     },
     {
       "id": "SH-4652471b0b785b",
@@ -1634,8 +1616,8 @@
       "officialUrl": "https://www.i-sh.co.kr/main/lay2/program/S1T294C295/www/brd/m_241/view.do?seq=303238",
       "attachments": [],
       "firstCollectedAt": "2026-07-19T04:34:38+00:00",
-      "lastCheckedAt": "2026-07-19T14:39:57+00:00",
-      "isNew": true
+      "lastCheckedAt": "2026-07-20T01:17:28+00:00",
+      "isNew": false
     },
     {
       "id": "SH-9d844df2965ae0",
@@ -1653,8 +1635,8 @@
       "officialUrl": "https://www.i-sh.co.kr/main/lay2/program/S1T294C295/www/brd/m_241/view.do?seq=302479",
       "attachments": [],
       "firstCollectedAt": "2026-07-19T04:34:38+00:00",
-      "lastCheckedAt": "2026-07-19T14:39:57+00:00",
-      "isNew": true
+      "lastCheckedAt": "2026-07-20T01:17:28+00:00",
+      "isNew": false
     },
     {
       "id": "SH-dcfabd4ccbaade",
@@ -1672,8 +1654,8 @@
       "officialUrl": "https://www.i-sh.co.kr/main/lay2/program/S1T294C295/www/brd/m_241/view.do?seq=296501",
       "attachments": [],
       "firstCollectedAt": "2026-07-19T04:34:38+00:00",
-      "lastCheckedAt": "2026-07-19T14:39:57+00:00",
-      "isNew": true
+      "lastCheckedAt": "2026-07-20T01:17:28+00:00",
+      "isNew": false
     },
     {
       "id": "SH-8ae0451a062f66",
@@ -1691,8 +1673,8 @@
       "officialUrl": "https://www.i-sh.co.kr/main/lay2/program/S1T294C295/www/brd/m_241/view.do?seq=297335",
       "attachments": [],
       "firstCollectedAt": "2026-07-19T04:34:38+00:00",
-      "lastCheckedAt": "2026-07-19T14:39:57+00:00",
-      "isNew": true
+      "lastCheckedAt": "2026-07-20T01:17:28+00:00",
+      "isNew": false
     },
     {
       "id": "SH-c36ecd41a80b64",
@@ -1710,8 +1692,8 @@
       "officialUrl": "https://www.i-sh.co.kr/main/lay2/program/S1T294C295/www/brd/m_241/view.do?seq=296645",
       "attachments": [],
       "firstCollectedAt": "2026-07-19T04:34:38+00:00",
-      "lastCheckedAt": "2026-07-19T14:39:57+00:00",
-      "isNew": true
+      "lastCheckedAt": "2026-07-20T01:17:28+00:00",
+      "isNew": false
     },
     {
       "id": "SH-882a78c3225393",
@@ -1729,8 +1711,8 @@
       "officialUrl": "https://www.i-sh.co.kr/main/lay2/program/S1T294C295/www/brd/m_241/view.do?seq=301011",
       "attachments": [],
       "firstCollectedAt": "2026-07-19T04:34:38+00:00",
-      "lastCheckedAt": "2026-07-19T14:39:57+00:00",
-      "isNew": true
+      "lastCheckedAt": "2026-07-20T01:17:28+00:00",
+      "isNew": false
     },
     {
       "id": "SH-7ca6af9dd2b74c",
@@ -1748,8 +1730,8 @@
       "officialUrl": "https://www.i-sh.co.kr/main/lay2/program/S1T294C295/www/brd/m_241/view.do?seq=295159",
       "attachments": [],
       "firstCollectedAt": "2026-07-19T04:34:38+00:00",
-      "lastCheckedAt": "2026-07-19T14:39:57+00:00",
-      "isNew": true
+      "lastCheckedAt": "2026-07-20T01:17:28+00:00",
+      "isNew": false
     },
     {
       "id": "SH-05047c6c4e5724",
@@ -1767,8 +1749,8 @@
       "officialUrl": "https://www.i-sh.co.kr/main/lay2/program/S1T294C295/www/brd/m_241/view.do?seq=294206",
       "attachments": [],
       "firstCollectedAt": "2026-07-19T04:34:38+00:00",
-      "lastCheckedAt": "2026-07-19T14:39:57+00:00",
-      "isNew": true
+      "lastCheckedAt": "2026-07-20T01:17:28+00:00",
+      "isNew": false
     },
     {
       "id": "SH-0c1519ff27bf9d",
@@ -1786,8 +1768,8 @@
       "officialUrl": "https://www.i-sh.co.kr/main/lay2/program/S1T294C295/www/brd/m_241/view.do?seq=292541",
       "attachments": [],
       "firstCollectedAt": "2026-07-19T04:34:38+00:00",
-      "lastCheckedAt": "2026-07-19T14:39:57+00:00",
-      "isNew": true
+      "lastCheckedAt": "2026-07-20T01:17:28+00:00",
+      "isNew": false
     },
     {
       "id": "SH-6822ce98703e75",
@@ -1805,8 +1787,8 @@
       "officialUrl": "https://www.i-sh.co.kr/main/lay2/program/S1T294C295/www/brd/m_241/view.do?seq=292305",
       "attachments": [],
       "firstCollectedAt": "2026-07-19T04:34:38+00:00",
-      "lastCheckedAt": "2026-07-19T14:39:57+00:00",
-      "isNew": true
+      "lastCheckedAt": "2026-07-20T01:17:28+00:00",
+      "isNew": false
     },
     {
       "id": "SH-8983058f6cec72",
@@ -1824,8 +1806,8 @@
       "officialUrl": "https://www.i-sh.co.kr/main/lay2/program/S1T294C295/www/brd/m_241/view.do?seq=299825",
       "attachments": [],
       "firstCollectedAt": "2026-07-19T04:34:38+00:00",
-      "lastCheckedAt": "2026-07-19T14:39:57+00:00",
-      "isNew": true
+      "lastCheckedAt": "2026-07-20T01:17:28+00:00",
+      "isNew": false
     },
     {
       "id": "SH-6f312915384742",
@@ -1843,8 +1825,8 @@
       "officialUrl": "https://www.i-sh.co.kr/main/lay2/program/S1T294C295/www/brd/m_241/view.do?seq=290172",
       "attachments": [],
       "firstCollectedAt": "2026-07-19T04:34:38+00:00",
-      "lastCheckedAt": "2026-07-19T14:39:57+00:00",
-      "isNew": true
+      "lastCheckedAt": "2026-07-20T01:17:28+00:00",
+      "isNew": false
     },
     {
       "id": "SH-4ff73b38bd04f8",
@@ -1862,8 +1844,8 @@
       "officialUrl": "https://www.i-sh.co.kr/main/lay2/program/S1T294C295/www/brd/m_241/view.do?seq=287727",
       "attachments": [],
       "firstCollectedAt": "2026-07-19T04:34:38+00:00",
-      "lastCheckedAt": "2026-07-19T14:39:57+00:00",
-      "isNew": true
+      "lastCheckedAt": "2026-07-20T01:17:28+00:00",
+      "isNew": false
     },
     {
       "id": "SH-65537a178bcd2f",
@@ -1881,8 +1863,8 @@
       "officialUrl": "https://www.i-sh.co.kr/main/lay2/program/S1T294C295/www/brd/m_241/view.do?seq=287311",
       "attachments": [],
       "firstCollectedAt": "2026-07-19T04:34:38+00:00",
-      "lastCheckedAt": "2026-07-19T14:39:57+00:00",
-      "isNew": true
+      "lastCheckedAt": "2026-07-20T01:17:28+00:00",
+      "isNew": false
     },
     {
       "id": "SH-0b6b07480e3137",
@@ -1900,8 +1882,8 @@
       "officialUrl": "https://www.i-sh.co.kr/main/lay2/program/S1T294C295/www/brd/m_241/view.do?seq=287466",
       "attachments": [],
       "firstCollectedAt": "2026-07-19T04:34:38+00:00",
-      "lastCheckedAt": "2026-07-19T14:39:57+00:00",
-      "isNew": true
+      "lastCheckedAt": "2026-07-20T01:17:28+00:00",
+      "isNew": false
     },
     {
       "id": "SH-6b222bbf24b8b9",
@@ -1919,8 +1901,8 @@
       "officialUrl": "https://www.i-sh.co.kr/main/lay2/program/S1T294C295/www/brd/m_241/view.do?seq=288199",
       "attachments": [],
       "firstCollectedAt": "2026-07-19T04:34:38+00:00",
-      "lastCheckedAt": "2026-07-19T14:39:57+00:00",
-      "isNew": true
+      "lastCheckedAt": "2026-07-20T01:17:28+00:00",
+      "isNew": false
     },
     {
       "id": "SH-5753a1ff55f8ac",
@@ -1938,8 +1920,8 @@
       "officialUrl": "https://www.i-sh.co.kr/main/lay2/program/S1T294C295/www/brd/m_241/view.do?seq=285742",
       "attachments": [],
       "firstCollectedAt": "2026-07-19T04:34:38+00:00",
-      "lastCheckedAt": "2026-07-19T14:39:57+00:00",
-      "isNew": true
+      "lastCheckedAt": "2026-07-20T01:17:28+00:00",
+      "isNew": false
     },
     {
       "id": "SH-be5c50f1da0d43",
@@ -1957,8 +1939,8 @@
       "officialUrl": "https://www.i-sh.co.kr/main/lay2/program/S1T294C295/www/brd/m_241/view.do?seq=282652",
       "attachments": [],
       "firstCollectedAt": "2026-07-19T04:34:38+00:00",
-      "lastCheckedAt": "2026-07-19T14:39:57+00:00",
-      "isNew": true
+      "lastCheckedAt": "2026-07-20T01:17:28+00:00",
+      "isNew": false
     },
     {
       "id": "SH-84af5c954dab95",
@@ -1976,8 +1958,8 @@
       "officialUrl": "https://www.i-sh.co.kr/main/lay2/program/S1T294C295/www/brd/m_241/view.do?seq=282546",
       "attachments": [],
       "firstCollectedAt": "2026-07-19T04:34:38+00:00",
-      "lastCheckedAt": "2026-07-19T14:39:57+00:00",
-      "isNew": true
+      "lastCheckedAt": "2026-07-20T01:17:28+00:00",
+      "isNew": false
     },
     {
       "id": "SH-115202b0fdd5ac",
@@ -1995,8 +1977,8 @@
       "officialUrl": "https://www.i-sh.co.kr/main/lay2/program/S1T294C295/www/brd/m_241/view.do?seq=279905",
       "attachments": [],
       "firstCollectedAt": "2026-07-19T04:34:38+00:00",
-      "lastCheckedAt": "2026-07-19T14:39:57+00:00",
-      "isNew": true
+      "lastCheckedAt": "2026-07-20T01:17:28+00:00",
+      "isNew": false
     },
     {
       "id": "SH-9b4d6920d0e045",
@@ -2014,8 +1996,8 @@
       "officialUrl": "https://www.i-sh.co.kr/main/lay2/program/S1T294C295/www/brd/m_241/view.do?seq=279305",
       "attachments": [],
       "firstCollectedAt": "2026-07-19T04:34:38+00:00",
-      "lastCheckedAt": "2026-07-19T14:39:57+00:00",
-      "isNew": true
+      "lastCheckedAt": "2026-07-20T01:17:28+00:00",
+      "isNew": false
     },
     {
       "id": "SH-a74529ec273f5b",
@@ -2033,8 +2015,8 @@
       "officialUrl": "https://www.i-sh.co.kr/main/lay2/program/S1T294C295/www/brd/m_241/view.do?seq=278265",
       "attachments": [],
       "firstCollectedAt": "2026-07-19T04:34:38+00:00",
-      "lastCheckedAt": "2026-07-19T14:39:57+00:00",
-      "isNew": true
+      "lastCheckedAt": "2026-07-20T01:17:28+00:00",
+      "isNew": false
     },
     {
       "id": "SH-6588c76f882cfb",
@@ -2052,8 +2034,8 @@
       "officialUrl": "https://www.i-sh.co.kr/main/lay2/program/S1T294C295/www/brd/m_241/view.do?seq=281012",
       "attachments": [],
       "firstCollectedAt": "2026-07-19T04:34:38+00:00",
-      "lastCheckedAt": "2026-07-19T14:39:57+00:00",
-      "isNew": true
+      "lastCheckedAt": "2026-07-20T01:17:28+00:00",
+      "isNew": false
     },
     {
       "id": "GH-86e1e9c5c37998",
@@ -2071,8 +2053,8 @@
       "officialUrl": "https://www.gh.or.kr/gh/announcement-of-salerental001.do?mode=view&articleNo=64776&article.offset=0&articleLimit=100",
       "attachments": [],
       "firstCollectedAt": "2026-07-19T04:07:52+00:00",
-      "lastCheckedAt": "2026-07-19T14:46:13+00:00",
-      "isNew": true
+      "lastCheckedAt": "2026-07-20T01:17:28+00:00",
+      "isNew": false
     },
     {
       "id": "GH-3c7517718da885",
@@ -2090,8 +2072,8 @@
       "officialUrl": "https://www.gh.or.kr/gh/announcement-of-salerental001.do?mode=view&articleNo=64766&article.offset=0&articleLimit=100",
       "attachments": [],
       "firstCollectedAt": "2026-07-19T04:07:52+00:00",
-      "lastCheckedAt": "2026-07-19T14:46:13+00:00",
-      "isNew": true
+      "lastCheckedAt": "2026-07-20T01:17:28+00:00",
+      "isNew": false
     },
     {
       "id": "GH-3075fa4517d1a2",
@@ -2112,8 +2094,8 @@
       "officialUrl": "https://www.gh.or.kr/gh/announcement-of-salerental001.do?mode=view&articleNo=64831&article.offset=0&articleLimit=100",
       "attachments": [],
       "firstCollectedAt": "2026-07-19T04:07:52+00:00",
-      "lastCheckedAt": "2026-07-19T14:46:13+00:00",
-      "isNew": true
+      "lastCheckedAt": "2026-07-20T01:17:28+00:00",
+      "isNew": false
     },
     {
       "id": "GH-f59b67f14ccbdd",
@@ -2132,8 +2114,8 @@
       "officialUrl": "https://www.gh.or.kr/gh/announcement-of-salerental001.do?mode=view&articleNo=64640&article.offset=0&articleLimit=100",
       "attachments": [],
       "firstCollectedAt": "2026-07-19T04:07:52+00:00",
-      "lastCheckedAt": "2026-07-19T14:46:13+00:00",
-      "isNew": true
+      "lastCheckedAt": "2026-07-20T01:17:28+00:00",
+      "isNew": false
     },
     {
       "id": "GH-52bdfefa066eb5",
@@ -2152,8 +2134,8 @@
       "officialUrl": "https://www.gh.or.kr/gh/announcement-of-salerental001.do?mode=view&articleNo=64817&article.offset=0&articleLimit=100",
       "attachments": [],
       "firstCollectedAt": "2026-07-19T04:07:52+00:00",
-      "lastCheckedAt": "2026-07-19T14:46:13+00:00",
-      "isNew": true
+      "lastCheckedAt": "2026-07-20T01:17:28+00:00",
+      "isNew": false
     },
     {
       "id": "GH-e0367ea871edaa",
@@ -2172,8 +2154,8 @@
       "officialUrl": "https://www.gh.or.kr/gh/announcement-of-salerental001.do?mode=view&articleNo=64959&article.offset=0&articleLimit=100",
       "attachments": [],
       "firstCollectedAt": "2026-07-19T04:07:52+00:00",
-      "lastCheckedAt": "2026-07-19T14:46:13+00:00",
-      "isNew": true
+      "lastCheckedAt": "2026-07-20T01:17:28+00:00",
+      "isNew": false
     },
     {
       "id": "GH-ea05b300db6227",
@@ -2192,8 +2174,8 @@
       "officialUrl": "https://www.gh.or.kr/gh/announcement-of-salerental001.do?mode=view&articleNo=64966&article.offset=0&articleLimit=100",
       "attachments": [],
       "firstCollectedAt": "2026-07-19T04:07:52+00:00",
-      "lastCheckedAt": "2026-07-19T14:46:13+00:00",
-      "isNew": true
+      "lastCheckedAt": "2026-07-20T01:17:28+00:00",
+      "isNew": false
     },
     {
       "id": "GH-2dc1ecea759d99",
@@ -2212,8 +2194,8 @@
       "officialUrl": "https://www.gh.or.kr/gh/announcement-of-salerental001.do?mode=view&articleNo=64679&article.offset=0&articleLimit=100",
       "attachments": [],
       "firstCollectedAt": "2026-07-19T04:07:52+00:00",
-      "lastCheckedAt": "2026-07-19T14:46:13+00:00",
-      "isNew": true
+      "lastCheckedAt": "2026-07-20T01:17:28+00:00",
+      "isNew": false
     },
     {
       "id": "GH-857719e6b7d070",
@@ -2233,8 +2215,8 @@
       "officialUrl": "https://www.gh.or.kr/gh/announcement-of-salerental001.do?mode=view&articleNo=64782&article.offset=0&articleLimit=100",
       "attachments": [],
       "firstCollectedAt": "2026-07-19T04:07:52+00:00",
-      "lastCheckedAt": "2026-07-19T14:46:13+00:00",
-      "isNew": true
+      "lastCheckedAt": "2026-07-20T01:17:28+00:00",
+      "isNew": false
     },
     {
       "id": "GH-43f58c80a08c31",
@@ -2252,8 +2234,8 @@
       "officialUrl": "https://www.gh.or.kr/gh/announcement-of-salerental001.do?mode=view&articleNo=64997&article.offset=0&articleLimit=100",
       "attachments": [],
       "firstCollectedAt": "2026-07-19T04:07:52+00:00",
-      "lastCheckedAt": "2026-07-19T14:46:13+00:00",
-      "isNew": true
+      "lastCheckedAt": "2026-07-20T01:17:28+00:00",
+      "isNew": false
     },
     {
       "id": "GH-113abfb46d9d58",
@@ -2271,8 +2253,8 @@
       "officialUrl": "https://www.gh.or.kr/gh/announcement-of-salerental001.do?mode=view&articleNo=64888&article.offset=0&articleLimit=100",
       "attachments": [],
       "firstCollectedAt": "2026-07-19T04:07:52+00:00",
-      "lastCheckedAt": "2026-07-19T14:46:13+00:00",
-      "isNew": true
+      "lastCheckedAt": "2026-07-20T01:17:28+00:00",
+      "isNew": false
     },
     {
       "id": "GH-d75902f4360ec1",
@@ -2290,8 +2272,8 @@
       "officialUrl": "https://www.gh.or.kr/gh/announcement-of-salerental001.do?mode=view&articleNo=64811&article.offset=0&articleLimit=100",
       "attachments": [],
       "firstCollectedAt": "2026-07-19T04:07:52+00:00",
-      "lastCheckedAt": "2026-07-19T14:46:13+00:00",
-      "isNew": true
+      "lastCheckedAt": "2026-07-20T01:17:28+00:00",
+      "isNew": false
     },
     {
       "id": "GH-1beb2c8b647db4",
@@ -2309,8 +2291,8 @@
       "officialUrl": "https://www.gh.or.kr/gh/announcement-of-salerental001.do?mode=view&articleNo=64847&article.offset=0&articleLimit=100",
       "attachments": [],
       "firstCollectedAt": "2026-07-19T04:07:52+00:00",
-      "lastCheckedAt": "2026-07-19T14:46:13+00:00",
-      "isNew": true
+      "lastCheckedAt": "2026-07-20T01:17:28+00:00",
+      "isNew": false
     },
     {
       "id": "GH-d85e5d00bf9716",
@@ -2331,8 +2313,8 @@
       "officialUrl": "https://www.gh.or.kr/gh/announcement-of-salerental001.do?mode=view&articleNo=64845&article.offset=0&articleLimit=100",
       "attachments": [],
       "firstCollectedAt": "2026-07-19T04:07:52+00:00",
-      "lastCheckedAt": "2026-07-19T14:46:13+00:00",
-      "isNew": true
+      "lastCheckedAt": "2026-07-20T01:17:28+00:00",
+      "isNew": false
     },
     {
       "id": "GH-e14651ade6bbec",
@@ -2351,8 +2333,8 @@
       "officialUrl": "https://www.gh.or.kr/gh/announcement-of-salerental001.do?mode=view&articleNo=64594&article.offset=0&articleLimit=100",
       "attachments": [],
       "firstCollectedAt": "2026-07-19T04:07:52+00:00",
-      "lastCheckedAt": "2026-07-19T14:46:13+00:00",
-      "isNew": true
+      "lastCheckedAt": "2026-07-20T01:17:28+00:00",
+      "isNew": false
     },
     {
       "id": "GH-f665d30f5e0ba5",
@@ -2374,8 +2356,8 @@
       "officialUrl": "https://www.gh.or.kr/gh/announcement-of-salerental001.do?mode=view&articleNo=64768&article.offset=0&articleLimit=100",
       "attachments": [],
       "firstCollectedAt": "2026-07-19T04:07:52+00:00",
-      "lastCheckedAt": "2026-07-19T14:46:13+00:00",
-      "isNew": true
+      "lastCheckedAt": "2026-07-20T01:17:28+00:00",
+      "isNew": false
     },
     {
       "id": "GH-9ee0f286918538",
@@ -2394,8 +2376,8 @@
       "officialUrl": "https://www.gh.or.kr/gh/announcement-of-salerental001.do?mode=view&articleNo=64995&article.offset=0&articleLimit=100",
       "attachments": [],
       "firstCollectedAt": "2026-07-19T04:07:52+00:00",
-      "lastCheckedAt": "2026-07-19T14:46:13+00:00",
-      "isNew": true
+      "lastCheckedAt": "2026-07-20T01:17:28+00:00",
+      "isNew": false
     },
     {
       "id": "GH-7a54a541dedccd",
@@ -2414,8 +2396,8 @@
       "officialUrl": "https://www.gh.or.kr/gh/announcement-of-salerental001.do?mode=view&articleNo=64890&article.offset=0&articleLimit=100",
       "attachments": [],
       "firstCollectedAt": "2026-07-19T04:07:52+00:00",
-      "lastCheckedAt": "2026-07-19T14:46:13+00:00",
-      "isNew": true
+      "lastCheckedAt": "2026-07-20T01:17:28+00:00",
+      "isNew": false
     },
     {
       "id": "GH-eb4dc1ad536677",
@@ -2434,8 +2416,8 @@
       "officialUrl": "https://www.gh.or.kr/gh/announcement-of-salerental001.do?mode=view&articleNo=64992&article.offset=0&articleLimit=100",
       "attachments": [],
       "firstCollectedAt": "2026-07-19T04:07:52+00:00",
-      "lastCheckedAt": "2026-07-19T14:46:13+00:00",
-      "isNew": true
+      "lastCheckedAt": "2026-07-20T01:17:28+00:00",
+      "isNew": false
     },
     {
       "id": "GH-63022fc52c249a",
@@ -2453,8 +2435,8 @@
       "officialUrl": "https://www.gh.or.kr/gh/announcement-of-salerental001.do?mode=view&articleNo=64932&article.offset=0&articleLimit=100",
       "attachments": [],
       "firstCollectedAt": "2026-07-19T04:07:52+00:00",
-      "lastCheckedAt": "2026-07-19T14:46:13+00:00",
-      "isNew": true
+      "lastCheckedAt": "2026-07-20T01:17:28+00:00",
+      "isNew": false
     },
     {
       "id": "GH-52afe63b8b65c8",
@@ -2474,8 +2456,8 @@
       "officialUrl": "https://www.gh.or.kr/gh/announcement-of-salerental001.do?mode=view&articleNo=64770&article.offset=0&articleLimit=100",
       "attachments": [],
       "firstCollectedAt": "2026-07-19T04:07:52+00:00",
-      "lastCheckedAt": "2026-07-19T14:46:13+00:00",
-      "isNew": true
+      "lastCheckedAt": "2026-07-20T01:17:28+00:00",
+      "isNew": false
     },
     {
       "id": "GH-9820228122d139",
@@ -2495,8 +2477,8 @@
       "officialUrl": "https://www.gh.or.kr/gh/announcement-of-salerental001.do?mode=view&articleNo=64742&article.offset=0&articleLimit=100",
       "attachments": [],
       "firstCollectedAt": "2026-07-19T04:07:52+00:00",
-      "lastCheckedAt": "2026-07-19T14:46:13+00:00",
-      "isNew": true
+      "lastCheckedAt": "2026-07-20T01:17:28+00:00",
+      "isNew": false
     },
     {
       "id": "GH-76148cb13f751b",
@@ -2515,8 +2497,8 @@
       "officialUrl": "https://www.gh.or.kr/gh/announcement-of-salerental001.do?mode=view&articleNo=64795&article.offset=0&articleLimit=100",
       "attachments": [],
       "firstCollectedAt": "2026-07-19T04:07:52+00:00",
-      "lastCheckedAt": "2026-07-19T14:46:13+00:00",
-      "isNew": true
+      "lastCheckedAt": "2026-07-20T01:17:28+00:00",
+      "isNew": false
     },
     {
       "id": "GH-54e280280775af",
@@ -2534,8 +2516,8 @@
       "officialUrl": "https://www.gh.or.kr/gh/announcement-of-salerental001.do?mode=view&articleNo=64741&article.offset=0&articleLimit=100",
       "attachments": [],
       "firstCollectedAt": "2026-07-19T04:07:52+00:00",
-      "lastCheckedAt": "2026-07-19T14:46:13+00:00",
-      "isNew": true
+      "lastCheckedAt": "2026-07-20T01:17:28+00:00",
+      "isNew": false
     },
     {
       "id": "GH-af5b3e85ca0012",
@@ -2553,8 +2535,8 @@
       "officialUrl": "https://www.gh.or.kr/gh/announcement-of-salerental001.do?mode=view&articleNo=64798&article.offset=0&articleLimit=100",
       "attachments": [],
       "firstCollectedAt": "2026-07-19T04:07:52+00:00",
-      "lastCheckedAt": "2026-07-19T14:46:13+00:00",
-      "isNew": true
+      "lastCheckedAt": "2026-07-20T01:17:28+00:00",
+      "isNew": false
     }
   ]
 }
