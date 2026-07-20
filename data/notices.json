@@ -1,25 +1,25 @@
 {
-  "updatedAt": "2026-07-20T08:29:54+00:00",
+  "updatedAt": "2026-07-20T09:05:17+00:00",
   "sourceStatus": {
     "LH": {
       "ok": true,
       "count": 55,
       "rawCount": 55,
-      "checkedAt": "2026-07-20T08:29:54+00:00",
+      "checkedAt": "2026-07-20T09:05:17+00:00",
       "error": null
     },
     "SH": {
       "ok": true,
       "count": 47,
       "rawCount": 47,
-      "checkedAt": "2026-07-20T08:29:54+00:00",
+      "checkedAt": "2026-07-20T09:05:17+00:00",
       "error": null
     },
     "GH": {
       "ok": true,
       "count": 25,
       "rawCount": 25,
-      "checkedAt": "2026-07-20T08:29:54+00:00",
+      "checkedAt": "2026-07-20T09:05:17+00:00",
       "error": null
     }
   },
@@ -41,7 +41,7 @@
       "officialUrl": "https://apply.lh.or.kr/lhapply/apply/wt/wrtanc/selectWrtancInfo.do?panId=2015122300020409&ccrCnntSysDsCd=03&uppAisTpCd=06&aisTpCd=09&mi=1026",
       "attachments": [],
       "firstCollectedAt": "2026-07-20T08:29:54+00:00",
-      "lastCheckedAt": "2026-07-20T08:29:54+00:00",
+      "lastCheckedAt": "2026-07-20T09:05:17+00:00",
       "isNew": true
     },
     {
@@ -60,7 +60,7 @@
       "officialUrl": "https://apply.lh.or.kr/lhapply/apply/wt/wrtanc/selectWrtancInfo.do?panId=2015122300020326&ccrCnntSysDsCd=03&uppAisTpCd=06&aisTpCd=10&mi=1026",
       "attachments": [],
       "firstCollectedAt": "2026-07-19T13:16:33+00:00",
-      "lastCheckedAt": "2026-07-20T08:29:54+00:00",
+      "lastCheckedAt": "2026-07-20T09:05:17+00:00",
       "isNew": false
     },
     {
@@ -73,13 +73,13 @@
         "서울특별시"
       ],
       "publishedAt": "2026-07-15",
-      "applyStart": null,
-      "applyEnd": "2026-09-16",
-      "status": "접수중",
+      "applyStart": "2026-07-27",
+      "applyEnd": "2026-07-27",
+      "status": "접수예정",
       "officialUrl": "https://www.i-sh.co.kr/main/lay2/program/S1T294C295/www/brd/m_241/view.do?seq=306986",
       "attachments": [],
       "firstCollectedAt": "2026-07-19T04:34:38+00:00",
-      "lastCheckedAt": "2026-07-20T08:29:54+00:00",
+      "lastCheckedAt": "2026-07-20T09:05:17+00:00",
       "isNew": false
     },
     {
@@ -98,7 +98,7 @@
       "officialUrl": "https://apply.lh.or.kr/lhapply/apply/wt/wrtanc/selectWrtancInfo.do?panId=2015122300020399&ccrCnntSysDsCd=03&uppAisTpCd=06&aisTpCd=10&mi=1026",
       "attachments": [],
       "firstCollectedAt": "2026-07-19T13:16:33+00:00",
-      "lastCheckedAt": "2026-07-20T08:29:54+00:00",
+      "lastCheckedAt": "2026-07-20T09:05:17+00:00",
       "isNew": false
     },
     {
@@ -114,13 +114,13 @@
         "은평구"
       ],
       "publishedAt": "2026-07-13",
-      "applyStart": null,
-      "applyEnd": null,
+      "applyStart": "2026-07-13",
+      "applyEnd": "2026-07-31",
       "status": "접수중",
       "officialUrl": "https://www.i-sh.co.kr/main/lay2/program/S1T294C295/www/brd/m_241/view.do?seq=306908",
       "attachments": [],
       "firstCollectedAt": "2026-07-19T04:34:38+00:00",
-      "lastCheckedAt": "2026-07-20T08:29:54+00:00",
+      "lastCheckedAt": "2026-07-20T09:05:17+00:00",
       "isNew": false
     },
     {
@@ -143,7 +143,7 @@
       "officialUrl": "https://apply.lh.or.kr/lhapply/apply/wt/wrtanc/selectWrtancInfo.do?panId=2015122300020365&ccrCnntSysDsCd=03&uppAisTpCd=06&aisTpCd=09&mi=1026",
       "attachments": [],
       "firstCollectedAt": "2026-07-19T13:16:33+00:00",
-      "lastCheckedAt": "2026-07-20T08:29:54+00:00",
+      "lastCheckedAt": "2026-07-20T09:05:17+00:00",
       "isNew": false
     },
     {
@@ -162,7 +162,7 @@
       "officialUrl": "https://apply.lh.or.kr/lhapply/apply/wt/wrtanc/selectWrtancInfo.do?panId=2015122300020246&ccrCnntSysDsCd=03&uppAisTpCd=06&aisTpCd=09&mi=1026",
       "attachments": [],
       "firstCollectedAt": "2026-07-19T13:16:33+00:00",
-      "lastCheckedAt": "2026-07-20T08:29:54+00:00",
+      "lastCheckedAt": "2026-07-20T09:05:17+00:00",
       "isNew": false
     },
     {
@@ -181,7 +181,7 @@
       "officialUrl": "https://apply.lh.or.kr/lhapply/apply/wt/wrtanc/selectWrtancInfo.do?panId=2015122300020247&ccrCnntSysDsCd=03&uppAisTpCd=06&aisTpCd=09&mi=1026",
       "attachments": [],
       "firstCollectedAt": "2026-07-19T13:16:33+00:00",
-      "lastCheckedAt": "2026-07-20T08:29:54+00:00",
+      "lastCheckedAt": "2026-07-20T09:05:17+00:00",
       "isNew": false
     },
     {
@@ -201,7 +201,7 @@
       "officialUrl": "https://apply.lh.or.kr/lhapply/apply/wt/wrtanc/selectWrtancInfo.do?panId=2015122300020360&ccrCnntSysDsCd=03&uppAisTpCd=06&aisTpCd=07&mi=1026",
       "attachments": [],
       "firstCollectedAt": "2026-07-19T13:16:33+00:00",
-      "lastCheckedAt": "2026-07-20T08:29:54+00:00",
+      "lastCheckedAt": "2026-07-20T09:05:17+00:00",
       "isNew": false
     },
     {
@@ -221,7 +221,7 @@
       "officialUrl": "https://apply.lh.or.kr/lhapply/apply/wt/wrtanc/selectWrtancInfo.do?panId=2015122300020273&ccrCnntSysDsCd=03&uppAisTpCd=06&aisTpCd=07&mi=1026",
       "attachments": [],
       "firstCollectedAt": "2026-07-19T13:16:33+00:00",
-      "lastCheckedAt": "2026-07-20T08:29:54+00:00",
+      "lastCheckedAt": "2026-07-20T09:05:17+00:00",
       "isNew": false
     },
     {
@@ -235,13 +235,13 @@
         "성북구"
       ],
       "publishedAt": "2026-07-08",
-      "applyStart": null,
-      "applyEnd": "2026-10-08",
+      "applyStart": "2026-07-20",
+      "applyEnd": "2026-07-20",
       "status": "접수중",
       "officialUrl": "https://www.i-sh.co.kr/main/lay2/program/S1T294C295/www/brd/m_241/view.do?seq=306722",
       "attachments": [],
       "firstCollectedAt": "2026-07-19T04:34:38+00:00",
-      "lastCheckedAt": "2026-07-20T08:29:54+00:00",
+      "lastCheckedAt": "2026-07-20T09:05:17+00:00",
       "isNew": false
     },
     {
@@ -264,7 +264,7 @@
       "officialUrl": "https://apply.lh.or.kr/lhapply/apply/wt/wrtanc/selectWrtancInfo.do?panId=2015122300020348&ccrCnntSysDsCd=03&uppAisTpCd=06&aisTpCd=09&mi=1026",
       "attachments": [],
       "firstCollectedAt": "2026-07-19T13:16:33+00:00",
-      "lastCheckedAt": "2026-07-20T08:29:54+00:00",
+      "lastCheckedAt": "2026-07-20T09:05:17+00:00",
       "isNew": false
     },
     {
@@ -284,7 +284,7 @@
       "officialUrl": "https://apply.lh.or.kr/lhapply/apply/wt/wrtanc/selectWrtancInfo.do?panId=0000061132&ccrCnntSysDsCd=02&uppAisTpCd=06&aisTpCd=52&mi=1026",
       "attachments": [],
       "firstCollectedAt": "2026-07-19T13:16:33+00:00",
-      "lastCheckedAt": "2026-07-20T08:29:54+00:00",
+      "lastCheckedAt": "2026-07-20T09:05:17+00:00",
       "isNew": false
     },
     {
@@ -304,7 +304,7 @@
       "officialUrl": "https://apply.lh.or.kr/lhapply/apply/wt/wrtanc/selectWrtancInfo.do?panId=2015122300020243&ccrCnntSysDsCd=03&uppAisTpCd=06&aisTpCd=07&mi=1026",
       "attachments": [],
       "firstCollectedAt": "2026-07-19T13:16:33+00:00",
-      "lastCheckedAt": "2026-07-20T08:29:54+00:00",
+      "lastCheckedAt": "2026-07-20T09:05:17+00:00",
       "isNew": false
     },
     {
@@ -324,7 +324,7 @@
       "officialUrl": "https://apply.lh.or.kr/lhapply/apply/wt/wrtanc/selectWrtancInfo.do?panId=2015122300020288&ccrCnntSysDsCd=03&uppAisTpCd=06&aisTpCd=07&mi=1026",
       "attachments": [],
       "firstCollectedAt": "2026-07-19T13:16:33+00:00",
-      "lastCheckedAt": "2026-07-20T08:29:54+00:00",
+      "lastCheckedAt": "2026-07-20T09:05:17+00:00",
       "isNew": false
     },
     {
@@ -344,7 +344,7 @@
       "officialUrl": "https://apply.lh.or.kr/lhapply/apply/wt/wrtanc/selectWrtancInfo.do?panId=2015122300020280&ccrCnntSysDsCd=03&uppAisTpCd=06&aisTpCd=07&mi=1026",
       "attachments": [],
       "firstCollectedAt": "2026-07-19T13:16:33+00:00",
-      "lastCheckedAt": "2026-07-20T08:29:54+00:00",
+      "lastCheckedAt": "2026-07-20T09:05:17+00:00",
       "isNew": false
     },
     {
@@ -365,7 +365,7 @@
       "officialUrl": "https://apply.lh.or.kr/lhapply/apply/wt/wrtanc/selectWrtancInfo.do?panId=2015122300020277&ccrCnntSysDsCd=03&uppAisTpCd=06&aisTpCd=07&mi=1026",
       "attachments": [],
       "firstCollectedAt": "2026-07-19T13:16:33+00:00",
-      "lastCheckedAt": "2026-07-20T08:29:54+00:00",
+      "lastCheckedAt": "2026-07-20T09:05:17+00:00",
       "isNew": false
     },
     {
@@ -386,7 +386,7 @@
       "officialUrl": "https://apply.lh.or.kr/lhapply/apply/wt/wrtanc/selectWrtancInfo.do?panId=2015122300020275&ccrCnntSysDsCd=03&uppAisTpCd=06&aisTpCd=07&mi=1026",
       "attachments": [],
       "firstCollectedAt": "2026-07-19T13:16:33+00:00",
-      "lastCheckedAt": "2026-07-20T08:29:54+00:00",
+      "lastCheckedAt": "2026-07-20T09:05:17+00:00",
       "isNew": false
     },
     {
@@ -405,7 +405,7 @@
       "officialUrl": "https://apply.lh.or.kr/lhapply/apply/wt/wrtanc/selectWrtancInfo.do?panId=2015122300020292&ccrCnntSysDsCd=03&uppAisTpCd=06&aisTpCd=07&mi=1026",
       "attachments": [],
       "firstCollectedAt": "2026-07-19T13:16:33+00:00",
-      "lastCheckedAt": "2026-07-20T08:29:54+00:00",
+      "lastCheckedAt": "2026-07-20T09:05:17+00:00",
       "isNew": false
     },
     {
@@ -426,7 +426,7 @@
       "officialUrl": "https://apply.lh.or.kr/lhapply/apply/wt/wrtanc/selectWrtancInfo.do?panId=2015122300020263&ccrCnntSysDsCd=03&uppAisTpCd=06&aisTpCd=07&mi=1026",
       "attachments": [],
       "firstCollectedAt": "2026-07-19T13:16:33+00:00",
-      "lastCheckedAt": "2026-07-20T08:29:54+00:00",
+      "lastCheckedAt": "2026-07-20T09:05:17+00:00",
       "isNew": false
     },
     {
@@ -447,7 +447,7 @@
       "officialUrl": "https://apply.lh.or.kr/lhapply/apply/wt/wrtanc/selectWrtancInfo.do?panId=2015122300020265&ccrCnntSysDsCd=03&uppAisTpCd=06&aisTpCd=07&mi=1026",
       "attachments": [],
       "firstCollectedAt": "2026-07-19T13:16:33+00:00",
-      "lastCheckedAt": "2026-07-20T08:29:54+00:00",
+      "lastCheckedAt": "2026-07-20T09:05:17+00:00",
       "isNew": false
     },
     {
@@ -467,7 +467,7 @@
       "officialUrl": "https://apply.lh.or.kr/lhapply/apply/wt/wrtanc/selectWrtancInfo.do?panId=2015122300020295&ccrCnntSysDsCd=03&uppAisTpCd=06&aisTpCd=07&mi=1026",
       "attachments": [],
       "firstCollectedAt": "2026-07-19T13:16:33+00:00",
-      "lastCheckedAt": "2026-07-20T08:29:54+00:00",
+      "lastCheckedAt": "2026-07-20T09:05:17+00:00",
       "isNew": false
     },
     {
@@ -486,7 +486,7 @@
       "officialUrl": "https://apply.lh.or.kr/lhapply/apply/wt/wrtanc/selectWrtancInfo.do?panId=2015122300020260&ccrCnntSysDsCd=03&uppAisTpCd=06&aisTpCd=07&mi=1026",
       "attachments": [],
       "firstCollectedAt": "2026-07-19T13:16:33+00:00",
-      "lastCheckedAt": "2026-07-20T08:29:54+00:00",
+      "lastCheckedAt": "2026-07-20T09:05:17+00:00",
       "isNew": false
     },
     {
@@ -507,7 +507,7 @@
       "officialUrl": "https://apply.lh.or.kr/lhapply/apply/wt/wrtanc/selectWrtancInfo.do?panId=2015122300020296&ccrCnntSysDsCd=03&uppAisTpCd=06&aisTpCd=07&mi=1026",
       "attachments": [],
       "firstCollectedAt": "2026-07-19T13:16:33+00:00",
-      "lastCheckedAt": "2026-07-20T08:29:54+00:00",
+      "lastCheckedAt": "2026-07-20T09:05:17+00:00",
       "isNew": false
     },
     {
@@ -528,7 +528,7 @@
       "officialUrl": "https://apply.lh.or.kr/lhapply/apply/wt/wrtanc/selectWrtancInfo.do?panId=2015122300020331&ccrCnntSysDsCd=03&uppAisTpCd=06&aisTpCd=09&mi=1026",
       "attachments": [],
       "firstCollectedAt": "2026-07-19T13:16:33+00:00",
-      "lastCheckedAt": "2026-07-20T08:29:54+00:00",
+      "lastCheckedAt": "2026-07-20T09:05:17+00:00",
       "isNew": false
     },
     {
@@ -551,7 +551,7 @@
       "officialUrl": "https://apply.lh.or.kr/lhapply/apply/wt/wrtanc/selectWrtancInfo.do?panId=2015122300020333&ccrCnntSysDsCd=03&uppAisTpCd=06&aisTpCd=09&mi=1026",
       "attachments": [],
       "firstCollectedAt": "2026-07-19T13:16:33+00:00",
-      "lastCheckedAt": "2026-07-20T08:29:54+00:00",
+      "lastCheckedAt": "2026-07-20T09:05:17+00:00",
       "isNew": false
     },
     {
@@ -573,7 +573,7 @@
       "officialUrl": "https://apply.lh.or.kr/lhapply/apply/wt/wrtanc/selectWrtancInfo.do?panId=2015122300020311&ccrCnntSysDsCd=03&uppAisTpCd=06&aisTpCd=07&mi=1026",
       "attachments": [],
       "firstCollectedAt": "2026-07-19T13:16:33+00:00",
-      "lastCheckedAt": "2026-07-20T08:29:54+00:00",
+      "lastCheckedAt": "2026-07-20T09:05:17+00:00",
       "isNew": false
     },
     {
@@ -594,7 +594,7 @@
       "officialUrl": "https://apply.lh.or.kr/lhapply/apply/wt/wrtanc/selectWrtancInfo.do?panId=2015122300020271&ccrCnntSysDsCd=03&uppAisTpCd=06&aisTpCd=07&mi=1026",
       "attachments": [],
       "firstCollectedAt": "2026-07-19T13:16:33+00:00",
-      "lastCheckedAt": "2026-07-20T08:29:54+00:00",
+      "lastCheckedAt": "2026-07-20T09:05:17+00:00",
       "isNew": false
     },
     {
@@ -615,7 +615,7 @@
       "officialUrl": "https://apply.lh.or.kr/lhapply/apply/wt/wrtanc/selectWrtancInfo.do?panId=2015122300020312&ccrCnntSysDsCd=03&uppAisTpCd=06&aisTpCd=07&mi=1026",
       "attachments": [],
       "firstCollectedAt": "2026-07-19T13:16:33+00:00",
-      "lastCheckedAt": "2026-07-20T08:29:54+00:00",
+      "lastCheckedAt": "2026-07-20T09:05:17+00:00",
       "isNew": false
     },
     {
@@ -635,7 +635,7 @@
       "officialUrl": "https://apply.lh.or.kr/lhapply/apply/wt/wrtanc/selectWrtancInfo.do?panId=2015122300020316&ccrCnntSysDsCd=03&uppAisTpCd=06&aisTpCd=07&mi=1026",
       "attachments": [],
       "firstCollectedAt": "2026-07-19T13:16:33+00:00",
-      "lastCheckedAt": "2026-07-20T08:29:54+00:00",
+      "lastCheckedAt": "2026-07-20T09:05:17+00:00",
       "isNew": false
     },
     {
@@ -656,7 +656,7 @@
       "officialUrl": "https://apply.lh.or.kr/lhapply/apply/wt/wrtanc/selectWrtancInfo.do?panId=2015122300020328&ccrCnntSysDsCd=03&uppAisTpCd=06&aisTpCd=07&mi=1026",
       "attachments": [],
       "firstCollectedAt": "2026-07-19T13:16:33+00:00",
-      "lastCheckedAt": "2026-07-20T08:29:54+00:00",
+      "lastCheckedAt": "2026-07-20T09:05:17+00:00",
       "isNew": false
     },
     {
@@ -675,7 +675,7 @@
       "officialUrl": "https://apply.lh.or.kr/lhapply/apply/wt/wrtanc/selectWrtancInfo.do?panId=2015122300020224&ccrCnntSysDsCd=03&uppAisTpCd=06&aisTpCd=07&mi=1026",
       "attachments": [],
       "firstCollectedAt": "2026-07-19T13:16:33+00:00",
-      "lastCheckedAt": "2026-07-20T08:29:54+00:00",
+      "lastCheckedAt": "2026-07-20T09:05:17+00:00",
       "isNew": false
     },
     {
@@ -695,7 +695,7 @@
       "officialUrl": "https://apply.lh.or.kr/lhapply/apply/wt/wrtanc/selectWrtancInfo.do?panId=2015122300020276&ccrCnntSysDsCd=03&uppAisTpCd=06&aisTpCd=10&mi=1026",
       "attachments": [],
       "firstCollectedAt": "2026-07-19T13:16:33+00:00",
-      "lastCheckedAt": "2026-07-20T08:29:54+00:00",
+      "lastCheckedAt": "2026-07-20T09:05:17+00:00",
       "isNew": false
     },
     {
@@ -716,7 +716,7 @@
       "officialUrl": "https://apply.lh.or.kr/lhapply/apply/wt/wrtanc/selectWrtancInfo.do?panId=2015122300020259&ccrCnntSysDsCd=03&uppAisTpCd=06&aisTpCd=10&mi=1026",
       "attachments": [],
       "firstCollectedAt": "2026-07-19T13:16:33+00:00",
-      "lastCheckedAt": "2026-07-20T08:29:54+00:00",
+      "lastCheckedAt": "2026-07-20T09:05:17+00:00",
       "isNew": false
     },
     {
@@ -737,7 +737,7 @@
       "officialUrl": "https://apply.lh.or.kr/lhapply/apply/wt/wrtanc/selectWrtancInfo.do?panId=2015122300020294&ccrCnntSysDsCd=03&uppAisTpCd=06&aisTpCd=10&mi=1026",
       "attachments": [],
       "firstCollectedAt": "2026-07-19T13:16:33+00:00",
-      "lastCheckedAt": "2026-07-20T08:29:54+00:00",
+      "lastCheckedAt": "2026-07-20T09:05:17+00:00",
       "isNew": false
     },
     {
@@ -756,7 +756,7 @@
       "officialUrl": "https://apply.lh.or.kr/lhapply/apply/wt/wrtanc/selectWrtancInfo.do?panId=2015122300020253&ccrCnntSysDsCd=03&uppAisTpCd=06&aisTpCd=10&mi=1026",
       "attachments": [],
       "firstCollectedAt": "2026-07-19T13:16:33+00:00",
-      "lastCheckedAt": "2026-07-20T08:29:54+00:00",
+      "lastCheckedAt": "2026-07-20T09:05:17+00:00",
       "isNew": false
     },
     {
@@ -776,7 +776,7 @@
       "officialUrl": "https://apply.lh.or.kr/lhapply/apply/wt/wrtanc/selectWrtancInfo.do?panId=2015122300020242&ccrCnntSysDsCd=03&uppAisTpCd=06&aisTpCd=10&mi=1026",
       "attachments": [],
       "firstCollectedAt": "2026-07-19T13:16:33+00:00",
-      "lastCheckedAt": "2026-07-20T08:29:54+00:00",
+      "lastCheckedAt": "2026-07-20T09:05:17+00:00",
       "isNew": false
     },
     {
@@ -796,7 +796,7 @@
       "officialUrl": "https://apply.lh.or.kr/lhapply/apply/wt/wrtanc/selectWrtancInfo.do?panId=0000061115&ccrCnntSysDsCd=02&uppAisTpCd=06&aisTpCd=52&mi=1026",
       "attachments": [],
       "firstCollectedAt": "2026-07-19T13:16:33+00:00",
-      "lastCheckedAt": "2026-07-20T08:29:54+00:00",
+      "lastCheckedAt": "2026-07-20T09:05:17+00:00",
       "isNew": false
     },
     {
@@ -816,7 +816,7 @@
       "officialUrl": "https://apply.lh.or.kr/lhapply/apply/wt/wrtanc/selectWrtancInfo.do?panId=2015122300020261&ccrCnntSysDsCd=03&uppAisTpCd=06&aisTpCd=10&mi=1026",
       "attachments": [],
       "firstCollectedAt": "2026-07-19T13:16:33+00:00",
-      "lastCheckedAt": "2026-07-20T08:29:54+00:00",
+      "lastCheckedAt": "2026-07-20T09:05:17+00:00",
       "isNew": false
     },
     {
@@ -831,13 +831,13 @@
         "서울특별시"
       ],
       "publishedAt": "2026-06-26",
-      "applyStart": null,
-      "applyEnd": "2026-11-20",
-      "status": "접수중",
+      "applyStart": "2026-06-26",
+      "applyEnd": "2026-06-26",
+      "status": "마감",
       "officialUrl": "https://www.i-sh.co.kr/main/lay2/program/S1T294C295/www/brd/m_241/view.do?seq=306218",
       "attachments": [],
       "firstCollectedAt": "2026-07-19T04:34:38+00:00",
-      "lastCheckedAt": "2026-07-20T08:29:54+00:00",
+      "lastCheckedAt": "2026-07-20T09:05:17+00:00",
       "isNew": false
     },
     {
@@ -852,13 +852,13 @@
         "서울특별시"
       ],
       "publishedAt": "2026-06-26",
-      "applyStart": null,
-      "applyEnd": "2026-11-20",
-      "status": "접수중",
+      "applyStart": "2026-06-26",
+      "applyEnd": "2026-06-26",
+      "status": "마감",
       "officialUrl": "https://www.i-sh.co.kr/main/lay2/program/S1T294C295/www/brd/m_241/view.do?seq=306214",
       "attachments": [],
       "firstCollectedAt": "2026-07-19T04:34:38+00:00",
-      "lastCheckedAt": "2026-07-20T08:29:54+00:00",
+      "lastCheckedAt": "2026-07-20T09:05:17+00:00",
       "isNew": false
     },
     {
@@ -871,13 +871,13 @@
         "서울특별시"
       ],
       "publishedAt": "2026-06-26",
-      "applyStart": null,
-      "applyEnd": "2026-09-28",
-      "status": "접수중",
+      "applyStart": "2026-07-09",
+      "applyEnd": "2026-07-10",
+      "status": "마감",
       "officialUrl": "https://www.i-sh.co.kr/main/lay2/program/S1T294C295/www/brd/m_241/view.do?seq=306205",
       "attachments": [],
       "firstCollectedAt": "2026-07-19T04:34:38+00:00",
-      "lastCheckedAt": "2026-07-20T08:29:54+00:00",
+      "lastCheckedAt": "2026-07-20T09:05:17+00:00",
       "isNew": false
     },
     {
@@ -890,13 +890,13 @@
         "서울특별시"
       ],
       "publishedAt": "2026-06-25",
-      "applyStart": null,
-      "applyEnd": "2026-10-21",
-      "status": "접수중",
+      "applyStart": "2026-07-09",
+      "applyEnd": "2026-07-09",
+      "status": "마감",
       "officialUrl": "https://www.i-sh.co.kr/main/lay2/program/S1T294C295/www/brd/m_241/view.do?seq=306066",
       "attachments": [],
       "firstCollectedAt": "2026-07-19T04:34:38+00:00",
-      "lastCheckedAt": "2026-07-20T08:29:54+00:00",
+      "lastCheckedAt": "2026-07-20T09:05:17+00:00",
       "isNew": false
     },
     {
@@ -916,7 +916,7 @@
       "officialUrl": "https://apply.lh.or.kr/lhapply/apply/wt/wrtanc/selectWrtancInfo.do?panId=0000061107&ccrCnntSysDsCd=02&uppAisTpCd=06&aisTpCd=08&mi=1026",
       "attachments": [],
       "firstCollectedAt": "2026-07-19T13:16:33+00:00",
-      "lastCheckedAt": "2026-07-20T08:29:54+00:00",
+      "lastCheckedAt": "2026-07-20T09:05:17+00:00",
       "isNew": false
     },
     {
@@ -931,13 +931,13 @@
         "서울특별시"
       ],
       "publishedAt": "2026-06-24",
-      "applyStart": null,
-      "applyEnd": "2026-10-14",
-      "status": "접수중",
+      "applyStart": "2026-07-06",
+      "applyEnd": "2026-07-06",
+      "status": "마감",
       "officialUrl": "https://www.i-sh.co.kr/main/lay2/program/S1T294C295/www/brd/m_241/view.do?seq=306065",
       "attachments": [],
       "firstCollectedAt": "2026-07-19T04:34:38+00:00",
-      "lastCheckedAt": "2026-07-20T08:29:54+00:00",
+      "lastCheckedAt": "2026-07-20T09:05:17+00:00",
       "isNew": false
     },
     {
@@ -950,13 +950,13 @@
         "서울특별시"
       ],
       "publishedAt": "2026-06-23",
-      "applyStart": null,
-      "applyEnd": "2026-10-14",
-      "status": "접수중",
+      "applyStart": "2026-07-06",
+      "applyEnd": "2026-07-06",
+      "status": "마감",
       "officialUrl": "https://www.i-sh.co.kr/main/lay2/program/S1T294C295/www/brd/m_241/view.do?seq=306011",
       "attachments": [],
       "firstCollectedAt": "2026-07-19T04:34:38+00:00",
-      "lastCheckedAt": "2026-07-20T08:29:54+00:00",
+      "lastCheckedAt": "2026-07-20T09:05:17+00:00",
       "isNew": false
     },
     {
@@ -976,7 +976,7 @@
       "officialUrl": "https://apply.lh.or.kr/lhapply/apply/wt/wrtanc/selectWrtancInfo.do?panId=2015122300020173&ccrCnntSysDsCd=03&uppAisTpCd=06&aisTpCd=09&mi=1026",
       "attachments": [],
       "firstCollectedAt": "2026-07-19T13:16:33+00:00",
-      "lastCheckedAt": "2026-07-20T08:29:54+00:00",
+      "lastCheckedAt": "2026-07-20T09:05:17+00:00",
       "isNew": false
     },
     {
@@ -996,7 +996,7 @@
       "officialUrl": "https://apply.lh.or.kr/lhapply/apply/wt/wrtanc/selectWrtancInfo.do?panId=0000061106&ccrCnntSysDsCd=02&uppAisTpCd=06&aisTpCd=08&mi=1026",
       "attachments": [],
       "firstCollectedAt": "2026-07-19T13:16:33+00:00",
-      "lastCheckedAt": "2026-07-20T08:29:54+00:00",
+      "lastCheckedAt": "2026-07-20T09:05:17+00:00",
       "isNew": false
     },
     {
@@ -1017,7 +1017,7 @@
       "officialUrl": "https://apply.lh.or.kr/lhapply/apply/wt/wrtanc/selectWrtancInfo.do?panId=2015122300020175&ccrCnntSysDsCd=03&uppAisTpCd=06&aisTpCd=09&mi=1026",
       "attachments": [],
       "firstCollectedAt": "2026-07-19T13:16:33+00:00",
-      "lastCheckedAt": "2026-07-20T08:29:54+00:00",
+      "lastCheckedAt": "2026-07-20T09:05:17+00:00",
       "isNew": false
     },
     {
@@ -1036,7 +1036,7 @@
       "officialUrl": "https://apply.lh.or.kr/lhapply/apply/wt/wrtanc/selectWrtancInfo.do?panId=2015122300020164&ccrCnntSysDsCd=03&uppAisTpCd=06&aisTpCd=10&mi=1026",
       "attachments": [],
       "firstCollectedAt": "2026-07-19T13:16:33+00:00",
-      "lastCheckedAt": "2026-07-20T08:29:54+00:00",
+      "lastCheckedAt": "2026-07-20T09:05:17+00:00",
       "isNew": false
     },
     {
@@ -1057,7 +1057,7 @@
       "officialUrl": "https://apply.lh.or.kr/lhapply/apply/wt/wrtanc/selectWrtancInfo.do?panId=2015122300020126&ccrCnntSysDsCd=03&uppAisTpCd=06&aisTpCd=10&mi=1026",
       "attachments": [],
       "firstCollectedAt": "2026-07-19T13:16:33+00:00",
-      "lastCheckedAt": "2026-07-20T08:29:54+00:00",
+      "lastCheckedAt": "2026-07-20T09:05:17+00:00",
       "isNew": false
     },
     {
@@ -1078,7 +1078,7 @@
       "officialUrl": "https://apply.lh.or.kr/lhapply/apply/wt/wrtanc/selectWrtancInfo.do?panId=2015122300020143&ccrCnntSysDsCd=03&uppAisTpCd=06&aisTpCd=09&mi=1026",
       "attachments": [],
       "firstCollectedAt": "2026-07-19T13:16:33+00:00",
-      "lastCheckedAt": "2026-07-20T08:29:54+00:00",
+      "lastCheckedAt": "2026-07-20T09:05:17+00:00",
       "isNew": false
     },
     {
@@ -1100,7 +1100,7 @@
       "officialUrl": "https://apply.lh.or.kr/lhapply/apply/wt/wrtanc/selectWrtancInfo.do?panId=2015122300020105&ccrCnntSysDsCd=03&uppAisTpCd=06&aisTpCd=10&mi=1026",
       "attachments": [],
       "firstCollectedAt": "2026-07-19T13:16:33+00:00",
-      "lastCheckedAt": "2026-07-20T08:29:54+00:00",
+      "lastCheckedAt": "2026-07-20T09:05:17+00:00",
       "isNew": false
     },
     {
@@ -1120,7 +1120,7 @@
       "officialUrl": "https://apply.lh.or.kr/lhapply/apply/wt/wrtanc/selectWrtancInfo.do?panId=2015122300020062&ccrCnntSysDsCd=03&uppAisTpCd=06&aisTpCd=08&mi=1026",
       "attachments": [],
       "firstCollectedAt": "2026-07-19T13:16:33+00:00",
-      "lastCheckedAt": "2026-07-20T08:29:54+00:00",
+      "lastCheckedAt": "2026-07-20T09:05:17+00:00",
       "isNew": false
     },
     {
@@ -1139,7 +1139,7 @@
       "officialUrl": "https://apply.lh.or.kr/lhapply/apply/wt/wrtanc/selectWrtancInfo.do?panId=2015122300020085&ccrCnntSysDsCd=03&uppAisTpCd=06&aisTpCd=40&mi=1026",
       "attachments": [],
       "firstCollectedAt": "2026-07-19T13:16:33+00:00",
-      "lastCheckedAt": "2026-07-20T08:29:54+00:00",
+      "lastCheckedAt": "2026-07-20T09:05:17+00:00",
       "isNew": false
     },
     {
@@ -1160,7 +1160,7 @@
       "officialUrl": "https://apply.lh.or.kr/lhapply/apply/wt/wrtanc/selectWrtancInfo.do?panId=2015122300020057&ccrCnntSysDsCd=03&uppAisTpCd=06&aisTpCd=10&mi=1026",
       "attachments": [],
       "firstCollectedAt": "2026-07-19T13:16:33+00:00",
-      "lastCheckedAt": "2026-07-20T08:29:54+00:00",
+      "lastCheckedAt": "2026-07-20T09:05:17+00:00",
       "isNew": false
     },
     {
@@ -1175,13 +1175,13 @@
         "서울특별시"
       ],
       "publishedAt": "2026-06-05",
-      "applyStart": null,
-      "applyEnd": "2026-09-30",
+      "applyStart": "2026-06-22",
+      "applyEnd": "2026-06-22",
       "status": "마감",
       "officialUrl": "https://www.i-sh.co.kr/main/lay2/program/S1T294C295/www/brd/m_241/view.do?seq=305221",
       "attachments": [],
       "firstCollectedAt": "2026-07-19T04:34:38+00:00",
-      "lastCheckedAt": "2026-07-20T08:29:54+00:00",
+      "lastCheckedAt": "2026-07-20T09:05:17+00:00",
       "isNew": false
     },
     {
@@ -1201,7 +1201,7 @@
       "officialUrl": "https://apply.lh.or.kr/lhapply/apply/wt/wrtanc/selectWrtancInfo.do?panId=2015122300020055&ccrCnntSysDsCd=03&uppAisTpCd=06&aisTpCd=09&mi=1026",
       "attachments": [],
       "firstCollectedAt": "2026-07-19T13:16:33+00:00",
-      "lastCheckedAt": "2026-07-20T08:29:54+00:00",
+      "lastCheckedAt": "2026-07-20T09:05:17+00:00",
       "isNew": false
     },
     {
@@ -1216,13 +1216,13 @@
         "서울특별시"
       ],
       "publishedAt": "2026-05-29",
-      "applyStart": null,
-      "applyEnd": "2026-08-07",
+      "applyStart": "2026-05-29",
+      "applyEnd": "2026-05-29",
       "status": "마감",
       "officialUrl": "https://www.i-sh.co.kr/main/lay2/program/S1T294C295/www/brd/m_241/view.do?seq=305240",
       "attachments": [],
       "firstCollectedAt": "2026-07-19T04:34:38+00:00",
-      "lastCheckedAt": "2026-07-20T08:29:54+00:00",
+      "lastCheckedAt": "2026-07-20T09:05:17+00:00",
       "isNew": false
     },
     {
@@ -1237,13 +1237,13 @@
         "서울특별시"
       ],
       "publishedAt": "2026-05-29",
-      "applyStart": null,
-      "applyEnd": "2026-09-02",
+      "applyStart": "2026-06-09",
+      "applyEnd": "2026-06-09",
       "status": "마감",
       "officialUrl": "https://www.i-sh.co.kr/main/lay2/program/S1T294C295/www/brd/m_241/view.do?seq=304925",
       "attachments": [],
       "firstCollectedAt": "2026-07-19T04:34:38+00:00",
-      "lastCheckedAt": "2026-07-20T08:29:54+00:00",
+      "lastCheckedAt": "2026-07-20T09:05:17+00:00",
       "isNew": false
     },
     {
@@ -1263,7 +1263,7 @@
       "officialUrl": "https://apply.lh.or.kr/lhapply/apply/wt/wrtanc/selectWrtancInfo.do?panId=2015122300020029&ccrCnntSysDsCd=03&uppAisTpCd=06&aisTpCd=07&mi=1026",
       "attachments": [],
       "firstCollectedAt": "2026-07-19T13:16:33+00:00",
-      "lastCheckedAt": "2026-07-20T08:29:54+00:00",
+      "lastCheckedAt": "2026-07-20T09:05:17+00:00",
       "isNew": false
     },
     {
@@ -1276,13 +1276,13 @@
         "서울특별시"
       ],
       "publishedAt": "2026-05-28",
-      "applyStart": null,
-      "applyEnd": "2026-10-30",
+      "applyStart": "2026-06-15",
+      "applyEnd": "2026-06-16",
       "status": "마감",
       "officialUrl": "https://www.i-sh.co.kr/main/lay2/program/S1T294C295/www/brd/m_241/view.do?seq=304864",
       "attachments": [],
       "firstCollectedAt": "2026-07-19T04:34:38+00:00",
-      "lastCheckedAt": "2026-07-20T08:29:54+00:00",
+      "lastCheckedAt": "2026-07-20T09:05:17+00:00",
       "isNew": false
     },
     {
@@ -1302,7 +1302,7 @@
       "officialUrl": "https://apply.lh.or.kr/lhapply/apply/wt/wrtanc/selectWrtancInfo.do?panId=0000061104&ccrCnntSysDsCd=02&uppAisTpCd=06&aisTpCd=08&mi=1026",
       "attachments": [],
       "firstCollectedAt": "2026-07-19T13:16:33+00:00",
-      "lastCheckedAt": "2026-07-20T08:29:54+00:00",
+      "lastCheckedAt": "2026-07-20T09:05:17+00:00",
       "isNew": false
     },
     {
@@ -1321,7 +1321,7 @@
       "officialUrl": "https://apply.lh.or.kr/lhapply/apply/wt/wrtanc/selectWrtancInfo.do?panId=2015122300020033&ccrCnntSysDsCd=03&uppAisTpCd=06&aisTpCd=10&mi=1026",
       "attachments": [],
       "firstCollectedAt": "2026-07-19T13:16:33+00:00",
-      "lastCheckedAt": "2026-07-20T08:29:54+00:00",
+      "lastCheckedAt": "2026-07-20T09:05:17+00:00",
       "isNew": false
     },
     {
@@ -1342,7 +1342,7 @@
       "officialUrl": "https://apply.lh.or.kr/lhapply/apply/wt/wrtanc/selectWrtancInfo.do?panId=0000061103&ccrCnntSysDsCd=02&uppAisTpCd=06&aisTpCd=08&mi=1026",
       "attachments": [],
       "firstCollectedAt": "2026-07-19T13:16:33+00:00",
-      "lastCheckedAt": "2026-07-20T08:29:54+00:00",
+      "lastCheckedAt": "2026-07-20T09:05:17+00:00",
       "isNew": false
     },
     {
@@ -1361,7 +1361,7 @@
       "officialUrl": "https://apply.lh.or.kr/lhapply/apply/wt/wrtanc/selectWrtancInfo.do?panId=2015122300020025&ccrCnntSysDsCd=03&uppAisTpCd=06&aisTpCd=10&mi=1026",
       "attachments": [],
       "firstCollectedAt": "2026-07-19T13:16:33+00:00",
-      "lastCheckedAt": "2026-07-20T08:29:54+00:00",
+      "lastCheckedAt": "2026-07-20T09:05:17+00:00",
       "isNew": false
     },
     {
@@ -1382,7 +1382,7 @@
       "officialUrl": "https://apply.lh.or.kr/lhapply/apply/wt/wrtanc/selectWrtancInfo.do?panId=2015122300020019&ccrCnntSysDsCd=03&uppAisTpCd=06&aisTpCd=09&mi=1026",
       "attachments": [],
       "firstCollectedAt": "2026-07-19T13:16:33+00:00",
-      "lastCheckedAt": "2026-07-20T08:29:54+00:00",
+      "lastCheckedAt": "2026-07-20T09:05:17+00:00",
       "isNew": false
     },
     {
@@ -1403,7 +1403,7 @@
       "officialUrl": "https://apply.lh.or.kr/lhapply/apply/wt/wrtanc/selectWrtancInfo.do?panId=0000061090&ccrCnntSysDsCd=02&uppAisTpCd=06&aisTpCd=08&mi=1026",
       "attachments": [],
       "firstCollectedAt": "2026-07-19T13:16:33+00:00",
-      "lastCheckedAt": "2026-07-20T08:29:54+00:00",
+      "lastCheckedAt": "2026-07-20T09:05:17+00:00",
       "isNew": false
     },
     {
@@ -1418,13 +1418,13 @@
         "서울특별시"
       ],
       "publishedAt": "2026-05-15",
-      "applyStart": null,
-      "applyEnd": null,
+      "applyStart": "2026-04-27",
+      "applyEnd": "2026-06-12",
       "status": "마감",
       "officialUrl": "https://www.i-sh.co.kr/main/lay2/program/S1T294C295/www/brd/m_241/view.do?seq=305517",
       "attachments": [],
       "firstCollectedAt": "2026-07-19T04:34:38+00:00",
-      "lastCheckedAt": "2026-07-20T08:29:54+00:00",
+      "lastCheckedAt": "2026-07-20T09:05:17+00:00",
       "isNew": false
     },
     {
@@ -1437,13 +1437,13 @@
         "서울특별시"
       ],
       "publishedAt": "2026-05-11",
-      "applyStart": null,
-      "applyEnd": "2026-08-10",
+      "applyStart": "2026-05-26",
+      "applyEnd": "2026-05-26",
       "status": "마감",
       "officialUrl": "https://www.i-sh.co.kr/main/lay2/program/S1T294C295/www/brd/m_241/view.do?seq=304106",
       "attachments": [],
       "firstCollectedAt": "2026-07-19T04:34:38+00:00",
-      "lastCheckedAt": "2026-07-20T08:29:54+00:00",
+      "lastCheckedAt": "2026-07-20T09:05:17+00:00",
       "isNew": false
     },
     {
@@ -1456,13 +1456,13 @@
         "서울특별시"
       ],
       "publishedAt": "2026-04-30",
-      "applyStart": null,
-      "applyEnd": "2026-07-31",
+      "applyStart": "2026-05-11",
+      "applyEnd": "2026-05-11",
       "status": "마감",
       "officialUrl": "https://www.i-sh.co.kr/main/lay2/program/S1T294C295/www/brd/m_241/view.do?seq=303656",
       "attachments": [],
       "firstCollectedAt": "2026-07-19T04:34:38+00:00",
-      "lastCheckedAt": "2026-07-20T08:29:54+00:00",
+      "lastCheckedAt": "2026-07-20T09:05:17+00:00",
       "isNew": false
     },
     {
@@ -1476,12 +1476,12 @@
       ],
       "publishedAt": "2026-04-27",
       "applyStart": null,
-      "applyEnd": "2026-10-27",
+      "applyEnd": null,
       "status": "마감",
       "officialUrl": "https://www.i-sh.co.kr/main/lay2/program/S1T294C295/www/brd/m_241/view.do?seq=303557",
       "attachments": [],
       "firstCollectedAt": "2026-07-19T04:34:38+00:00",
-      "lastCheckedAt": "2026-07-20T08:29:54+00:00",
+      "lastCheckedAt": "2026-07-20T09:05:17+00:00",
       "isNew": false
     },
     {
@@ -1495,12 +1495,12 @@
       ],
       "publishedAt": "2026-04-24",
       "applyStart": null,
-      "applyEnd": "2026-09-18",
+      "applyEnd": null,
       "status": "마감",
       "officialUrl": "https://www.i-sh.co.kr/main/lay2/program/S1T294C295/www/brd/m_241/view.do?seq=303480",
       "attachments": [],
       "firstCollectedAt": "2026-07-19T04:34:38+00:00",
-      "lastCheckedAt": "2026-07-20T08:29:54+00:00",
+      "lastCheckedAt": "2026-07-20T09:05:17+00:00",
       "isNew": false
     },
     {
@@ -1516,13 +1516,13 @@
         "서울특별시"
       ],
       "publishedAt": "2026-03-18",
-      "applyStart": null,
-      "applyEnd": "2026-07-15",
+      "applyStart": "2026-03-31",
+      "applyEnd": "2026-03-31",
       "status": "마감",
       "officialUrl": "https://www.i-sh.co.kr/main/lay2/program/S1T294C295/www/brd/m_241/view.do?seq=301742",
       "attachments": [],
       "firstCollectedAt": "2026-07-19T04:34:38+00:00",
-      "lastCheckedAt": "2026-07-20T08:29:54+00:00",
+      "lastCheckedAt": "2026-07-20T09:05:17+00:00",
       "isNew": false
     },
     {
@@ -1535,13 +1535,13 @@
         "서울특별시"
       ],
       "publishedAt": "2026-01-30",
-      "applyStart": null,
-      "applyEnd": "2026-04-28",
+      "applyStart": "2026-02-09",
+      "applyEnd": "2026-02-11",
       "status": "마감",
       "officialUrl": "https://www.i-sh.co.kr/main/lay2/program/S1T294C295/www/brd/m_241/view.do?seq=300255",
       "attachments": [],
       "firstCollectedAt": "2026-07-19T04:34:38+00:00",
-      "lastCheckedAt": "2026-07-20T08:29:54+00:00",
+      "lastCheckedAt": "2026-07-20T09:05:17+00:00",
       "isNew": false
     },
     {
@@ -1554,13 +1554,13 @@
         "서울특별시"
       ],
       "publishedAt": "2026-01-30",
-      "applyStart": null,
-      "applyEnd": "2026-04-28",
+      "applyStart": "2026-02-09",
+      "applyEnd": "2026-02-11",
       "status": "마감",
       "officialUrl": "https://www.i-sh.co.kr/main/lay2/program/S1T294C295/www/brd/m_241/view.do?seq=299904",
       "attachments": [],
       "firstCollectedAt": "2026-07-19T04:34:38+00:00",
-      "lastCheckedAt": "2026-07-20T08:29:54+00:00",
+      "lastCheckedAt": "2026-07-20T09:05:17+00:00",
       "isNew": false
     },
     {
@@ -1573,13 +1573,13 @@
         "서울특별시"
       ],
       "publishedAt": "2025-12-31",
-      "applyStart": null,
-      "applyEnd": "2026-05-29",
+      "applyStart": "2026-01-16",
+      "applyEnd": "2026-01-19",
       "status": "마감",
       "officialUrl": "https://www.i-sh.co.kr/main/lay2/program/S1T294C295/www/brd/m_241/view.do?seq=298109",
       "attachments": [],
       "firstCollectedAt": "2026-07-19T04:34:38+00:00",
-      "lastCheckedAt": "2026-07-20T08:29:54+00:00",
+      "lastCheckedAt": "2026-07-20T09:05:17+00:00",
       "isNew": false
     },
     {
@@ -1592,13 +1592,13 @@
         "서울특별시"
       ],
       "publishedAt": "2025-12-30",
-      "applyStart": null,
-      "applyEnd": "2026-04-02",
+      "applyStart": "2026-04-27",
+      "applyEnd": "2026-04-27",
       "status": "마감",
       "officialUrl": "https://www.i-sh.co.kr/main/lay2/program/S1T294C295/www/brd/m_241/view.do?seq=304349",
       "attachments": [],
       "firstCollectedAt": "2026-07-19T04:34:38+00:00",
-      "lastCheckedAt": "2026-07-20T08:29:54+00:00",
+      "lastCheckedAt": "2026-07-20T09:05:17+00:00",
       "isNew": false
     },
     {
@@ -1612,12 +1612,12 @@
       ],
       "publishedAt": "2025-12-30",
       "applyStart": null,
-      "applyEnd": "2026-04-02",
+      "applyEnd": null,
       "status": "마감",
       "officialUrl": "https://www.i-sh.co.kr/main/lay2/program/S1T294C295/www/brd/m_241/view.do?seq=303771",
       "attachments": [],
       "firstCollectedAt": "2026-07-19T04:34:38+00:00",
-      "lastCheckedAt": "2026-07-20T08:29:54+00:00",
+      "lastCheckedAt": "2026-07-20T09:05:17+00:00",
       "isNew": false
     },
     {
@@ -1631,12 +1631,12 @@
       ],
       "publishedAt": "2025-12-30",
       "applyStart": null,
-      "applyEnd": "2026-04-02",
+      "applyEnd": null,
       "status": "마감",
       "officialUrl": "https://www.i-sh.co.kr/main/lay2/program/S1T294C295/www/brd/m_241/view.do?seq=303238",
       "attachments": [],
       "firstCollectedAt": "2026-07-19T04:34:38+00:00",
-      "lastCheckedAt": "2026-07-20T08:29:54+00:00",
+      "lastCheckedAt": "2026-07-20T09:05:17+00:00",
       "isNew": false
     },
     {
@@ -1650,12 +1650,12 @@
       ],
       "publishedAt": "2025-12-30",
       "applyStart": null,
-      "applyEnd": "2026-04-02",
+      "applyEnd": null,
       "status": "마감",
       "officialUrl": "https://www.i-sh.co.kr/main/lay2/program/S1T294C295/www/brd/m_241/view.do?seq=302479",
       "attachments": [],
       "firstCollectedAt": "2026-07-19T04:34:38+00:00",
-      "lastCheckedAt": "2026-07-20T08:29:54+00:00",
+      "lastCheckedAt": "2026-07-20T09:05:17+00:00",
       "isNew": false
     },
     {
@@ -1668,13 +1668,13 @@
         "서울특별시"
       ],
       "publishedAt": "2025-12-17",
-      "applyStart": null,
-      "applyEnd": "2026-03-18",
+      "applyStart": "2025-12-29",
+      "applyEnd": "2025-12-29",
       "status": "마감",
       "officialUrl": "https://www.i-sh.co.kr/main/lay2/program/S1T294C295/www/brd/m_241/view.do?seq=296501",
       "attachments": [],
       "firstCollectedAt": "2026-07-19T04:34:38+00:00",
-      "lastCheckedAt": "2026-07-20T08:29:54+00:00",
+      "lastCheckedAt": "2026-07-20T09:05:17+00:00",
       "isNew": false
     },
     {
@@ -1688,12 +1688,12 @@
       ],
       "publishedAt": "2025-12-15",
       "applyStart": null,
-      "applyEnd": "2026-07-10",
+      "applyEnd": null,
       "status": "마감",
       "officialUrl": "https://www.i-sh.co.kr/main/lay2/program/S1T294C295/www/brd/m_241/view.do?seq=297335",
       "attachments": [],
       "firstCollectedAt": "2026-07-19T04:34:38+00:00",
-      "lastCheckedAt": "2026-07-20T08:29:54+00:00",
+      "lastCheckedAt": "2026-07-20T09:05:17+00:00",
       "isNew": false
     },
     {
@@ -1706,13 +1706,13 @@
         "서울특별시"
       ],
       "publishedAt": "2025-11-27",
-      "applyStart": null,
-      "applyEnd": "2026-02-26",
+      "applyStart": "2025-12-08",
+      "applyEnd": "2025-12-10",
       "status": "마감",
       "officialUrl": "https://www.i-sh.co.kr/main/lay2/program/S1T294C295/www/brd/m_241/view.do?seq=296645",
       "attachments": [],
       "firstCollectedAt": "2026-07-19T04:34:38+00:00",
-      "lastCheckedAt": "2026-07-20T08:29:54+00:00",
+      "lastCheckedAt": "2026-07-20T09:05:17+00:00",
       "isNew": false
     },
     {
@@ -1726,12 +1726,12 @@
       ],
       "publishedAt": "2025-11-27",
       "applyStart": null,
-      "applyEnd": "2026-02-26",
+      "applyEnd": null,
       "status": "마감",
       "officialUrl": "https://www.i-sh.co.kr/main/lay2/program/S1T294C295/www/brd/m_241/view.do?seq=301011",
       "attachments": [],
       "firstCollectedAt": "2026-07-19T04:34:38+00:00",
-      "lastCheckedAt": "2026-07-20T08:29:54+00:00",
+      "lastCheckedAt": "2026-07-20T09:05:17+00:00",
       "isNew": false
     },
     {
@@ -1744,13 +1744,13 @@
         "서울특별시"
       ],
       "publishedAt": "2025-10-24",
-      "applyStart": null,
-      "applyEnd": "2026-04-23",
+      "applyStart": "2025-11-11",
+      "applyEnd": "2025-11-11",
       "status": "마감",
       "officialUrl": "https://www.i-sh.co.kr/main/lay2/program/S1T294C295/www/brd/m_241/view.do?seq=295159",
       "attachments": [],
       "firstCollectedAt": "2026-07-19T04:34:38+00:00",
-      "lastCheckedAt": "2026-07-20T08:29:54+00:00",
+      "lastCheckedAt": "2026-07-20T09:05:17+00:00",
       "isNew": false
     },
     {
@@ -1763,13 +1763,13 @@
         "서울특별시"
       ],
       "publishedAt": "2025-09-26",
-      "applyStart": null,
-      "applyEnd": "2026-02-26",
+      "applyStart": "2025-09-26",
+      "applyEnd": "2025-09-26",
       "status": "마감",
       "officialUrl": "https://www.i-sh.co.kr/main/lay2/program/S1T294C295/www/brd/m_241/view.do?seq=294206",
       "attachments": [],
       "firstCollectedAt": "2026-07-19T04:34:38+00:00",
-      "lastCheckedAt": "2026-07-20T08:29:54+00:00",
+      "lastCheckedAt": "2026-07-20T09:05:17+00:00",
       "isNew": false
     },
     {
@@ -1782,13 +1782,13 @@
         "서울특별시"
       ],
       "publishedAt": "2025-08-20",
-      "applyStart": null,
-      "applyEnd": "2026-02-19",
+      "applyStart": "2025-09-03",
+      "applyEnd": "2026-03-06",
       "status": "마감",
       "officialUrl": "https://www.i-sh.co.kr/main/lay2/program/S1T294C295/www/brd/m_241/view.do?seq=292541",
       "attachments": [],
       "firstCollectedAt": "2026-07-19T04:34:38+00:00",
-      "lastCheckedAt": "2026-07-20T08:29:54+00:00",
+      "lastCheckedAt": "2026-07-20T09:05:17+00:00",
       "isNew": false
     },
     {
@@ -1802,12 +1802,12 @@
       ],
       "publishedAt": "2025-08-14",
       "applyStart": null,
-      "applyEnd": "2026-02-06",
+      "applyEnd": null,
       "status": "마감",
       "officialUrl": "https://www.i-sh.co.kr/main/lay2/program/S1T294C295/www/brd/m_241/view.do?seq=292305",
       "attachments": [],
       "firstCollectedAt": "2026-07-19T04:34:38+00:00",
-      "lastCheckedAt": "2026-07-20T08:29:54+00:00",
+      "lastCheckedAt": "2026-07-20T09:05:17+00:00",
       "isNew": false
     },
     {
@@ -1821,12 +1821,12 @@
       ],
       "publishedAt": "2025-08-14",
       "applyStart": null,
-      "applyEnd": "2026-02-06",
+      "applyEnd": null,
       "status": "마감",
       "officialUrl": "https://www.i-sh.co.kr/main/lay2/program/S1T294C295/www/brd/m_241/view.do?seq=299825",
       "attachments": [],
       "firstCollectedAt": "2026-07-19T04:34:38+00:00",
-      "lastCheckedAt": "2026-07-20T08:29:54+00:00",
+      "lastCheckedAt": "2026-07-20T09:05:17+00:00",
       "isNew": false
     },
     {
@@ -1839,13 +1839,13 @@
         "서울특별시"
       ],
       "publishedAt": "2025-06-27",
-      "applyStart": null,
-      "applyEnd": "2025-11-21",
+      "applyStart": "2025-07-11",
+      "applyEnd": "2025-07-15",
       "status": "마감",
       "officialUrl": "https://www.i-sh.co.kr/main/lay2/program/S1T294C295/www/brd/m_241/view.do?seq=290172",
       "attachments": [],
       "firstCollectedAt": "2026-07-19T04:34:38+00:00",
-      "lastCheckedAt": "2026-07-20T08:29:54+00:00",
+      "lastCheckedAt": "2026-07-20T09:05:17+00:00",
       "isNew": false
     },
     {
@@ -1859,12 +1859,12 @@
       ],
       "publishedAt": "2025-04-30",
       "applyStart": null,
-      "applyEnd": "2025-11-14",
+      "applyEnd": null,
       "status": "마감",
       "officialUrl": "https://www.i-sh.co.kr/main/lay2/program/S1T294C295/www/brd/m_241/view.do?seq=287727",
       "attachments": [],
       "firstCollectedAt": "2026-07-19T04:34:38+00:00",
-      "lastCheckedAt": "2026-07-20T08:29:54+00:00",
+      "lastCheckedAt": "2026-07-20T09:05:17+00:00",
       "isNew": false
     },
     {
@@ -1877,13 +1877,13 @@
         "서울특별시"
       ],
       "publishedAt": "2025-04-28",
-      "applyStart": null,
-      "applyEnd": "2025-07-31",
+      "applyStart": "2025-05-12",
+      "applyEnd": "2025-05-12",
       "status": "마감",
       "officialUrl": "https://www.i-sh.co.kr/main/lay2/program/S1T294C295/www/brd/m_241/view.do?seq=287311",
       "attachments": [],
       "firstCollectedAt": "2026-07-19T04:34:38+00:00",
-      "lastCheckedAt": "2026-07-20T08:29:54+00:00",
+      "lastCheckedAt": "2026-07-20T09:05:17+00:00",
       "isNew": false
     },
     {
@@ -1896,13 +1896,13 @@
         "서울특별시"
       ],
       "publishedAt": "2025-04-25",
-      "applyStart": null,
-      "applyEnd": "2025-08-29",
+      "applyStart": "2025-05-07",
+      "applyEnd": "2025-05-09",
       "status": "마감",
       "officialUrl": "https://www.i-sh.co.kr/main/lay2/program/S1T294C295/www/brd/m_241/view.do?seq=287466",
       "attachments": [],
       "firstCollectedAt": "2026-07-19T04:34:38+00:00",
-      "lastCheckedAt": "2026-07-20T08:29:54+00:00",
+      "lastCheckedAt": "2026-07-20T09:05:17+00:00",
       "isNew": false
     },
     {
@@ -1915,13 +1915,13 @@
         "서울특별시"
       ],
       "publishedAt": "2025-04-25",
-      "applyStart": null,
-      "applyEnd": "2025-08-29",
+      "applyStart": "2025-04-25",
+      "applyEnd": "2025-04-25",
       "status": "마감",
       "officialUrl": "https://www.i-sh.co.kr/main/lay2/program/S1T294C295/www/brd/m_241/view.do?seq=288199",
       "attachments": [],
       "firstCollectedAt": "2026-07-19T04:34:38+00:00",
-      "lastCheckedAt": "2026-07-20T08:29:54+00:00",
+      "lastCheckedAt": "2026-07-20T09:05:17+00:00",
       "isNew": false
     },
     {
@@ -1934,13 +1934,13 @@
         "서울특별시"
       ],
       "publishedAt": "2025-02-21",
-      "applyStart": null,
-      "applyEnd": "2025-03-07",
+      "applyStart": "2025-02-21",
+      "applyEnd": "2025-02-21",
       "status": "마감",
       "officialUrl": "https://www.i-sh.co.kr/main/lay2/program/S1T294C295/www/brd/m_241/view.do?seq=285742",
       "attachments": [],
       "firstCollectedAt": "2026-07-19T04:34:38+00:00",
-      "lastCheckedAt": "2026-07-20T08:29:54+00:00",
+      "lastCheckedAt": "2026-07-20T09:05:17+00:00",
       "isNew": false
     },
     {
@@ -1953,13 +1953,13 @@
         "서울특별시"
       ],
       "publishedAt": "2024-12-27",
-      "applyStart": null,
-      "applyEnd": "2025-05-16",
+      "applyStart": "2025-01-08",
+      "applyEnd": "2025-01-10",
       "status": "마감",
       "officialUrl": "https://www.i-sh.co.kr/main/lay2/program/S1T294C295/www/brd/m_241/view.do?seq=282652",
       "attachments": [],
       "firstCollectedAt": "2026-07-19T04:34:38+00:00",
-      "lastCheckedAt": "2026-07-20T08:29:54+00:00",
+      "lastCheckedAt": "2026-07-20T09:05:17+00:00",
       "isNew": false
     },
     {
@@ -1973,12 +1973,12 @@
       ],
       "publishedAt": "2024-12-26",
       "applyStart": null,
-      "applyEnd": "2025-06-12",
+      "applyEnd": null,
       "status": "마감",
       "officialUrl": "https://www.i-sh.co.kr/main/lay2/program/S1T294C295/www/brd/m_241/view.do?seq=282546",
       "attachments": [],
       "firstCollectedAt": "2026-07-19T04:34:38+00:00",
-      "lastCheckedAt": "2026-07-20T08:29:54+00:00",
+      "lastCheckedAt": "2026-07-20T09:05:17+00:00",
       "isNew": false
     },
     {
@@ -1991,13 +1991,13 @@
         "서울특별시"
       ],
       "publishedAt": "2024-10-11",
-      "applyStart": null,
-      "applyEnd": "2025-04-02",
+      "applyStart": "2024-10-29",
+      "applyEnd": "2024-10-29",
       "status": "마감",
       "officialUrl": "https://www.i-sh.co.kr/main/lay2/program/S1T294C295/www/brd/m_241/view.do?seq=279905",
       "attachments": [],
       "firstCollectedAt": "2026-07-19T04:34:38+00:00",
-      "lastCheckedAt": "2026-07-20T08:29:54+00:00",
+      "lastCheckedAt": "2026-07-20T09:05:17+00:00",
       "isNew": false
     },
     {
@@ -2010,13 +2010,13 @@
         "서울특별시"
       ],
       "publishedAt": "2024-09-26",
-      "applyStart": null,
-      "applyEnd": "2025-03-28",
+      "applyStart": "2024-10-08",
+      "applyEnd": "2025-04-11",
       "status": "마감",
       "officialUrl": "https://www.i-sh.co.kr/main/lay2/program/S1T294C295/www/brd/m_241/view.do?seq=279305",
       "attachments": [],
       "firstCollectedAt": "2026-07-19T04:34:38+00:00",
-      "lastCheckedAt": "2026-07-20T08:29:54+00:00",
+      "lastCheckedAt": "2026-07-20T09:05:17+00:00",
       "isNew": false
     },
     {
@@ -2029,13 +2029,13 @@
         "서울특별시"
       ],
       "publishedAt": "2024-08-29",
-      "applyStart": null,
-      "applyEnd": "2025-02-07",
+      "applyStart": "2024-09-09",
+      "applyEnd": "2024-10-18",
       "status": "마감",
       "officialUrl": "https://www.i-sh.co.kr/main/lay2/program/S1T294C295/www/brd/m_241/view.do?seq=278265",
       "attachments": [],
       "firstCollectedAt": "2026-07-19T04:34:38+00:00",
-      "lastCheckedAt": "2026-07-20T08:29:54+00:00",
+      "lastCheckedAt": "2026-07-20T09:05:17+00:00",
       "isNew": false
     },
     {
@@ -2049,12 +2049,12 @@
       ],
       "publishedAt": "2024-06-27",
       "applyStart": null,
-      "applyEnd": "2024-11-15",
+      "applyEnd": null,
       "status": "마감",
       "officialUrl": "https://www.i-sh.co.kr/main/lay2/program/S1T294C295/www/brd/m_241/view.do?seq=281012",
       "attachments": [],
       "firstCollectedAt": "2026-07-19T04:34:38+00:00",
-      "lastCheckedAt": "2026-07-20T08:29:54+00:00",
+      "lastCheckedAt": "2026-07-20T09:05:17+00:00",
       "isNew": false
     },
     {
@@ -2073,7 +2073,7 @@
       "officialUrl": "https://www.gh.or.kr/gh/announcement-of-salerental001.do?mode=view&articleNo=64776&article.offset=0&articleLimit=100",
       "attachments": [],
       "firstCollectedAt": "2026-07-19T04:07:52+00:00",
-      "lastCheckedAt": "2026-07-20T08:29:54+00:00",
+      "lastCheckedAt": "2026-07-20T09:05:17+00:00",
       "isNew": false
     },
     {
@@ -2092,7 +2092,7 @@
       "officialUrl": "https://www.gh.or.kr/gh/announcement-of-salerental001.do?mode=view&articleNo=64766&article.offset=0&articleLimit=100",
       "attachments": [],
       "firstCollectedAt": "2026-07-19T04:07:52+00:00",
-      "lastCheckedAt": "2026-07-20T08:29:54+00:00",
+      "lastCheckedAt": "2026-07-20T09:05:17+00:00",
       "isNew": false
     },
     {
@@ -2114,7 +2114,7 @@
       "officialUrl": "https://www.gh.or.kr/gh/announcement-of-salerental001.do?mode=view&articleNo=64831&article.offset=0&articleLimit=100",
       "attachments": [],
       "firstCollectedAt": "2026-07-19T04:07:52+00:00",
-      "lastCheckedAt": "2026-07-20T08:29:54+00:00",
+      "lastCheckedAt": "2026-07-20T09:05:17+00:00",
       "isNew": false
     },
     {
@@ -2134,7 +2134,7 @@
       "officialUrl": "https://www.gh.or.kr/gh/announcement-of-salerental001.do?mode=view&articleNo=64640&article.offset=0&articleLimit=100",
       "attachments": [],
       "firstCollectedAt": "2026-07-19T04:07:52+00:00",
-      "lastCheckedAt": "2026-07-20T08:29:54+00:00",
+      "lastCheckedAt": "2026-07-20T09:05:17+00:00",
       "isNew": false
     },
     {
@@ -2154,7 +2154,7 @@
       "officialUrl": "https://www.gh.or.kr/gh/announcement-of-salerental001.do?mode=view&articleNo=64817&article.offset=0&articleLimit=100",
       "attachments": [],
       "firstCollectedAt": "2026-07-19T04:07:52+00:00",
-      "lastCheckedAt": "2026-07-20T08:29:54+00:00",
+      "lastCheckedAt": "2026-07-20T09:05:17+00:00",
       "isNew": false
     },
     {
@@ -2174,7 +2174,7 @@
       "officialUrl": "https://www.gh.or.kr/gh/announcement-of-salerental001.do?mode=view&articleNo=64959&article.offset=0&articleLimit=100",
       "attachments": [],
       "firstCollectedAt": "2026-07-19T04:07:52+00:00",
-      "lastCheckedAt": "2026-07-20T08:29:54+00:00",
+      "lastCheckedAt": "2026-07-20T09:05:17+00:00",
       "isNew": false
     },
     {
@@ -2194,7 +2194,7 @@
       "officialUrl": "https://www.gh.or.kr/gh/announcement-of-salerental001.do?mode=view&articleNo=64966&article.offset=0&articleLimit=100",
       "attachments": [],
       "firstCollectedAt": "2026-07-19T04:07:52+00:00",
-      "lastCheckedAt": "2026-07-20T08:29:54+00:00",
+      "lastCheckedAt": "2026-07-20T09:05:17+00:00",
       "isNew": false
     },
     {
@@ -2214,7 +2214,7 @@
       "officialUrl": "https://www.gh.or.kr/gh/announcement-of-salerental001.do?mode=view&articleNo=64679&article.offset=0&articleLimit=100",
       "attachments": [],
       "firstCollectedAt": "2026-07-19T04:07:52+00:00",
-      "lastCheckedAt": "2026-07-20T08:29:54+00:00",
+      "lastCheckedAt": "2026-07-20T09:05:17+00:00",
       "isNew": false
     },
     {
@@ -2235,7 +2235,7 @@
       "officialUrl": "https://www.gh.or.kr/gh/announcement-of-salerental001.do?mode=view&articleNo=64782&article.offset=0&articleLimit=100",
       "attachments": [],
       "firstCollectedAt": "2026-07-19T04:07:52+00:00",
-      "lastCheckedAt": "2026-07-20T08:29:54+00:00",
+      "lastCheckedAt": "2026-07-20T09:05:17+00:00",
       "isNew": false
     },
     {
@@ -2254,7 +2254,7 @@
       "officialUrl": "https://www.gh.or.kr/gh/announcement-of-salerental001.do?mode=view&articleNo=64997&article.offset=0&articleLimit=100",
       "attachments": [],
       "firstCollectedAt": "2026-07-19T04:07:52+00:00",
-      "lastCheckedAt": "2026-07-20T08:29:54+00:00",
+      "lastCheckedAt": "2026-07-20T09:05:17+00:00",
       "isNew": false
     },
     {
@@ -2273,7 +2273,7 @@
       "officialUrl": "https://www.gh.or.kr/gh/announcement-of-salerental001.do?mode=view&articleNo=64888&article.offset=0&articleLimit=100",
       "attachments": [],
       "firstCollectedAt": "2026-07-19T04:07:52+00:00",
-      "lastCheckedAt": "2026-07-20T08:29:54+00:00",
+      "lastCheckedAt": "2026-07-20T09:05:17+00:00",
       "isNew": false
     },
     {
@@ -2292,7 +2292,7 @@
       "officialUrl": "https://www.gh.or.kr/gh/announcement-of-salerental001.do?mode=view&articleNo=64811&article.offset=0&articleLimit=100",
       "attachments": [],
       "firstCollectedAt": "2026-07-19T04:07:52+00:00",
-      "lastCheckedAt": "2026-07-20T08:29:54+00:00",
+      "lastCheckedAt": "2026-07-20T09:05:17+00:00",
       "isNew": false
     },
     {
@@ -2311,7 +2311,7 @@
       "officialUrl": "https://www.gh.or.kr/gh/announcement-of-salerental001.do?mode=view&articleNo=64847&article.offset=0&articleLimit=100",
       "attachments": [],
       "firstCollectedAt": "2026-07-19T04:07:52+00:00",
-      "lastCheckedAt": "2026-07-20T08:29:54+00:00",
+      "lastCheckedAt": "2026-07-20T09:05:17+00:00",
       "isNew": false
     },
     {
@@ -2333,7 +2333,7 @@
       "officialUrl": "https://www.gh.or.kr/gh/announcement-of-salerental001.do?mode=view&articleNo=64845&article.offset=0&articleLimit=100",
       "attachments": [],
       "firstCollectedAt": "2026-07-19T04:07:52+00:00",
-      "lastCheckedAt": "2026-07-20T08:29:54+00:00",
+      "lastCheckedAt": "2026-07-20T09:05:17+00:00",
       "isNew": false
     },
     {
@@ -2353,7 +2353,7 @@
       "officialUrl": "https://www.gh.or.kr/gh/announcement-of-salerental001.do?mode=view&articleNo=64594&article.offset=0&articleLimit=100",
       "attachments": [],
       "firstCollectedAt": "2026-07-19T04:07:52+00:00",
-      "lastCheckedAt": "2026-07-20T08:29:54+00:00",
+      "lastCheckedAt": "2026-07-20T09:05:17+00:00",
       "isNew": false
     },
     {
@@ -2376,7 +2376,7 @@
       "officialUrl": "https://www.gh.or.kr/gh/announcement-of-salerental001.do?mode=view&articleNo=64768&article.offset=0&articleLimit=100",
       "attachments": [],
       "firstCollectedAt": "2026-07-19T04:07:52+00:00",
-      "lastCheckedAt": "2026-07-20T08:29:54+00:00",
+      "lastCheckedAt": "2026-07-20T09:05:17+00:00",
       "isNew": false
     },
     {
@@ -2396,7 +2396,7 @@
       "officialUrl": "https://www.gh.or.kr/gh/announcement-of-salerental001.do?mode=view&articleNo=64995&article.offset=0&articleLimit=100",
       "attachments": [],
       "firstCollectedAt": "2026-07-19T04:07:52+00:00",
-      "lastCheckedAt": "2026-07-20T08:29:54+00:00",
+      "lastCheckedAt": "2026-07-20T09:05:17+00:00",
       "isNew": false
     },
     {
@@ -2416,7 +2416,7 @@
       "officialUrl": "https://www.gh.or.kr/gh/announcement-of-salerental001.do?mode=view&articleNo=64890&article.offset=0&articleLimit=100",
       "attachments": [],
       "firstCollectedAt": "2026-07-19T04:07:52+00:00",
-      "lastCheckedAt": "2026-07-20T08:29:54+00:00",
+      "lastCheckedAt": "2026-07-20T09:05:17+00:00",
       "isNew": false
     },
     {
@@ -2436,7 +2436,7 @@
       "officialUrl": "https://www.gh.or.kr/gh/announcement-of-salerental001.do?mode=view&articleNo=64992&article.offset=0&articleLimit=100",
       "attachments": [],
       "firstCollectedAt": "2026-07-19T04:07:52+00:00",
-      "lastCheckedAt": "2026-07-20T08:29:54+00:00",
+      "lastCheckedAt": "2026-07-20T09:05:17+00:00",
       "isNew": false
     },
     {
@@ -2455,7 +2455,7 @@
       "officialUrl": "https://www.gh.or.kr/gh/announcement-of-salerental001.do?mode=view&articleNo=64932&article.offset=0&articleLimit=100",
       "attachments": [],
       "firstCollectedAt": "2026-07-19T04:07:52+00:00",
-      "lastCheckedAt": "2026-07-20T08:29:54+00:00",
+      "lastCheckedAt": "2026-07-20T09:05:17+00:00",
       "isNew": false
     },
     {
@@ -2476,7 +2476,7 @@
       "officialUrl": "https://www.gh.or.kr/gh/announcement-of-salerental001.do?mode=view&articleNo=64770&article.offset=0&articleLimit=100",
       "attachments": [],
       "firstCollectedAt": "2026-07-19T04:07:52+00:00",
-      "lastCheckedAt": "2026-07-20T08:29:54+00:00",
+      "lastCheckedAt": "2026-07-20T09:05:17+00:00",
       "isNew": false
     },
     {
@@ -2497,7 +2497,7 @@
       "officialUrl": "https://www.gh.or.kr/gh/announcement-of-salerental001.do?mode=view&articleNo=64742&article.offset=0&articleLimit=100",
       "attachments": [],
       "firstCollectedAt": "2026-07-19T04:07:52+00:00",
-      "lastCheckedAt": "2026-07-20T08:29:54+00:00",
+      "lastCheckedAt": "2026-07-20T09:05:17+00:00",
       "isNew": false
     },
     {
@@ -2517,7 +2517,7 @@
       "officialUrl": "https://www.gh.or.kr/gh/announcement-of-salerental001.do?mode=view&articleNo=64795&article.offset=0&articleLimit=100",
       "attachments": [],
       "firstCollectedAt": "2026-07-19T04:07:52+00:00",
-      "lastCheckedAt": "2026-07-20T08:29:54+00:00",
+      "lastCheckedAt": "2026-07-20T09:05:17+00:00",
       "isNew": false
     },
     {
@@ -2536,7 +2536,7 @@
       "officialUrl": "https://www.gh.or.kr/gh/announcement-of-salerental001.do?mode=view&articleNo=64741&article.offset=0&articleLimit=100",
       "attachments": [],
       "firstCollectedAt": "2026-07-19T04:07:52+00:00",
-      "lastCheckedAt": "2026-07-20T08:29:54+00:00",
+      "lastCheckedAt": "2026-07-20T09:05:17+00:00",
       "isNew": false
     },
     {
@@ -2555,7 +2555,7 @@
       "officialUrl": "https://www.gh.or.kr/gh/announcement-of-salerental001.do?mode=view&articleNo=64798&article.offset=0&articleLimit=100",
       "attachments": [],
       "firstCollectedAt": "2026-07-19T04:07:52+00:00",
-      "lastCheckedAt": "2026-07-20T08:29:54+00:00",
+      "lastCheckedAt": "2026-07-20T09:05:17+00:00",
       "isNew": false
     }
   ]
