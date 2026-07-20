@@ -28,6 +28,8 @@ function configureStatusFilter() {
     <option value="접수중">접수 중</option>
     <option value="접수예정">접수 예정</option>
     <option value="공고중">공고 중</option>
+    <option value="일정 확인 필요">일정 확인 필요</option>
+    <option value="후속공고">후속 공고</option>
     <option value="마감">마감</option>
   `;
   els.statusFilter.value = "current";
@@ -305,7 +307,7 @@ function filteredNotices() {
     if (region !== "all" && !(n.regions || []).includes(region)) return false;
     if (type !== "all" && n.noticeType !== type) return false;
     const noticeStatus = displayStatus(n);
-    if (status === "current" && noticeStatus === "마감") return false;
+    if (status === "current" && ["마감", "후속공고"].includes(noticeStatus)) return false;
     if (!["all", "current"].includes(status) && noticeStatus !== status) return false;
     if (activeStage === "제외") {
       if (state.stage !== "제외") return false;
@@ -342,7 +344,7 @@ function renderStats() {
   const availableNotices = notices.filter(n => getState(n.id).stage !== "제외");
 
   // 수집기가 오늘 처음 발견했다는 이유만으로 오래된 공고를 NEW로 표시하지 않습니다.
-  const newCount = availableNotices.filter(n => isPublishedToday(n.publishedAt) && displayStatus(n) !== "마감").length;
+  const newCount = availableNotices.filter(n => isPublishedToday(n.publishedAt) && !["마감", "후속공고"].includes(displayStatus(n))).length;
   const openCount = availableNotices.filter(n => ["접수중", "공고중"].includes(displayStatus(n))).length;
   const closingCount = availableNotices.filter(n => { const d = daysUntil(n.applyEnd); return d >= 0 && d <= 7; }).length;
   const favoriteCount = availableNotices.filter(n => getState(n.id).favorite).length;
@@ -371,7 +373,7 @@ function updateCounts() {
       return;
     }
 
-    if (displayStatus(n) !== "마감") stageCounts.all++;
+    if (!["마감", "후속공고"].includes(displayStatus(n))) stageCounts.all++;
     if (state.favorite) stageCounts.favorite++;
     if (stageCounts[state.stage] !== undefined) stageCounts[state.stage]++;
   });
@@ -438,8 +440,12 @@ function openDetail(id) {
       <div class="detail-item"><span>지역</span><strong>${escapeHtml((n.regions || []).join(" · ") || "미분류")}</strong></div>
       <div class="detail-item"><span>대상</span><strong>${escapeHtml((n.targetGroups || []).join(" · ") || "공고문 확인")}</strong></div>
       <div class="detail-item"><span>공고일</span><strong>${formatDate(n.publishedAt)}</strong></div>
-      <div class="detail-item"><span>마감일</span><strong>${formatDate(n.applyEnd)} · ${deadlineLabel(n.applyEnd).text}</strong></div>
+      <div class="detail-item"><span>신청기간</span><strong>${formatPeriod(n.applyStart, n.applyEnd)} · ${deadlineLabel(n.applyEnd).text}</strong></div>
+      ${n.documentStart || n.documentEnd ? `<div class="detail-item"><span>서류제출기간</span><strong>${formatPeriod(n.documentStart, n.documentEnd)}</strong></div>` : ""}
+      ${n.winnerAt ? `<div class="detail-item"><span>당첨자 발표</span><strong>${formatDate(n.winnerAt)}</strong></div>` : ""}
+      ${n.contractStart || n.contractEnd ? `<div class="detail-item"><span>계약기간</span><strong>${formatPeriod(n.contractStart, n.contractEnd)}</strong></div>` : ""}
       <div class="detail-item"><span>공고 상태</span><strong>${escapeHtml(displayStatus(n))}</strong></div>
+      <div class="detail-item"><span>일정 출처</span><strong>${escapeHtml(n.scheduleSource || "공식 목록")} · ${escapeHtml(n.scheduleConfidence || "확인필요")}</strong></div>
       <div class="detail-item"><span>우리 진행 상태</span><strong>${escapeHtml(state.stage)}</strong></div>
     </div>
     <section class="detail-section">
@@ -455,13 +461,18 @@ function openDetail(id) {
 
 function displayStatus(n) {
   const raw = String(n.status || "").replace(/\s/g, "");
+  if (raw.includes("후속공고")) return "후속공고";
+  if (raw.includes("일정확인필요")) return "일정 확인 필요";
+
+  const now = Date.now();
+  if (n.applyEnd && dateValue(n.applyEnd, 0) < now) return "마감";
+  if (n.applyStart && dateValue(n.applyStart, 0) > now) return "접수예정";
+  if (n.applyStart && n.applyEnd && dateValue(n.applyStart, 0) <= now && dateValue(n.applyEnd, 0) >= now) return "접수중";
+
   if (raw.includes("마감")) return "마감";
   if (raw.includes("접수중")) return "접수중";
   if (raw.includes("접수예정")) return "접수예정";
-  const now = Date.now();
-  if (n.applyStart && dateValue(n.applyStart, 0) > now) return "접수예정";
-  if (n.applyEnd && dateValue(n.applyEnd, 0) < now) return "마감";
-  return raw || "공고중";
+  return raw || (n.applyEnd ? "공고중" : "일정 확인 필요");
 }
 
 function deadlineLabel(date) {
@@ -505,6 +516,11 @@ function sameDate(value, date) {
 }
 function dateValue(value, fallback) { const n = value ? new Date(value).getTime() : NaN; return Number.isNaN(n) ? fallback : n; }
 function formatDate(value) { return value ? new Intl.DateTimeFormat("ko-KR", { year:"numeric", month:"2-digit", day:"2-digit" }).format(new Date(value)) : "확인 필요"; }
+function formatPeriod(start, end) {
+  if (!start && !end) return "확인 필요";
+  if (start && end && String(start).slice(0, 10) === String(end).slice(0, 10)) return formatDate(start);
+  return `${formatDate(start)} ~ ${formatDate(end)}`;
+}
 function formatDateTime(value) { return new Intl.DateTimeFormat("ko-KR", { year:"numeric", month:"2-digit", day:"2-digit", hour:"2-digit", minute:"2-digit" }).format(new Date(value)); }
 function normalizeText(value) { return String(value || "").toLowerCase().replace(/\s+/g, ""); }
 function escapeHtml(value) { return String(value ?? "").replace(/[&<>'"]/g, ch => ({"&":"&amp;","<":"&lt;",">":"&gt;","'":"&#39;",'"':"&quot;"}[ch])); }
