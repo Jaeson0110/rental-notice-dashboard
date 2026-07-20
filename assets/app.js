@@ -33,12 +33,23 @@ function configureStatusFilter() {
   els.statusFilter.value = "current";
 }
 
+function ensureExcludedTab() {
+  if ($("#countExcluded")) return;
+
+  const button = document.createElement("button");
+  button.type = "button";
+  button.dataset.stage = "제외";
+  button.innerHTML = '제외 <span id="countExcluded">0</span>';
+  els.stageTabs.appendChild(button);
+}
+
 function isSupabaseConfigured() {
   return Boolean(CONFIG.supabaseUrl && CONFIG.supabaseAnonKey);
 }
 
 async function init() {
   configureStatusFilter();
+  ensureExcludedTab();
   wireEvents();
   await setupDataMode();
   await loadNotices();
@@ -210,16 +221,31 @@ function wireEvents() {
     const id = card.dataset.id;
     if (event.target.closest(".favorite-button")) {
       const state = getState(id);
-      await patchState(id, { favorite: !state.favorite, stage: !state.favorite && state.stage === "관심 없음" ? "검토 필요" : state.stage });
+      const favorite = !state.favorite;
+      const stage = favorite && ["관심 없음", "제외"].includes(state.stage)
+        ? "검토 필요"
+        : state.stage;
+      await patchState(id, { favorite, stage });
     }
     if (event.target.closest(".detail-button") || event.target.closest(".notice-title-button")) openDetail(id);
   });
 
   els.noticeList.addEventListener("change", async event => {
     if (!event.target.matches(".stage-select")) return;
+
     const card = event.target.closest(".notice-card");
     const stage = event.target.value;
-    await patchState(card.dataset.id, { stage, favorite: stage !== "관심 없음" && stage !== "제외" ? true : getState(card.dataset.id).favorite });
+    const previous = getState(card.dataset.id);
+
+    let favorite = previous.favorite;
+    if (stage === "제외") favorite = false;
+    else if (stage !== "관심 없음") favorite = true;
+
+    await patchState(card.dataset.id, { stage, favorite });
+
+    if (stage === "제외" && activeStage !== "제외") {
+      showToast("제외함으로 이동했습니다.");
+    }
   });
 
   els.detailContent.addEventListener("click", async event => {
@@ -281,8 +307,14 @@ function filteredNotices() {
     const noticeStatus = displayStatus(n);
     if (status === "current" && noticeStatus === "마감") return false;
     if (!["all", "current"].includes(status) && noticeStatus !== status) return false;
-    if (activeStage === "favorite" && !state.favorite) return false;
-    if (!["all", "favorite"].includes(activeStage) && state.stage !== activeStage) return false;
+    if (activeStage === "제외") {
+      if (state.stage !== "제외") return false;
+    } else {
+      // 제외한 공고는 전체·관심·진행 상태 목록에서 모두 숨깁니다.
+      if (state.stage === "제외") return false;
+      if (activeStage === "favorite" && !state.favorite) return false;
+      if (!["all", "favorite"].includes(activeStage) && state.stage !== activeStage) return false;
+    }
     return true;
   });
 
@@ -307,11 +339,13 @@ function render() {
 function renderStats() {
   const today = new Date();
   today.setHours(0,0,0,0);
+  const availableNotices = notices.filter(n => getState(n.id).stage !== "제외");
+
   // 수집기가 오늘 처음 발견했다는 이유만으로 오래된 공고를 NEW로 표시하지 않습니다.
-  const newCount = notices.filter(n => isPublishedToday(n.publishedAt) && displayStatus(n) !== "마감").length;
-  const openCount = notices.filter(n => ["접수중", "공고중"].includes(displayStatus(n))).length;
-  const closingCount = notices.filter(n => { const d = daysUntil(n.applyEnd); return d >= 0 && d <= 7; }).length;
-  const favoriteCount = notices.filter(n => getState(n.id).favorite).length;
+  const newCount = availableNotices.filter(n => isPublishedToday(n.publishedAt) && displayStatus(n) !== "마감").length;
+  const openCount = availableNotices.filter(n => ["접수중", "공고중"].includes(displayStatus(n))).length;
+  const closingCount = availableNotices.filter(n => { const d = daysUntil(n.applyEnd); return d >= 0 && d <= 7; }).length;
+  const favoriteCount = availableNotices.filter(n => getState(n.id).favorite).length;
   $("#statNew").textContent = newCount;
   $("#statOpen").textContent = openCount;
   $("#statClosing").textContent = closingCount;
@@ -319,19 +353,36 @@ function renderStats() {
 }
 
 function updateCounts() {
-  const currentCount = notices.filter(n => displayStatus(n) !== "마감").length;
-  const stageCounts = { all: currentCount, favorite: 0, "검토 필요": 0, "신청 예정": 0, "서류 준비 중": 0, "신청 완료": 0 };
+  const stageCounts = {
+    all: 0,
+    favorite: 0,
+    "검토 필요": 0,
+    "신청 예정": 0,
+    "서류 준비 중": 0,
+    "신청 완료": 0,
+    "제외": 0
+  };
+
   notices.forEach(n => {
-    const s = getState(n.id);
-    if (s.favorite) stageCounts.favorite++;
-    if (stageCounts[s.stage] !== undefined) stageCounts[s.stage]++;
+    const state = getState(n.id);
+
+    if (state.stage === "제외") {
+      stageCounts["제외"]++;
+      return;
+    }
+
+    if (displayStatus(n) !== "마감") stageCounts.all++;
+    if (state.favorite) stageCounts.favorite++;
+    if (stageCounts[state.stage] !== undefined) stageCounts[state.stage]++;
   });
+
   $("#countAll").textContent = stageCounts.all;
   $("#countFavorite").textContent = stageCounts.favorite;
   $("#countReview").textContent = stageCounts["검토 필요"];
   $("#countPlanned").textContent = stageCounts["신청 예정"];
   $("#countDocs").textContent = stageCounts["서류 준비 중"];
   $("#countDone").textContent = stageCounts["신청 완료"];
+  $("#countExcluded").textContent = stageCounts["제외"];
 }
 
 function updateActiveTab() {
