@@ -1,25 +1,25 @@
 {
-  "updatedAt": "2026-08-21T23:37:17+00:00",
+  "updatedAt": "2026-08-22T22:37:11+00:00",
   "sourceStatus": {
     "LH": {
       "ok": true,
-      "count": 71,
-      "rawCount": 71,
-      "checkedAt": "2026-08-21T23:37:17+00:00",
+      "count": 70,
+      "rawCount": 70,
+      "checkedAt": "2026-08-22T22:37:11+00:00",
       "error": null
     },
     "SH": {
       "ok": true,
       "count": 47,
       "rawCount": 47,
-      "checkedAt": "2026-08-21T23:37:17+00:00",
+      "checkedAt": "2026-08-22T22:37:11+00:00",
       "error": null
     },
     "GH": {
       "ok": true,
-      "count": 29,
-      "rawCount": 29,
-      "checkedAt": "2026-08-21T23:37:17+00:00",
+      "count": 37,
+      "rawCount": 37,
+      "checkedAt": "2026-08-22T22:37:11+00:00",
       "error": null
     }
   },
@@ -47,8 +47,8 @@
       "scheduleSource": null,
       "scheduleConfidence": null,
       "firstCollectedAt": "2026-08-21T22:41:01+00:00",
-      "lastCheckedAt": "2026-08-21T23:37:17+00:00",
-      "isNew": true
+      "lastCheckedAt": "2026-08-22T22:37:11+00:00",
+      "isNew": false
     },
     {
       "id": "SH-6d5a382a5ed398",
@@ -73,8 +73,8 @@
       "scheduleSource": null,
       "scheduleConfidence": null,
       "firstCollectedAt": "2026-08-21T22:41:01+00:00",
-      "lastCheckedAt": "2026-08-21T23:37:17+00:00",
-      "isNew": true
+      "lastCheckedAt": "2026-08-22T22:37:11+00:00",
+      "isNew": false
     },
     {
       "id": "LH-b4f459e5f692af",
@@ -99,8 +99,8 @@
       "scheduleSource": null,
       "scheduleConfidence": null,
       "firstCollectedAt": "2026-08-21T23:37:17+00:00",
-      "lastCheckedAt": "2026-08-21T23:37:17+00:00",
-      "isNew": true
+      "lastCheckedAt": "2026-08-22T22:37:11+00:00",
+      "isNew": false
     },
     {
       "id": "LH-8cf97ae94591d1",
@@ -125,8 +125,8 @@
       "scheduleSource": null,
       "scheduleConfidence": null,
       "firstCollectedAt": "2026-08-21T23:37:17+00:00",
-      "lastCheckedAt": "2026-08-21T23:37:17+00:00",
-      "isNew": true
+      "lastCheckedAt": "2026-08-22T22:37:11+00:00",
+      "isNew": false
     },
     {
       "id": "LH-908a89abb714e7",
@@ -151,8 +151,8 @@
       "scheduleSource": null,
       "scheduleConfidence": null,
       "firstCollectedAt": "2026-08-21T23:37:17+00:00",
-      "lastCheckedAt": "2026-08-21T23:37:17+00:00",
-      "isNew": true
+      "lastCheckedAt": "2026-08-22T22:37:11+00:00",
+      "isNew": false
     },
     {
       "id": "LH-e65cf96bd45de3",
@@ -180,7 +180,7 @@
       "scheduleSource": null,
       "scheduleConfidence": null,
       "firstCollectedAt": "2026-08-20T22:44:21+00:00",
-      "lastCheckedAt": "2026-08-21T23:37:17+00:00",
+      "lastCheckedAt": "2026-08-22T22:37:11+00:00",
       "isNew": false
     },
     {
@@ -206,7 +206,7 @@
       "scheduleSource": null,
       "scheduleConfidence": null,
       "firstCollectedAt": "2026-08-20T22:44:21+00:00",
-      "lastCheckedAt": "2026-08-21T23:37:17+00:00",
+      "lastCheckedAt": "2026-08-22T22:37:11+00:00",
       "isNew": false
     },
     {
@@ -232,7 +232,7 @@
       "scheduleSource": null,
       "scheduleConfidence": null,
       "firstCollectedAt": "2026-08-20T22:44:21+00:00",
-      "lastCheckedAt": "2026-08-21T23:37:17+00:00",
+      "lastCheckedAt": "2026-08-22T22:37:11+00:00",
       "isNew": false
     },
     {
@@ -258,7 +258,7 @@
       "scheduleSource": null,
       "scheduleConfidence": null,
       "firstCollectedAt": "2026-08-20T22:44:21+00:00",
-      "lastCheckedAt": "2026-08-21T23:37:17+00:00",
+      "lastCheckedAt": "2026-08-22T22:37:11+00:00",
       "isNew": false
     },
     {
@@ -284,7 +284,7 @@
       "scheduleSource": null,
       "scheduleConfidence": null,
       "firstCollectedAt": "2026-08-20T22:44:21+00:00",
-      "lastCheckedAt": "2026-08-21T23:37:17+00:00",
+      "lastCheckedAt": "2026-08-22T22:37:11+00:00",
       "isNew": false
     },
     {
@@ -310,7 +310,7 @@
       "scheduleSource": null,
       "scheduleConfidence": null,
       "firstCollectedAt": "2026-08-20T22:44:21+00:00",
-      "lastCheckedAt": "2026-08-21T23:37:17+00:00",
+      "lastCheckedAt": "2026-08-22T22:37:11+00:00",
       "isNew": false
     },
     {
@@ -336,7 +336,7 @@
       "scheduleSource": null,
       "scheduleConfidence": null,
       "firstCollectedAt": "2026-08-20T22:44:21+00:00",
-      "lastCheckedAt": "2026-08-21T23:37:17+00:00",
+      "lastCheckedAt": "2026-08-22T22:37:11+00:00",
       "isNew": false
     },
     {
@@ -362,7 +362,7 @@
       "scheduleSource": null,
       "scheduleConfidence": null,
       "firstCollectedAt": "2026-08-20T22:44:21+00:00",
-      "lastCheckedAt": "2026-08-21T23:37:17+00:00",
+      "lastCheckedAt": "2026-08-22T22:37:11+00:00",
       "isNew": false
     },
     {
@@ -390,7 +390,7 @@
       "scheduleSource": null,
       "scheduleConfidence": null,
       "firstCollectedAt": "2026-08-20T22:44:21+00:00",
-      "lastCheckedAt": "2026-08-21T23:37:17+00:00",
+      "lastCheckedAt": "2026-08-22T22:37:11+00:00",
       "isNew": false
     },
     {
@@ -419,7 +419,7 @@
       "scheduleSource": null,
       "scheduleConfidence": null,
       "firstCollectedAt": "2026-08-19T22:40:22+00:00",
-      "lastCheckedAt": "2026-08-21T23:37:17+00:00",
+      "lastCheckedAt": "2026-08-22T22:37:11+00:00",
       "isNew": false
     },
     {
@@ -445,7 +445,7 @@
       "scheduleSource": null,
       "scheduleConfidence": null,
       "firstCollectedAt": "2026-08-20T22:44:21+00:00",
-      "lastCheckedAt": "2026-08-21T23:37:17+00:00",
+      "lastCheckedAt": "2026-08-22T22:37:11+00:00",
       "isNew": false
     },
     {
@@ -472,7 +472,7 @@
       "scheduleSource": null,
       "scheduleConfidence": null,
       "firstCollectedAt": "2026-08-18T22:59:28+00:00",
-      "lastCheckedAt": "2026-08-21T23:37:17+00:00",
+      "lastCheckedAt": "2026-08-22T22:37:11+00:00",
       "isNew": false
     },
     {
@@ -500,7 +500,7 @@
       "scheduleSource": null,
       "scheduleConfidence": null,
       "firstCollectedAt": "2026-08-14T23:58:40+00:00",
-      "lastCheckedAt": "2026-08-21T23:37:17+00:00",
+      "lastCheckedAt": "2026-08-22T22:37:11+00:00",
       "isNew": false
     },
     {
@@ -529,7 +529,7 @@
       "scheduleSource": null,
       "scheduleConfidence": null,
       "firstCollectedAt": "2026-08-14T23:58:40+00:00",
-      "lastCheckedAt": "2026-08-21T23:37:17+00:00",
+      "lastCheckedAt": "2026-08-22T22:37:11+00:00",
       "isNew": false
     },
     {
@@ -558,7 +558,7 @@
       "scheduleSource": null,
       "scheduleConfidence": null,
       "firstCollectedAt": "2026-08-14T23:58:40+00:00",
-      "lastCheckedAt": "2026-08-21T23:37:17+00:00",
+      "lastCheckedAt": "2026-08-22T22:37:11+00:00",
       "isNew": false
     },
     {
@@ -587,7 +587,7 @@
       "scheduleSource": null,
       "scheduleConfidence": null,
       "firstCollectedAt": "2026-08-14T23:58:40+00:00",
-      "lastCheckedAt": "2026-08-21T23:37:17+00:00",
+      "lastCheckedAt": "2026-08-22T22:37:11+00:00",
       "isNew": false
     },
     {
@@ -614,7 +614,7 @@
       "scheduleSource": null,
       "scheduleConfidence": null,
       "firstCollectedAt": "2026-08-13T05:13:16+00:00",
-      "lastCheckedAt": "2026-08-21T23:37:17+00:00",
+      "lastCheckedAt": "2026-08-22T22:37:11+00:00",
       "isNew": false
     },
     {
@@ -640,7 +640,7 @@
       "scheduleSource": null,
       "scheduleConfidence": null,
       "firstCollectedAt": "2026-08-13T05:13:16+00:00",
-      "lastCheckedAt": "2026-08-21T23:37:17+00:00",
+      "lastCheckedAt": "2026-08-22T22:37:11+00:00",
       "isNew": false
     },
     {
@@ -666,7 +666,7 @@
       "scheduleSource": null,
       "scheduleConfidence": null,
       "firstCollectedAt": "2026-08-10T23:59:30+00:00",
-      "lastCheckedAt": "2026-08-21T23:37:17+00:00",
+      "lastCheckedAt": "2026-08-22T22:37:11+00:00",
       "isNew": false
     },
     {
@@ -694,7 +694,7 @@
       "scheduleSource": null,
       "scheduleConfidence": null,
       "firstCollectedAt": "2026-08-07T05:02:56+00:00",
-      "lastCheckedAt": "2026-08-21T23:37:17+00:00",
+      "lastCheckedAt": "2026-08-22T22:37:11+00:00",
       "isNew": false
     },
     {
@@ -722,7 +722,7 @@
       "scheduleSource": null,
       "scheduleConfidence": null,
       "firstCollectedAt": "2026-08-07T05:02:56+00:00",
-      "lastCheckedAt": "2026-08-21T23:37:17+00:00",
+      "lastCheckedAt": "2026-08-22T22:37:11+00:00",
       "isNew": false
     },
     {
@@ -751,7 +751,7 @@
       "scheduleSource": null,
       "scheduleConfidence": null,
       "firstCollectedAt": "2026-08-07T05:02:56+00:00",
-      "lastCheckedAt": "2026-08-21T23:37:17+00:00",
+      "lastCheckedAt": "2026-08-22T22:37:11+00:00",
       "isNew": false
     },
     {
@@ -779,7 +779,7 @@
       "scheduleSource": null,
       "scheduleConfidence": null,
       "firstCollectedAt": "2026-08-06T08:00:35+00:00",
-      "lastCheckedAt": "2026-08-21T23:37:17+00:00",
+      "lastCheckedAt": "2026-08-22T22:37:11+00:00",
       "isNew": false
     },
     {
@@ -807,7 +807,7 @@
       "scheduleSource": null,
       "scheduleConfidence": null,
       "firstCollectedAt": "2026-08-05T08:09:06+00:00",
-      "lastCheckedAt": "2026-08-21T23:37:17+00:00",
+      "lastCheckedAt": "2026-08-22T22:37:11+00:00",
       "isNew": false
     },
     {
@@ -835,7 +835,7 @@
       "scheduleSource": null,
       "scheduleConfidence": null,
       "firstCollectedAt": "2026-08-05T08:09:06+00:00",
-      "lastCheckedAt": "2026-08-21T23:37:17+00:00",
+      "lastCheckedAt": "2026-08-22T22:37:11+00:00",
       "isNew": false
     },
     {
@@ -863,7 +863,7 @@
       "scheduleSource": null,
       "scheduleConfidence": null,
       "firstCollectedAt": "2026-08-05T08:09:06+00:00",
-      "lastCheckedAt": "2026-08-21T23:37:17+00:00",
+      "lastCheckedAt": "2026-08-22T22:37:11+00:00",
       "isNew": false
     },
     {
@@ -889,7 +889,7 @@
       "scheduleSource": null,
       "scheduleConfidence": null,
       "firstCollectedAt": "2026-08-05T08:09:06+00:00",
-      "lastCheckedAt": "2026-08-21T23:37:17+00:00",
+      "lastCheckedAt": "2026-08-22T22:37:11+00:00",
       "isNew": false
     },
     {
@@ -917,7 +917,7 @@
       "scheduleSource": null,
       "scheduleConfidence": null,
       "firstCollectedAt": "2026-08-05T08:09:06+00:00",
-      "lastCheckedAt": "2026-08-21T23:37:17+00:00",
+      "lastCheckedAt": "2026-08-22T22:37:11+00:00",
       "isNew": false
     },
     {
@@ -946,7 +946,7 @@
       "scheduleSource": null,
       "scheduleConfidence": null,
       "firstCollectedAt": "2026-08-05T08:09:06+00:00",
-      "lastCheckedAt": "2026-08-21T23:37:17+00:00",
+      "lastCheckedAt": "2026-08-22T22:37:11+00:00",
       "isNew": false
     },
     {
@@ -974,7 +974,7 @@
       "scheduleSource": null,
       "scheduleConfidence": null,
       "firstCollectedAt": "2026-07-31T08:20:48+00:00",
-      "lastCheckedAt": "2026-08-21T23:37:17+00:00",
+      "lastCheckedAt": "2026-08-22T22:37:11+00:00",
       "isNew": false
     },
     {
@@ -1000,7 +1000,7 @@
       "scheduleSource": null,
       "scheduleConfidence": null,
       "firstCollectedAt": "2026-07-30T07:43:01+00:00",
-      "lastCheckedAt": "2026-08-21T23:37:17+00:00",
+      "lastCheckedAt": "2026-08-22T22:37:11+00:00",
       "isNew": false
     },
     {
@@ -1027,7 +1027,7 @@
       "scheduleSource": null,
       "scheduleConfidence": null,
       "firstCollectedAt": "2026-07-29T08:07:25+00:00",
-      "lastCheckedAt": "2026-08-21T23:37:17+00:00",
+      "lastCheckedAt": "2026-08-22T22:37:11+00:00",
       "isNew": false
     },
     {
@@ -1054,7 +1054,7 @@
       "scheduleSource": null,
       "scheduleConfidence": null,
       "firstCollectedAt": "2026-07-29T08:07:25+00:00",
-      "lastCheckedAt": "2026-08-21T23:37:17+00:00",
+      "lastCheckedAt": "2026-08-22T22:37:11+00:00",
       "isNew": false
     },
     {
@@ -1080,7 +1080,7 @@
       "scheduleSource": null,
       "scheduleConfidence": null,
       "firstCollectedAt": "2026-07-29T08:07:25+00:00",
-      "lastCheckedAt": "2026-08-21T23:37:17+00:00",
+      "lastCheckedAt": "2026-08-22T22:37:11+00:00",
       "isNew": false
     },
     {
@@ -1106,7 +1106,7 @@
       "scheduleSource": null,
       "scheduleConfidence": null,
       "firstCollectedAt": "2026-07-30T07:43:01+00:00",
-      "lastCheckedAt": "2026-08-21T23:37:17+00:00",
+      "lastCheckedAt": "2026-08-22T22:37:11+00:00",
       "isNew": false
     },
     {
@@ -1134,7 +1134,7 @@
       "scheduleSource": null,
       "scheduleConfidence": null,
       "firstCollectedAt": "2026-07-27T10:56:01+00:00",
-      "lastCheckedAt": "2026-08-21T23:37:17+00:00",
+      "lastCheckedAt": "2026-08-22T22:37:11+00:00",
       "isNew": false
     },
     {
@@ -1161,7 +1161,7 @@
       "scheduleSource": null,
       "scheduleConfidence": null,
       "firstCollectedAt": "2026-07-20T08:29:54+00:00",
-      "lastCheckedAt": "2026-08-21T23:37:17+00:00",
+      "lastCheckedAt": "2026-08-22T22:37:11+00:00",
       "isNew": false
     },
     {
@@ -1187,7 +1187,7 @@
       "scheduleSource": null,
       "scheduleConfidence": null,
       "firstCollectedAt": "2026-07-19T13:16:33+00:00",
-      "lastCheckedAt": "2026-08-21T23:37:17+00:00",
+      "lastCheckedAt": "2026-08-22T22:37:11+00:00",
       "isNew": false
     },
     {
@@ -1213,7 +1213,7 @@
       "scheduleSource": null,
       "scheduleConfidence": null,
       "firstCollectedAt": "2026-07-19T13:16:33+00:00",
-      "lastCheckedAt": "2026-08-21T23:37:17+00:00",
+      "lastCheckedAt": "2026-08-22T22:37:11+00:00",
       "isNew": false
     },
     {
@@ -1243,7 +1243,7 @@
       "scheduleSource": null,
       "scheduleConfidence": null,
       "firstCollectedAt": "2026-07-19T13:16:33+00:00",
-      "lastCheckedAt": "2026-08-21T23:37:17+00:00",
+      "lastCheckedAt": "2026-08-22T22:37:11+00:00",
       "isNew": false
     },
     {
@@ -1269,7 +1269,7 @@
       "scheduleSource": null,
       "scheduleConfidence": null,
       "firstCollectedAt": "2026-07-19T13:16:33+00:00",
-      "lastCheckedAt": "2026-08-21T23:37:17+00:00",
+      "lastCheckedAt": "2026-08-22T22:37:11+00:00",
       "isNew": false
     },
     {
@@ -1295,7 +1295,7 @@
       "scheduleSource": null,
       "scheduleConfidence": null,
       "firstCollectedAt": "2026-07-19T13:16:33+00:00",
-      "lastCheckedAt": "2026-08-21T23:37:17+00:00",
+      "lastCheckedAt": "2026-08-22T22:37:11+00:00",
       "isNew": false
     },
     {
@@ -1322,7 +1322,7 @@
       "scheduleSource": null,
       "scheduleConfidence": null,
       "firstCollectedAt": "2026-07-19T13:16:33+00:00",
-      "lastCheckedAt": "2026-08-21T23:37:17+00:00",
+      "lastCheckedAt": "2026-08-22T22:37:11+00:00",
       "isNew": false
     },
     {
@@ -1349,7 +1349,7 @@
       "scheduleSource": null,
       "scheduleConfidence": null,
       "firstCollectedAt": "2026-07-19T13:16:33+00:00",
-      "lastCheckedAt": "2026-08-21T23:37:17+00:00",
+      "lastCheckedAt": "2026-08-22T22:37:11+00:00",
       "isNew": false
     },
     {
@@ -1379,7 +1379,7 @@
       "scheduleSource": null,
       "scheduleConfidence": null,
       "firstCollectedAt": "2026-07-19T13:16:33+00:00",
-      "lastCheckedAt": "2026-08-21T23:37:17+00:00",
+      "lastCheckedAt": "2026-08-22T22:37:11+00:00",
       "isNew": false
     },
     {
@@ -1406,8 +1406,34 @@
       "scheduleSource": null,
       "scheduleConfidence": null,
       "firstCollectedAt": "2026-07-19T13:16:33+00:00",
-      "lastCheckedAt": "2026-08-21T23:37:17+00:00",
+      "lastCheckedAt": "2026-08-22T22:37:11+00:00",
       "isNew": false
+    },
+    {
+      "id": "GH-e1fc847e048612",
+      "agency": "GH",
+      "title": "[[추가모집] 26년 GH 특화형 매입임대주택 입주자 추가 모집 공고(운영기관 : 한지붕협동조합)](https://apply.gh.or.kr/sb/sr/sr7155/selectPbancRentHouseList.do?pageIndex=1#a)",
+      "noticeType": "매입임대",
+      "targetGroups": [],
+      "regions": [
+        "경기도"
+      ],
+      "publishedAt": "2026-07-07",
+      "applyStart": null,
+      "applyEnd": null,
+      "status": "일정 확인 필요",
+      "officialUrl": "https://apply.gh.or.kr/sb/sr/sr7155/selectPbancRentHouseList.do",
+      "attachments": [],
+      "documentStart": null,
+      "documentEnd": null,
+      "winnerAt": null,
+      "contractStart": null,
+      "contractEnd": null,
+      "scheduleSource": "GH 청약센터 목록(보조 경로)",
+      "scheduleConfidence": "확인필요",
+      "firstCollectedAt": "2026-08-22T22:37:11+00:00",
+      "lastCheckedAt": "2026-08-22T22:37:11+00:00",
+      "isNew": true
     },
     {
       "id": "LH-6095feee7f1307",
@@ -1433,7 +1459,7 @@
       "scheduleSource": null,
       "scheduleConfidence": null,
       "firstCollectedAt": "2026-07-19T13:16:33+00:00",
-      "lastCheckedAt": "2026-08-21T23:37:17+00:00",
+      "lastCheckedAt": "2026-08-22T22:37:11+00:00",
       "isNew": false
     },
     {
@@ -1460,7 +1486,7 @@
       "scheduleSource": null,
       "scheduleConfidence": null,
       "firstCollectedAt": "2026-07-19T13:16:33+00:00",
-      "lastCheckedAt": "2026-08-21T23:37:17+00:00",
+      "lastCheckedAt": "2026-08-22T22:37:11+00:00",
       "isNew": false
     },
     {
@@ -1487,7 +1513,7 @@
       "scheduleSource": null,
       "scheduleConfidence": null,
       "firstCollectedAt": "2026-07-19T13:16:33+00:00",
-      "lastCheckedAt": "2026-08-21T23:37:17+00:00",
+      "lastCheckedAt": "2026-08-22T22:37:11+00:00",
       "isNew": false
     },
     {
@@ -1515,7 +1541,7 @@
       "scheduleSource": null,
       "scheduleConfidence": null,
       "firstCollectedAt": "2026-07-19T13:16:33+00:00",
-      "lastCheckedAt": "2026-08-21T23:37:17+00:00",
+      "lastCheckedAt": "2026-08-22T22:37:11+00:00",
       "isNew": false
     },
     {
@@ -1543,7 +1569,7 @@
       "scheduleSource": null,
       "scheduleConfidence": null,
       "firstCollectedAt": "2026-07-19T13:16:33+00:00",
-      "lastCheckedAt": "2026-08-21T23:37:17+00:00",
+      "lastCheckedAt": "2026-08-22T22:37:11+00:00",
       "isNew": false
     },
     {
@@ -1569,7 +1595,7 @@
       "scheduleSource": null,
       "scheduleConfidence": null,
       "firstCollectedAt": "2026-07-19T13:16:33+00:00",
-      "lastCheckedAt": "2026-08-21T23:37:17+00:00",
+      "lastCheckedAt": "2026-08-22T22:37:11+00:00",
       "isNew": false
     },
     {
@@ -1597,7 +1623,7 @@
       "scheduleSource": null,
       "scheduleConfidence": null,
       "firstCollectedAt": "2026-07-19T13:16:33+00:00",
-      "lastCheckedAt": "2026-08-21T23:37:17+00:00",
+      "lastCheckedAt": "2026-08-22T22:37:11+00:00",
       "isNew": false
     },
     {
@@ -1625,7 +1651,7 @@
       "scheduleSource": null,
       "scheduleConfidence": null,
       "firstCollectedAt": "2026-07-19T13:16:33+00:00",
-      "lastCheckedAt": "2026-08-21T23:37:17+00:00",
+      "lastCheckedAt": "2026-08-22T22:37:11+00:00",
       "isNew": false
     },
     {
@@ -1652,7 +1678,7 @@
       "scheduleSource": null,
       "scheduleConfidence": null,
       "firstCollectedAt": "2026-07-19T13:16:33+00:00",
-      "lastCheckedAt": "2026-08-21T23:37:17+00:00",
+      "lastCheckedAt": "2026-08-22T22:37:11+00:00",
       "isNew": false
     },
     {
@@ -1678,7 +1704,7 @@
       "scheduleSource": null,
       "scheduleConfidence": null,
       "firstCollectedAt": "2026-07-19T13:16:33+00:00",
-      "lastCheckedAt": "2026-08-21T23:37:17+00:00",
+      "lastCheckedAt": "2026-08-22T22:37:11+00:00",
       "isNew": false
     },
     {
@@ -1706,7 +1732,7 @@
       "scheduleSource": null,
       "scheduleConfidence": null,
       "firstCollectedAt": "2026-07-19T13:16:33+00:00",
-      "lastCheckedAt": "2026-08-21T23:37:17+00:00",
+      "lastCheckedAt": "2026-08-22T22:37:11+00:00",
       "isNew": false
     },
     {
@@ -1734,7 +1760,7 @@
       "scheduleSource": null,
       "scheduleConfidence": null,
       "firstCollectedAt": "2026-07-19T13:16:33+00:00",
-      "lastCheckedAt": "2026-08-21T23:37:17+00:00",
+      "lastCheckedAt": "2026-08-22T22:37:11+00:00",
       "isNew": false
     },
     {
@@ -1764,7 +1790,7 @@
       "scheduleSource": null,
       "scheduleConfidence": null,
       "firstCollectedAt": "2026-07-19T13:16:33+00:00",
-      "lastCheckedAt": "2026-08-21T23:37:17+00:00",
+      "lastCheckedAt": "2026-08-22T22:37:11+00:00",
       "isNew": false
     },
     {
@@ -1793,7 +1819,7 @@
       "scheduleSource": null,
       "scheduleConfidence": null,
       "firstCollectedAt": "2026-07-19T13:16:33+00:00",
-      "lastCheckedAt": "2026-08-21T23:37:17+00:00",
+      "lastCheckedAt": "2026-08-22T22:37:11+00:00",
       "isNew": false
     },
     {
@@ -1821,7 +1847,7 @@
       "scheduleSource": null,
       "scheduleConfidence": null,
       "firstCollectedAt": "2026-07-19T13:16:33+00:00",
-      "lastCheckedAt": "2026-08-21T23:37:17+00:00",
+      "lastCheckedAt": "2026-08-22T22:37:11+00:00",
       "isNew": false
     },
     {
@@ -1849,7 +1875,7 @@
       "scheduleSource": null,
       "scheduleConfidence": null,
       "firstCollectedAt": "2026-07-19T13:16:33+00:00",
-      "lastCheckedAt": "2026-08-21T23:37:17+00:00",
+      "lastCheckedAt": "2026-08-22T22:37:11+00:00",
       "isNew": false
     },
     {
@@ -1876,7 +1902,7 @@
       "scheduleSource": null,
       "scheduleConfidence": null,
       "firstCollectedAt": "2026-07-19T13:16:33+00:00",
-      "lastCheckedAt": "2026-08-21T23:37:17+00:00",
+      "lastCheckedAt": "2026-08-22T22:37:11+00:00",
       "isNew": false
     },
     {
@@ -1904,7 +1930,7 @@
       "scheduleSource": null,
       "scheduleConfidence": null,
       "firstCollectedAt": "2026-07-19T13:16:33+00:00",
-      "lastCheckedAt": "2026-08-21T23:37:17+00:00",
+      "lastCheckedAt": "2026-08-22T22:37:11+00:00",
       "isNew": false
     },
     {
@@ -1930,7 +1956,7 @@
       "scheduleSource": null,
       "scheduleConfidence": null,
       "firstCollectedAt": "2026-07-19T13:16:33+00:00",
-      "lastCheckedAt": "2026-08-21T23:37:17+00:00",
+      "lastCheckedAt": "2026-08-22T22:37:11+00:00",
       "isNew": false
     },
     {
@@ -1957,7 +1983,7 @@
       "scheduleSource": null,
       "scheduleConfidence": null,
       "firstCollectedAt": "2026-07-19T13:16:33+00:00",
-      "lastCheckedAt": "2026-08-21T23:37:17+00:00",
+      "lastCheckedAt": "2026-08-22T22:37:11+00:00",
       "isNew": false
     },
     {
@@ -1985,7 +2011,7 @@
       "scheduleSource": null,
       "scheduleConfidence": null,
       "firstCollectedAt": "2026-07-19T13:16:33+00:00",
-      "lastCheckedAt": "2026-08-21T23:37:17+00:00",
+      "lastCheckedAt": "2026-08-22T22:37:11+00:00",
       "isNew": false
     },
     {
@@ -2013,7 +2039,7 @@
       "scheduleSource": null,
       "scheduleConfidence": null,
       "firstCollectedAt": "2026-07-19T13:16:33+00:00",
-      "lastCheckedAt": "2026-08-21T23:37:17+00:00",
+      "lastCheckedAt": "2026-08-22T22:37:11+00:00",
       "isNew": false
     },
     {
@@ -2039,7 +2065,7 @@
       "scheduleSource": null,
       "scheduleConfidence": null,
       "firstCollectedAt": "2026-07-19T13:16:33+00:00",
-      "lastCheckedAt": "2026-08-21T23:37:17+00:00",
+      "lastCheckedAt": "2026-08-22T22:37:11+00:00",
       "isNew": false
     },
     {
@@ -2066,7 +2092,7 @@
       "scheduleSource": null,
       "scheduleConfidence": null,
       "firstCollectedAt": "2026-07-19T13:16:33+00:00",
-      "lastCheckedAt": "2026-08-21T23:37:17+00:00",
+      "lastCheckedAt": "2026-08-22T22:37:11+00:00",
       "isNew": false
     },
     {
@@ -2093,7 +2119,7 @@
       "scheduleSource": null,
       "scheduleConfidence": null,
       "firstCollectedAt": "2026-07-19T13:16:33+00:00",
-      "lastCheckedAt": "2026-08-21T23:37:17+00:00",
+      "lastCheckedAt": "2026-08-22T22:37:11+00:00",
       "isNew": false
     },
     {
@@ -2120,7 +2146,7 @@
       "scheduleSource": null,
       "scheduleConfidence": null,
       "firstCollectedAt": "2026-07-19T13:16:33+00:00",
-      "lastCheckedAt": "2026-08-21T23:37:17+00:00",
+      "lastCheckedAt": "2026-08-22T22:37:11+00:00",
       "isNew": false
     },
     {
@@ -2148,7 +2174,7 @@
       "scheduleSource": null,
       "scheduleConfidence": null,
       "firstCollectedAt": "2026-07-28T07:58:37+00:00",
-      "lastCheckedAt": "2026-08-21T23:37:17+00:00",
+      "lastCheckedAt": "2026-08-22T22:37:11+00:00",
       "isNew": false
     },
     {
@@ -2175,35 +2201,34 @@
       "scheduleSource": null,
       "scheduleConfidence": null,
       "firstCollectedAt": "2026-07-19T13:16:33+00:00",
-      "lastCheckedAt": "2026-08-21T23:37:17+00:00",
+      "lastCheckedAt": "2026-08-22T22:37:11+00:00",
       "isNew": false
     },
     {
-      "id": "LH-54c903d9719540",
-      "agency": "LH",
-      "title": "파주운정3 A34BL 영구임대주택 자격완화 예비자 모집",
-      "noticeType": "영구임대",
+      "id": "GH-98dafb74799ea4",
+      "agency": "GH",
+      "title": "26년 매입임대주택 입주자 모집공고(자격완화)",
+      "noticeType": "매입임대",
       "targetGroups": [],
       "regions": [
-        "경기도",
-        "파주"
+        "경기도"
       ],
-      "publishedAt": "2026-06-22",
+      "publishedAt": "2026-06-15",
       "applyStart": null,
       "applyEnd": "2026-07-06",
-      "status": "접수마감",
-      "officialUrl": "https://apply.lh.or.kr/lhapply/apply/wt/wrtanc/selectWrtancInfo.do?panId=2015122300020173&ccrCnntSysDsCd=03&uppAisTpCd=06&aisTpCd=09&mi=1026",
+      "status": "마감",
+      "officialUrl": "https://apply.gh.or.kr/sb/sr/sr7155/selectPbancRentHouseList.do?pageIndex=1#a",
       "attachments": [],
       "documentStart": null,
       "documentEnd": null,
       "winnerAt": null,
       "contractStart": null,
       "contractEnd": null,
-      "scheduleSource": null,
-      "scheduleConfidence": null,
-      "firstCollectedAt": "2026-07-19T13:16:33+00:00",
-      "lastCheckedAt": "2026-08-21T23:37:17+00:00",
-      "isNew": false
+      "scheduleSource": "GH 청약센터 목록(보조 경로)",
+      "scheduleConfidence": "높음",
+      "firstCollectedAt": "2026-08-22T22:37:11+00:00",
+      "lastCheckedAt": "2026-08-22T22:37:11+00:00",
+      "isNew": true
     },
     {
       "id": "SH-84e37b19cee051",
@@ -2230,7 +2255,7 @@
       "scheduleSource": null,
       "scheduleConfidence": null,
       "firstCollectedAt": "2026-07-19T04:34:38+00:00",
-      "lastCheckedAt": "2026-08-21T23:37:17+00:00",
+      "lastCheckedAt": "2026-08-22T22:37:11+00:00",
       "isNew": false
     },
     {
@@ -2258,7 +2283,7 @@
       "scheduleSource": null,
       "scheduleConfidence": null,
       "firstCollectedAt": "2026-07-19T04:34:38+00:00",
-      "lastCheckedAt": "2026-08-21T23:37:17+00:00",
+      "lastCheckedAt": "2026-08-22T22:37:11+00:00",
       "isNew": false
     },
     {
@@ -2286,7 +2311,7 @@
       "scheduleSource": null,
       "scheduleConfidence": null,
       "firstCollectedAt": "2026-07-19T04:34:38+00:00",
-      "lastCheckedAt": "2026-08-21T23:37:17+00:00",
+      "lastCheckedAt": "2026-08-22T22:37:11+00:00",
       "isNew": false
     },
     {
@@ -2312,7 +2337,7 @@
       "scheduleSource": null,
       "scheduleConfidence": null,
       "firstCollectedAt": "2026-07-19T04:34:38+00:00",
-      "lastCheckedAt": "2026-08-21T23:37:17+00:00",
+      "lastCheckedAt": "2026-08-22T22:37:11+00:00",
       "isNew": false
     },
     {
@@ -2340,8 +2365,34 @@
       "scheduleSource": null,
       "scheduleConfidence": null,
       "firstCollectedAt": "2026-07-19T04:34:38+00:00",
-      "lastCheckedAt": "2026-08-21T23:37:17+00:00",
+      "lastCheckedAt": "2026-08-22T22:37:11+00:00",
       "isNew": false
+    },
+    {
+      "id": "GH-9d4451f586a2fb",
+      "agency": "GH",
+      "title": "26년 GH 특화형 매입임대주택 입주자 모집 공고(운영기관 : 한지붕협동조합)",
+      "noticeType": "매입임대",
+      "targetGroups": [],
+      "regions": [
+        "경기도"
+      ],
+      "publishedAt": "2026-05-15",
+      "applyStart": null,
+      "applyEnd": null,
+      "status": "일정 확인 필요",
+      "officialUrl": "https://apply.gh.or.kr/sb/sr/sr7155/selectPbancRentHouseList.do?pageIndex=1#a",
+      "attachments": [],
+      "documentStart": null,
+      "documentEnd": null,
+      "winnerAt": null,
+      "contractStart": null,
+      "contractEnd": null,
+      "scheduleSource": "GH 청약센터 목록(보조 경로)",
+      "scheduleConfidence": "확인필요",
+      "firstCollectedAt": "2026-08-22T22:37:11+00:00",
+      "lastCheckedAt": "2026-08-22T22:37:11+00:00",
+      "isNew": true
     },
     {
       "id": "SH-dc3f347cb66ebd",
@@ -2366,7 +2417,7 @@
       "scheduleSource": null,
       "scheduleConfidence": null,
       "firstCollectedAt": "2026-07-19T04:34:38+00:00",
-      "lastCheckedAt": "2026-08-21T23:37:17+00:00",
+      "lastCheckedAt": "2026-08-22T22:37:11+00:00",
       "isNew": false
     },
     {
@@ -2392,7 +2443,7 @@
       "scheduleSource": null,
       "scheduleConfidence": null,
       "firstCollectedAt": "2026-08-10T23:59:30+00:00",
-      "lastCheckedAt": "2026-08-21T23:37:17+00:00",
+      "lastCheckedAt": "2026-08-22T22:37:11+00:00",
       "isNew": false
     },
     {
@@ -2418,7 +2469,7 @@
       "scheduleSource": null,
       "scheduleConfidence": null,
       "firstCollectedAt": "2026-07-19T04:34:38+00:00",
-      "lastCheckedAt": "2026-08-21T23:37:17+00:00",
+      "lastCheckedAt": "2026-08-22T22:37:11+00:00",
       "isNew": false
     },
     {
@@ -2444,7 +2495,7 @@
       "scheduleSource": null,
       "scheduleConfidence": null,
       "firstCollectedAt": "2026-07-19T04:34:38+00:00",
-      "lastCheckedAt": "2026-08-21T23:37:17+00:00",
+      "lastCheckedAt": "2026-08-22T22:37:11+00:00",
       "isNew": false
     },
     {
@@ -2470,8 +2521,36 @@
       "scheduleSource": null,
       "scheduleConfidence": null,
       "firstCollectedAt": "2026-07-19T04:34:38+00:00",
-      "lastCheckedAt": "2026-08-21T23:37:17+00:00",
+      "lastCheckedAt": "2026-08-22T22:37:11+00:00",
       "isNew": false
+    },
+    {
+      "id": "GH-69b49cfc5ceb54",
+      "agency": "GH",
+      "title": "26년 1차 청년 매입임대주택 예비입주자 모집공고",
+      "noticeType": "매입임대",
+      "targetGroups": [
+        "청년"
+      ],
+      "regions": [
+        "경기도"
+      ],
+      "publishedAt": "2026-04-17",
+      "applyStart": null,
+      "applyEnd": "2026-04-30",
+      "status": "마감",
+      "officialUrl": "https://apply.gh.or.kr/sb/sr/sr7155/selectPbancRentHouseList.do?pageIndex=1#a",
+      "attachments": [],
+      "documentStart": null,
+      "documentEnd": null,
+      "winnerAt": null,
+      "contractStart": null,
+      "contractEnd": null,
+      "scheduleSource": "GH 청약센터 목록(보조 경로)",
+      "scheduleConfidence": "높음",
+      "firstCollectedAt": "2026-08-22T22:37:11+00:00",
+      "lastCheckedAt": "2026-08-22T22:37:11+00:00",
+      "isNew": true
     },
     {
       "id": "SH-a581a8b08c9ade",
@@ -2499,7 +2578,7 @@
       "scheduleSource": null,
       "scheduleConfidence": null,
       "firstCollectedAt": "2026-08-18T22:59:28+00:00",
-      "lastCheckedAt": "2026-08-21T23:37:17+00:00",
+      "lastCheckedAt": "2026-08-22T22:37:11+00:00",
       "isNew": false
     },
     {
@@ -2525,7 +2604,7 @@
       "scheduleSource": null,
       "scheduleConfidence": null,
       "firstCollectedAt": "2026-07-19T04:34:38+00:00",
-      "lastCheckedAt": "2026-08-21T23:37:17+00:00",
+      "lastCheckedAt": "2026-08-22T22:37:11+00:00",
       "isNew": false
     },
     {
@@ -2551,7 +2630,7 @@
       "scheduleSource": null,
       "scheduleConfidence": null,
       "firstCollectedAt": "2026-07-19T04:34:38+00:00",
-      "lastCheckedAt": "2026-08-21T23:37:17+00:00",
+      "lastCheckedAt": "2026-08-22T22:37:11+00:00",
       "isNew": false
     },
     {
@@ -2577,7 +2656,7 @@
       "scheduleSource": null,
       "scheduleConfidence": null,
       "firstCollectedAt": "2026-07-19T04:34:38+00:00",
-      "lastCheckedAt": "2026-08-21T23:37:17+00:00",
+      "lastCheckedAt": "2026-08-22T22:37:11+00:00",
       "isNew": false
     },
     {
@@ -2603,7 +2682,7 @@
       "scheduleSource": null,
       "scheduleConfidence": null,
       "firstCollectedAt": "2026-07-19T04:34:38+00:00",
-      "lastCheckedAt": "2026-08-21T23:37:17+00:00",
+      "lastCheckedAt": "2026-08-22T22:37:11+00:00",
       "isNew": false
     },
     {
@@ -2629,7 +2708,7 @@
       "scheduleSource": null,
       "scheduleConfidence": null,
       "firstCollectedAt": "2026-07-19T04:34:38+00:00",
-      "lastCheckedAt": "2026-08-21T23:37:17+00:00",
+      "lastCheckedAt": "2026-08-22T22:37:11+00:00",
       "isNew": false
     },
     {
@@ -2655,7 +2734,7 @@
       "scheduleSource": null,
       "scheduleConfidence": null,
       "firstCollectedAt": "2026-07-19T04:34:38+00:00",
-      "lastCheckedAt": "2026-08-21T23:37:17+00:00",
+      "lastCheckedAt": "2026-08-22T22:37:11+00:00",
       "isNew": false
     },
     {
@@ -2681,7 +2760,7 @@
       "scheduleSource": null,
       "scheduleConfidence": null,
       "firstCollectedAt": "2026-07-19T04:34:38+00:00",
-      "lastCheckedAt": "2026-08-21T23:37:17+00:00",
+      "lastCheckedAt": "2026-08-22T22:37:11+00:00",
       "isNew": false
     },
     {
@@ -2707,7 +2786,7 @@
       "scheduleSource": null,
       "scheduleConfidence": null,
       "firstCollectedAt": "2026-07-19T04:34:38+00:00",
-      "lastCheckedAt": "2026-08-21T23:37:17+00:00",
+      "lastCheckedAt": "2026-08-22T22:37:11+00:00",
       "isNew": false
     },
     {
@@ -2733,8 +2812,36 @@
       "scheduleSource": null,
       "scheduleConfidence": null,
       "firstCollectedAt": "2026-07-19T04:34:38+00:00",
-      "lastCheckedAt": "2026-08-21T23:37:17+00:00",
+      "lastCheckedAt": "2026-08-22T22:37:11+00:00",
       "isNew": false
+    },
+    {
+      "id": "GH-d7111fb944ab2e",
+      "agency": "GH",
+      "title": "[[정정공고] 25년 2차 청년매입임대주택 예비입주자 모집공고](https://apply.gh.or.kr/sb/sr/sr7155/selectPbancRentHouseList.do?pageIndex=1#a)",
+      "noticeType": "매입임대",
+      "targetGroups": [
+        "청년"
+      ],
+      "regions": [
+        "경기도"
+      ],
+      "publishedAt": "2025-11-28",
+      "applyStart": null,
+      "applyEnd": "2025-12-17",
+      "status": "마감",
+      "officialUrl": "https://apply.gh.or.kr/sb/sr/sr7155/selectPbancRentHouseList.do",
+      "attachments": [],
+      "documentStart": null,
+      "documentEnd": null,
+      "winnerAt": null,
+      "contractStart": null,
+      "contractEnd": null,
+      "scheduleSource": "GH 청약센터 목록(보조 경로)",
+      "scheduleConfidence": "높음",
+      "firstCollectedAt": "2026-08-22T22:37:11+00:00",
+      "lastCheckedAt": "2026-08-22T22:37:11+00:00",
+      "isNew": true
     },
     {
       "id": "SH-c36ecd41a80b64",
@@ -2759,7 +2866,7 @@
       "scheduleSource": null,
       "scheduleConfidence": null,
       "firstCollectedAt": "2026-07-19T04:34:38+00:00",
-      "lastCheckedAt": "2026-08-21T23:37:17+00:00",
+      "lastCheckedAt": "2026-08-22T22:37:11+00:00",
       "isNew": false
     },
     {
@@ -2785,7 +2892,7 @@
       "scheduleSource": null,
       "scheduleConfidence": null,
       "firstCollectedAt": "2026-07-19T04:34:38+00:00",
-      "lastCheckedAt": "2026-08-21T23:37:17+00:00",
+      "lastCheckedAt": "2026-08-22T22:37:11+00:00",
       "isNew": false
     },
     {
@@ -2811,7 +2918,7 @@
       "scheduleSource": null,
       "scheduleConfidence": null,
       "firstCollectedAt": "2026-07-19T04:34:38+00:00",
-      "lastCheckedAt": "2026-08-21T23:37:17+00:00",
+      "lastCheckedAt": "2026-08-22T22:37:11+00:00",
       "isNew": false
     },
     {
@@ -2837,7 +2944,7 @@
       "scheduleSource": null,
       "scheduleConfidence": null,
       "firstCollectedAt": "2026-07-19T04:34:38+00:00",
-      "lastCheckedAt": "2026-08-21T23:37:17+00:00",
+      "lastCheckedAt": "2026-08-22T22:37:11+00:00",
       "isNew": false
     },
     {
@@ -2863,7 +2970,7 @@
       "scheduleSource": null,
       "scheduleConfidence": null,
       "firstCollectedAt": "2026-07-19T04:34:38+00:00",
-      "lastCheckedAt": "2026-08-21T23:37:17+00:00",
+      "lastCheckedAt": "2026-08-22T22:37:11+00:00",
       "isNew": false
     },
     {
@@ -2889,7 +2996,7 @@
       "scheduleSource": null,
       "scheduleConfidence": null,
       "firstCollectedAt": "2026-07-19T04:34:38+00:00",
-      "lastCheckedAt": "2026-08-21T23:37:17+00:00",
+      "lastCheckedAt": "2026-08-22T22:37:11+00:00",
       "isNew": false
     },
     {
@@ -2915,7 +3022,7 @@
       "scheduleSource": null,
       "scheduleConfidence": null,
       "firstCollectedAt": "2026-07-19T04:34:38+00:00",
-      "lastCheckedAt": "2026-08-21T23:37:17+00:00",
+      "lastCheckedAt": "2026-08-22T22:37:11+00:00",
       "isNew": false
     },
     {
@@ -2941,7 +3048,7 @@
       "scheduleSource": null,
       "scheduleConfidence": null,
       "firstCollectedAt": "2026-07-19T04:34:38+00:00",
-      "lastCheckedAt": "2026-08-21T23:37:17+00:00",
+      "lastCheckedAt": "2026-08-22T22:37:11+00:00",
       "isNew": false
     },
     {
@@ -2967,7 +3074,7 @@
       "scheduleSource": null,
       "scheduleConfidence": null,
       "firstCollectedAt": "2026-07-19T04:34:38+00:00",
-      "lastCheckedAt": "2026-08-21T23:37:17+00:00",
+      "lastCheckedAt": "2026-08-22T22:37:11+00:00",
       "isNew": false
     },
     {
@@ -2993,7 +3100,7 @@
       "scheduleSource": null,
       "scheduleConfidence": null,
       "firstCollectedAt": "2026-07-19T04:34:38+00:00",
-      "lastCheckedAt": "2026-08-21T23:37:17+00:00",
+      "lastCheckedAt": "2026-08-22T22:37:11+00:00",
       "isNew": false
     },
     {
@@ -3019,8 +3126,64 @@
       "scheduleSource": null,
       "scheduleConfidence": null,
       "firstCollectedAt": "2026-07-19T04:34:38+00:00",
-      "lastCheckedAt": "2026-08-21T23:37:17+00:00",
+      "lastCheckedAt": "2026-08-22T22:37:11+00:00",
       "isNew": false
+    },
+    {
+      "id": "GH-52bc005b36611e",
+      "agency": "GH",
+      "title": "25년 자립준비청년(보호종료아동) 매입임대 상시 예비입주자 모집공고",
+      "noticeType": "매입임대",
+      "targetGroups": [
+        "청년"
+      ],
+      "regions": [
+        "경기도"
+      ],
+      "publishedAt": "2025-03-28",
+      "applyStart": null,
+      "applyEnd": "2025-12-31",
+      "status": "마감",
+      "officialUrl": "https://apply.gh.or.kr/sb/sr/sr7155/selectPbancRentHouseList.do?pageIndex=1#a",
+      "attachments": [],
+      "documentStart": null,
+      "documentEnd": null,
+      "winnerAt": null,
+      "contractStart": null,
+      "contractEnd": null,
+      "scheduleSource": "GH 청약센터 목록(보조 경로)",
+      "scheduleConfidence": "높음",
+      "firstCollectedAt": "2026-08-22T22:37:11+00:00",
+      "lastCheckedAt": "2026-08-22T22:37:11+00:00",
+      "isNew": true
+    },
+    {
+      "id": "GH-b1fbc9430eed19",
+      "agency": "GH",
+      "title": "25년 1차 청년매입임대주택 예비입주자 모집공고",
+      "noticeType": "매입임대",
+      "targetGroups": [
+        "청년"
+      ],
+      "regions": [
+        "경기도"
+      ],
+      "publishedAt": "2025-03-28",
+      "applyStart": null,
+      "applyEnd": "2025-04-09",
+      "status": "마감",
+      "officialUrl": "https://apply.gh.or.kr/sb/sr/sr7155/selectPbancRentHouseList.do?pageIndex=1#a",
+      "attachments": [],
+      "documentStart": null,
+      "documentEnd": null,
+      "winnerAt": null,
+      "contractStart": null,
+      "contractEnd": null,
+      "scheduleSource": "GH 청약센터 목록(보조 경로)",
+      "scheduleConfidence": "높음",
+      "firstCollectedAt": "2026-08-22T22:37:11+00:00",
+      "lastCheckedAt": "2026-08-22T22:37:11+00:00",
+      "isNew": true
     },
     {
       "id": "SH-5753a1ff55f8ac",
@@ -3045,7 +3208,7 @@
       "scheduleSource": null,
       "scheduleConfidence": null,
       "firstCollectedAt": "2026-07-19T04:34:38+00:00",
-      "lastCheckedAt": "2026-08-21T23:37:17+00:00",
+      "lastCheckedAt": "2026-08-22T22:37:11+00:00",
       "isNew": false
     },
     {
@@ -3071,7 +3234,7 @@
       "scheduleSource": null,
       "scheduleConfidence": null,
       "firstCollectedAt": "2026-07-19T04:34:38+00:00",
-      "lastCheckedAt": "2026-08-21T23:37:17+00:00",
+      "lastCheckedAt": "2026-08-22T22:37:11+00:00",
       "isNew": false
     },
     {
@@ -3097,7 +3260,7 @@
       "scheduleSource": null,
       "scheduleConfidence": null,
       "firstCollectedAt": "2026-07-19T04:34:38+00:00",
-      "lastCheckedAt": "2026-08-21T23:37:17+00:00",
+      "lastCheckedAt": "2026-08-22T22:37:11+00:00",
       "isNew": false
     },
     {
@@ -3123,7 +3286,7 @@
       "scheduleSource": null,
       "scheduleConfidence": null,
       "firstCollectedAt": "2026-07-19T04:34:38+00:00",
-      "lastCheckedAt": "2026-08-21T23:37:17+00:00",
+      "lastCheckedAt": "2026-08-22T22:37:11+00:00",
       "isNew": false
     },
     {
@@ -3149,7 +3312,7 @@
       "scheduleSource": null,
       "scheduleConfidence": null,
       "firstCollectedAt": "2026-07-19T04:34:38+00:00",
-      "lastCheckedAt": "2026-08-21T23:37:17+00:00",
+      "lastCheckedAt": "2026-08-22T22:37:11+00:00",
       "isNew": false
     },
     {
@@ -3175,7 +3338,7 @@
       "scheduleSource": null,
       "scheduleConfidence": null,
       "firstCollectedAt": "2026-07-19T04:34:38+00:00",
-      "lastCheckedAt": "2026-08-21T23:37:17+00:00",
+      "lastCheckedAt": "2026-08-22T22:37:11+00:00",
       "isNew": false
     },
     {
@@ -3201,8 +3364,36 @@
       "scheduleSource": null,
       "scheduleConfidence": null,
       "firstCollectedAt": "2026-07-19T04:34:38+00:00",
-      "lastCheckedAt": "2026-08-21T23:37:17+00:00",
+      "lastCheckedAt": "2026-08-22T22:37:11+00:00",
       "isNew": false
+    },
+    {
+      "id": "GH-31376af77a982c",
+      "agency": "GH",
+      "title": "청년 매입임대주택 (예비)입주자모집(2023년 3차)",
+      "noticeType": "매입임대",
+      "targetGroups": [
+        "청년"
+      ],
+      "regions": [
+        "경기도"
+      ],
+      "publishedAt": "2023-09-22",
+      "applyStart": null,
+      "applyEnd": "2023-11-02",
+      "status": "마감",
+      "officialUrl": "https://apply.gh.or.kr/sb/sr/sr7155/selectPbancRentHouseList.do?pageIndex=1#a",
+      "attachments": [],
+      "documentStart": null,
+      "documentEnd": null,
+      "winnerAt": null,
+      "contractStart": null,
+      "contractEnd": null,
+      "scheduleSource": "GH 청약센터 목록(보조 경로)",
+      "scheduleConfidence": "높음",
+      "firstCollectedAt": "2026-08-22T22:37:11+00:00",
+      "lastCheckedAt": "2026-08-22T22:37:11+00:00",
+      "isNew": true
     },
     {
       "id": "GH-38d80ce624d1b9",
@@ -3228,7 +3419,7 @@
       "scheduleSource": "GH 일반 공고 게시판",
       "scheduleConfidence": "확인필요",
       "firstCollectedAt": "2026-07-24T07:42:34+00:00",
-      "lastCheckedAt": "2026-08-21T23:37:17+00:00",
+      "lastCheckedAt": "2026-08-22T22:37:11+00:00",
       "isNew": false
     },
     {
@@ -3254,7 +3445,7 @@
       "scheduleSource": "GH 일반 공고 게시판",
       "scheduleConfidence": "확인필요",
       "firstCollectedAt": "2026-07-19T04:07:52+00:00",
-      "lastCheckedAt": "2026-08-21T23:37:17+00:00",
+      "lastCheckedAt": "2026-08-22T22:37:11+00:00",
       "isNew": false
     },
     {
@@ -3280,7 +3471,7 @@
       "scheduleSource": "GH 일반 공고 게시판",
       "scheduleConfidence": "확인필요",
       "firstCollectedAt": "2026-07-19T04:07:52+00:00",
-      "lastCheckedAt": "2026-08-21T23:37:17+00:00",
+      "lastCheckedAt": "2026-08-22T22:37:11+00:00",
       "isNew": false
     },
     {
@@ -3309,7 +3500,7 @@
       "scheduleSource": "GH 일반 공고 게시판",
       "scheduleConfidence": "확인필요",
       "firstCollectedAt": "2026-07-19T04:07:52+00:00",
-      "lastCheckedAt": "2026-08-21T23:37:17+00:00",
+      "lastCheckedAt": "2026-08-22T22:37:11+00:00",
       "isNew": false
     },
     {
@@ -3336,7 +3527,7 @@
       "scheduleSource": "GH 일반 공고 게시판",
       "scheduleConfidence": "확인필요",
       "firstCollectedAt": "2026-07-19T04:07:52+00:00",
-      "lastCheckedAt": "2026-08-21T23:37:17+00:00",
+      "lastCheckedAt": "2026-08-22T22:37:11+00:00",
       "isNew": false
     },
     {
@@ -3363,7 +3554,7 @@
       "scheduleSource": "GH 일반 공고 게시판",
       "scheduleConfidence": "확인필요",
       "firstCollectedAt": "2026-08-19T22:40:22+00:00",
-      "lastCheckedAt": "2026-08-21T23:37:17+00:00",
+      "lastCheckedAt": "2026-08-22T22:37:11+00:00",
       "isNew": false
     },
     {
@@ -3390,7 +3581,7 @@
       "scheduleSource": "GH 일반 공고 게시판",
       "scheduleConfidence": "확인필요",
       "firstCollectedAt": "2026-07-19T04:07:52+00:00",
-      "lastCheckedAt": "2026-08-21T23:37:17+00:00",
+      "lastCheckedAt": "2026-08-22T22:37:11+00:00",
       "isNew": false
     },
     {
@@ -3417,7 +3608,7 @@
       "scheduleSource": "GH 일반 공고 게시판",
       "scheduleConfidence": "확인필요",
       "firstCollectedAt": "2026-07-19T04:07:52+00:00",
-      "lastCheckedAt": "2026-08-21T23:37:17+00:00",
+      "lastCheckedAt": "2026-08-22T22:37:11+00:00",
       "isNew": false
     },
     {
@@ -3444,7 +3635,7 @@
       "scheduleSource": "GH 일반 공고 게시판",
       "scheduleConfidence": "확인필요",
       "firstCollectedAt": "2026-07-19T04:07:52+00:00",
-      "lastCheckedAt": "2026-08-21T23:37:17+00:00",
+      "lastCheckedAt": "2026-08-22T22:37:11+00:00",
       "isNew": false
     },
     {
@@ -3472,7 +3663,7 @@
       "scheduleSource": "GH 일반 공고 게시판",
       "scheduleConfidence": "확인필요",
       "firstCollectedAt": "2026-07-19T04:07:52+00:00",
-      "lastCheckedAt": "2026-08-21T23:37:17+00:00",
+      "lastCheckedAt": "2026-08-22T22:37:11+00:00",
       "isNew": false
     },
     {
@@ -3498,7 +3689,7 @@
       "scheduleSource": "GH 일반 공고 게시판",
       "scheduleConfidence": "높음",
       "firstCollectedAt": "2026-07-19T04:07:52+00:00",
-      "lastCheckedAt": "2026-08-21T23:37:17+00:00",
+      "lastCheckedAt": "2026-08-22T22:37:11+00:00",
       "isNew": false
     },
     {
@@ -3524,7 +3715,7 @@
       "scheduleSource": "GH 일반 공고 게시판",
       "scheduleConfidence": "확인필요",
       "firstCollectedAt": "2026-07-19T04:07:52+00:00",
-      "lastCheckedAt": "2026-08-21T23:37:17+00:00",
+      "lastCheckedAt": "2026-08-22T22:37:11+00:00",
       "isNew": false
     },
     {
@@ -3550,7 +3741,7 @@
       "scheduleSource": "GH 일반 공고 게시판",
       "scheduleConfidence": "확인필요",
       "firstCollectedAt": "2026-07-19T04:07:52+00:00",
-      "lastCheckedAt": "2026-08-21T23:37:17+00:00",
+      "lastCheckedAt": "2026-08-22T22:37:11+00:00",
       "isNew": false
     },
     {
@@ -3576,7 +3767,7 @@
       "scheduleSource": "GH 일반 공고 게시판",
       "scheduleConfidence": "확인필요",
       "firstCollectedAt": "2026-07-19T04:07:52+00:00",
-      "lastCheckedAt": "2026-08-21T23:37:17+00:00",
+      "lastCheckedAt": "2026-08-22T22:37:11+00:00",
       "isNew": false
     },
     {
@@ -3605,7 +3796,7 @@
       "scheduleSource": "GH 일반 공고 게시판",
       "scheduleConfidence": "확인필요",
       "firstCollectedAt": "2026-07-19T04:07:52+00:00",
-      "lastCheckedAt": "2026-08-21T23:37:17+00:00",
+      "lastCheckedAt": "2026-08-22T22:37:11+00:00",
       "isNew": false
     },
     {
@@ -3635,7 +3826,7 @@
       "scheduleSource": "GH 일반 공고 게시판",
       "scheduleConfidence": "높음",
       "firstCollectedAt": "2026-08-14T04:30:45+00:00",
-      "lastCheckedAt": "2026-08-21T23:37:17+00:00",
+      "lastCheckedAt": "2026-08-22T22:37:11+00:00",
       "isNew": false
     },
     {
@@ -3665,7 +3856,7 @@
       "scheduleSource": "GH 일반 공고 게시판",
       "scheduleConfidence": "높음",
       "firstCollectedAt": "2026-07-19T04:07:52+00:00",
-      "lastCheckedAt": "2026-08-21T23:37:17+00:00",
+      "lastCheckedAt": "2026-08-22T22:37:11+00:00",
       "isNew": false
     },
     {
@@ -3692,7 +3883,7 @@
       "scheduleSource": "GH 일반 공고 게시판",
       "scheduleConfidence": "확인필요",
       "firstCollectedAt": "2026-07-19T04:07:52+00:00",
-      "lastCheckedAt": "2026-08-21T23:37:17+00:00",
+      "lastCheckedAt": "2026-08-22T22:37:11+00:00",
       "isNew": false
     },
     {
@@ -3719,7 +3910,7 @@
       "scheduleSource": "GH 일반 공고 게시판",
       "scheduleConfidence": "확인필요",
       "firstCollectedAt": "2026-07-19T04:07:52+00:00",
-      "lastCheckedAt": "2026-08-21T23:37:17+00:00",
+      "lastCheckedAt": "2026-08-22T22:37:11+00:00",
       "isNew": false
     },
     {
@@ -3746,7 +3937,7 @@
       "scheduleSource": "GH 일반 공고 게시판",
       "scheduleConfidence": "확인필요",
       "firstCollectedAt": "2026-08-07T05:02:56+00:00",
-      "lastCheckedAt": "2026-08-21T23:37:17+00:00",
+      "lastCheckedAt": "2026-08-22T22:37:11+00:00",
       "isNew": false
     },
     {
@@ -3773,7 +3964,7 @@
       "scheduleSource": "GH 일반 공고 게시판",
       "scheduleConfidence": "확인필요",
       "firstCollectedAt": "2026-07-19T04:07:52+00:00",
-      "lastCheckedAt": "2026-08-21T23:37:17+00:00",
+      "lastCheckedAt": "2026-08-22T22:37:11+00:00",
       "isNew": false
     },
     {
@@ -3800,7 +3991,7 @@
       "scheduleSource": "GH 일반 공고 게시판",
       "scheduleConfidence": "확인필요",
       "firstCollectedAt": "2026-07-31T08:20:48+00:00",
-      "lastCheckedAt": "2026-08-21T23:37:17+00:00",
+      "lastCheckedAt": "2026-08-22T22:37:11+00:00",
       "isNew": false
     },
     {
@@ -3826,7 +4017,7 @@
       "scheduleSource": "GH 일반 공고 게시판",
       "scheduleConfidence": "확인필요",
       "firstCollectedAt": "2026-07-19T04:07:52+00:00",
-      "lastCheckedAt": "2026-08-21T23:37:17+00:00",
+      "lastCheckedAt": "2026-08-22T22:37:11+00:00",
       "isNew": false
     },
     {
@@ -3854,7 +4045,7 @@
       "scheduleSource": "GH 일반 공고 게시판",
       "scheduleConfidence": "확인필요",
       "firstCollectedAt": "2026-07-19T04:07:52+00:00",
-      "lastCheckedAt": "2026-08-21T23:37:17+00:00",
+      "lastCheckedAt": "2026-08-22T22:37:11+00:00",
       "isNew": false
     },
     {
@@ -3882,7 +4073,7 @@
       "scheduleSource": "GH 일반 공고 게시판",
       "scheduleConfidence": "높음",
       "firstCollectedAt": "2026-07-19T04:07:52+00:00",
-      "lastCheckedAt": "2026-08-21T23:37:17+00:00",
+      "lastCheckedAt": "2026-08-22T22:37:11+00:00",
       "isNew": false
     },
     {
@@ -3908,7 +4099,7 @@
       "scheduleSource": "GH 일반 공고 게시판",
       "scheduleConfidence": "확인필요",
       "firstCollectedAt": "2026-07-31T08:20:48+00:00",
-      "lastCheckedAt": "2026-08-21T23:37:17+00:00",
+      "lastCheckedAt": "2026-08-22T22:37:11+00:00",
       "isNew": false
     },
     {
@@ -3935,7 +4126,7 @@
       "scheduleSource": "GH 일반 공고 게시판",
       "scheduleConfidence": "확인필요",
       "firstCollectedAt": "2026-07-19T04:07:52+00:00",
-      "lastCheckedAt": "2026-08-21T23:37:17+00:00",
+      "lastCheckedAt": "2026-08-22T22:37:11+00:00",
       "isNew": false
     },
     {
@@ -3961,7 +4152,7 @@
       "scheduleSource": "GH 일반 공고 게시판",
       "scheduleConfidence": "확인필요",
       "firstCollectedAt": "2026-07-19T04:07:52+00:00",
-      "lastCheckedAt": "2026-08-21T23:37:17+00:00",
+      "lastCheckedAt": "2026-08-22T22:37:11+00:00",
       "isNew": false
     },
     {
@@ -3987,7 +4178,7 @@
       "scheduleSource": "GH 일반 공고 게시판",
       "scheduleConfidence": "확인필요",
       "firstCollectedAt": "2026-07-19T04:07:52+00:00",
-      "lastCheckedAt": "2026-08-21T23:37:17+00:00",
+      "lastCheckedAt": "2026-08-22T22:37:11+00:00",
       "isNew": false
     }
   ]
