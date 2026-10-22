@@ -1,25 +1,25 @@
 {
-  "updatedAt": "2026-10-22T00:40:45+00:00",
+  "updatedAt": "2026-10-22T01:30:36+00:00",
   "sourceStatus": {
     "LH": {
       "ok": true,
       "count": 27,
       "rawCount": 27,
-      "checkedAt": "2026-10-22T00:40:45+00:00",
+      "checkedAt": "2026-10-22T01:30:36+00:00",
       "error": null
     },
     "SH": {
       "ok": true,
       "count": 45,
       "rawCount": 45,
-      "checkedAt": "2026-10-22T00:40:45+00:00",
+      "checkedAt": "2026-10-22T01:30:36+00:00",
       "error": null
     },
     "GH": {
       "ok": true,
-      "count": 31,
-      "rawCount": 31,
-      "checkedAt": "2026-10-22T00:40:45+00:00",
+      "count": 40,
+      "rawCount": 40,
+      "checkedAt": "2026-10-22T01:30:36+00:00",
       "error": null
     }
   },
@@ -47,8 +47,36 @@
       "scheduleSource": null,
       "scheduleConfidence": null,
       "firstCollectedAt": "2026-10-20T01:05:04+00:00",
-      "lastCheckedAt": "2026-10-22T00:40:45+00:00",
+      "lastCheckedAt": "2026-10-22T01:30:36+00:00",
       "isNew": false
+    },
+    {
+      "id": "GH-2ac1ee11d1b1f7",
+      "agency": "GH",
+      "title": "'26년 하반기 경기행복주택 예비입주자 추가모집 공고",
+      "noticeType": "행복주택",
+      "targetGroups": [],
+      "regions": [
+        "경기도",
+        "성남시",
+        "성남"
+      ],
+      "publishedAt": "2026-10-16",
+      "applyStart": null,
+      "applyEnd": "2026-10-28",
+      "status": "공고중",
+      "officialUrl": "https://apply.gh.or.kr/sb/sr/sr7150/selectPbancRentHouseList.do?pageIndex=1#a",
+      "attachments": [],
+      "documentStart": null,
+      "documentEnd": null,
+      "winnerAt": null,
+      "contractStart": null,
+      "contractEnd": null,
+      "scheduleSource": "GH 청약센터 목록(보조 경로)",
+      "scheduleConfidence": "높음",
+      "firstCollectedAt": "2026-10-22T01:30:36+00:00",
+      "lastCheckedAt": "2026-10-22T01:30:36+00:00",
+      "isNew": true
     },
     {
       "id": "SH-59145a6f40f9d1",
@@ -74,7 +102,7 @@
       "scheduleSource": null,
       "scheduleConfidence": null,
       "firstCollectedAt": "2026-10-15T00:30:49+00:00",
-      "lastCheckedAt": "2026-10-22T00:40:45+00:00",
+      "lastCheckedAt": "2026-10-22T01:30:36+00:00",
       "isNew": false
     },
     {
@@ -100,7 +128,7 @@
       "scheduleSource": null,
       "scheduleConfidence": null,
       "firstCollectedAt": "2026-10-01T01:17:18+00:00",
-      "lastCheckedAt": "2026-10-22T00:40:45+00:00",
+      "lastCheckedAt": "2026-10-22T01:30:36+00:00",
       "isNew": false
     },
     {
@@ -129,7 +157,7 @@
       "scheduleSource": null,
       "scheduleConfidence": null,
       "firstCollectedAt": "2026-10-01T01:17:18+00:00",
-      "lastCheckedAt": "2026-10-22T00:40:45+00:00",
+      "lastCheckedAt": "2026-10-22T01:30:36+00:00",
       "isNew": false
     },
     {
@@ -158,7 +186,7 @@
       "scheduleSource": null,
       "scheduleConfidence": null,
       "firstCollectedAt": "2026-10-01T01:17:18+00:00",
-      "lastCheckedAt": "2026-10-22T00:40:45+00:00",
+      "lastCheckedAt": "2026-10-22T01:30:36+00:00",
       "isNew": false
     },
     {
@@ -185,7 +213,7 @@
       "scheduleSource": null,
       "scheduleConfidence": null,
       "firstCollectedAt": "2026-09-29T01:56:26+00:00",
-      "lastCheckedAt": "2026-10-22T00:40:45+00:00",
+      "lastCheckedAt": "2026-10-22T01:30:36+00:00",
       "isNew": false
     },
     {
@@ -211,7 +239,7 @@
       "scheduleSource": null,
       "scheduleConfidence": null,
       "firstCollectedAt": "2026-09-24T00:29:32+00:00",
-      "lastCheckedAt": "2026-10-22T00:40:45+00:00",
+      "lastCheckedAt": "2026-10-22T01:30:36+00:00",
       "isNew": false
     },
     {
@@ -239,7 +267,7 @@
       "scheduleSource": null,
       "scheduleConfidence": null,
       "firstCollectedAt": "2026-09-22T00:49:30+00:00",
-      "lastCheckedAt": "2026-10-22T00:40:45+00:00",
+      "lastCheckedAt": "2026-10-22T01:30:36+00:00",
       "isNew": false
     },
     {
@@ -266,7 +294,7 @@
       "scheduleSource": null,
       "scheduleConfidence": null,
       "firstCollectedAt": "2026-09-22T00:49:30+00:00",
-      "lastCheckedAt": "2026-10-22T00:40:45+00:00",
+      "lastCheckedAt": "2026-10-22T01:30:36+00:00",
       "isNew": false
     },
     {
@@ -292,7 +320,7 @@
       "scheduleSource": null,
       "scheduleConfidence": null,
       "firstCollectedAt": "2026-09-22T00:49:30+00:00",
-      "lastCheckedAt": "2026-10-22T00:40:45+00:00",
+      "lastCheckedAt": "2026-10-22T01:30:36+00:00",
       "isNew": false
     },
     {
@@ -318,7 +346,7 @@
       "scheduleSource": null,
       "scheduleConfidence": null,
       "firstCollectedAt": "2026-10-15T00:30:49+00:00",
-      "lastCheckedAt": "2026-10-22T00:40:45+00:00",
+      "lastCheckedAt": "2026-10-22T01:30:36+00:00",
       "isNew": false
     },
     {
@@ -344,7 +372,7 @@
       "scheduleSource": null,
       "scheduleConfidence": null,
       "firstCollectedAt": "2026-09-18T00:17:34+00:00",
-      "lastCheckedAt": "2026-10-22T00:40:45+00:00",
+      "lastCheckedAt": "2026-10-22T01:30:36+00:00",
       "isNew": false
     },
     {
@@ -371,7 +399,7 @@
       "scheduleSource": null,
       "scheduleConfidence": null,
       "firstCollectedAt": "2026-09-18T00:17:34+00:00",
-      "lastCheckedAt": "2026-10-22T00:40:45+00:00",
+      "lastCheckedAt": "2026-10-22T01:30:36+00:00",
       "isNew": false
     },
     {
@@ -397,7 +425,7 @@
       "scheduleSource": null,
       "scheduleConfidence": null,
       "firstCollectedAt": "2026-09-17T00:31:39+00:00",
-      "lastCheckedAt": "2026-10-22T00:40:45+00:00",
+      "lastCheckedAt": "2026-10-22T01:30:36+00:00",
       "isNew": false
     },
     {
@@ -423,7 +451,7 @@
       "scheduleSource": null,
       "scheduleConfidence": null,
       "firstCollectedAt": "2026-09-17T00:31:39+00:00",
-      "lastCheckedAt": "2026-10-22T00:40:45+00:00",
+      "lastCheckedAt": "2026-10-22T01:30:36+00:00",
       "isNew": false
     },
     {
@@ -450,7 +478,7 @@
       "scheduleSource": null,
       "scheduleConfidence": null,
       "firstCollectedAt": "2026-09-16T00:18:49+00:00",
-      "lastCheckedAt": "2026-10-22T00:40:45+00:00",
+      "lastCheckedAt": "2026-10-22T01:30:36+00:00",
       "isNew": false
     },
     {
@@ -477,7 +505,7 @@
       "scheduleSource": null,
       "scheduleConfidence": null,
       "firstCollectedAt": "2026-09-11T00:09:28+00:00",
-      "lastCheckedAt": "2026-10-22T00:40:45+00:00",
+      "lastCheckedAt": "2026-10-22T01:30:36+00:00",
       "isNew": false
     },
     {
@@ -503,7 +531,7 @@
       "scheduleSource": null,
       "scheduleConfidence": null,
       "firstCollectedAt": "2026-10-09T02:08:38+00:00",
-      "lastCheckedAt": "2026-10-22T00:40:45+00:00",
+      "lastCheckedAt": "2026-10-22T01:30:36+00:00",
       "isNew": false
     },
     {
@@ -529,7 +557,7 @@
       "scheduleSource": null,
       "scheduleConfidence": null,
       "firstCollectedAt": "2026-09-29T01:56:26+00:00",
-      "lastCheckedAt": "2026-10-22T00:40:45+00:00",
+      "lastCheckedAt": "2026-10-22T01:30:36+00:00",
       "isNew": false
     },
     {
@@ -558,7 +586,7 @@
       "scheduleSource": null,
       "scheduleConfidence": null,
       "firstCollectedAt": "2026-09-08T01:12:04+00:00",
-      "lastCheckedAt": "2026-10-22T00:40:45+00:00",
+      "lastCheckedAt": "2026-10-22T01:30:36+00:00",
       "isNew": false
     },
     {
@@ -585,7 +613,7 @@
       "scheduleSource": null,
       "scheduleConfidence": null,
       "firstCollectedAt": "2026-09-09T00:13:52+00:00",
-      "lastCheckedAt": "2026-10-22T00:40:45+00:00",
+      "lastCheckedAt": "2026-10-22T01:30:36+00:00",
       "isNew": false
     },
     {
@@ -612,7 +640,7 @@
       "scheduleSource": null,
       "scheduleConfidence": null,
       "firstCollectedAt": "2026-09-08T00:24:45+00:00",
-      "lastCheckedAt": "2026-10-22T00:40:45+00:00",
+      "lastCheckedAt": "2026-10-22T01:30:36+00:00",
       "isNew": false
     },
     {
@@ -638,7 +666,7 @@
       "scheduleSource": null,
       "scheduleConfidence": null,
       "firstCollectedAt": "2026-09-08T00:24:45+00:00",
-      "lastCheckedAt": "2026-10-22T00:40:45+00:00",
+      "lastCheckedAt": "2026-10-22T01:30:36+00:00",
       "isNew": false
     },
     {
@@ -664,7 +692,7 @@
       "scheduleSource": null,
       "scheduleConfidence": null,
       "firstCollectedAt": "2026-09-08T00:24:45+00:00",
-      "lastCheckedAt": "2026-10-22T00:40:45+00:00",
+      "lastCheckedAt": "2026-10-22T01:30:36+00:00",
       "isNew": false
     },
     {
@@ -691,7 +719,7 @@
       "scheduleSource": null,
       "scheduleConfidence": null,
       "firstCollectedAt": "2026-09-08T00:24:45+00:00",
-      "lastCheckedAt": "2026-10-22T00:40:45+00:00",
+      "lastCheckedAt": "2026-10-22T01:30:36+00:00",
       "isNew": false
     },
     {
@@ -719,7 +747,7 @@
       "scheduleSource": null,
       "scheduleConfidence": null,
       "firstCollectedAt": "2026-09-08T00:24:45+00:00",
-      "lastCheckedAt": "2026-10-22T00:40:45+00:00",
+      "lastCheckedAt": "2026-10-22T01:30:36+00:00",
       "isNew": false
     },
     {
@@ -746,7 +774,7 @@
       "scheduleSource": null,
       "scheduleConfidence": null,
       "firstCollectedAt": "2026-09-08T00:24:45+00:00",
-      "lastCheckedAt": "2026-10-22T00:40:45+00:00",
+      "lastCheckedAt": "2026-10-22T01:30:36+00:00",
       "isNew": false
     },
     {
@@ -774,7 +802,7 @@
       "scheduleSource": null,
       "scheduleConfidence": null,
       "firstCollectedAt": "2026-09-08T00:24:45+00:00",
-      "lastCheckedAt": "2026-10-22T00:40:45+00:00",
+      "lastCheckedAt": "2026-10-22T01:30:36+00:00",
       "isNew": false
     },
     {
@@ -802,7 +830,7 @@
       "scheduleSource": null,
       "scheduleConfidence": null,
       "firstCollectedAt": "2026-09-19T00:20:11+00:00",
-      "lastCheckedAt": "2026-10-22T00:40:45+00:00",
+      "lastCheckedAt": "2026-10-22T01:30:36+00:00",
       "isNew": false
     },
     {
@@ -830,7 +858,7 @@
       "scheduleSource": null,
       "scheduleConfidence": null,
       "firstCollectedAt": "2026-09-08T00:24:45+00:00",
-      "lastCheckedAt": "2026-10-22T00:40:45+00:00",
+      "lastCheckedAt": "2026-10-22T01:30:36+00:00",
       "isNew": false
     },
     {
@@ -856,7 +884,7 @@
       "scheduleSource": null,
       "scheduleConfidence": null,
       "firstCollectedAt": "2026-09-08T00:24:45+00:00",
-      "lastCheckedAt": "2026-10-22T00:40:45+00:00",
+      "lastCheckedAt": "2026-10-22T01:30:36+00:00",
       "isNew": false
     },
     {
@@ -884,7 +912,7 @@
       "scheduleSource": null,
       "scheduleConfidence": null,
       "firstCollectedAt": "2026-09-05T23:53:31+00:00",
-      "lastCheckedAt": "2026-10-22T00:40:45+00:00",
+      "lastCheckedAt": "2026-10-22T01:30:36+00:00",
       "isNew": false
     },
     {
@@ -910,7 +938,7 @@
       "scheduleSource": null,
       "scheduleConfidence": null,
       "firstCollectedAt": "2026-10-22T00:40:45+00:00",
-      "lastCheckedAt": "2026-10-22T00:40:45+00:00",
+      "lastCheckedAt": "2026-10-22T01:30:36+00:00",
       "isNew": true
     },
     {
@@ -936,7 +964,7 @@
       "scheduleSource": null,
       "scheduleConfidence": null,
       "firstCollectedAt": "2026-10-01T01:17:18+00:00",
-      "lastCheckedAt": "2026-10-22T00:40:45+00:00",
+      "lastCheckedAt": "2026-10-22T01:30:36+00:00",
       "isNew": false
     },
     {
@@ -962,7 +990,7 @@
       "scheduleSource": null,
       "scheduleConfidence": null,
       "firstCollectedAt": "2026-08-27T04:30:47+00:00",
-      "lastCheckedAt": "2026-10-22T00:40:45+00:00",
+      "lastCheckedAt": "2026-10-22T01:30:36+00:00",
       "isNew": false
     },
     {
@@ -989,8 +1017,36 @@
       "scheduleSource": null,
       "scheduleConfidence": null,
       "firstCollectedAt": "2026-08-25T22:44:00+00:00",
-      "lastCheckedAt": "2026-10-22T00:40:45+00:00",
+      "lastCheckedAt": "2026-10-22T01:30:36+00:00",
       "isNew": false
+    },
+    {
+      "id": "GH-969268667dea99",
+      "agency": "GH",
+      "title": "연천BIX 경기행복주택 기업체 기숙사 추가모집 공고",
+      "noticeType": "행복주택",
+      "targetGroups": [],
+      "regions": [
+        "경기도",
+        "연천군",
+        "연천"
+      ],
+      "publishedAt": "2026-08-24",
+      "applyStart": null,
+      "applyEnd": null,
+      "status": "일정 확인 필요",
+      "officialUrl": "https://apply.gh.or.kr/sb/sr/sr7150/selectPbancRentHouseList.do?pageIndex=1#a",
+      "attachments": [],
+      "documentStart": null,
+      "documentEnd": null,
+      "winnerAt": null,
+      "contractStart": null,
+      "contractEnd": null,
+      "scheduleSource": "GH 청약센터 목록(보조 경로)",
+      "scheduleConfidence": "확인필요",
+      "firstCollectedAt": "2026-10-22T01:30:36+00:00",
+      "lastCheckedAt": "2026-10-22T01:30:36+00:00",
+      "isNew": true
     },
     {
       "id": "SH-663f4882f047c7",
@@ -1015,7 +1071,7 @@
       "scheduleSource": null,
       "scheduleConfidence": null,
       "firstCollectedAt": "2026-09-17T00:31:39+00:00",
-      "lastCheckedAt": "2026-10-22T00:40:45+00:00",
+      "lastCheckedAt": "2026-10-22T01:30:36+00:00",
       "isNew": false
     },
     {
@@ -1041,7 +1097,7 @@
       "scheduleSource": null,
       "scheduleConfidence": null,
       "firstCollectedAt": "2026-10-15T00:30:49+00:00",
-      "lastCheckedAt": "2026-10-22T00:40:45+00:00",
+      "lastCheckedAt": "2026-10-22T01:30:36+00:00",
       "isNew": false
     },
     {
@@ -1067,8 +1123,94 @@
       "scheduleSource": null,
       "scheduleConfidence": null,
       "firstCollectedAt": "2026-08-20T22:44:21+00:00",
-      "lastCheckedAt": "2026-10-22T00:40:45+00:00",
+      "lastCheckedAt": "2026-10-22T01:30:36+00:00",
       "isNew": false
+    },
+    {
+      "id": "GH-c0da3295dc4941",
+      "agency": "GH",
+      "title": "경기리츠1호 다산진건데시앙 장기전세주택 예비입주자 모집공고",
+      "noticeType": "장기전세",
+      "targetGroups": [],
+      "regions": [
+        "경기도",
+        "남양주시",
+        "남양주",
+        "양주시"
+      ],
+      "publishedAt": "2026-08-13",
+      "applyStart": null,
+      "applyEnd": "2026-08-24",
+      "status": "마감",
+      "officialUrl": "https://apply.gh.or.kr/sb/sr/sr7150/selectPbancRentHouseList.do?pageIndex=1#a",
+      "attachments": [],
+      "documentStart": null,
+      "documentEnd": null,
+      "winnerAt": null,
+      "contractStart": null,
+      "contractEnd": null,
+      "scheduleSource": "GH 청약센터 목록(보조 경로)",
+      "scheduleConfidence": "높음",
+      "firstCollectedAt": "2026-10-22T01:30:36+00:00",
+      "lastCheckedAt": "2026-10-22T01:30:36+00:00",
+      "isNew": true
+    },
+    {
+      "id": "GH-ae38b82f044470",
+      "agency": "GH",
+      "title": "다산센트럴파크6단지 국민임대주택 예비입주자 모집공고",
+      "noticeType": "국민임대",
+      "targetGroups": [],
+      "regions": [
+        "경기도",
+        "남양주시",
+        "남양주",
+        "양주시"
+      ],
+      "publishedAt": "2026-07-10",
+      "applyStart": null,
+      "applyEnd": "2026-07-20",
+      "status": "마감",
+      "officialUrl": "https://apply.gh.or.kr/sb/sr/sr7150/selectPbancRentHouseList.do?pageIndex=1#a",
+      "attachments": [],
+      "documentStart": null,
+      "documentEnd": null,
+      "winnerAt": null,
+      "contractStart": null,
+      "contractEnd": null,
+      "scheduleSource": "GH 청약센터 목록(보조 경로)",
+      "scheduleConfidence": "높음",
+      "firstCollectedAt": "2026-10-22T01:30:36+00:00",
+      "lastCheckedAt": "2026-10-22T01:30:36+00:00",
+      "isNew": true
+    },
+    {
+      "id": "GH-9a195263804919",
+      "agency": "GH",
+      "title": "안양냉천 지구내 주민",
+      "noticeType": "행복주택",
+      "targetGroups": [],
+      "regions": [
+        "경기도",
+        "안양시",
+        "안양"
+      ],
+      "publishedAt": "2026-06-26",
+      "applyStart": null,
+      "applyEnd": "2026-07-24",
+      "status": "마감",
+      "officialUrl": "https://apply.gh.or.kr/sb/sr/sr7150/selectPbancRentHouseList.do?pageIndex=1#a",
+      "attachments": [],
+      "documentStart": null,
+      "documentEnd": null,
+      "winnerAt": null,
+      "contractStart": null,
+      "contractEnd": null,
+      "scheduleSource": "GH 청약센터 목록(보조 경로)",
+      "scheduleConfidence": "높음",
+      "firstCollectedAt": "2026-10-22T01:30:36+00:00",
+      "lastCheckedAt": "2026-10-22T01:30:36+00:00",
+      "isNew": true
     },
     {
       "id": "SH-73cb66794f414f",
@@ -1095,8 +1237,37 @@
       "scheduleSource": null,
       "scheduleConfidence": null,
       "firstCollectedAt": "2026-07-28T07:58:37+00:00",
-      "lastCheckedAt": "2026-10-22T00:40:45+00:00",
+      "lastCheckedAt": "2026-10-22T01:30:36+00:00",
       "isNew": false
+    },
+    {
+      "id": "GH-01eee4e78aa848",
+      "agency": "GH",
+      "title": "다산 포레스트 2단지 국민임대주택 예비입주자 모집공고",
+      "noticeType": "국민임대",
+      "targetGroups": [],
+      "regions": [
+        "경기도",
+        "남양주시",
+        "남양주",
+        "양주시"
+      ],
+      "publishedAt": "2026-06-19",
+      "applyStart": null,
+      "applyEnd": "2026-07-02",
+      "status": "마감",
+      "officialUrl": "https://apply.gh.or.kr/sb/sr/sr7150/selectPbancRentHouseList.do?pageIndex=1#a",
+      "attachments": [],
+      "documentStart": null,
+      "documentEnd": null,
+      "winnerAt": null,
+      "contractStart": null,
+      "contractEnd": null,
+      "scheduleSource": "GH 청약센터 목록(보조 경로)",
+      "scheduleConfidence": "높음",
+      "firstCollectedAt": "2026-10-22T01:30:36+00:00",
+      "lastCheckedAt": "2026-10-22T01:30:36+00:00",
+      "isNew": true
     },
     {
       "id": "SH-95ee8d841ead57",
@@ -1123,7 +1294,7 @@
       "scheduleSource": null,
       "scheduleConfidence": null,
       "firstCollectedAt": "2026-07-19T04:34:38+00:00",
-      "lastCheckedAt": "2026-10-22T00:40:45+00:00",
+      "lastCheckedAt": "2026-10-22T01:30:36+00:00",
       "isNew": false
     },
     {
@@ -1151,7 +1322,7 @@
       "scheduleSource": null,
       "scheduleConfidence": null,
       "firstCollectedAt": "2026-07-19T04:34:38+00:00",
-      "lastCheckedAt": "2026-10-22T00:40:45+00:00",
+      "lastCheckedAt": "2026-10-22T01:30:36+00:00",
       "isNew": false
     },
     {
@@ -1177,8 +1348,37 @@
       "scheduleSource": null,
       "scheduleConfidence": null,
       "firstCollectedAt": "2026-07-19T04:34:38+00:00",
-      "lastCheckedAt": "2026-10-22T00:40:45+00:00",
+      "lastCheckedAt": "2026-10-22T01:30:36+00:00",
       "isNew": false
+    },
+    {
+      "id": "GH-d0ac577ce871d6",
+      "agency": "GH",
+      "title": "(최초) 다산지금A3 통합공공임대주택 입주자 모집 공고",
+      "noticeType": "통합공공임대",
+      "targetGroups": [],
+      "regions": [
+        "경기도",
+        "남양주시",
+        "남양주",
+        "양주시"
+      ],
+      "publishedAt": "2026-05-28",
+      "applyStart": null,
+      "applyEnd": "2026-06-19",
+      "status": "마감",
+      "officialUrl": "https://apply.gh.or.kr/sb/sr/sr7150/selectPbancRentHouseList.do?pageIndex=1#a",
+      "attachments": [],
+      "documentStart": null,
+      "documentEnd": null,
+      "winnerAt": null,
+      "contractStart": null,
+      "contractEnd": null,
+      "scheduleSource": "GH 청약센터 목록(보조 경로)",
+      "scheduleConfidence": "높음",
+      "firstCollectedAt": "2026-10-22T01:30:36+00:00",
+      "lastCheckedAt": "2026-10-22T01:30:36+00:00",
+      "isNew": true
     },
     {
       "id": "SH-4bf23270857c94",
@@ -1205,7 +1405,7 @@
       "scheduleSource": null,
       "scheduleConfidence": null,
       "firstCollectedAt": "2026-07-19T04:34:38+00:00",
-      "lastCheckedAt": "2026-10-22T00:40:45+00:00",
+      "lastCheckedAt": "2026-10-22T01:30:36+00:00",
       "isNew": false
     },
     {
@@ -1231,7 +1431,7 @@
       "scheduleSource": null,
       "scheduleConfidence": null,
       "firstCollectedAt": "2026-07-19T04:34:38+00:00",
-      "lastCheckedAt": "2026-10-22T00:40:45+00:00",
+      "lastCheckedAt": "2026-10-22T01:30:36+00:00",
       "isNew": false
     },
     {
@@ -1257,8 +1457,38 @@
       "scheduleSource": null,
       "scheduleConfidence": null,
       "firstCollectedAt": "2026-08-10T23:59:30+00:00",
-      "lastCheckedAt": "2026-10-22T00:40:45+00:00",
+      "lastCheckedAt": "2026-10-22T01:30:36+00:00",
       "isNew": false
+    },
+    {
+      "id": "GH-69d733c2ee5205",
+      "agency": "GH",
+      "title": "(추가) 광주역세권 청년혁신타운 통합공공임대주택 입주자 추가모집 공고",
+      "noticeType": "통합공공임대",
+      "targetGroups": [
+        "청년"
+      ],
+      "regions": [
+        "경기도",
+        "광주시",
+        "광주"
+      ],
+      "publishedAt": "2026-05-08",
+      "applyStart": null,
+      "applyEnd": "2026-05-22",
+      "status": "마감",
+      "officialUrl": "https://apply.gh.or.kr/sb/sr/sr7150/selectPbancRentHouseList.do?pageIndex=1#a",
+      "attachments": [],
+      "documentStart": null,
+      "documentEnd": null,
+      "winnerAt": null,
+      "contractStart": null,
+      "contractEnd": null,
+      "scheduleSource": "GH 청약센터 목록(보조 경로)",
+      "scheduleConfidence": "높음",
+      "firstCollectedAt": "2026-10-22T01:30:36+00:00",
+      "lastCheckedAt": "2026-10-22T01:30:36+00:00",
+      "isNew": true
     },
     {
       "id": "SH-f5dae030df5e3e",
@@ -1283,7 +1513,7 @@
       "scheduleSource": null,
       "scheduleConfidence": null,
       "firstCollectedAt": "2026-07-19T04:34:38+00:00",
-      "lastCheckedAt": "2026-10-22T00:40:45+00:00",
+      "lastCheckedAt": "2026-10-22T01:30:36+00:00",
       "isNew": false
     },
     {
@@ -1309,7 +1539,7 @@
       "scheduleSource": null,
       "scheduleConfidence": null,
       "firstCollectedAt": "2026-07-19T04:34:38+00:00",
-      "lastCheckedAt": "2026-10-22T00:40:45+00:00",
+      "lastCheckedAt": "2026-10-22T01:30:36+00:00",
       "isNew": false
     },
     {
@@ -1335,8 +1565,64 @@
       "scheduleSource": null,
       "scheduleConfidence": null,
       "firstCollectedAt": "2026-07-19T04:34:38+00:00",
-      "lastCheckedAt": "2026-10-22T00:40:45+00:00",
+      "lastCheckedAt": "2026-10-22T01:30:36+00:00",
       "isNew": false
+    },
+    {
+      "id": "GH-0a7d807c613018",
+      "agency": "GH",
+      "title": "안양 평촌한신더휴아파트 입주자 및 예비입주자 모집",
+      "noticeType": "장기전세",
+      "targetGroups": [],
+      "regions": [
+        "경기도",
+        "안양시",
+        "안양"
+      ],
+      "publishedAt": "2026-04-24",
+      "applyStart": null,
+      "applyEnd": "2026-05-12",
+      "status": "마감",
+      "officialUrl": "https://apply.gh.or.kr/sb/sr/sr7150/selectPbancRentHouseList.do?pageIndex=1#a",
+      "attachments": [],
+      "documentStart": null,
+      "documentEnd": null,
+      "winnerAt": null,
+      "contractStart": null,
+      "contractEnd": null,
+      "scheduleSource": "GH 청약센터 목록(보조 경로)",
+      "scheduleConfidence": "높음",
+      "firstCollectedAt": "2026-10-22T01:30:36+00:00",
+      "lastCheckedAt": "2026-10-22T01:30:36+00:00",
+      "isNew": true
+    },
+    {
+      "id": "GH-491b770bc1ccda",
+      "agency": "GH",
+      "title": "[[정정공고] '26년 상반기 경기행복주택 예비입주자 추가모집 공고](https://apply.gh.or.kr/sb/sr/sr7150/selectPbancRentHouseList.do?pageIndex=1#a)",
+      "noticeType": "행복주택",
+      "targetGroups": [],
+      "regions": [
+        "경기도",
+        "성남시",
+        "성남"
+      ],
+      "publishedAt": "2026-04-23",
+      "applyStart": null,
+      "applyEnd": "2026-05-08",
+      "status": "마감",
+      "officialUrl": "https://apply.gh.or.kr/sb/sr/sr7150/selectPbancRentHouseList.do",
+      "attachments": [],
+      "documentStart": null,
+      "documentEnd": null,
+      "winnerAt": null,
+      "contractStart": null,
+      "contractEnd": null,
+      "scheduleSource": "GH 청약센터 목록(보조 경로)",
+      "scheduleConfidence": "높음",
+      "firstCollectedAt": "2026-10-22T01:30:36+00:00",
+      "lastCheckedAt": "2026-10-22T01:30:36+00:00",
+      "isNew": true
     },
     {
       "id": "SH-a1f4b3a5c85aca",
@@ -1361,7 +1647,7 @@
       "scheduleSource": null,
       "scheduleConfidence": null,
       "firstCollectedAt": "2026-07-19T04:34:38+00:00",
-      "lastCheckedAt": "2026-10-22T00:40:45+00:00",
+      "lastCheckedAt": "2026-10-22T01:30:36+00:00",
       "isNew": false
     },
     {
@@ -1387,7 +1673,7 @@
       "scheduleSource": null,
       "scheduleConfidence": null,
       "firstCollectedAt": "2026-07-19T04:34:38+00:00",
-      "lastCheckedAt": "2026-10-22T00:40:45+00:00",
+      "lastCheckedAt": "2026-10-22T01:30:36+00:00",
       "isNew": false
     },
     {
@@ -1413,7 +1699,7 @@
       "scheduleSource": null,
       "scheduleConfidence": null,
       "firstCollectedAt": "2026-07-19T04:34:38+00:00",
-      "lastCheckedAt": "2026-10-22T00:40:45+00:00",
+      "lastCheckedAt": "2026-10-22T01:30:36+00:00",
       "isNew": false
     },
     {
@@ -1439,7 +1725,7 @@
       "scheduleSource": null,
       "scheduleConfidence": null,
       "firstCollectedAt": "2026-07-19T04:34:38+00:00",
-      "lastCheckedAt": "2026-10-22T00:40:45+00:00",
+      "lastCheckedAt": "2026-10-22T01:30:36+00:00",
       "isNew": false
     },
     {
@@ -1465,7 +1751,7 @@
       "scheduleSource": null,
       "scheduleConfidence": null,
       "firstCollectedAt": "2026-07-19T04:34:38+00:00",
-      "lastCheckedAt": "2026-10-22T00:40:45+00:00",
+      "lastCheckedAt": "2026-10-22T01:30:36+00:00",
       "isNew": false
     },
     {
@@ -1491,7 +1777,7 @@
       "scheduleSource": null,
       "scheduleConfidence": null,
       "firstCollectedAt": "2026-10-22T00:40:45+00:00",
-      "lastCheckedAt": "2026-10-22T00:40:45+00:00",
+      "lastCheckedAt": "2026-10-22T01:30:36+00:00",
       "isNew": true
     },
     {
@@ -1517,7 +1803,7 @@
       "scheduleSource": null,
       "scheduleConfidence": null,
       "firstCollectedAt": "2026-07-19T04:34:38+00:00",
-      "lastCheckedAt": "2026-10-22T00:40:45+00:00",
+      "lastCheckedAt": "2026-10-22T01:30:36+00:00",
       "isNew": false
     },
     {
@@ -1543,7 +1829,7 @@
       "scheduleSource": null,
       "scheduleConfidence": null,
       "firstCollectedAt": "2026-07-19T04:34:38+00:00",
-      "lastCheckedAt": "2026-10-22T00:40:45+00:00",
+      "lastCheckedAt": "2026-10-22T01:30:36+00:00",
       "isNew": false
     },
     {
@@ -1569,7 +1855,7 @@
       "scheduleSource": null,
       "scheduleConfidence": null,
       "firstCollectedAt": "2026-07-19T04:34:38+00:00",
-      "lastCheckedAt": "2026-10-22T00:40:45+00:00",
+      "lastCheckedAt": "2026-10-22T01:30:36+00:00",
       "isNew": false
     },
     {
@@ -1595,7 +1881,7 @@
       "scheduleSource": null,
       "scheduleConfidence": null,
       "firstCollectedAt": "2026-07-19T04:34:38+00:00",
-      "lastCheckedAt": "2026-10-22T00:40:45+00:00",
+      "lastCheckedAt": "2026-10-22T01:30:36+00:00",
       "isNew": false
     },
     {
@@ -1621,7 +1907,7 @@
       "scheduleSource": null,
       "scheduleConfidence": null,
       "firstCollectedAt": "2026-07-19T04:34:38+00:00",
-      "lastCheckedAt": "2026-10-22T00:40:45+00:00",
+      "lastCheckedAt": "2026-10-22T01:30:36+00:00",
       "isNew": false
     },
     {
@@ -1647,7 +1933,7 @@
       "scheduleSource": null,
       "scheduleConfidence": null,
       "firstCollectedAt": "2026-07-19T04:34:38+00:00",
-      "lastCheckedAt": "2026-10-22T00:40:45+00:00",
+      "lastCheckedAt": "2026-10-22T01:30:36+00:00",
       "isNew": false
     },
     {
@@ -1673,7 +1959,7 @@
       "scheduleSource": null,
       "scheduleConfidence": null,
       "firstCollectedAt": "2026-07-19T04:34:38+00:00",
-      "lastCheckedAt": "2026-10-22T00:40:45+00:00",
+      "lastCheckedAt": "2026-10-22T01:30:36+00:00",
       "isNew": false
     },
     {
@@ -1699,7 +1985,7 @@
       "scheduleSource": null,
       "scheduleConfidence": null,
       "firstCollectedAt": "2026-07-19T04:34:38+00:00",
-      "lastCheckedAt": "2026-10-22T00:40:45+00:00",
+      "lastCheckedAt": "2026-10-22T01:30:36+00:00",
       "isNew": false
     },
     {
@@ -1725,7 +2011,7 @@
       "scheduleSource": null,
       "scheduleConfidence": null,
       "firstCollectedAt": "2026-07-19T04:34:38+00:00",
-      "lastCheckedAt": "2026-10-22T00:40:45+00:00",
+      "lastCheckedAt": "2026-10-22T01:30:36+00:00",
       "isNew": false
     },
     {
@@ -1751,7 +2037,7 @@
       "scheduleSource": null,
       "scheduleConfidence": null,
       "firstCollectedAt": "2026-07-19T04:34:38+00:00",
-      "lastCheckedAt": "2026-10-22T00:40:45+00:00",
+      "lastCheckedAt": "2026-10-22T01:30:36+00:00",
       "isNew": false
     },
     {
@@ -1777,7 +2063,7 @@
       "scheduleSource": null,
       "scheduleConfidence": null,
       "firstCollectedAt": "2026-07-19T04:34:38+00:00",
-      "lastCheckedAt": "2026-10-22T00:40:45+00:00",
+      "lastCheckedAt": "2026-10-22T01:30:36+00:00",
       "isNew": false
     },
     {
@@ -1803,7 +2089,7 @@
       "scheduleSource": null,
       "scheduleConfidence": null,
       "firstCollectedAt": "2026-07-19T04:34:38+00:00",
-      "lastCheckedAt": "2026-10-22T00:40:45+00:00",
+      "lastCheckedAt": "2026-10-22T01:30:36+00:00",
       "isNew": false
     },
     {
@@ -1829,7 +2115,7 @@
       "scheduleSource": null,
       "scheduleConfidence": null,
       "firstCollectedAt": "2026-07-19T04:34:38+00:00",
-      "lastCheckedAt": "2026-10-22T00:40:45+00:00",
+      "lastCheckedAt": "2026-10-22T01:30:36+00:00",
       "isNew": false
     },
     {
@@ -1855,7 +2141,7 @@
       "scheduleSource": null,
       "scheduleConfidence": null,
       "firstCollectedAt": "2026-07-19T04:34:38+00:00",
-      "lastCheckedAt": "2026-10-22T00:40:45+00:00",
+      "lastCheckedAt": "2026-10-22T01:30:36+00:00",
       "isNew": false
     },
     {
@@ -1881,7 +2167,7 @@
       "scheduleSource": null,
       "scheduleConfidence": null,
       "firstCollectedAt": "2026-07-19T04:34:38+00:00",
-      "lastCheckedAt": "2026-10-22T00:40:45+00:00",
+      "lastCheckedAt": "2026-10-22T01:30:36+00:00",
       "isNew": false
     },
     {
@@ -1907,7 +2193,7 @@
       "scheduleSource": null,
       "scheduleConfidence": null,
       "firstCollectedAt": "2026-07-19T04:34:38+00:00",
-      "lastCheckedAt": "2026-10-22T00:40:45+00:00",
+      "lastCheckedAt": "2026-10-22T01:30:36+00:00",
       "isNew": false
     },
     {
@@ -1933,7 +2219,7 @@
       "scheduleSource": null,
       "scheduleConfidence": null,
       "firstCollectedAt": "2026-07-19T04:34:38+00:00",
-      "lastCheckedAt": "2026-10-22T00:40:45+00:00",
+      "lastCheckedAt": "2026-10-22T01:30:36+00:00",
       "isNew": false
     },
     {
@@ -1960,7 +2246,7 @@
       "scheduleSource": "GH 일반 공고 게시판",
       "scheduleConfidence": "확인필요",
       "firstCollectedAt": "2026-10-10T02:19:21+00:00",
-      "lastCheckedAt": "2026-10-22T00:40:45+00:00",
+      "lastCheckedAt": "2026-10-22T01:30:36+00:00",
       "isNew": false
     },
     {
@@ -1989,7 +2275,7 @@
       "scheduleSource": "GH 일반 공고 게시판",
       "scheduleConfidence": "확인필요",
       "firstCollectedAt": "2026-10-10T02:19:21+00:00",
-      "lastCheckedAt": "2026-10-22T00:40:45+00:00",
+      "lastCheckedAt": "2026-10-22T01:30:36+00:00",
       "isNew": false
     },
     {
@@ -2016,7 +2302,7 @@
       "scheduleSource": "GH 일반 공고 게시판",
       "scheduleConfidence": "확인필요",
       "firstCollectedAt": "2026-10-10T02:19:21+00:00",
-      "lastCheckedAt": "2026-10-22T00:40:45+00:00",
+      "lastCheckedAt": "2026-10-22T01:30:36+00:00",
       "isNew": false
     },
     {
@@ -2043,7 +2329,7 @@
       "scheduleSource": "GH 일반 공고 게시판",
       "scheduleConfidence": "확인필요",
       "firstCollectedAt": "2026-10-10T02:19:21+00:00",
-      "lastCheckedAt": "2026-10-22T00:40:45+00:00",
+      "lastCheckedAt": "2026-10-22T01:30:36+00:00",
       "isNew": false
     },
     {
@@ -2070,7 +2356,7 @@
       "scheduleSource": "GH 일반 공고 게시판",
       "scheduleConfidence": "확인필요",
       "firstCollectedAt": "2026-10-10T02:19:21+00:00",
-      "lastCheckedAt": "2026-10-22T00:40:45+00:00",
+      "lastCheckedAt": "2026-10-22T01:30:36+00:00",
       "isNew": false
     },
     {
@@ -2097,7 +2383,7 @@
       "scheduleSource": "GH 일반 공고 게시판",
       "scheduleConfidence": "확인필요",
       "firstCollectedAt": "2026-10-10T02:19:21+00:00",
-      "lastCheckedAt": "2026-10-22T00:40:45+00:00",
+      "lastCheckedAt": "2026-10-22T01:30:36+00:00",
       "isNew": false
     },
     {
@@ -2124,35 +2410,7 @@
       "scheduleSource": "GH 일반 공고 게시판",
       "scheduleConfidence": "확인필요",
       "firstCollectedAt": "2026-10-10T02:19:21+00:00",
-      "lastCheckedAt": "2026-10-22T00:40:45+00:00",
-      "isNew": false
-    },
-    {
-      "id": "GH-857719e6b7d070",
-      "agency": "GH",
-      "title": "붙임1. 청년매입임대 입주자 모집공고문_게시용_최종.hwp",
-      "noticeType": "매입임대",
-      "targetGroups": [
-        "청년"
-      ],
-      "regions": [
-        "경기도"
-      ],
-      "publishedAt": null,
-      "applyStart": null,
-      "applyEnd": null,
-      "status": "일정 확인 필요",
-      "officialUrl": "https://www.gh.or.kr/gh/announcement-of-salerental001.do?mode=view&articleNo=64782&article.offset=0&articleLimit=100",
-      "attachments": [],
-      "documentStart": null,
-      "documentEnd": null,
-      "winnerAt": null,
-      "contractStart": null,
-      "contractEnd": null,
-      "scheduleSource": "GH 일반 공고 게시판",
-      "scheduleConfidence": "확인필요",
-      "firstCollectedAt": "2026-10-10T02:19:21+00:00",
-      "lastCheckedAt": "2026-10-22T00:40:45+00:00",
+      "lastCheckedAt": "2026-10-22T01:30:36+00:00",
       "isNew": false
     },
     {
@@ -2178,7 +2436,7 @@
       "scheduleSource": "GH 일반 공고 게시판",
       "scheduleConfidence": "높음",
       "firstCollectedAt": "2026-10-10T02:19:21+00:00",
-      "lastCheckedAt": "2026-10-22T00:40:45+00:00",
+      "lastCheckedAt": "2026-10-22T01:30:36+00:00",
       "isNew": false
     },
     {
@@ -2204,7 +2462,7 @@
       "scheduleSource": "GH 일반 공고 게시판",
       "scheduleConfidence": "확인필요",
       "firstCollectedAt": "2026-10-10T02:19:21+00:00",
-      "lastCheckedAt": "2026-10-22T00:40:45+00:00",
+      "lastCheckedAt": "2026-10-22T01:30:36+00:00",
       "isNew": false
     },
     {
@@ -2230,7 +2488,7 @@
       "scheduleSource": "GH 일반 공고 게시판",
       "scheduleConfidence": "확인필요",
       "firstCollectedAt": "2026-10-10T02:19:21+00:00",
-      "lastCheckedAt": "2026-10-22T00:40:45+00:00",
+      "lastCheckedAt": "2026-10-22T01:30:36+00:00",
       "isNew": false
     },
     {
@@ -2256,7 +2514,7 @@
       "scheduleSource": "GH 일반 공고 게시판",
       "scheduleConfidence": "확인필요",
       "firstCollectedAt": "2026-10-10T02:19:21+00:00",
-      "lastCheckedAt": "2026-10-22T00:40:45+00:00",
+      "lastCheckedAt": "2026-10-22T01:30:36+00:00",
       "isNew": false
     },
     {
@@ -2282,7 +2540,7 @@
       "scheduleSource": "GH 일반 공고 게시판",
       "scheduleConfidence": "확인필요",
       "firstCollectedAt": "2026-10-10T02:19:21+00:00",
-      "lastCheckedAt": "2026-10-22T00:40:45+00:00",
+      "lastCheckedAt": "2026-10-22T01:30:36+00:00",
       "isNew": false
     },
     {
@@ -2311,7 +2569,7 @@
       "scheduleSource": "GH 일반 공고 게시판",
       "scheduleConfidence": "확인필요",
       "firstCollectedAt": "2026-10-10T02:19:21+00:00",
-      "lastCheckedAt": "2026-10-22T00:40:45+00:00",
+      "lastCheckedAt": "2026-10-22T01:30:36+00:00",
       "isNew": false
     },
     {
@@ -2341,7 +2599,7 @@
       "scheduleSource": "GH 일반 공고 게시판",
       "scheduleConfidence": "높음",
       "firstCollectedAt": "2026-10-10T02:19:21+00:00",
-      "lastCheckedAt": "2026-10-22T00:40:45+00:00",
+      "lastCheckedAt": "2026-10-22T01:30:36+00:00",
       "isNew": false
     },
     {
@@ -2368,7 +2626,7 @@
       "scheduleSource": "GH 일반 공고 게시판",
       "scheduleConfidence": "확인필요",
       "firstCollectedAt": "2026-10-10T02:19:21+00:00",
-      "lastCheckedAt": "2026-10-22T00:40:45+00:00",
+      "lastCheckedAt": "2026-10-22T01:30:36+00:00",
       "isNew": false
     },
     {
@@ -2395,7 +2653,7 @@
       "scheduleSource": "GH 일반 공고 게시판",
       "scheduleConfidence": "확인필요",
       "firstCollectedAt": "2026-10-10T02:19:21+00:00",
-      "lastCheckedAt": "2026-10-22T00:40:45+00:00",
+      "lastCheckedAt": "2026-10-22T01:30:36+00:00",
       "isNew": false
     },
     {
@@ -2422,7 +2680,7 @@
       "scheduleSource": "GH 일반 공고 게시판",
       "scheduleConfidence": "확인필요",
       "firstCollectedAt": "2026-10-10T02:19:21+00:00",
-      "lastCheckedAt": "2026-10-22T00:40:45+00:00",
+      "lastCheckedAt": "2026-10-22T01:30:36+00:00",
       "isNew": false
     },
     {
@@ -2449,7 +2707,7 @@
       "scheduleSource": "GH 일반 공고 게시판",
       "scheduleConfidence": "확인필요",
       "firstCollectedAt": "2026-10-10T02:19:21+00:00",
-      "lastCheckedAt": "2026-10-22T00:40:45+00:00",
+      "lastCheckedAt": "2026-10-22T01:30:36+00:00",
       "isNew": false
     },
     {
@@ -2476,7 +2734,7 @@
       "scheduleSource": "GH 일반 공고 게시판",
       "scheduleConfidence": "확인필요",
       "firstCollectedAt": "2026-10-10T02:19:21+00:00",
-      "lastCheckedAt": "2026-10-22T00:40:45+00:00",
+      "lastCheckedAt": "2026-10-22T01:30:36+00:00",
       "isNew": false
     },
     {
@@ -2502,7 +2760,7 @@
       "scheduleSource": "GH 일반 공고 게시판",
       "scheduleConfidence": "확인필요",
       "firstCollectedAt": "2026-10-10T02:19:21+00:00",
-      "lastCheckedAt": "2026-10-22T00:40:45+00:00",
+      "lastCheckedAt": "2026-10-22T01:30:36+00:00",
       "isNew": false
     },
     {
@@ -2530,7 +2788,7 @@
       "scheduleSource": "GH 일반 공고 게시판",
       "scheduleConfidence": "높음",
       "firstCollectedAt": "2026-10-10T02:19:21+00:00",
-      "lastCheckedAt": "2026-10-22T00:40:45+00:00",
+      "lastCheckedAt": "2026-10-22T01:30:36+00:00",
       "isNew": false
     },
     {
@@ -2556,7 +2814,7 @@
       "scheduleSource": "GH 일반 공고 게시판",
       "scheduleConfidence": "확인필요",
       "firstCollectedAt": "2026-10-10T02:19:21+00:00",
-      "lastCheckedAt": "2026-10-22T00:40:45+00:00",
+      "lastCheckedAt": "2026-10-22T01:30:36+00:00",
       "isNew": false
     },
     {
@@ -2582,7 +2840,7 @@
       "scheduleSource": "GH 일반 공고 게시판",
       "scheduleConfidence": "확인필요",
       "firstCollectedAt": "2026-10-10T02:19:21+00:00",
-      "lastCheckedAt": "2026-10-22T00:40:45+00:00",
+      "lastCheckedAt": "2026-10-22T01:30:36+00:00",
       "isNew": false
     },
     {
@@ -2608,7 +2866,7 @@
       "scheduleSource": "GH 일반 공고 게시판",
       "scheduleConfidence": "확인필요",
       "firstCollectedAt": "2026-10-10T02:19:21+00:00",
-      "lastCheckedAt": "2026-10-22T00:40:45+00:00",
+      "lastCheckedAt": "2026-10-22T01:30:36+00:00",
       "isNew": false
     },
     {
@@ -2635,7 +2893,7 @@
       "scheduleSource": "GH 일반 공고 게시판",
       "scheduleConfidence": "확인필요",
       "firstCollectedAt": "2026-10-20T01:05:04+00:00",
-      "lastCheckedAt": "2026-10-22T00:40:45+00:00",
+      "lastCheckedAt": "2026-10-22T01:30:36+00:00",
       "isNew": false
     },
     {
@@ -2662,7 +2920,7 @@
       "scheduleSource": "GH 일반 공고 게시판",
       "scheduleConfidence": "확인필요",
       "firstCollectedAt": "2026-10-20T01:05:04+00:00",
-      "lastCheckedAt": "2026-10-22T00:40:45+00:00",
+      "lastCheckedAt": "2026-10-22T01:30:36+00:00",
       "isNew": false
     },
     {
@@ -2689,7 +2947,7 @@
       "scheduleSource": "GH 일반 공고 게시판",
       "scheduleConfidence": "확인필요",
       "firstCollectedAt": "2026-10-10T02:19:21+00:00",
-      "lastCheckedAt": "2026-10-22T00:40:45+00:00",
+      "lastCheckedAt": "2026-10-22T01:30:36+00:00",
       "isNew": false
     },
     {
@@ -2716,7 +2974,7 @@
       "scheduleSource": "GH 일반 공고 게시판",
       "scheduleConfidence": "높음",
       "firstCollectedAt": "2026-10-10T02:19:21+00:00",
-      "lastCheckedAt": "2026-10-22T00:40:45+00:00",
+      "lastCheckedAt": "2026-10-22T01:30:36+00:00",
       "isNew": false
     },
     {
@@ -2742,7 +3000,7 @@
       "scheduleSource": "GH 일반 공고 게시판",
       "scheduleConfidence": "확인필요",
       "firstCollectedAt": "2026-10-17T00:28:07+00:00",
-      "lastCheckedAt": "2026-10-22T00:40:45+00:00",
+      "lastCheckedAt": "2026-10-22T01:30:36+00:00",
       "isNew": false
     },
     {
@@ -2768,7 +3026,7 @@
       "scheduleSource": "GH 일반 공고 게시판",
       "scheduleConfidence": "확인필요",
       "firstCollectedAt": "2026-10-10T02:19:21+00:00",
-      "lastCheckedAt": "2026-10-22T00:40:45+00:00",
+      "lastCheckedAt": "2026-10-22T01:30:36+00:00",
       "isNew": false
     }
   ]
