@@ -1,29 +1,55 @@
 {
-  "updatedAt": "2026-11-25T05:25:23+00:00",
+  "updatedAt": "2026-11-26T04:08:35+00:00",
   "sourceStatus": {
     "LH": {
       "ok": true,
       "count": 36,
       "rawCount": 36,
-      "checkedAt": "2026-11-25T05:25:23+00:00",
+      "checkedAt": "2026-11-26T04:08:35+00:00",
       "error": null
     },
     "SH": {
       "ok": true,
-      "count": 48,
-      "rawCount": 48,
-      "checkedAt": "2026-11-25T05:25:23+00:00",
+      "count": 38,
+      "rawCount": 38,
+      "checkedAt": "2026-11-26T04:08:35+00:00",
       "error": null
     },
     "GH": {
       "ok": true,
-      "count": 29,
-      "rawCount": 29,
-      "checkedAt": "2026-11-25T05:25:23+00:00",
+      "count": 30,
+      "rawCount": 30,
+      "checkedAt": "2026-11-26T04:08:35+00:00",
       "error": null
     }
   },
   "notices": [
+    {
+      "id": "SH-22c5a891a5d9e0",
+      "agency": "SH",
+      "title": "장기안심주택 2026년 제2차 보증금지원형 장기안심주택 입주자 모집공고 모집중 맞춤주택공급부 바로가기",
+      "noticeType": "임대주택",
+      "targetGroups": [],
+      "regions": [
+        "서울특별시"
+      ],
+      "publishedAt": "2026-11-25",
+      "applyStart": "2026-12-14",
+      "applyEnd": "2026-12-14",
+      "status": "접수예정",
+      "officialUrl": "https://www.i-sh.co.kr/main/lay2/program/S1T294C295/www/brd/m_241/view.do?seq=313843",
+      "attachments": [],
+      "documentStart": null,
+      "documentEnd": null,
+      "winnerAt": null,
+      "contractStart": null,
+      "contractEnd": null,
+      "scheduleSource": null,
+      "scheduleConfidence": null,
+      "firstCollectedAt": "2026-11-26T04:08:35+00:00",
+      "lastCheckedAt": "2026-11-26T04:08:35+00:00",
+      "isNew": true
+    },
     {
       "id": "LH-dd16162105bd87",
       "agency": "LH",
@@ -47,8 +73,8 @@
       "scheduleSource": null,
       "scheduleConfidence": null,
       "firstCollectedAt": "2026-11-25T04:53:16+00:00",
-      "lastCheckedAt": "2026-11-25T05:25:23+00:00",
-      "isNew": true
+      "lastCheckedAt": "2026-11-26T04:08:35+00:00",
+      "isNew": false
     },
     {
       "id": "LH-e0dcaca653ef04",
@@ -73,8 +99,8 @@
       "scheduleSource": null,
       "scheduleConfidence": null,
       "firstCollectedAt": "2026-11-25T04:53:16+00:00",
-      "lastCheckedAt": "2026-11-25T05:25:23+00:00",
-      "isNew": true
+      "lastCheckedAt": "2026-11-26T04:08:35+00:00",
+      "isNew": false
     },
     {
       "id": "LH-9904eb9dd1bd71",
@@ -100,7 +126,7 @@
       "scheduleSource": null,
       "scheduleConfidence": null,
       "firstCollectedAt": "2026-11-24T06:00:07+00:00",
-      "lastCheckedAt": "2026-11-25T05:25:23+00:00",
+      "lastCheckedAt": "2026-11-26T04:08:35+00:00",
       "isNew": false
     },
     {
@@ -128,7 +154,7 @@
       "scheduleSource": null,
       "scheduleConfidence": null,
       "firstCollectedAt": "2026-11-24T06:00:07+00:00",
-      "lastCheckedAt": "2026-11-25T05:25:23+00:00",
+      "lastCheckedAt": "2026-11-26T04:08:35+00:00",
       "isNew": false
     },
     {
@@ -154,7 +180,7 @@
       "scheduleSource": null,
       "scheduleConfidence": null,
       "firstCollectedAt": "2026-11-24T06:00:07+00:00",
-      "lastCheckedAt": "2026-11-25T05:25:23+00:00",
+      "lastCheckedAt": "2026-11-26T04:08:35+00:00",
       "isNew": false
     },
     {
@@ -180,7 +206,7 @@
       "scheduleSource": null,
       "scheduleConfidence": null,
       "firstCollectedAt": "2026-11-20T03:12:12+00:00",
-      "lastCheckedAt": "2026-11-25T05:25:23+00:00",
+      "lastCheckedAt": "2026-11-26T04:08:35+00:00",
       "isNew": false
     },
     {
@@ -206,7 +232,7 @@
       "scheduleSource": null,
       "scheduleConfidence": null,
       "firstCollectedAt": "2026-11-20T03:12:12+00:00",
-      "lastCheckedAt": "2026-11-25T05:25:23+00:00",
+      "lastCheckedAt": "2026-11-26T04:08:35+00:00",
       "isNew": false
     },
     {
@@ -232,7 +258,7 @@
       "scheduleSource": null,
       "scheduleConfidence": null,
       "firstCollectedAt": "2026-11-20T03:12:12+00:00",
-      "lastCheckedAt": "2026-11-25T05:25:23+00:00",
+      "lastCheckedAt": "2026-11-26T04:08:35+00:00",
       "isNew": false
     },
     {
@@ -259,7 +285,7 @@
       "scheduleSource": null,
       "scheduleConfidence": null,
       "firstCollectedAt": "2026-11-20T03:12:12+00:00",
-      "lastCheckedAt": "2026-11-25T05:25:23+00:00",
+      "lastCheckedAt": "2026-11-26T04:08:35+00:00",
       "isNew": false
     },
     {
@@ -288,7 +314,7 @@
       "scheduleSource": null,
       "scheduleConfidence": null,
       "firstCollectedAt": "2026-11-20T03:12:12+00:00",
-      "lastCheckedAt": "2026-11-25T05:25:23+00:00",
+      "lastCheckedAt": "2026-11-26T04:08:35+00:00",
       "isNew": false
     },
     {
@@ -314,7 +340,7 @@
       "scheduleSource": null,
       "scheduleConfidence": null,
       "firstCollectedAt": "2026-11-20T03:12:12+00:00",
-      "lastCheckedAt": "2026-11-25T05:25:23+00:00",
+      "lastCheckedAt": "2026-11-26T04:08:35+00:00",
       "isNew": false
     },
     {
@@ -341,7 +367,7 @@
       "scheduleSource": null,
       "scheduleConfidence": null,
       "firstCollectedAt": "2026-11-20T03:12:12+00:00",
-      "lastCheckedAt": "2026-11-25T05:25:23+00:00",
+      "lastCheckedAt": "2026-11-26T04:08:35+00:00",
       "isNew": false
     },
     {
@@ -367,7 +393,7 @@
       "scheduleSource": null,
       "scheduleConfidence": null,
       "firstCollectedAt": "2026-11-19T03:25:07+00:00",
-      "lastCheckedAt": "2026-11-25T05:25:23+00:00",
+      "lastCheckedAt": "2026-11-26T04:08:35+00:00",
       "isNew": false
     },
     {
@@ -393,7 +419,7 @@
       "scheduleSource": null,
       "scheduleConfidence": null,
       "firstCollectedAt": "2026-11-20T03:12:12+00:00",
-      "lastCheckedAt": "2026-11-25T05:25:23+00:00",
+      "lastCheckedAt": "2026-11-26T04:08:35+00:00",
       "isNew": false
     },
     {
@@ -420,7 +446,7 @@
       "scheduleSource": null,
       "scheduleConfidence": null,
       "firstCollectedAt": "2026-11-19T03:25:07+00:00",
-      "lastCheckedAt": "2026-11-25T05:25:23+00:00",
+      "lastCheckedAt": "2026-11-26T04:08:35+00:00",
       "isNew": false
     },
     {
@@ -450,7 +476,7 @@
       "scheduleSource": null,
       "scheduleConfidence": null,
       "firstCollectedAt": "2026-11-19T03:25:07+00:00",
-      "lastCheckedAt": "2026-11-25T05:25:23+00:00",
+      "lastCheckedAt": "2026-11-26T04:08:35+00:00",
       "isNew": false
     },
     {
@@ -477,7 +503,7 @@
       "scheduleSource": null,
       "scheduleConfidence": null,
       "firstCollectedAt": "2026-11-17T05:03:43+00:00",
-      "lastCheckedAt": "2026-11-25T05:25:23+00:00",
+      "lastCheckedAt": "2026-11-26T04:08:35+00:00",
       "isNew": false
     },
     {
@@ -504,7 +530,7 @@
       "scheduleSource": null,
       "scheduleConfidence": null,
       "firstCollectedAt": "2026-11-17T04:28:10+00:00",
-      "lastCheckedAt": "2026-11-25T05:25:23+00:00",
+      "lastCheckedAt": "2026-11-26T04:08:35+00:00",
       "isNew": false
     },
     {
@@ -531,7 +557,7 @@
       "scheduleSource": null,
       "scheduleConfidence": null,
       "firstCollectedAt": "2026-11-17T04:28:10+00:00",
-      "lastCheckedAt": "2026-11-25T05:25:23+00:00",
+      "lastCheckedAt": "2026-11-26T04:08:35+00:00",
       "isNew": false
     },
     {
@@ -559,7 +585,7 @@
       "scheduleSource": null,
       "scheduleConfidence": null,
       "firstCollectedAt": "2026-11-17T04:28:10+00:00",
-      "lastCheckedAt": "2026-11-25T05:25:23+00:00",
+      "lastCheckedAt": "2026-11-26T04:08:35+00:00",
       "isNew": false
     },
     {
@@ -574,7 +600,7 @@
       "publishedAt": "2026-11-16",
       "applyStart": null,
       "applyEnd": "2026-11-25",
-      "status": "공고중",
+      "status": "접수마감",
       "officialUrl": "https://apply.lh.or.kr/lhapply/apply/wt/wrtanc/selectWrtancInfo.do?panId=2015122300021068&ccrCnntSysDsCd=03&uppAisTpCd=06&aisTpCd=09&mi=1026",
       "attachments": [],
       "documentStart": null,
@@ -585,7 +611,7 @@
       "scheduleSource": null,
       "scheduleConfidence": null,
       "firstCollectedAt": "2026-11-17T04:28:10+00:00",
-      "lastCheckedAt": "2026-11-25T05:25:23+00:00",
+      "lastCheckedAt": "2026-11-26T04:08:35+00:00",
       "isNew": false
     },
     {
@@ -612,7 +638,7 @@
       "scheduleSource": null,
       "scheduleConfidence": null,
       "firstCollectedAt": "2026-11-17T04:28:10+00:00",
-      "lastCheckedAt": "2026-11-25T05:25:23+00:00",
+      "lastCheckedAt": "2026-11-26T04:08:35+00:00",
       "isNew": false
     },
     {
@@ -627,7 +653,7 @@
       "publishedAt": "2026-11-11",
       "applyStart": null,
       "applyEnd": "2026-11-25",
-      "status": "접수중",
+      "status": "접수마감",
       "officialUrl": "https://apply.lh.or.kr/lhapply/apply/wt/wrtanc/selectWrtancInfo.do?panId=2015122300021052&ccrCnntSysDsCd=03&uppAisTpCd=06&aisTpCd=10&mi=1026",
       "attachments": [],
       "documentStart": null,
@@ -638,7 +664,7 @@
       "scheduleSource": null,
       "scheduleConfidence": null,
       "firstCollectedAt": "2026-11-12T02:57:44+00:00",
-      "lastCheckedAt": "2026-11-25T05:25:23+00:00",
+      "lastCheckedAt": "2026-11-26T04:08:35+00:00",
       "isNew": false
     },
     {
@@ -655,7 +681,7 @@
       "publishedAt": "2026-11-11",
       "applyStart": null,
       "applyEnd": "2026-11-25",
-      "status": "공고중",
+      "status": "접수마감",
       "officialUrl": "https://apply.lh.or.kr/lhapply/apply/wt/wrtanc/selectWrtancInfo.do?panId=2015122300021050&ccrCnntSysDsCd=03&uppAisTpCd=06&aisTpCd=09&mi=1026",
       "attachments": [],
       "documentStart": null,
@@ -666,7 +692,7 @@
       "scheduleSource": null,
       "scheduleConfidence": null,
       "firstCollectedAt": "2026-11-12T02:57:44+00:00",
-      "lastCheckedAt": "2026-11-25T05:25:23+00:00",
+      "lastCheckedAt": "2026-11-26T04:08:35+00:00",
       "isNew": false
     },
     {
@@ -692,7 +718,7 @@
       "scheduleSource": null,
       "scheduleConfidence": null,
       "firstCollectedAt": "2026-11-09T01:43:37+00:00",
-      "lastCheckedAt": "2026-11-25T05:25:23+00:00",
+      "lastCheckedAt": "2026-11-26T04:08:35+00:00",
       "isNew": false
     },
     {
@@ -721,7 +747,7 @@
       "scheduleSource": null,
       "scheduleConfidence": null,
       "firstCollectedAt": "2026-11-08T01:25:56+00:00",
-      "lastCheckedAt": "2026-11-25T05:25:23+00:00",
+      "lastCheckedAt": "2026-11-26T04:08:35+00:00",
       "isNew": false
     },
     {
@@ -750,7 +776,7 @@
       "scheduleSource": null,
       "scheduleConfidence": null,
       "firstCollectedAt": "2026-11-06T02:24:15+00:00",
-      "lastCheckedAt": "2026-11-25T05:25:23+00:00",
+      "lastCheckedAt": "2026-11-26T04:08:35+00:00",
       "isNew": false
     },
     {
@@ -767,7 +793,7 @@
       "publishedAt": "2026-11-05",
       "applyStart": null,
       "applyEnd": "2026-11-27",
-      "status": "접수중",
+      "status": "접수마감",
       "officialUrl": "https://apply.lh.or.kr/lhapply/apply/wt/wrtanc/selectWrtancInfo.do?panId=2015122300020973&ccrCnntSysDsCd=03&uppAisTpCd=06&aisTpCd=07&mi=1026",
       "attachments": [],
       "documentStart": null,
@@ -778,7 +804,7 @@
       "scheduleSource": null,
       "scheduleConfidence": null,
       "firstCollectedAt": "2026-11-06T02:24:15+00:00",
-      "lastCheckedAt": "2026-11-25T05:25:23+00:00",
+      "lastCheckedAt": "2026-11-26T04:08:35+00:00",
       "isNew": false
     },
     {
@@ -806,7 +832,7 @@
       "scheduleSource": null,
       "scheduleConfidence": null,
       "firstCollectedAt": "2026-11-05T02:26:53+00:00",
-      "lastCheckedAt": "2026-11-25T05:25:23+00:00",
+      "lastCheckedAt": "2026-11-26T04:08:35+00:00",
       "isNew": false
     },
     {
@@ -832,7 +858,7 @@
       "scheduleSource": null,
       "scheduleConfidence": null,
       "firstCollectedAt": "2026-11-06T02:24:15+00:00",
-      "lastCheckedAt": "2026-11-25T05:25:23+00:00",
+      "lastCheckedAt": "2026-11-26T04:08:35+00:00",
       "isNew": false
     },
     {
@@ -859,7 +885,7 @@
       "scheduleSource": null,
       "scheduleConfidence": null,
       "firstCollectedAt": "2026-11-05T02:26:53+00:00",
-      "lastCheckedAt": "2026-11-25T05:25:23+00:00",
+      "lastCheckedAt": "2026-11-26T04:08:35+00:00",
       "isNew": false
     },
     {
@@ -885,7 +911,7 @@
       "scheduleSource": null,
       "scheduleConfidence": null,
       "firstCollectedAt": "2026-11-06T02:24:15+00:00",
-      "lastCheckedAt": "2026-11-25T05:25:23+00:00",
+      "lastCheckedAt": "2026-11-26T04:08:35+00:00",
       "isNew": false
     },
     {
@@ -911,7 +937,7 @@
       "scheduleSource": null,
       "scheduleConfidence": null,
       "firstCollectedAt": "2026-11-06T02:24:15+00:00",
-      "lastCheckedAt": "2026-11-25T05:25:23+00:00",
+      "lastCheckedAt": "2026-11-26T04:08:35+00:00",
       "isNew": false
     },
     {
@@ -937,7 +963,7 @@
       "scheduleSource": null,
       "scheduleConfidence": null,
       "firstCollectedAt": "2026-11-04T02:19:17+00:00",
-      "lastCheckedAt": "2026-11-25T05:25:23+00:00",
+      "lastCheckedAt": "2026-11-26T04:08:35+00:00",
       "isNew": false
     },
     {
@@ -964,7 +990,7 @@
       "scheduleSource": null,
       "scheduleConfidence": null,
       "firstCollectedAt": "2026-11-02T01:29:57+00:00",
-      "lastCheckedAt": "2026-11-25T05:25:23+00:00",
+      "lastCheckedAt": "2026-11-26T04:08:35+00:00",
       "isNew": false
     },
     {
@@ -990,7 +1016,7 @@
       "scheduleSource": null,
       "scheduleConfidence": null,
       "firstCollectedAt": "2026-11-21T03:11:46+00:00",
-      "lastCheckedAt": "2026-11-25T05:25:23+00:00",
+      "lastCheckedAt": "2026-11-26T04:08:35+00:00",
       "isNew": false
     },
     {
@@ -1016,7 +1042,7 @@
       "scheduleSource": null,
       "scheduleConfidence": null,
       "firstCollectedAt": "2026-10-29T01:47:14+00:00",
-      "lastCheckedAt": "2026-11-25T05:25:23+00:00",
+      "lastCheckedAt": "2026-11-26T04:08:35+00:00",
       "isNew": false
     },
     {
@@ -1044,7 +1070,7 @@
       "scheduleSource": null,
       "scheduleConfidence": null,
       "firstCollectedAt": "2026-10-28T01:19:58+00:00",
-      "lastCheckedAt": "2026-11-25T05:25:23+00:00",
+      "lastCheckedAt": "2026-11-26T04:08:35+00:00",
       "isNew": false
     },
     {
@@ -1071,7 +1097,7 @@
       "scheduleSource": null,
       "scheduleConfidence": null,
       "firstCollectedAt": "2026-10-23T00:39:13+00:00",
-      "lastCheckedAt": "2026-11-25T05:25:23+00:00",
+      "lastCheckedAt": "2026-11-26T04:08:35+00:00",
       "isNew": false
     },
     {
@@ -1097,7 +1123,7 @@
       "scheduleSource": null,
       "scheduleConfidence": null,
       "firstCollectedAt": "2026-10-20T01:05:04+00:00",
-      "lastCheckedAt": "2026-11-25T05:25:23+00:00",
+      "lastCheckedAt": "2026-11-26T04:08:35+00:00",
       "isNew": false
     },
     {
@@ -1123,7 +1149,7 @@
       "scheduleSource": null,
       "scheduleConfidence": null,
       "firstCollectedAt": "2026-10-01T01:17:18+00:00",
-      "lastCheckedAt": "2026-11-25T05:25:23+00:00",
+      "lastCheckedAt": "2026-11-26T04:08:35+00:00",
       "isNew": false
     },
     {
@@ -1152,7 +1178,7 @@
       "scheduleSource": null,
       "scheduleConfidence": null,
       "firstCollectedAt": "2026-10-24T00:40:44+00:00",
-      "lastCheckedAt": "2026-11-25T05:25:23+00:00",
+      "lastCheckedAt": "2026-11-26T04:08:35+00:00",
       "isNew": false
     },
     {
@@ -1181,7 +1207,7 @@
       "scheduleSource": null,
       "scheduleConfidence": null,
       "firstCollectedAt": "2026-10-24T00:40:44+00:00",
-      "lastCheckedAt": "2026-11-25T05:25:23+00:00",
+      "lastCheckedAt": "2026-11-26T04:08:35+00:00",
       "isNew": false
     },
     {
@@ -1208,33 +1234,7 @@
       "scheduleSource": null,
       "scheduleConfidence": null,
       "firstCollectedAt": "2026-09-29T01:56:26+00:00",
-      "lastCheckedAt": "2026-11-25T05:25:23+00:00",
-      "isNew": false
-    },
-    {
-      "id": "SH-24f3fcff8afa2e",
-      "agency": "SH",
-      "title": "도시형생활주택 2026년 신정도시마을 잔여세대 입주자모집공고( . . .) 모집마감 맞춤주택공급부 바로가기",
-      "noticeType": "도시형생활주택",
-      "targetGroups": [],
-      "regions": [
-        "서울특별시"
-      ],
-      "publishedAt": "2026-09-23",
-      "applyStart": "2026-10-02",
-      "applyEnd": "2026-10-26",
-      "status": "마감",
-      "officialUrl": "https://www.i-sh.co.kr/main/lay2/program/S1T294C295/www/brd/m_241/view.do?seq=310673",
-      "attachments": [],
-      "documentStart": null,
-      "documentEnd": null,
-      "winnerAt": null,
-      "contractStart": null,
-      "contractEnd": null,
-      "scheduleSource": null,
-      "scheduleConfidence": null,
-      "firstCollectedAt": "2026-10-27T01:28:26+00:00",
-      "lastCheckedAt": "2026-11-25T05:25:23+00:00",
+      "lastCheckedAt": "2026-11-26T04:08:35+00:00",
       "isNew": false
     },
     {
@@ -1260,8 +1260,8 @@
       "scheduleSource": null,
       "scheduleConfidence": null,
       "firstCollectedAt": "2026-11-25T05:25:23+00:00",
-      "lastCheckedAt": "2026-11-25T05:25:23+00:00",
-      "isNew": true
+      "lastCheckedAt": "2026-11-26T04:08:35+00:00",
+      "isNew": false
     },
     {
       "id": "SH-b5250e050e27c1",
@@ -1286,7 +1286,7 @@
       "scheduleSource": null,
       "scheduleConfidence": null,
       "firstCollectedAt": "2026-10-09T02:08:38+00:00",
-      "lastCheckedAt": "2026-11-25T05:25:23+00:00",
+      "lastCheckedAt": "2026-11-26T04:08:35+00:00",
       "isNew": false
     },
     {
@@ -1312,7 +1312,7 @@
       "scheduleSource": null,
       "scheduleConfidence": null,
       "firstCollectedAt": "2026-10-31T01:35:05+00:00",
-      "lastCheckedAt": "2026-11-25T05:25:23+00:00",
+      "lastCheckedAt": "2026-11-26T04:08:35+00:00",
       "isNew": false
     },
     {
@@ -1338,33 +1338,7 @@
       "scheduleSource": null,
       "scheduleConfidence": null,
       "firstCollectedAt": "2026-11-25T04:53:16+00:00",
-      "lastCheckedAt": "2026-11-25T05:25:23+00:00",
-      "isNew": true
-    },
-    {
-      "id": "SH-c7d58fb2d3cdf0",
-      "agency": "SH",
-      "title": "행복주택 2026년 2차 행복주택 입주자 모집공고 ( . 공고) 모집마감 공공주택공급부 바로가기",
-      "noticeType": "행복주택",
-      "targetGroups": [],
-      "regions": [
-        "서울특별시"
-      ],
-      "publishedAt": "2026-08-28",
-      "applyStart": "2026-09-09",
-      "applyEnd": "2026-09-10",
-      "status": "마감",
-      "officialUrl": "https://www.i-sh.co.kr/main/lay2/program/S1T294C295/www/brd/m_241/view.do?seq=309337",
-      "attachments": [],
-      "documentStart": null,
-      "documentEnd": null,
-      "winnerAt": null,
-      "contractStart": null,
-      "contractEnd": null,
-      "scheduleSource": null,
-      "scheduleConfidence": null,
-      "firstCollectedAt": "2026-10-01T01:17:18+00:00",
-      "lastCheckedAt": "2026-11-25T05:25:23+00:00",
+      "lastCheckedAt": "2026-11-26T04:08:35+00:00",
       "isNew": false
     },
     {
@@ -1390,8 +1364,8 @@
       "scheduleSource": null,
       "scheduleConfidence": null,
       "firstCollectedAt": "2026-11-25T05:25:23+00:00",
-      "lastCheckedAt": "2026-11-25T05:25:23+00:00",
-      "isNew": true
+      "lastCheckedAt": "2026-11-26T04:08:35+00:00",
+      "isNew": false
     },
     {
       "id": "SH-f023fa0d52bf69",
@@ -1416,8 +1390,8 @@
       "scheduleSource": null,
       "scheduleConfidence": null,
       "firstCollectedAt": "2026-11-25T04:53:16+00:00",
-      "lastCheckedAt": "2026-11-25T05:25:23+00:00",
-      "isNew": true
+      "lastCheckedAt": "2026-11-26T04:08:35+00:00",
+      "isNew": false
     },
     {
       "id": "SH-963b3e02f657c8",
@@ -1442,7 +1416,7 @@
       "scheduleSource": null,
       "scheduleConfidence": null,
       "firstCollectedAt": "2026-10-24T00:40:44+00:00",
-      "lastCheckedAt": "2026-11-25T05:25:23+00:00",
+      "lastCheckedAt": "2026-11-26T04:08:35+00:00",
       "isNew": false
     },
     {
@@ -1470,8 +1444,8 @@
       "scheduleSource": null,
       "scheduleConfidence": null,
       "firstCollectedAt": "2026-11-25T05:25:23+00:00",
-      "lastCheckedAt": "2026-11-25T05:25:23+00:00",
-      "isNew": true
+      "lastCheckedAt": "2026-11-26T04:08:35+00:00",
+      "isNew": false
     },
     {
       "id": "SH-95ee8d841ead57",
@@ -1498,8 +1472,8 @@
       "scheduleSource": null,
       "scheduleConfidence": null,
       "firstCollectedAt": "2026-11-25T05:25:23+00:00",
-      "lastCheckedAt": "2026-11-25T05:25:23+00:00",
-      "isNew": true
+      "lastCheckedAt": "2026-11-26T04:08:35+00:00",
+      "isNew": false
     },
     {
       "id": "SH-331534a3a20d02",
@@ -1526,33 +1500,7 @@
       "scheduleSource": null,
       "scheduleConfidence": null,
       "firstCollectedAt": "2026-11-25T05:25:23+00:00",
-      "lastCheckedAt": "2026-11-25T05:25:23+00:00",
-      "isNew": true
-    },
-    {
-      "id": "SH-ef6d3f3927e3bd",
-      "agency": "SH",
-      "title": "행복주택 2026년 1차 서울주택도시개발공사 행복주택 입주자 모집공고 ( . 공고) 모집마감 공공주택공급부 바로가기",
-      "noticeType": "행복주택",
-      "targetGroups": [],
-      "regions": [
-        "서울특별시"
-      ],
-      "publishedAt": "2026-05-28",
-      "applyStart": "2026-06-15",
-      "applyEnd": "2026-06-16",
-      "status": "마감",
-      "officialUrl": "https://www.i-sh.co.kr/main/lay2/program/S1T294C295/www/brd/m_241/view.do?seq=304864",
-      "attachments": [],
-      "documentStart": null,
-      "documentEnd": null,
-      "winnerAt": null,
-      "contractStart": null,
-      "contractEnd": null,
-      "scheduleSource": null,
-      "scheduleConfidence": null,
-      "firstCollectedAt": "2026-07-19T04:34:38+00:00",
-      "lastCheckedAt": "2026-11-25T05:25:23+00:00",
+      "lastCheckedAt": "2026-11-26T04:08:35+00:00",
       "isNew": false
     },
     {
@@ -1580,8 +1528,8 @@
       "scheduleSource": null,
       "scheduleConfidence": null,
       "firstCollectedAt": "2026-11-25T05:25:23+00:00",
-      "lastCheckedAt": "2026-11-25T05:25:23+00:00",
-      "isNew": true
+      "lastCheckedAt": "2026-11-26T04:08:35+00:00",
+      "isNew": false
     },
     {
       "id": "SH-dc3f347cb66ebd",
@@ -1606,8 +1554,8 @@
       "scheduleSource": null,
       "scheduleConfidence": null,
       "firstCollectedAt": "2026-11-25T05:25:23+00:00",
-      "lastCheckedAt": "2026-11-25T05:25:23+00:00",
-      "isNew": true
+      "lastCheckedAt": "2026-11-26T04:08:35+00:00",
+      "isNew": false
     },
     {
       "id": "SH-a7505f0b65fbb7",
@@ -1632,34 +1580,8 @@
       "scheduleSource": null,
       "scheduleConfidence": null,
       "firstCollectedAt": "2026-11-25T05:25:23+00:00",
-      "lastCheckedAt": "2026-11-25T05:25:23+00:00",
-      "isNew": true
-    },
-    {
-      "id": "SH-f5dae030df5e3e",
-      "agency": "SH",
-      "title": "장기안심주택 2026년 제1차 보증금지원형 장기안심주택 입주자 모집공고 모집마감 맞춤주택공급부 바로가기",
-      "noticeType": "임대주택",
-      "targetGroups": [],
-      "regions": [
-        "서울특별시"
-      ],
-      "publishedAt": "2026-04-30",
-      "applyStart": "2026-05-11",
-      "applyEnd": "2026-05-11",
-      "status": "마감",
-      "officialUrl": "https://www.i-sh.co.kr/main/lay2/program/S1T294C295/www/brd/m_241/view.do?seq=303656",
-      "attachments": [],
-      "documentStart": null,
-      "documentEnd": null,
-      "winnerAt": null,
-      "contractStart": null,
-      "contractEnd": null,
-      "scheduleSource": null,
-      "scheduleConfidence": null,
-      "firstCollectedAt": "2026-11-25T05:25:23+00:00",
-      "lastCheckedAt": "2026-11-25T05:25:23+00:00",
-      "isNew": true
+      "lastCheckedAt": "2026-11-26T04:08:35+00:00",
+      "isNew": false
     },
     {
       "id": "SH-38a04a4b4d7f8d",
@@ -1684,8 +1606,8 @@
       "scheduleSource": null,
       "scheduleConfidence": null,
       "firstCollectedAt": "2026-11-25T04:53:16+00:00",
-      "lastCheckedAt": "2026-11-25T05:25:23+00:00",
-      "isNew": true
+      "lastCheckedAt": "2026-11-26T04:08:35+00:00",
+      "isNew": false
     },
     {
       "id": "SH-06f30c6b697c04",
@@ -1710,8 +1632,8 @@
       "scheduleSource": null,
       "scheduleConfidence": null,
       "firstCollectedAt": "2026-11-25T04:53:16+00:00",
-      "lastCheckedAt": "2026-11-25T05:25:23+00:00",
-      "isNew": true
+      "lastCheckedAt": "2026-11-26T04:08:35+00:00",
+      "isNew": false
     },
     {
       "id": "SH-a1f4b3a5c85aca",
@@ -1736,7 +1658,7 @@
       "scheduleSource": null,
       "scheduleConfidence": null,
       "firstCollectedAt": "2026-07-19T04:34:38+00:00",
-      "lastCheckedAt": "2026-11-25T05:25:23+00:00",
+      "lastCheckedAt": "2026-11-26T04:08:35+00:00",
       "isNew": false
     },
     {
@@ -1762,33 +1684,7 @@
       "scheduleSource": null,
       "scheduleConfidence": null,
       "firstCollectedAt": "2026-07-19T04:34:38+00:00",
-      "lastCheckedAt": "2026-11-25T05:25:23+00:00",
-      "isNew": false
-    },
-    {
-      "id": "SH-3f4887a3085677",
-      "agency": "SH",
-      "title": "행복주택 [정정]2025년 3차 행복주택 입주자 모집공고( .공고) 모집마감 공공주택공급부 바로가기",
-      "noticeType": "행복주택",
-      "targetGroups": [],
-      "regions": [
-        "서울특별시"
-      ],
-      "publishedAt": "2025-12-31",
-      "applyStart": "2026-01-16",
-      "applyEnd": "2026-01-19",
-      "status": "마감",
-      "officialUrl": "https://www.i-sh.co.kr/main/lay2/program/S1T294C295/www/brd/m_241/view.do?seq=298109",
-      "attachments": [],
-      "documentStart": null,
-      "documentEnd": null,
-      "winnerAt": null,
-      "contractStart": null,
-      "contractEnd": null,
-      "scheduleSource": null,
-      "scheduleConfidence": null,
-      "firstCollectedAt": "2026-07-19T04:34:38+00:00",
-      "lastCheckedAt": "2026-11-25T05:25:23+00:00",
+      "lastCheckedAt": "2026-11-26T04:08:35+00:00",
       "isNew": false
     },
     {
@@ -1814,8 +1710,8 @@
       "scheduleSource": null,
       "scheduleConfidence": null,
       "firstCollectedAt": "2026-11-25T05:25:23+00:00",
-      "lastCheckedAt": "2026-11-25T05:25:23+00:00",
-      "isNew": true
+      "lastCheckedAt": "2026-11-26T04:08:35+00:00",
+      "isNew": false
     },
     {
       "id": "SH-7b6190043223b1",
@@ -1840,8 +1736,8 @@
       "scheduleSource": null,
       "scheduleConfidence": null,
       "firstCollectedAt": "2026-11-25T05:25:23+00:00",
-      "lastCheckedAt": "2026-11-25T05:25:23+00:00",
-      "isNew": true
+      "lastCheckedAt": "2026-11-26T04:08:35+00:00",
+      "isNew": false
     },
     {
       "id": "SH-4652471b0b785b",
@@ -1866,34 +1762,8 @@
       "scheduleSource": null,
       "scheduleConfidence": null,
       "firstCollectedAt": "2026-11-25T05:25:23+00:00",
-      "lastCheckedAt": "2026-11-25T05:25:23+00:00",
-      "isNew": true
-    },
-    {
-      "id": "SH-dcfabd4ccbaade",
-      "agency": "SH",
-      "title": "장기안심주택 2025년 제2차 보증금지원형 장기안심주택 입주자 모집공고 모집마감 맞춤주택공급부 바로가기",
-      "noticeType": "임대주택",
-      "targetGroups": [],
-      "regions": [
-        "서울특별시"
-      ],
-      "publishedAt": "2025-12-17",
-      "applyStart": "2025-12-29",
-      "applyEnd": "2025-12-29",
-      "status": "마감",
-      "officialUrl": "https://www.i-sh.co.kr/main/lay2/program/S1T294C295/www/brd/m_241/view.do?seq=296501",
-      "attachments": [],
-      "documentStart": null,
-      "documentEnd": null,
-      "winnerAt": null,
-      "contractStart": null,
-      "contractEnd": null,
-      "scheduleSource": null,
-      "scheduleConfidence": null,
-      "firstCollectedAt": "2026-11-25T05:25:23+00:00",
-      "lastCheckedAt": "2026-11-25T05:25:23+00:00",
-      "isNew": true
+      "lastCheckedAt": "2026-11-26T04:08:35+00:00",
+      "isNew": false
     },
     {
       "id": "SH-8ae0451a062f66",
@@ -1918,8 +1788,8 @@
       "scheduleSource": null,
       "scheduleConfidence": null,
       "firstCollectedAt": "2026-11-25T04:53:16+00:00",
-      "lastCheckedAt": "2026-11-25T05:25:23+00:00",
-      "isNew": true
+      "lastCheckedAt": "2026-11-26T04:08:35+00:00",
+      "isNew": false
     },
     {
       "id": "SH-c36ecd41a80b64",
@@ -1944,8 +1814,8 @@
       "scheduleSource": null,
       "scheduleConfidence": null,
       "firstCollectedAt": "2026-11-25T05:25:23+00:00",
-      "lastCheckedAt": "2026-11-25T05:25:23+00:00",
-      "isNew": true
+      "lastCheckedAt": "2026-11-26T04:08:35+00:00",
+      "isNew": false
     },
     {
       "id": "SH-882a78c3225393",
@@ -1970,8 +1840,8 @@
       "scheduleSource": null,
       "scheduleConfidence": null,
       "firstCollectedAt": "2026-11-25T05:25:23+00:00",
-      "lastCheckedAt": "2026-11-25T05:25:23+00:00",
-      "isNew": true
+      "lastCheckedAt": "2026-11-26T04:08:35+00:00",
+      "isNew": false
     },
     {
       "id": "SH-7ca6af9dd2b74c",
@@ -1996,7 +1866,7 @@
       "scheduleSource": null,
       "scheduleConfidence": null,
       "firstCollectedAt": "2026-07-19T04:34:38+00:00",
-      "lastCheckedAt": "2026-11-25T05:25:23+00:00",
+      "lastCheckedAt": "2026-11-26T04:08:35+00:00",
       "isNew": false
     },
     {
@@ -2022,7 +1892,7 @@
       "scheduleSource": null,
       "scheduleConfidence": null,
       "firstCollectedAt": "2026-07-19T04:34:38+00:00",
-      "lastCheckedAt": "2026-11-25T05:25:23+00:00",
+      "lastCheckedAt": "2026-11-26T04:08:35+00:00",
       "isNew": false
     },
     {
@@ -2048,7 +1918,7 @@
       "scheduleSource": null,
       "scheduleConfidence": null,
       "firstCollectedAt": "2026-07-19T04:34:38+00:00",
-      "lastCheckedAt": "2026-11-25T05:25:23+00:00",
+      "lastCheckedAt": "2026-11-26T04:08:35+00:00",
       "isNew": false
     },
     {
@@ -2074,8 +1944,8 @@
       "scheduleSource": null,
       "scheduleConfidence": null,
       "firstCollectedAt": "2026-11-25T04:53:16+00:00",
-      "lastCheckedAt": "2026-11-25T05:25:23+00:00",
-      "isNew": true
+      "lastCheckedAt": "2026-11-26T04:08:35+00:00",
+      "isNew": false
     },
     {
       "id": "SH-8983058f6cec72",
@@ -2100,137 +1970,7 @@
       "scheduleSource": null,
       "scheduleConfidence": null,
       "firstCollectedAt": "2026-11-25T04:53:16+00:00",
-      "lastCheckedAt": "2026-11-25T05:25:23+00:00",
-      "isNew": true
-    },
-    {
-      "id": "SH-6f312915384742",
-      "agency": "SH",
-      "title": "행복주택 2025년 2차 행복주택 입주자 모집공고( . 공고) 모집마감 공공주택공급부 바로가기",
-      "noticeType": "행복주택",
-      "targetGroups": [],
-      "regions": [
-        "서울특별시"
-      ],
-      "publishedAt": "2025-06-27",
-      "applyStart": "2025-07-11",
-      "applyEnd": "2025-07-15",
-      "status": "마감",
-      "officialUrl": "https://www.i-sh.co.kr/main/lay2/program/S1T294C295/www/brd/m_241/view.do?seq=290172",
-      "attachments": [],
-      "documentStart": null,
-      "documentEnd": null,
-      "winnerAt": null,
-      "contractStart": null,
-      "contractEnd": null,
-      "scheduleSource": null,
-      "scheduleConfidence": null,
-      "firstCollectedAt": "2026-07-19T04:34:38+00:00",
-      "lastCheckedAt": "2026-11-25T05:25:23+00:00",
-      "isNew": false
-    },
-    {
-      "id": "SH-0b6b07480e3137",
-      "agency": "SH",
-      "title": "행복주택 [정정] 2025년 1차 행복주택 입주자 모집공고 ( . 공고) 모집마감 공공주택공급부 바로가기",
-      "noticeType": "행복주택",
-      "targetGroups": [],
-      "regions": [
-        "서울특별시"
-      ],
-      "publishedAt": "2025-04-25",
-      "applyStart": "2025-05-07",
-      "applyEnd": "2025-05-09",
-      "status": "마감",
-      "officialUrl": "https://www.i-sh.co.kr/main/lay2/program/S1T294C295/www/brd/m_241/view.do?seq=287466",
-      "attachments": [],
-      "documentStart": null,
-      "documentEnd": null,
-      "winnerAt": null,
-      "contractStart": null,
-      "contractEnd": null,
-      "scheduleSource": null,
-      "scheduleConfidence": null,
-      "firstCollectedAt": "2026-07-19T04:34:38+00:00",
-      "lastCheckedAt": "2026-11-25T05:25:23+00:00",
-      "isNew": false
-    },
-    {
-      "id": "SH-6b222bbf24b8b9",
-      "agency": "SH",
-      "title": "행복주택 2025년 1차 행복주택 입주자 모집( .공고) 최종 청약 경쟁률 게시 모집마감 공공주택공급부 바로가기",
-      "noticeType": "행복주택",
-      "targetGroups": [],
-      "regions": [
-        "서울특별시"
-      ],
-      "publishedAt": "2025-04-25",
-      "applyStart": "2025-04-25",
-      "applyEnd": "2025-04-25",
-      "status": "마감",
-      "officialUrl": "https://www.i-sh.co.kr/main/lay2/program/S1T294C295/www/brd/m_241/view.do?seq=288199",
-      "attachments": [],
-      "documentStart": null,
-      "documentEnd": null,
-      "winnerAt": null,
-      "contractStart": null,
-      "contractEnd": null,
-      "scheduleSource": null,
-      "scheduleConfidence": null,
-      "firstCollectedAt": "2026-07-19T04:34:38+00:00",
-      "lastCheckedAt": "2026-11-25T05:25:23+00:00",
-      "isNew": false
-    },
-    {
-      "id": "SH-5753a1ff55f8ac",
-      "agency": "SH",
-      "title": "행복주택 2025년 창동 아우르네빌리지 입주자 모집공고(일자리연계형 지원주택, . 공고) : 신청기간 연장 - 모집마감 공공주택공급부 바로가기",
-      "noticeType": "행복주택",
-      "targetGroups": [],
-      "regions": [
-        "서울특별시"
-      ],
-      "publishedAt": "2025-02-21",
-      "applyStart": "2025-02-21",
-      "applyEnd": "2025-02-21",
-      "status": "마감",
-      "officialUrl": "https://www.i-sh.co.kr/main/lay2/program/S1T294C295/www/brd/m_241/view.do?seq=285742",
-      "attachments": [],
-      "documentStart": null,
-      "documentEnd": null,
-      "winnerAt": null,
-      "contractStart": null,
-      "contractEnd": null,
-      "scheduleSource": null,
-      "scheduleConfidence": null,
-      "firstCollectedAt": "2026-07-19T04:34:38+00:00",
-      "lastCheckedAt": "2026-11-25T05:25:23+00:00",
-      "isNew": false
-    },
-    {
-      "id": "SH-be5c50f1da0d43",
-      "agency": "SH",
-      "title": "행복주택 2024년 2차 행복주택 입주자 모집공고 ( . 공고) 모집마감 공공주택공급부 바로가기",
-      "noticeType": "행복주택",
-      "targetGroups": [],
-      "regions": [
-        "서울특별시"
-      ],
-      "publishedAt": "2024-12-27",
-      "applyStart": "2025-01-08",
-      "applyEnd": "2025-01-10",
-      "status": "마감",
-      "officialUrl": "https://www.i-sh.co.kr/main/lay2/program/S1T294C295/www/brd/m_241/view.do?seq=282652",
-      "attachments": [],
-      "documentStart": null,
-      "documentEnd": null,
-      "winnerAt": null,
-      "contractStart": null,
-      "contractEnd": null,
-      "scheduleSource": null,
-      "scheduleConfidence": null,
-      "firstCollectedAt": "2026-07-19T04:34:38+00:00",
-      "lastCheckedAt": "2026-11-25T05:25:23+00:00",
+      "lastCheckedAt": "2026-11-26T04:08:35+00:00",
       "isNew": false
     },
     {
@@ -2256,8 +1996,8 @@
       "scheduleSource": null,
       "scheduleConfidence": null,
       "firstCollectedAt": "2026-11-25T04:53:16+00:00",
-      "lastCheckedAt": "2026-11-25T05:25:23+00:00",
-      "isNew": true
+      "lastCheckedAt": "2026-11-26T04:08:35+00:00",
+      "isNew": false
     },
     {
       "id": "GH-5dd476f2143a09",
@@ -2283,8 +2023,34 @@
       "scheduleSource": "GH 일반 공고 게시판",
       "scheduleConfidence": "확인필요",
       "firstCollectedAt": "2026-11-04T02:19:17+00:00",
-      "lastCheckedAt": "2026-11-25T05:25:23+00:00",
+      "lastCheckedAt": "2026-11-26T04:08:35+00:00",
       "isNew": false
+    },
+    {
+      "id": "GH-a55d7ab0a7a015",
+      "agency": "GH",
+      "title": "판교 제2테크노밸리 판교이노베이션랩(G4-1) 산업시설 및 창고 임대 입주 모집 공고",
+      "noticeType": "임대주택",
+      "targetGroups": [],
+      "regions": [
+        "경기도"
+      ],
+      "publishedAt": null,
+      "applyStart": null,
+      "applyEnd": null,
+      "status": "일정 확인 필요",
+      "officialUrl": "https://www.gh.or.kr/gh/announcement-of-salerental001.do?mode=view&articleNo=65396&article.offset=0&articleLimit=100",
+      "attachments": [],
+      "documentStart": null,
+      "documentEnd": null,
+      "winnerAt": null,
+      "contractStart": null,
+      "contractEnd": null,
+      "scheduleSource": "GH 일반 공고 게시판",
+      "scheduleConfidence": "확인필요",
+      "firstCollectedAt": "2026-11-26T04:08:35+00:00",
+      "lastCheckedAt": "2026-11-26T04:08:35+00:00",
+      "isNew": true
     },
     {
       "id": "GH-21c7104f24d18f",
@@ -2309,7 +2075,7 @@
       "scheduleSource": "GH 일반 공고 게시판",
       "scheduleConfidence": "확인필요",
       "firstCollectedAt": "2026-11-06T02:24:15+00:00",
-      "lastCheckedAt": "2026-11-25T05:25:23+00:00",
+      "lastCheckedAt": "2026-11-26T04:08:35+00:00",
       "isNew": false
     },
     {
@@ -2336,8 +2102,35 @@
       "scheduleSource": "GH 일반 공고 게시판",
       "scheduleConfidence": "확인필요",
       "firstCollectedAt": "2026-11-01T02:12:57+00:00",
-      "lastCheckedAt": "2026-11-25T05:25:23+00:00",
+      "lastCheckedAt": "2026-11-26T04:08:35+00:00",
       "isNew": false
+    },
+    {
+      "id": "GH-a45b6863b82178",
+      "agency": "GH",
+      "title": "안양냉천 경기행복주택 입주자 모집 공고",
+      "noticeType": "행복주택",
+      "targetGroups": [],
+      "regions": [
+        "경기도",
+        "안양"
+      ],
+      "publishedAt": null,
+      "applyStart": null,
+      "applyEnd": null,
+      "status": "일정 확인 필요",
+      "officialUrl": "https://www.gh.or.kr/gh/announcement-of-salerental001.do?mode=view&articleNo=65394&article.offset=0&articleLimit=100",
+      "attachments": [],
+      "documentStart": null,
+      "documentEnd": null,
+      "winnerAt": null,
+      "contractStart": null,
+      "contractEnd": null,
+      "scheduleSource": "GH 일반 공고 게시판",
+      "scheduleConfidence": "확인필요",
+      "firstCollectedAt": "2026-11-26T04:08:35+00:00",
+      "lastCheckedAt": "2026-11-26T04:08:35+00:00",
+      "isNew": true
     },
     {
       "id": "GH-5c50ea4ba42398",
@@ -2363,7 +2156,7 @@
       "scheduleSource": "GH 일반 공고 게시판",
       "scheduleConfidence": "확인필요",
       "firstCollectedAt": "2026-11-01T02:12:57+00:00",
-      "lastCheckedAt": "2026-11-25T05:25:23+00:00",
+      "lastCheckedAt": "2026-11-26T04:08:35+00:00",
       "isNew": false
     },
     {
@@ -2390,7 +2183,7 @@
       "scheduleSource": "GH 일반 공고 게시판",
       "scheduleConfidence": "확인필요",
       "firstCollectedAt": "2026-11-01T02:12:57+00:00",
-      "lastCheckedAt": "2026-11-25T05:25:23+00:00",
+      "lastCheckedAt": "2026-11-26T04:08:35+00:00",
       "isNew": false
     },
     {
@@ -2417,7 +2210,7 @@
       "scheduleSource": "GH 일반 공고 게시판",
       "scheduleConfidence": "확인필요",
       "firstCollectedAt": "2026-11-01T02:12:57+00:00",
-      "lastCheckedAt": "2026-11-25T05:25:23+00:00",
+      "lastCheckedAt": "2026-11-26T04:08:35+00:00",
       "isNew": false
     },
     {
@@ -2444,7 +2237,7 @@
       "scheduleSource": "GH 일반 공고 게시판",
       "scheduleConfidence": "확인필요",
       "firstCollectedAt": "2026-11-10T04:05:50+00:00",
-      "lastCheckedAt": "2026-11-25T05:25:23+00:00",
+      "lastCheckedAt": "2026-11-26T04:08:35+00:00",
       "isNew": false
     },
     {
@@ -2471,7 +2264,7 @@
       "scheduleSource": "GH 일반 공고 게시판",
       "scheduleConfidence": "확인필요",
       "firstCollectedAt": "2026-11-12T02:57:44+00:00",
-      "lastCheckedAt": "2026-11-25T05:25:23+00:00",
+      "lastCheckedAt": "2026-11-26T04:08:35+00:00",
       "isNew": false
     },
     {
@@ -2497,33 +2290,7 @@
       "scheduleSource": "GH 일반 공고 게시판",
       "scheduleConfidence": "높음",
       "firstCollectedAt": "2026-11-01T02:12:57+00:00",
-      "lastCheckedAt": "2026-11-25T05:25:23+00:00",
-      "isNew": false
-    },
-    {
-      "id": "GH-113abfb46d9d58",
-      "agency": "GH",
-      "title": "다산지금A3 통합공공임대주택 입주자 모집 공고",
-      "noticeType": "통합공공임대",
-      "targetGroups": [],
-      "regions": [
-        "경기도"
-      ],
-      "publishedAt": null,
-      "applyStart": null,
-      "applyEnd": null,
-      "status": "일정 확인 필요",
-      "officialUrl": "https://www.gh.or.kr/gh/announcement-of-salerental001.do?mode=view&articleNo=64888&article.offset=0&articleLimit=100",
-      "attachments": [],
-      "documentStart": null,
-      "documentEnd": null,
-      "winnerAt": null,
-      "contractStart": null,
-      "contractEnd": null,
-      "scheduleSource": "GH 일반 공고 게시판",
-      "scheduleConfidence": "확인필요",
-      "firstCollectedAt": "2026-11-01T02:12:57+00:00",
-      "lastCheckedAt": "2026-11-25T05:25:23+00:00",
+      "lastCheckedAt": "2026-11-26T04:08:35+00:00",
       "isNew": false
     },
     {
@@ -2549,7 +2316,7 @@
       "scheduleSource": "GH 일반 공고 게시판",
       "scheduleConfidence": "확인필요",
       "firstCollectedAt": "2026-11-01T02:12:57+00:00",
-      "lastCheckedAt": "2026-11-25T05:25:23+00:00",
+      "lastCheckedAt": "2026-11-26T04:08:35+00:00",
       "isNew": false
     },
     {
@@ -2575,7 +2342,7 @@
       "scheduleSource": "GH 일반 공고 게시판",
       "scheduleConfidence": "확인필요",
       "firstCollectedAt": "2026-11-14T02:25:19+00:00",
-      "lastCheckedAt": "2026-11-25T05:25:23+00:00",
+      "lastCheckedAt": "2026-11-26T04:08:35+00:00",
       "isNew": false
     },
     {
@@ -2605,7 +2372,7 @@
       "scheduleSource": "GH 일반 공고 게시판",
       "scheduleConfidence": "높음",
       "firstCollectedAt": "2026-11-01T02:12:57+00:00",
-      "lastCheckedAt": "2026-11-25T05:25:23+00:00",
+      "lastCheckedAt": "2026-11-26T04:08:35+00:00",
       "isNew": false
     },
     {
@@ -2632,7 +2399,7 @@
       "scheduleSource": "GH 일반 공고 게시판",
       "scheduleConfidence": "확인필요",
       "firstCollectedAt": "2026-11-01T02:12:57+00:00",
-      "lastCheckedAt": "2026-11-25T05:25:23+00:00",
+      "lastCheckedAt": "2026-11-26T04:08:35+00:00",
       "isNew": false
     },
     {
@@ -2659,7 +2426,7 @@
       "scheduleSource": "GH 일반 공고 게시판",
       "scheduleConfidence": "확인필요",
       "firstCollectedAt": "2026-11-01T02:12:57+00:00",
-      "lastCheckedAt": "2026-11-25T05:25:23+00:00",
+      "lastCheckedAt": "2026-11-26T04:08:35+00:00",
       "isNew": false
     },
     {
@@ -2686,7 +2453,7 @@
       "scheduleSource": "GH 일반 공고 게시판",
       "scheduleConfidence": "확인필요",
       "firstCollectedAt": "2026-11-01T02:12:57+00:00",
-      "lastCheckedAt": "2026-11-25T05:25:23+00:00",
+      "lastCheckedAt": "2026-11-26T04:08:35+00:00",
       "isNew": false
     },
     {
@@ -2713,7 +2480,7 @@
       "scheduleSource": "GH 일반 공고 게시판",
       "scheduleConfidence": "확인필요",
       "firstCollectedAt": "2026-11-01T02:12:57+00:00",
-      "lastCheckedAt": "2026-11-25T05:25:23+00:00",
+      "lastCheckedAt": "2026-11-26T04:08:35+00:00",
       "isNew": false
     },
     {
@@ -2740,7 +2507,7 @@
       "scheduleSource": "GH 일반 공고 게시판",
       "scheduleConfidence": "확인필요",
       "firstCollectedAt": "2026-11-01T02:12:57+00:00",
-      "lastCheckedAt": "2026-11-25T05:25:23+00:00",
+      "lastCheckedAt": "2026-11-26T04:08:35+00:00",
       "isNew": false
     },
     {
@@ -2767,7 +2534,7 @@
       "scheduleSource": "GH 일반 공고 게시판",
       "scheduleConfidence": "확인필요",
       "firstCollectedAt": "2026-11-04T02:19:17+00:00",
-      "lastCheckedAt": "2026-11-25T05:25:23+00:00",
+      "lastCheckedAt": "2026-11-26T04:08:35+00:00",
       "isNew": false
     },
     {
@@ -2793,7 +2560,7 @@
       "scheduleSource": "GH 일반 공고 게시판",
       "scheduleConfidence": "확인필요",
       "firstCollectedAt": "2026-11-04T02:19:17+00:00",
-      "lastCheckedAt": "2026-11-25T05:25:23+00:00",
+      "lastCheckedAt": "2026-11-26T04:08:35+00:00",
       "isNew": false
     },
     {
@@ -2821,7 +2588,7 @@
       "scheduleSource": "GH 일반 공고 게시판",
       "scheduleConfidence": "높음",
       "firstCollectedAt": "2026-11-01T02:12:57+00:00",
-      "lastCheckedAt": "2026-11-25T05:25:23+00:00",
+      "lastCheckedAt": "2026-11-26T04:08:35+00:00",
       "isNew": false
     },
     {
@@ -2847,7 +2614,7 @@
       "scheduleSource": "GH 일반 공고 게시판",
       "scheduleConfidence": "확인필요",
       "firstCollectedAt": "2026-11-01T02:12:57+00:00",
-      "lastCheckedAt": "2026-11-25T05:25:23+00:00",
+      "lastCheckedAt": "2026-11-26T04:08:35+00:00",
       "isNew": false
     },
     {
@@ -2873,7 +2640,7 @@
       "scheduleSource": "GH 일반 공고 게시판",
       "scheduleConfidence": "확인필요",
       "firstCollectedAt": "2026-11-01T02:12:57+00:00",
-      "lastCheckedAt": "2026-11-25T05:25:23+00:00",
+      "lastCheckedAt": "2026-11-26T04:08:35+00:00",
       "isNew": false
     },
     {
@@ -2899,7 +2666,7 @@
       "scheduleSource": "GH 일반 공고 게시판",
       "scheduleConfidence": "확인필요",
       "firstCollectedAt": "2026-11-01T02:12:57+00:00",
-      "lastCheckedAt": "2026-11-25T05:25:23+00:00",
+      "lastCheckedAt": "2026-11-26T04:08:35+00:00",
       "isNew": false
     },
     {
@@ -2926,7 +2693,7 @@
       "scheduleSource": "GH 일반 공고 게시판",
       "scheduleConfidence": "확인필요",
       "firstCollectedAt": "2026-11-04T02:19:17+00:00",
-      "lastCheckedAt": "2026-11-25T05:25:23+00:00",
+      "lastCheckedAt": "2026-11-26T04:08:35+00:00",
       "isNew": false
     },
     {
@@ -2953,7 +2720,7 @@
       "scheduleSource": "GH 일반 공고 게시판",
       "scheduleConfidence": "확인필요",
       "firstCollectedAt": "2026-11-04T02:19:17+00:00",
-      "lastCheckedAt": "2026-11-25T05:25:23+00:00",
+      "lastCheckedAt": "2026-11-26T04:08:35+00:00",
       "isNew": false
     },
     {
@@ -2980,7 +2747,7 @@
       "scheduleSource": "GH 일반 공고 게시판",
       "scheduleConfidence": "확인필요",
       "firstCollectedAt": "2026-11-07T01:54:47+00:00",
-      "lastCheckedAt": "2026-11-25T05:25:23+00:00",
+      "lastCheckedAt": "2026-11-26T04:08:35+00:00",
       "isNew": false
     },
     {
@@ -3007,7 +2774,7 @@
       "scheduleSource": "GH 일반 공고 게시판",
       "scheduleConfidence": "높음",
       "firstCollectedAt": "2026-11-01T02:12:57+00:00",
-      "lastCheckedAt": "2026-11-25T05:25:23+00:00",
+      "lastCheckedAt": "2026-11-26T04:08:35+00:00",
       "isNew": false
     },
     {
@@ -3033,7 +2800,7 @@
       "scheduleSource": "GH 일반 공고 게시판",
       "scheduleConfidence": "확인필요",
       "firstCollectedAt": "2026-11-01T02:12:57+00:00",
-      "lastCheckedAt": "2026-11-25T05:25:23+00:00",
+      "lastCheckedAt": "2026-11-26T04:08:35+00:00",
       "isNew": false
     }
   ]
